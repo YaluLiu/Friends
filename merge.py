@@ -1,6 +1,7 @@
 import pdb
 import os
 
+episode=0
 
 def read_text(text_path):
     with open(text_path,"rb") as f:
@@ -21,7 +22,7 @@ def filter_lines(lines,part_idx):
 
     # 修改开头的标题
     lines[0] = lines[0][idx+2:]
-    lines[0] = "第{}章:  ".format(part_idx) + lines[0]
+    lines[0] = "第{}卷 第{}章:  ".format(episode, part_idx) + lines[0]
 
     # 删除最后的注释
     empty_lines = []
@@ -54,6 +55,7 @@ def get_all_files(dir_path):
 if __name__ == "__main__":
     merge_path = "老友记.txt"
     for season in range(1,11):
+        episode=season
         dir_path = "S{:02d}".format(season)
         files = get_all_files(dir_path)
         merge_dir(files,merge_path)

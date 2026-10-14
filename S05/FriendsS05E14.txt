@@ -36,11 +36,11 @@ Rachel:我知道，我知道！
 Phoebe:你知道？
 Rachel:对，我知道，乔伊也知道！但罗斯不知道，所以你别再叫了！
 Ross:怎么了？
-Phoebe & Rachel:嗨嗨！
+Phoebe/Rachel:嗨嗨！
 Ross:怎么了？
 Rachel:没事！我们只是好兴奋你要搬来这里！
 Ross:这里的确很棒！
-Phoebe & Rachel:天哪！
+Phoebe/Rachel:天哪！
 Phoebe:快过来啊！
 …………………………
 (咖啡厅，二人讨论恋情)
@@ -63,7 +63,8 @@ Rachel:什么意思？
 Phoebe:譬如每次他们说要洗衣服，我们就给他们一堆衣服洗。
 Rachel:我喜欢！
 Joey:不，你知道怎样更好玩？告诉他们。
-Phoebe:听起来不好玩。不。
+Phoebe:听起来不好玩。
+Rachel:不。
 Joey:那就让它变好玩，我们可以学理发店四重唱，我们知道，我们知道……
 Rachel:不，我想照菲比的做法。
 Joey:我没办法再……
@@ -116,7 +117,8 @@ Rachel:莫妮卡，你要干什么？要不要一起去看电影？
 Monica:事实上我正要去洗衣服。
 Rachel:喔。
 Monica:钱德，要不要一起去？
-Chandler:好啊，我跟你一起去。好。
+Chandler:好啊，我跟你一起去。
+Monica:好。
 Rachel:太好了，等一下！
 Rachel:拿去！这样我就轻松多了，谢谢！
 Monica:我的硬币应该不够。
@@ -239,9 +241,11 @@ Ross:你还要小英式松饼吗？吃吃看蓝莓口味，很好吃。
 …………………………
 (钱德勒家)
 Rachel:上场啰！
-Phoebe:瑞秋，拿香水来！好！
+Phoebe:瑞秋，拿香水来！
+Rachel:好！
 Phoebe:乔伊，帮我拿一瓶酒两个酒杯。
-Phoebe:谢谢，但我要的是没把手的玻璃杯，我要酒不要橄榄油。啊！
+Phoebe:谢谢，但我要的是没把手的玻璃杯，我要酒不要橄榄油。
+Rachel:啊！
 Monica:放心好了！只要让她以为你想跟她上床，她绝对会吓到！
 Chandler:我到底得撑到什么程度？
 Monica:别紧张，她会比你先投降！

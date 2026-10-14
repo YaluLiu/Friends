@@ -38,7 +38,8 @@ Ross:我也不知道……但是我一定会想到办法。
 Joey:看起来实在不可能……
 …………………………
 (瑞秋进门，大家都进了莫妮卡卧室)
-Rachel:大家好！嗨！
+Rachel:大家好！
+Joey/Chandler:嗨！
 Rachel:怎么了？
 Chandler:我们正要帮莫妮卡翻床垫。
 Joey:我认为应该先抬起来再翻过来。
@@ -118,7 +119,8 @@ Monica:那间房的地毯有味道。
 Chandler:大海的味道？
 Monica:是脚臭味。
 Monica:抱歉，我可以跟你谈一下吗？
-Monica:钱德！来了。
+Monica:钱德！
+Chandler:来了。
 Monica:这些小人想占我们便宜，我才没那么蠢。我们可不是呆头鹅。
 Chandler:说得好，马格西(《兔八哥》里的角色)这些房间都还好啊，请你赶快选定，让我看……让我跟你一起好好度假。
 Hotel Clerk:哇哦！
@@ -169,7 +171,8 @@ Rachel:你看我有多火大！
 …………………………
 (钱德勒走进房间，乔伊成为钱莫的潜台词交战点)
 Chandler:臭巧克力糖。
-Joey:你回来了！嘿。
+Joey:你回来了！
+Chandler:嘿。
 Joey:这次出差如何？
 Chandler:糟透了，我跟……同事吵架，到回来前都没合好。怎么还有？
 Joey:也就是整个周末都泡汤？
@@ -212,7 +215,7 @@ Ross:我去洗手间。
 …………………………
 (罗斯离开)
 Joey:要有人叫我别见你们其中一个，我绝对办不到。
-Chandler and Phoebe:我也不行。
+Chandler/Phoebe:我也不行。
 Monica:或许我可以。
 …………………………
 (瑞秋走过来)
@@ -328,6 +331,6 @@ Monica:这可不算疯狂猜谜。
 Joey:我不想玩了。
 Chandler:不好玩了！
 Monica:等等，要遵守规则才有意思也才有意义啊！
-Joey:看。
-Chandler:我要走了。
+Unknown:看。
+Joey:我要走了。
 Monica:伙计们！规则很棒很有意思的！喔！

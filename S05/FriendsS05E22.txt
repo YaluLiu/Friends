@@ -42,7 +42,7 @@ Monica:只是……
 Phoebe:你想榜上有名就继续说啊！对了，谁有看到我的黑名单？
 Chandler:没看到，长什么样子？
 Phoebe:就是张纸，上头写了“罗斯”。
-Chandler:了解。
+Unknown:了解。
 …………………………
 (乔伊当电影男主角)
 (乔伊进门)
@@ -136,7 +136,7 @@ Rachel:抱歉……好吧。我这次不会动。
 Dr. Miller:好了吗？
 Rachel:嗯哼。
 Dr. Miller:一、二……
-Rachel:抱歉。
+Unknown:抱歉。
 Monica:我来抓她头好了。
 Rachel:好。
 Dr. Miller:不用了。
@@ -183,9 +183,10 @@ Ross:你记得号码吧？
 Joey:记得，黑色13号。
 Ross:黑色15号啦！
 Joey:没问题。
-Chandler &amp; Joey:再见！
-All:再见！
-Monica:我去车子那里替你送行！好！
+Chandler:再见！
+Phoebe/Rachel/Joey:再见！
+Monica:我去车子那里替你送行！
+Chandler:好！
 Joey:谁要去车子那里替我送行？
 Rachel:我可以替你送行，只要你不介意我眼睛化脓。
 Joey:再见！
@@ -269,7 +270,8 @@ Rachel:住手！
 …………………………
 (钱德勒出现)
 Chandler:嗨！
-Monica:钱德，你怎么会在这里？嗨！
+Monica:钱德，你怎么会在这里？
+Ross:嗨！
 Chandler:乔伊在大桥上，把我赶下车！
 All:为什么？
 Chandler:不知道，他突然发飙！我们在玩快问快答的游戏。
@@ -371,7 +373,7 @@ Joey:我是。
 The Grip:这是有人留给你的。
 Joey:谢了。
 (接过气球)
-Chandler:恭喜你翻身了。
+Joey:恭喜你翻身了。
 …………………………
 (乔伊打来电话)
 Monica:喂？

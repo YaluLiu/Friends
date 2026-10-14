@@ -136,7 +136,8 @@ Chandler:对，我们五分钟就下去。
 Monica:十五分钟吧。
 Rachel:好。
 Rachel:喂，菲比啊，是菲比！
-Chandler:是吗？太好了
+Chandler:是吗？
+Monica:太好了
 Rachel:嗨！
 Phoebe:发生什么事了？
 Rachel:罗斯说成我的名字。
@@ -166,7 +167,7 @@ Chandler:莫……听我说，这是蜜月套房，这间房期待着性。
 Chandler:如果没有，这间房一定很失望。在其他蜜月套房面前抬不起头。
 Monica:好吧！
 Chandler: Ok!
-Monica:那好！
+Unknown:那好！
 (罗斯正好进来了)
 Ross:艾蜜莉？
 (钱德勒刚刚掀开被子)
@@ -180,7 +181,8 @@ Monica:或是45分钟。
 Chandler:45分钟可以找到两次了。
 Ross:不了，她一定也找不到我，因为我跑来跑去。
 Ross:从现在开始我不动了，我就待在这里。
-Monica:时间晚了。我们要走了。
+Monica:时间晚了。
+Chandler:我们要走了。
 Ross:你们在这儿待一会儿如何？
 Monica:可是我们明天一早 就要搭飞机回纽约。
 Chandler:是的那班飞机很大。

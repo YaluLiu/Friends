@@ -117,7 +117,7 @@ Chandler:没有钱德的爱，她就不能活。
 Phoebe:去开房间啦。
 Monica:我们有房间。
 Phoebe:我知道，快去用啊。钱德，莫妮卡，再见。
-P.A.Announcer:菲比……请至店内接电话，钱德和莫妮卡有事找。
+P.A. Announcer:菲比……请至店内接电话，钱德和莫妮卡有事找。
 Phoebe:喂？钱德、莫妮卡，喂？
 Phoebe:你这个死潜伏人！打扰一下，你是那位老太太吧？是的，死潜伏人！
 …………………………
@@ -182,7 +182,7 @@ Chandler:是啊，我爱你！我不曾这样爱过一个人。
 Monica:我也不曾这样爱过一个人。
 Chandler:好，如果再出8就是天意，我们赶今晚结婚。好不好？
 Monica:好！
-All:来吧……！
+Chandler:来吧……！
 Chandler:有一个是4，另一个呢？
 Drunken Gambler:掉到桌子底下了。
 Monica:通通不许动！你找那边，我找这边！
@@ -237,7 +237,7 @@ Ross:抱歉，先生，你脸上有东西。
 Rachel:哇哦！
 Ross:你好！
 Rachel:你好！
-Ross and Rachel:你好！
+Ross/Rachel:你好！
 …………………………
 (赌博机)
 Phoebe:我赢了！……我终于赢了！
@@ -299,7 +299,7 @@ Joey:我？别这样嘛！走吧……你不能这样！我是你的双胞手耶
 Chandler:嗨，登记结婚！
 Monica:对，我们要结婚！
 The Attendant:有婚礼正在进行，先请坐。
-Chandler &amp; Monica:好吧。
+Chandler/Monica:好吧。
 Chandler:当！当！当！……
 Monica:你在干嘛？
 Chandler:那是结婚进行曲，听了有没有吓到？

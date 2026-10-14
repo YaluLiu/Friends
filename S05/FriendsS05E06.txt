@@ -7,7 +7,9 @@ Joey:就算我知道内幕，也不代表我喜欢看你们亲热。
 Chandler:你试镜不是还有一小时才结束？
 Joey:很抱歉我不是中年黑人妇女，而且还走错试镜场地。
 Joey:你们要我假装不知道，就得假装你们没怎样。
-Chandler and Monica:好。抱歉，对不起。
+Chandler/Monica:好。
+Monica:抱歉，
+Chandler:对不起。
 Joey:我听到了！
 Monica:瑞秋还在上班。
 Joey:我还是听得到。
@@ -99,7 +101,7 @@ Monica:什么人很好……每次我们喷谁，你就帮他说话。
 Danny:什么事？
 Rachel:嗨，你大概不记得，我们就是上次喷你的人。
 Monica:我们很抱歉乱喷一通。
-Monica and Rachel:是的。
+Unknown:是的。
 Danny:没事。
 Rachel:嗨，我们只是要告诉你我们不是故意的，我们以为你是雪人或是怪物。
 Danny:好。
@@ -273,7 +275,8 @@ Joey:好像很顺利，他好像在微笑。
 Monica:你怎么知道？你只看得到他的背影。
 Joey:当然看得出来，你们看。微笑，皱眉，微笑，皱眉，微笑。
 Ross:我猜结束了。
-All:怎么了？怎么回事？
+All:怎么了？
+Joey:怎么回事？
 Ross:我的婚姻完了。
 All:什么？
 Monica:亲爱的，看看你，全身发抖。

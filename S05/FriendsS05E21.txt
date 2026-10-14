@@ -54,13 +54,13 @@ Joey:这是我第一次忘记吃饭！我觉得我的裤子都有点松了！
 Rachel:嗨！
 Joey:嗨！
 Rachel:莫妮卡在吗？
-Joey &amp; Ross:不在。
+Joey/Ross:不在。
 …………………………
 (瑞秋买了一只奇怪的猫)
 Rachel:我买了点东西，我不确定她是否喜欢。听起来有点傻，那个东西我从小就想要了。
 Ross:你买的是肖恩·卡西迪？(演员、导演、编剧)
 Rachel:不是，我也希望是！你们准备好了没？
-Joey &amp; Ross:好了！
+Joey/Ross:好了！
 Rachel:好。
 Rachel:请看！
 Ross:那是什么？
@@ -229,7 +229,7 @@ Monica:天啊，好了……现在好了，真是惊险。
 Chandler:是啊，你的反应也太大了点。
 …………………………
 (菲比和盖瑞进门)
-Phoebe and Gary:嗨！
+Phoebe/Gary:嗨！
 All:嗨！
 Gary:我们有个好消息！
 Phoebe:我们要同居，是不是很棒？

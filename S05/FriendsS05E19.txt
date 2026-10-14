@@ -7,7 +7,7 @@ Ross:穿这么帅要去哪里？
 Chandler:莫妮卡和我要庆祝满十个月，我们在乔治法国餐厅订了位置。
 Ross:你们怎么进得去？
 Chandler:打了几通电话，动用一些关系，如果我们都吃鸡，不叫甜点，就让我们11：30进去吃。
-Ross:好。
+Unknown:好。
 Delivery Girl:钱德！
 Chandler:凯特琳，新发型喔。
 Caitlin:我恨死了，活像八岁小男孩。
@@ -67,7 +67,8 @@ Monica:会说英文的那个？
 Chandler:不会的那个。
 Monica:那晚你给我的爱真是火热！我去准备一下。
 Chandler:不如戴我送你的耳环？
-Monica:好主意，就是要留到特别场合。好。
+Monica:好主意，就是要留到特别场合。
+Chandler:好。
 Monica:你得回家去！
 Phoebe:但是我喜欢这里啊！
 Monica:你得回家拿我借给你的耳环，钱德要我今晚戴那副耳环。
@@ -76,7 +77,7 @@ Monica:好。
 Phoebe:好！
 Phoebe:瑞秋，我要拿回我借给你的耳环。
 Rachel:好，我马上回来。好的。
-Phoebe &amp; Grandma:菲比，你会说意大利语？
+Joey:菲比，你会说意大利语？
 Phoebe:我猜是吧。
 Rachel:来。谢谢你！
 Phoebe:瑞秋，等等，另外一个呢？
@@ -118,7 +119,7 @@ Monica:怎么了？
 Ross:钱德冲着外送辣妹打情骂俏！
 Chandler:真是多谢你了！我没有打情骂俏。
 Monica:没关系，我不在意，无所谓。
-Ross &amp; Chandler:真的？
+Ross/Chandler:真的？
 Monica:又不是什么大事，我也经常这样。
 Chandler:你经常跟人打情骂俏？
 Monica:是啊，那又不代表什么，你不是也没别的意思嘛！
@@ -137,7 +138,7 @@ Phoebe:我找到了！
 Rachel:谢天谢地，在哪里找到的？
 Phoebe:在你的梳妆台上。
 Rachel:那是原来的那一个！
-Phoebe:噢！
+Unknown:噢！
 Joey:我的主戏到了，就是现在！
 TV:想不想打赌这事没有人听见？我不跟你赌。有人在吗？
 Joey:天啊。

@@ -6,7 +6,7 @@ Joey:不是，你看。
 Chandler:这是猪耶。
 Joey:我知道，你看它的奶头多大。
 Chandler:嗨！
-All:嗨！
+Unknown:嗨！
 Ross:艾蜜莉的表妹竟然把我赶出来！
 Chandler:什么？
 Joey:为什么？
@@ -94,11 +94,11 @@ Chandler:是啊。
 Ross:希望你们别介意，我已经录了一段爵士风格的。你们听，我们一定一定会回你电话。
 Joey:怎么样！
 Ross:很酷吧？
-Chandler:喔是的。
+Unknown:喔是的。
 (罗斯离开)
 Joey:你也是假笑吧？
 Chandler:不过眼泪是真的。
-Joey:好吧。
+Unknown:好吧。
 …………………………
 (参观，菲比和larry)
 Larry:你今晚真漂亮。

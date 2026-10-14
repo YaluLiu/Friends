@@ -12,7 +12,7 @@ Monica:没错，你好聪明！
 Joey:你们好可爱喔！
 Monica:我知道。
 Joey:好，明天早上见。
-Chandler &amp; Monica:好。
+Chandler/Monica:好。
 Dream Monica:我最喜欢跟你填字谜了！
 Dream Joey:我也是。赶快填完去睡觉。
 Dream Monica:好！只剩一个，三个字母的单词，不是小狗，是……
@@ -82,20 +82,20 @@ Ross:再没用你也做了298次！
 …………………………
 (菲比在路边发现一个小姐，在树上摁香烟)
 Phoebe:打扰一下小姐？
-The smoking Woman:怎么了？
+The Smoking Woman:怎么了？
 Phoebe:你不能在树上摁香烟！
-The smoking Woman:我可以，很方便。
+The Smoking Woman:我可以，很方便。
 Phoebe:你不该这么做，别再这么做了。
-The smoking Woman:我不会了…… 抽下一根烟之前不会。
+The Smoking Woman:我不会了…… 抽下一根烟之前不会。
 Phoebe:站住，纽约警察，别动！小阿飞！
-The smoking Woman:什么？
+The Smoking Woman:什么？
 Phoebe:没错，你被活逮了。把她带走！
-The smoking Woman:你在跟谁说话？
+The Smoking Woman:你在跟谁说话？
 Phoebe:别挣扎了！不想在笼子里过夜，就跟那棵树道歉。
-The smoking Woman:我才不跟一棵树道歉。
+The Smoking Woman:我才不跟一棵树道歉。
 Phoebe:赶快道歉，否则我要叫人了。
 Phoebe:来人啊，来人啊！
-The smoking Woman:对不起，对不起！
+The Smoking Woman:对不起，对不起！
 Phoebe:别来了，别来了！
 …………………………
 (罗斯和瑞秋搬运沙发)
@@ -232,7 +232,7 @@ Rachel:你把自己想得很雄伟喔。
 Ross:不，那是我的手臂！
 Chandler:我还以为你那么那么得喜欢你的新沙发呢。
 Ross:总之听我的指示。
-Rachel &amp; Chandler:好。
+Rachel/Chandler:好。
 Ross:钱德，来吧。
 Ross:好，开始了！
 Ross:可以了吗？
@@ -245,7 +245,7 @@ Rachel:我觉得挤不上去，当然可以，快抬起来。
 Ross:抬起来，很好，中心点！中心点！中心点，中心点！中心点，中心点！
 Chandler:闭嘴！闭嘴！闭嘴！
 Ross:我看是上不来了。
-Chandler &amp; Rachel:是吗？
+Chandler/Rachel:是吗？
 Ross:搬下去再来一次。
 Chandler:现在真的卡死了。
 Ross:居然没成功！
@@ -293,7 +293,7 @@ Chandler:我要我要我要！
 Joey:太棒了！你相信这是我在二楼捡到的吗？
 Monica:哪一位？
 Voice:纽约警察！
-Phoebe &amp; Joey:天哪！
+Phoebe/Joey:天哪！
 Joey:等一下，警察先生！
 Cop:我要找菲比·布菲！
 Phoebe:完了，是那个警察，他居然找到我了！
@@ -307,7 +307,7 @@ Phoebe:我不在就太好了！
 Cop:既然你今晚不会入狱，我能不能请你去吃饭？
 Phoebe:我？
 Cop:对。自从你对我亮警徽，我就对你念念不忘。你是我见过最美的假卧底妓女。
-Chandler &amp; Joey:漂亮！
+Chandler/Joey:漂亮！
 Phoebe:我想不到你会约我出去！
 Cop:我可以表现得更好，但这些人一直盯着我。
 Phoebe:我愿意跟你吃饭，警察先生……

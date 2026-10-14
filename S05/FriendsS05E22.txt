@@ -42,7 +42,7 @@ Monica:只是……
 Phoebe:你想榜上有名就继续说啊！对了，谁有看到我的黑名单？
 Chandler:没看到，长什么样子？
 Phoebe:就是张纸，上头写了“罗斯”。
-Unknown:了解。
+Chandler:了解。
 …………………………
 (乔伊当电影男主角)
 (乔伊进门)
@@ -136,7 +136,7 @@ Rachel:抱歉……好吧。我这次不会动。
 Dr. Miller:好了吗？
 Rachel:嗯哼。
 Dr. Miller:一、二……
-Unknown:抱歉。
+Rachel:抱歉。
 Monica:我来抓她头好了。
 Rachel:好。
 Dr. Miller:不用了。

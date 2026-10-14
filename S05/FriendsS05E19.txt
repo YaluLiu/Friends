@@ -7,7 +7,7 @@ Ross:穿这么帅要去哪里？
 Chandler:莫妮卡和我要庆祝满十个月，我们在乔治法国餐厅订了位置。
 Ross:你们怎么进得去？
 Chandler:打了几通电话，动用一些关系，如果我们都吃鸡，不叫甜点，就让我们11：30进去吃。
-Unknown:好。
+Ross:好。
 Delivery Girl:钱德！
 Chandler:凯特琳，新发型喔。
 Caitlin:我恨死了，活像八岁小男孩。
@@ -138,7 +138,7 @@ Phoebe:我找到了！
 Rachel:谢天谢地，在哪里找到的？
 Phoebe:在你的梳妆台上。
 Rachel:那是原来的那一个！
-Unknown:噢！
+Phoebe:噢！
 Joey:我的主戏到了，就是现在！
 TV:想不想打赌这事没有人听见？我不跟你赌。有人在吗？
 Joey:天啊。

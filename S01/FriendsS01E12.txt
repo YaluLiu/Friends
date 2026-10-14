@@ -105,7 +105,7 @@ Joey:那么孩子的性别是？
 Ross:等一下，嘿， 哈， 太好了， 现在他都知道了，我却不知道！
 Monica:对不起，只是我要当姑姑，太兴奋了！
 Joey:或是当叔叔。
-Joey and Chandler:来啦！菲比！
+Joey/Chandler:来啦！菲比！
 Ross:嗨，菲比。
 Phoebe:好了。
 Monica:菲比，出什么了？
@@ -124,7 +124,7 @@ Chandler:请再来点咖啡好吗！
 Monica:怎么回事？
 Phoebe:他来按摩，本来挺好的直到......
 (插播回忆画面：摸菲比的大腿)
-Joey and Chandler:噢！
+Joey/Chandler:噢！
 Ross:天哪。
 Monica:你确定？
 (插播回忆画面：摸菲比的屁股)
@@ -189,7 +189,7 @@ Rachel:没有。
 Rachel:哦， 我真太蠢了！ 啊， 我回想起来那天跟你们在一起......我还满嘴的 "哦，保罗，他真好，他让我感觉超棒"，简直太丢脸了。
 Phoebe:我才觉得丢脸呢，他调戏的是我。
 Rachel:菲比，是我把他带给你的，如果我没遇到他，也不会发生这种事情。
-Rachel and Phoebe:对不起！不，是我对不起你！不不，是我对不起你！
+Rachel/Phoebe:对不起！不，是我对不起你！不不，是我对不起你！
 Phoebe:等等， 我们有什么可道歉的？
 Rachel:不知道......对， 他才是猪！
 Phoebe:真是个猪！
@@ -263,13 +263,13 @@ Rachel:额，不， 不， 不是， 实际上， 不是儿子。
 Ross:我有， 我有儿子了！ 嗯？ 嗯？我要有儿子了吗？
 Girls:是的， 你要有儿子了！
 Ross:我有儿子了！ 噢， 我要有儿子了！
-Joey and Chandler:怎么了？
+Joey/Chandler:怎么了？
 Ross:我要有儿子了！ 我要有儿子了！
-Joey and Chandler:我们早知道了！
+Joey/Chandler:我们早知道了！
 Ross:我要有儿子了......
 …………………………
 Monica:好！这样一局又闭幕了。
-Joey and Chandler:闭嘴吧！！
+Joey/Chandler:闭嘴吧！！
 Monica:你们去哪？ 来呀， 再来一局！
 Joey:现在是凌晨2:30！
 Chandler:对，出去！

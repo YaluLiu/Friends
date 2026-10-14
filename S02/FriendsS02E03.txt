@@ -6,7 +6,7 @@ Chandler:嗨。
 All:嗨。
 Monica:琼安怎么样？
 Chandler:跟她分手了。
-Unknown:哦，为什么啊？
+All:哦，为什么啊？
 Ross:别告诉我是因为鼻孔太大？
 Chandler:真的超大！她打喷嚏时，会有蝙蝠飞出来。
 Rachel:拜托，没那么大。
@@ -46,7 +46,7 @@ Rachel:我们赢了！我们胜利了！
 Monica:哈克先生！
 Rachel:怎么发生的？
 Mr. Treeger:他大概在扫地，他们发现他抓着一把扫把。
-Unknown:天哪。
+All:天哪。
 Monica:真糟糕。
 Mr. Treeger:我知道昨天我也在扫地，本可能是我中枪的。
 Ross:是啊。

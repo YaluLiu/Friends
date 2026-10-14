@@ -195,7 +195,7 @@ Chandler:我的日记！我的日记！太聪明了！
 Chandler:我应该说那是我的日记，她绝对不会逼我念我的日记。
 Monica:那倒是真的，你很适合在紧急事件发生的第二天放马后炮。
 Phoebe:真不敢相信罗斯列了单子。
-Unknown:我知道。
+Monica:我知道。
 Phoebe:简直愚蠢。
 Joey:放他一马吧，那是钱德的主意。
 Phoebe:什么？
@@ -252,7 +252,7 @@ Mr. Rastatter:还有谢谢你出了这么多力。
 Mr. Rastatter:你做的时候没有吃很多吧？
 Monica:我吃了一些。
 Mr. Rastatter:一些，那还好，一些可以，一些不是很多。
-Unknown:好吧。
+Monica:好吧。
 Mr. Rastatter:那你尿尿的时候没有灼痛的感觉吧？
 …………………………
 (电话响了)

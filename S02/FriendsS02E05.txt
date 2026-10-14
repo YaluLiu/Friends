@@ -62,8 +62,8 @@ Joey:如果不是你的话，这可是个糟透的故事。
 Monica:幸好，那个人是我。
 Rachel:哦！
 Monica:他们还升我为采购主任，非常谢谢。太棒了！
-Unknown:嗨！
-Unknown:太棒啦！
+All:嗨！
+Rachel:太棒啦！
 Monica:不管怎样，我刚下楼去罗斯和钱德那里，他们认为我们应该出去庆祝一下，去个“好地方”。
 Joey:去个好地方。
 Rachel:对！
@@ -145,7 +145,7 @@ Phoebe:那是对你来说。
 Monica:到底怎么了？
 Rachel:算了，各位，我现在真的不想谈这个。我觉得，这样只会让大家心里有疙瘩。
 Phoebe/Joey:好吧，我知道。
-Unknown:什...什么？
+All:什...什么？
 Chandler:拜托，说出来吧。
 Ross:对啊，是我们，没关系的。
 Monica:对！

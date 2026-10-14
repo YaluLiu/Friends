@@ -63,18 +63,18 @@ Ross:真的？太好了我必须有备而去，她总是取笑我的衣着。
 Joey:显然，就凭你那衬衣。
 Ross:你和我穿得一样啊。
 Joey:愚蠢的随处都是的GAP(美国最大服装公司)。
-Agency guy:随便坐，我带艾瑞卡过来。
+Adoption Agency Worker:随便坐，我带艾瑞卡过来。
 Monica:好，谢啦！总算到了！你状态如何？
 Chandler:很好，有点奇怪"我叫钱德，你体内的小人可以给我养吗？"
 Monica:你会表现出色。
 Chandler:你也是。
 Monica:显然。
-Agency guy:莫妮卡，钱德，这位是艾瑞卡。
+Adoption Agency Worker:莫妮卡，钱德，这位是艾瑞卡。
 Monica:嗨！真高兴跟你见面。
 Erica:嗨！
 Chandler:谢谢你同意见我们。
 Erica:嗨！
-Agency guy:你们熟悉一下。
+Adoption Agency Worker:你们熟悉一下。
 Chandler:好的！
 Monica:谢谢。
 Erica:莫妮卡和钱德？我只知道你们是“档案CRW33815-D”.
@@ -136,7 +136,7 @@ Rachel:为什么男人老跟我来这套？
 Chandler:我是医生，我太太是牧师，这对你很重要？
 Erica:是啊，很多申请人都很优秀。但是，带孩子谁也比不上牧师。
 Monica:阿门。
-Erica:何况还有医生的妙手！
+Chandler:何况还有医生的妙手！
 Monica:很好的一双手。疗伤圣手。
 Erica:牧师，圣经上有写领养孩子吗？
 Monica:写了：但做无妨！(模仿圣经句式：)她让他们领养了一个婴孩此乃善举。
@@ -148,13 +148,13 @@ Chandler:你们教堂里的人。
 Monica:哦，我的教友。我的教友？我的教友们很不错，现在他们能照顾自己。很好的教友，教友，教友，教友。
 Erica:当医生很花时间吧？
 Chandler:我的情况不同。
-Agency guy:谈得如何？
+Adoption Agency Worker:谈得如何？
 Erica:问题问完了，很满意。
-Agency guy:你们有什么要问她？
+Adoption Agency Worker:你们有什么要问她？
 Chandler:我想问问，你读到满意的申请表，然后告诉代理人编号，然后他们联系到我们？
-Agency guy:我们的系统中用户完全匿名。我们以此为荣。
+Adoption Agency Worker:我们的系统中用户完全匿名。我们以此为荣。
 Chandler:应该骄傲，的确是一流。
-Agency guy:别的没什么了？那我们俩谈谈。
+Adoption Agency Worker:别的没什么了？那我们俩谈谈。
 Erica:实际上…我想我们不必谈了。
 Monica:为什么不？
 Erica:我看了你们的档案就确定要选你们，但还想当面见见你们，我决定了就选他们。
@@ -244,19 +244,19 @@ Joey:别再瞪着我！
 Joey:就一小口...
 Joey:我都不觉得对不起。
 Erica:嗨！
-Adoption Agency guy:嗨！
+Adoption Agency Worker:嗨！
 Chandler:嗨！
-Agency guy:领养的初步手续就这些了，后续的手续还很多，希望一切顺利。
+Adoption Agency Worker:领养的初步手续就这些了，后续的手续还很多，希望一切顺利。
 Monica:孩子的照片？
 Erica:对，是上周给宝宝拍的超声波。你们也许有兴趣看看。
 Monica:医生快看。
 Chandler:签字前我们得谈谈。我们不是你选中的夫妇。
-Agency guy:什么意思？
+Adoption Agency Worker:什么意思？
 Chandler:代理公司肯定出错了，我太太不是牧师，我不是医生。
 Erica:啊？
-Agency guy:不可能。
+Adoption Agency Worker:不可能。
 Chandler:我可以替你开刀，向你证明。
-Agency guy:我去查档案，失陪一下。
+Adoption Agency Worker:我去查档案，失陪一下。
 Erica:你们到底是谁？
 Chandler:我们是叫莫妮卡，钱德，纽约来的。
 Monica:但重要的是，我们真的很爱这个小孩。

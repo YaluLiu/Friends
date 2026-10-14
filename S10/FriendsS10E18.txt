@@ -82,7 +82,7 @@ Ross:不可能，20分钟后才起飞的。
 Phoebe:航班号错了吧，天呐。
 Monica:嗨。
 Phoebe:嗨，是我，这是罗斯。
-Monica:嘿。
+Unknown:嘿。
 Ross:什么？嗨！听着…
 Monica:天啊，孩子的声音太可爱了！罗斯你听！
 Ross:但是莫妮卡？莫妮卡，莫妮卡，莫妮卡，莫妮卡。
@@ -139,16 +139,16 @@ Passenger #1:也就是说她也有对的时候？
 Rachel:啊...
 Rachel:你要干吗？
 Passenger #1:这飞机我不能坐。
-Air stewardess:对不起先生，您去哪里？
+Flight Attendant:对不起先生，您去哪里？
 Passenger #1:我要下飞机。她朋友感觉到飞机左“弗兰基”有毛病。
 Rachel:请给我拿点花生好吗？
 Passenger #2:飞机怎么了？
-Air stewardess:飞机一点异常都没有。
+Flight Attendant:飞机一点异常都没有。
 Passenger #1:左“弗兰基”有毛病了。
-Air stewardess:根本就没有什么“弗兰基”！
+Flight Attendant:根本就没有什么“弗兰基”！
 Passenger #1:天哪！这飞机连“弗兰基”都没有！
 Passenger #2:我不飞了！
-Air stewardess:女士，请您坐好。
+Flight Attendant:女士，请您坐好。
 Passenger #3:出什么事情了？
 Passenger #1:我们都下去！飞机上根本就没有“弗兰基”！
 Rachel:太荒谬了吧，我…
@@ -223,11 +223,11 @@ Phoebe:回家了，他谁也不想见。
 Rachel:“罗斯，嗨，是我。我刚回到飞机上。我现在感觉太难受了。我绝不希望我们之间这么就完了。只是…只是我根本没料到你会出现，猛一下子你就来了，还说那些话…我现在坐在这里，静静地想…想我应该说却没有说出口的话。我甚至都没跟你说我也爱你。因为，我真的爱你。我爱你。我爱你。我到底在干什么？我爱你！我要见你，我要下飞机！”
 Ross:天哪！
 Rachel:“打扰一下！”
-Air stewardess:“小姐，请坐下。”
+Flight Attendant:“小姐，请坐下。”
 Rachel:“真对不起，我要立刻下飞机！去告诉他我爱他！”
-Air stewardess:“小姐，现在不能下飞机。”
+Flight Attendant:“小姐，现在不能下飞机。”
 Ross:让她下飞机！
-Air stewardess:“请您务必坐好。” 
+Flight Attendant:“请您务必坐好。” 
 Rachel:“求求你了，你不明白！”
 Ross:试着去明白！
 Rachel:“拜托了，有没有办法让我能下…”

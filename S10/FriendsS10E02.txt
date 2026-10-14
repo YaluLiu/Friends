@@ -17,7 +17,7 @@ Joey:罗斯？
 Rachel:罗斯？我们可以关上门了么？
 Rachel:罗斯，说点什么。什么都行。
 Ross:所以说你们俩…？
-Joey and Rachel:是。
+Joey/Rachel:是。
 Ross:那你们有没有…呃？
 Joey:没，没。
 Rachel:没有，没有，没有，没有。

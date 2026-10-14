@@ -44,7 +44,7 @@ Ross:嘿，米西。
 Chandler:你知道吗，我们乐队星期五演出。
 Ross:是啊，你该来看看。我们管它叫"行，还是不行"。
 Missy:不行。
-Chandler and Ross:行！
+Chandler/Ross:行！
 Missy:好吧，到时见。
 Chandler:新鲜。
 Ross:老板。
@@ -134,7 +134,7 @@ Gene:我有个孩子刚上大学，我的膝盖要做手术。你刚刚让我损
 Joey:喔。抱歉，我保证下一轮我们发挥好一点。
 Gene:我会发挥好一些，因为我不会跟你搭档了。
 Joey:你要知道，有些题目也太难了点。例如我的冰箱里怎么会有鬼的？
-Gene:是啊。
+Unknown:是啊。
 Ross:那么，星期六晚上。
 Missy:我很愿意。
 Ross:太好了。
@@ -158,7 +158,7 @@ Man:警察。
 Rachel:哦，警察！
 Man:没错，是"好身材"警官。
 Monica:出什么事啦，警官？是不是有人调皮了？
-Roy, the male stripper:唔，这么多楼梯。
+Roy/the male stripper:唔，这么多楼梯。
 Roy:唔，老天！你们应该告诉人家这栋楼没电梯。我午饭不该吃墨西哥菜。
 Monica:你没事吧，警官…
 Roy:"好身材"。
@@ -197,7 +197,7 @@ Phoebe:哦，抱歉，你是说真男人还是老男人？
 Roy:哦，你可真刻薄。
 Monica:哦，瞧，警官…
 Roy:哦，该死，啊！没想到吧，大胖子也很脆弱。
-Voice:鼓掌。
+Stage Manager:鼓掌。
 Donny:好，亨瑞达，你选了"杰克和吉尔去爬山"。
 Joey:我朋友瑞秋有个小孩，我对儿歌很熟悉。
 Donny:乔伊，描述以下跟美国国会有关的事物。限时20秒。预备，开始。(州议会)
@@ -223,7 +223,7 @@ Chandler:真的？！
 Ross:没有。
 Chandler:安卓特娜。
 Adrienne:怎么了？
-Chandler and Ross:嘿，嘿，安卓。
+Chandler/Ross:嘿，嘿，安卓。
 Ross:我从没跟安卓特娜搅和到一起。
 Chandler:哦，得了吧，你知道我有多喜欢她。
 Ross:我不知道你在说什么。
@@ -303,7 +303,7 @@ Phoebe:哦，这可真让人兴奋！
 Phoebe:哦，别，别停下来。
 Roy:跳不动了。
 Joey:真抱歉你要和我一起干这个，听着，我知道这个不能送你的孩子去大学...但是，你喜欢《我们的日子》的杯子吗？
-Voice:我们现在倒数5，4，3，2...鼓掌。
+Stage Manager:我们现在倒数5，4，3，2...鼓掌。
 Donny:欢迎来到决胜圈。乔伊，金，你们准备好了吗？
 Joey:好了。
 Gene:当然。

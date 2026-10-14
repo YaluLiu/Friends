@@ -12,9 +12,9 @@ Ross:是啊。
 Chandler:不敢相信几小时后我们就成父母了。
 Monica:不能相信早了三个星期，我爱我们的孩子这么迅速。刚才护士说艾瑞卡在哪儿？
 Monica:哦。
-A woman:来吧，宝贝。
-The man:来吧，你能行。
-Michelle:快把那个鬼东西从我里面弄出来！
+Man:来吧，宝贝。
+Man:来吧，你能行。
+Woman:快把那个鬼东西从我里面弄出来！
 Chandler:这是给你们的。你看见那女人出来的东西有多大吗？
 Monica:我都不知道谁在生谁。
 Erica:嗨。
@@ -257,7 +257,7 @@ Rachel:天哪！
 Ross:天哪！
 Rachel:嘿！天哪！
 Chandler:嘿。
-Phoebe, Ross, Rachel:嘿。
+Phoebe/Ross/Rachel:嘿。
 Joey:你说的惊喜是什么啊？
 Ross:天呐！
 Rachel:这个问题…

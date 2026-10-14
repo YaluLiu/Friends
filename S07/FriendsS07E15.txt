@@ -25,7 +25,7 @@ Ross:什么？大脑移植？太荒谬了。你三个月里没有性生活才荒
 Joey:现在是冬天。街上很少人。
 Monica:他们要把谁除掉？
 Joey:西西莉亚·梦露，她扮演杰西卡·罗卡哈德。
-Rachel and Monica:不！
+Rachel/Monica:不！
 Rachel:她真的非常擅长泼别人一脸饮料。我都没见她喝完过任何一杯饮料。
 Monica:她扇人的方式！看了之后你不想做吗？一次也好。
 Chandler:别。
@@ -177,7 +177,7 @@ Chandler:因为我们讨厌它。
 Ross:给我个机会在你们面前表演一下，再由你们决定。我不会告诉你们我要演奏什么。当演奏完之后，我们肯定会小小庆祝一番。
 …………………………
 Rachel:嘿！嘿！
-Phoebe and Rachel:是谁？
+Phoebe/Rachel:是谁？
 Guy:我是汤姆，我来拿手机的。
 Phoebe:哇哦！为什么要由你去开门？
 Rachel:为什么不行？！
@@ -239,9 +239,9 @@ Joey:经过这件事，她也不会喜欢电。
 Dina:在妈妈的马鞍上动手脚是个好点子，弗莱德克。电篱笆那个点子太妙了。
 Fredrick:谢谢你，亲爱的。
 Dina:我不敢相信她真的死了。看看你的四周，一切都是我们的。
-Joey:我可不那么认为。
+Joey (as Jessica):我可不那么认为。
 Dina:你是谁？！
-Jessica Lockhart:怎么了，笛娜？你不认得你自己的妈妈吗？！
+Joey (as Jessica):怎么了，笛娜？你不认得你自己的妈妈吗？！
 The Director:卡！大家都演得很好！谢谢！
 Cecilia:演的真不错！我认为你演的杰西卡比我还好。
 Joey:噢，不是的。
@@ -264,4 +264,4 @@ Ross:请记住我还在学习当中。
 Ross:一，二，三，四！
 Ross:你们都知道这首歌，一起唱吧。
 Ross:怎么样？
-Monica and Chandler:不怎么样！
+Monica/Chandler:不怎么样！

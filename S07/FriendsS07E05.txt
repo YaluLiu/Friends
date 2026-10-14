@@ -184,7 +184,7 @@ Joey:好的，首先要表现自然，好嘛？我都是这么做的。我向下
 Chandler:你的鞋子上为什么会有果酱？
 Joey:我吃甜甜圈了。
 Rachel:嗨！
-Joey and Chandler:嗨！
+Joey/Chandler:嗨！
 Rachel:听说昨晚你跟泰格玩得很开心。
 Joey:对，那家伙还不错。
 Rachel:对，教出另一个"乔伊"你很开心吧。

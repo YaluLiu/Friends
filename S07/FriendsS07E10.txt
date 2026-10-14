@@ -5,7 +5,7 @@ Monica:"订婚"。
 Chandler:订婚之后。
 Phoebe:嗨！
 Chandler:你好！
-Rachel and Monica:你好！
+Rachel/Monica:你好！
 Chandler:菲比？头骨？
 Phoebe:是啊，是我妈妈的。
 Rachel:天啊！
@@ -31,7 +31,8 @@ Monica:不要。
 Chandler:为什么不？
 Monica:姓"宾“很奇怪。
 Phoebe:哦，嗨，伙计们！
-Chandler and Monica:嗨！嗨！
+Chandler:嗨！
+Monica:嗨！
 Phoebe:嘿。猜猜怎么了？我的房东刚才打电话说，我的公寓已经准备好了，所以我就要搬过去了。
 Monica:啊，菲比，我会想你的！
 Phoebe:对，你是应该很悲伤。好吧，我去告诉瑞秋这个好消息。
@@ -100,17 +101,17 @@ Monica:我们本来都应该开始喝汤了。
 Chandler:这个留小胡子的王八蛋。
 Monica:好，那几个人走来，上！快！给他钱把他们的位子要来！
 Chandler:打扰一下。(浑身找钱)
-Guest:我们赶时间，可不可以？
+Male Guest:我们赶时间，可不可以？
 Chandler:啊，哈哈哈哈。(找到钱了)
 …………………………
 Phoebe:所以你喜欢鼓！
 Phoebe:对，这太棒了！你知道么，我本来很担心，这本来会使居住环境变的难以忍受。好吧，好，显然不会！耶！
 Joey:嘿，菲比，听着，我们已经学会了一首歌。预备，1，2，3，4
-Rachel and Joey:龙舌兰！
+Rachel/Joey:龙舌兰！
 Phoebe:真有趣。
 Gunther:给你们的。
 Chandler:谢谢，甘瑟，放在这儿。显然硬币不适合用这招。谢谢你。
-Gunther:谢谢。
+Joey:谢谢。
 Joey:嘿，菲比。
 Phoebe:嘿。
 Joey:给，我现在只欠你49块5了。

@@ -167,7 +167,7 @@ Monica:我们要裸程相见了。
 Chandler:对！
 Monica:同时看吧？
 Chandler:数到三？
-Monica and Chandler:一，二，三。
+Monica/Chandler:一，二，三。
 Chandler:我想可以毫不夸张的说，我们的友谊算是彻底毁了。
 Monica:嗯，反正我们也不是那么要好。
 Chandler:乔伊，乔伊，乔伊！

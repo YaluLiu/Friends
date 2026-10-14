@@ -156,7 +156,7 @@ Rachel:请便。
 Monica:好，火鸡肉，没有用。奶酪？没有用。橄榄面包？希望没用。
 Rachel:你给他做三明治呐？
 Monica:不，比较像是鸡肉卷。好，我要走了。
-Phoebe and Rachel:好。
+Phoebe/Rachel:好。
 Monica:我想你们可以继续讨论该给我什么礼物了！
 Rachel:我们还要给她礼物？
 Phoebe:是啊，不过瞧啊！瞧我找到了什么？她的通讯录！我们有客人名单了！
@@ -199,7 +199,7 @@ Woman:我是她四年前的会计师。
 Woman:我很想知道这过去四年是谁替她报税。
 Rachel:很好！
 Woman:那，莫妮卡什么时候来啊？
-Phoebe and Rachel:我不知道。
+Phoebe/Rachel:我不知道。
 Rachel:借一步说话。你没通知她来？
 Phoebe:该是你通知的！
 Rachel:不，不该我！你负责通知她，我负责准备蛋糕！
@@ -252,7 +252,7 @@ Monica:等一下，你们说的不对！不，你们做的非常好。而且这�
 Rachel:你什么意思？
 Monica:哦，我现在要和我真正喜欢的人一起共渡我的单身女郎派对。我不仅有礼物收，还不必和我不喜欢的人说话！
 (哗的一下子，全部人都冒出来了)
-Rachel and Phoebe:惊喜。
+Rachel/Phoebe:惊喜。
 …………………………
 Joey:最酷的是，这个人物来自那不勒斯，是吧？
 Joey:我全家都来自那不勒斯！

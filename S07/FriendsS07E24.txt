@@ -141,7 +141,7 @@ Monica:刚刚我心想，"天啊，最糟糕的情况发生了！"
 (婚宴房间)
 Phoebe:你们两个结过婚？
 Phoebe:后来发生了什么事？才一拍两散的？
-Mrs.Geller:新娘来了。
+Judy Geller:新娘来了。
 Phoebe:我的天啊，莫妮卡！
 Monica:我想每天都穿这件婚纱。
 Rachel:你真的好漂亮。
@@ -189,21 +189,21 @@ Rachel:安纳斯塔赛奇斯与巴巴西法奇斯联姻，太棒了！
 Rachel:恭喜。恭喜！
 Rachel:嗨！好漂亮的帽子。
 Rachel:我要你帮另一场婚礼主婚。可以吗？
-The Rabbi:我不知道。他们是希腊正教的信徒吗？
+The Priest:我不知道。他们是希腊正教的信徒吗？
 Rachel:对！是！他们是我的朋友莫妮卡·史蒂芬诺波里斯。跟钱德勒·艾西多菲利斯。
 …………………………
 (婚宴房间)
 Ross:嗨！嗨！
 Ross:有人看到钱德勒吗？
-Mr.Geller:我还以为他跟你在一起。
+Jack Geller:我还以为他跟你在一起。
 Ross:他刚才是跟我在一起。
 Ross:你知道吗，我们在玩一个小游戏，我们在玩捉迷藏。
-Mr.Geller:那你可不能问我们，儿子，那是作弊。
+Jack Geller:那你可不能问我们，儿子，那是作弊。
 Ross:说得对，谢谢你教我做个诚实的孩子，爸。
-Mrs.Geller:他最好别到这里来。他不能看到新娘穿婚纱的样子。
-Mrs.Bing:我还记我们结婚的时候，我看到新郎穿婚纱的样子。
-Mr.Bing:那是婚礼后的事，应该不会带来恶运。
-Mrs.Bing:亲爱的，那也没带来好运。
+Judy Geller:他最好别到这里来。他不能看到新娘穿婚纱的样子。
+Nora Bing:我还记我们结婚的时候，我看到新郎穿婚纱的样子。
+Charles Bing:那是婚礼后的事，应该不会带来恶运。
+Nora Bing:亲爱的，那也没带来好运。
 …………………………
 (莫妮卡出来了)
 Ross:我的天啊！莫妮卡！
@@ -250,7 +250,7 @@ Chandler:莫妮卡怀孕了。
 Ross:我的天啊。
 Ross:天啊！你没有被吓跑吗？
 Chandler:我是吓坏了！后来我去了礼品店，因为我的烟都抽完了。
-Phoebe and Ross:香烟？！
+Phoebe/Ross:香烟？！
 Chandler:谈正事！
 Chandler:我在礼品店看到这个东西。
 Chandler:我就想，"能穿上这玩意的东西应该不可怕啊"。
@@ -259,20 +259,20 @@ Chandler:别这样，看看这件小衣服有多可爱！
 Chandler:我要把它送给莫妮卡，她会知道我没事的。
 Ross:老兄。
 (Mr.Geller从街口走过来)
-Mr.Geller:做得好，儿子，我知道你一定能找到他。
+Jack Geller:做得好，儿子，我知道你一定能找到他。
 …………………………
 (婚礼现场)
 …………
 (钱德勒和爸妈走过来)
-Mr.Bing:我们的小儿子要结婚了。
-Mrs.Bing:看看你！真的好英俊。
+Charles Bing:我们的小儿子要结婚了。
+Nora Bing:看看你！真的好英俊。
 Chandler:你看起来很漂亮，妈。
 Chandler:你看起来也很漂亮，爸。
 Chandler:我爱你们。
 Chandler:我很高兴你来了。
 …………
 (牧师走过来)
-The Rabbi:你是钱德勒吗？
+The Priest:你是钱德勒吗？
 Chandler:你是乔伊吗？
 …………
 (罗斯和菲比瑞秋走过来)
@@ -281,22 +281,22 @@ Phoebe:怎么了？
 Ross:这是我第一次走在红毯上，知道自己不可能会离婚。
 …………
 (莫妮卡和爸妈走过来)
-Mrs.Geller:真希望你祖母能活着看到这一幕。
+Judy Geller:真希望你祖母能活着看到这一幕。
 Monica:但奶奶就在那边啊。
-Mrs.Geller:不是那个老太婆，我是说我妈。
-Mrs.Geller:恭喜你，亲爱的。
-Mr.Geller:我们爱你，亲爱的。
+Judy Geller:不是那个老太婆，我是说我妈。
+Judy Geller:恭喜你，亲爱的。
+Jack Geller:我们爱你，亲爱的。
 …………
 (走到台前)
 Chandler:你看起来好美。这是新买的吗？
 Monica:不要现在讨论。
 Chandler:好吧。
 Monica:他是谁？
-The Rabbi:我是卡拉巴索斯神父。
+The Priest:我是卡拉巴索斯神父。
 Chandler:他是希腊东正教的神父。
 Rachel:你们是……
-The Rabbi:开始举行婚礼吧。
-The Rabbi:亲爱的来宾……
+The Priest:开始举行婚礼吧。
+The Priest:亲爱的来宾……
 …………
 (乔伊出现)
 Joey:那是我的台词！

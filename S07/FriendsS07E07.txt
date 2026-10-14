@@ -13,11 +13,11 @@ Joey:嘿，我稍后会打电话给她！真的！
 Joey:拜托，钱德勒以前就这样帮我！他还给女孩做薄饼呢！他总做很多还剩一些给我。
 Rachel:别指望了，我什么都不会告诉那女孩。又不是我的职责。
 Joey:好吧！那你会把那些薄饼放哪儿？
-Joey's Date:嗨！
+Erin:嗨！
 Rachel:嗨！
-Joey's Date:刚刚很抱歉，可我不知怎么锁那门。
+Erin:刚刚很抱歉，可我不知怎么锁那门。
 Rachel:乔伊在我搬进来后把它弄坏了。
-Joey's Date:你肯定就是瑞秋了，我是艾琳。
+Erin:你肯定就是瑞秋了，我是艾琳。
 Rachel:嗨。
 Erin:嗨。可能这样问有点像中学生，但他有说过我什么吗？
 Rachel:你想来点儿薄饼吗？
@@ -35,7 +35,7 @@ Chandler:你不会是带我来这里做那档子事的对吧？
 Monica:她又把鸡肉退回来了？！
 The Waitress:她说鸡肉太干，想亲自跟你解释，她要什么样的鸡肉。
 Monica:我倒想会会这位鸡肉专家。传上校(暗指肯德基的创始人)进来吧。
-The Colonel:我的天啊！
+Janice:我的天啊！
 Monica:躲过一劫的混蛋！珍妮丝。
 Janice:在大餐厅做靓鸡肉的大厨过得怎么样？
 Monica:我挺好。
@@ -66,7 +66,7 @@ Chandler:当然！
 Monica:那就好，周六晚就那样做啊，我们要跟她和克拉克吃饭。
 …………………………
 Joey:嘿！好啊！
-Phoebe and Rachel:嘿！
+Phoebe/Rachel:嘿！
 Joey:嘿，你这朋友是谁啊？嘿！
 Erin:嗨，乔伊。
 Joey:艾琳，你还在啊。
@@ -127,9 +127,9 @@ Erin:怎么了？
 Rachel:噢，菲比，我们忘了要去一个派对。
 Phoebe:哦，不。
 Joey:什么派对？
-Phoebe and Rachel:生日派对。
+Phoebe/Rachel:生日派对。
 Joey:谁的生日派对？
-Phoebe and Rachel:艾莉森的生日派对。
+Phoebe/Rachel:艾莉森的生日派对。
 Joey:艾莉森几岁？
 Rachel:等一下！不如你们两个一起去玩儿？！
 Joey:对，看看我们能做点什么。
@@ -215,7 +215,7 @@ Phoebe:你们的约会还顺利吗？
 Joey:噢，真棒！我们在周围散步。去雪糕店分享了杯奶昔，我们三七开，但也其乐融融…下次我要带她去住郊外的小旅馆享受床铺加早餐式的舒适服务。
 Phoebe:真的？她说愿意和你去？
 Joey:不不不，没有！是个惊喜，但有些棘手，她说将要忙一段时间。
-Phoebe and Rachel:噢，是这样。
+Phoebe/Rachel:噢，是这样。
 Rachel:乔伊，亲爱的，我们得谈一下。今天从她那感觉到，她不想找固定男友。
 Joey:你从哪儿感觉到的？
 Rachel:她告诉我的。她说她向来独来独往。

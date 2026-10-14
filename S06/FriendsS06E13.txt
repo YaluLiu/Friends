@@ -118,10 +118,10 @@ Rachel:怎么样啊？
 Jill:嘿！
 Rachel:吉儿，你跑去购物了？
 Jill:没有，是他们！
-Phoebe and Ross:对，我们跑去购物！
+Phoebe/Ross:对，我们跑去购物！
 Rachel:你们跑去购物？
 Rachel:然后把东西秀给吉儿看？你们明知她想戒掉你们真差劲！
-Ross:抱歉，吉儿对不起。
+Phoebe/Ross:抱歉，吉儿对不起。
 Rachel:你们买了什么？
 Phoebe:我买了……谢谢，我买了这件 “我要工作”毛衣。
 Rachel:噢。
@@ -133,7 +133,7 @@ Ross:我买了这个……这个！
 Rachel:帕什米纳披肩？
 Ross:对，我爱死它了！
 Rachel:是吗？
-罗斯，帕什米纳是什么？
+Rachel:罗斯，帕什米纳是什么？
 Ross:一种小毯子。
 Rachel:吉儿？
 Jill:瑞秋，对不起……

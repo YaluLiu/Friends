@@ -175,10 +175,10 @@ Chandler:理查，我们的事应该保密。我又来了。
 Monica:钱德，我们坐下吧。
 Chandler:好，我坐。
 Monica:很高兴见到你。
-Matired:您的桌子准备好了。
+Maitre d':您的桌子准备好了。
 Richard:很高兴遇见你们。
-Richard:好。
-Richard:这一桌也是空的。
+Chandler:好。
+Maitre d':这一桌也是空的。
 Richard:一起坐应该不错。
 …………………………
 (拍卖会)
@@ -240,7 +240,7 @@ Ross:是。
 Monica:她要离开3个月。
 Chandler:去参加野营！
 Ross:好，利。她很甜很漂亮……
-Chandler:性爱方面很赞吧？
+Unknown:性爱方面很赞吧？
 Ross:如果你是指很温柔又互相尊重。
 Monica:罗斯，你只需要问你自己，你看得见未来吗？你能想像跟她结婚吗？
 Monica:天哪，你已经娶她了，对不对？
@@ -252,7 +252,7 @@ Ross:你今晚不是要做某件事吗？
 Chandler:祝你俩分手顺利，伙计。
 …………………………
 (拍卖会)
-Phoebe:天哪，菲比，你喝了几杯？
+Rachel:天哪，菲比，你喝了几杯？
 Phoebe:一，二，三……七乘以三，二十一杯。
 Rachel:你一定醉翻了。
 Phoebe:是有点累。

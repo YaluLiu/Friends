@@ -115,11 +115,11 @@ Phoebe:用来搭帐棚都绰绰有余！
 …………………………
 ()
 Ross:你吃了我的三明治？
-Dr. Leedbetter:很单纯的错误，谁都可能会犯。
+Dr. Ledbetter:很单纯的错误，谁都可能会犯。
 Ross:是吗？
-Dr. Leedbetter:你别激动来我的办公室找，垃圾桶里可能还有。
+Dr. Ledbetter:你别激动来我的办公室找，垃圾桶里可能还有。
 Ross:什么？
-Dr. Leedbetter:它很大，我只好扔掉一大半。
+Dr. Ledbetter:它很大，我只好扔掉一大半。
 Ross:你……你扔掉我的三明治！
 Ross:我的三明治！！！我的三明治！！！
 …………………………
@@ -231,7 +231,7 @@ Rachel:让我说话好吗？
 Monica:你弹我的额头吗？
 Rachel:你不让我说完，我很……噢。停下！
 Phoebe:好，不要这样！想想快乐的事好，我要发威了。
-Monica and Rachel:疼！疼！疼！
+Monica/Rachel:疼！疼！疼！
 Phoebe:我知道！我知道！我知道！
 Phoebe:你们住手，我就放手。
 Rachel:好吧！

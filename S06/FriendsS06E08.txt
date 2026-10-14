@@ -112,11 +112,11 @@ Kim:我没看。
 Rachel:今年的春装一定很棒吧？
 Kim:对。
 Rachel:听说罗夫罗兰在影印室，跟某人亲热。
-Kim(赶紧按下了电梯键):从头说起。
+Kim:(赶紧按下了电梯键)从头说起。
 ……………………
 (咖啡厅)
 Ross:你们好！
-Chandler and Monica:嘿。
+Chandler/Monica:嘿。
 Ross:怎样啊？
 Chandler:就是……我的天哪。
 Monica:你的牙齿怎么了？
@@ -141,7 +141,8 @@ Rachel:你的牙齿？我在外面就看到了。
 ……………………
 (咖啡厅)
 Rachel:说了你们绝对不信。菲比跟罗夫罗兰亲热。
-Chandler:什么？！我的天哪！
+Chandler:什么？！
+Monica:我的天哪！
 Rachel:她去我的办公室，然后他们就亲热了。
 Rachel:最疯狂的是我因此赢得老板欢心，她说这是这一整年最棒的八卦。
 Chandler:我今天真以我的朋友们为荣。

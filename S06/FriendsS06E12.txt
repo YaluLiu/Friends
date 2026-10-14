@@ -59,7 +59,7 @@ Monica:这些照片是有故事性吗？
 Rachel:当然有，像这位年轻小姐她的衣服不见了，所以……她光溜溜的骑着马大喊 “我的衣服呢？”
 Monica:只是这样躺在草地上是找不到的。
 Phoebe:记不记得以前去谷仓，掀起衣服翘起屁股的日子？
-Rachel and Monica:记得。
+Rachel/Monica:记得。
 Rachel:不过我会约这个女生，她很可爱，很阳光。而且她会生火，可以派上用场。
 Monica:我有一个问题，如果要在我们当中挑女朋友，你们会挑谁？
 Rachel:不知道。
@@ -112,7 +112,7 @@ Joey:我的书看完了。
 …………………………
 (莫妮卡去菲比家)
 Monica:你们好。
-Phoebe and Rachel:嘿。
+Phoebe/Rachel:嘿。
 Monica:你们好可爱。真是可爱的一对。
 Rachel:莫妮卡，你在干嘛？
 Monica:没什么，我只是想制造出前两天的乐趣。就是你选瑞秋，不选我那次？多好玩啊。
@@ -191,7 +191,7 @@ Phoebe:太好了，无所谓就好。
 Monica:我才不难搞！
 Rachel:我才没有没个性！
 Phoebe:谁说你们是了？
-Monica and Rachel:你啊！
+Monica/Rachel:你啊！
 Phoebe:我是怪人，专门乱说话。
 …………………………
 (乔伊接到试镜通知)
@@ -220,7 +220,7 @@ Joey:快点！
 (罗斯和钱德勒坐在沙发上)
 Ross:那是我的笑话。
 Chandler:是我的。
-Ross and Chandler:是我的。
+Ross/Chandler:是我的。
 Ross:我们再吵也吵不出结果。
 Chandler:让莫妮卡决定吧。
 Ross:好。
@@ -249,8 +249,8 @@ Chandler:我说“猴子医生？” 所以才会有猴子医生这个笑话。
 Ross:你开什么玩笑我是念进化论的，记得吧？进化。猴子进化成人？况且我是博士，我还养过猴子，我是猴子博士。
 Chandler:这点我不跟你争。
 Monica:好，可以了，我决定好了。
-Chandler:太好了，结果是什么？
-Ross:快说。
+Unknown:太好了，结果是什么？
+Unknown:快说。
 Monica:你们两个都是白痴。那个笑话不但不好笑，还冒犯了女性，还有医生，还有猴子！
 Monica:你们不该争笑话是谁的，应该争是谁让这世界受这种罪。
 Monica:别再争了，那个笑话烂透了！

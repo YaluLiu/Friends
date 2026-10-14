@@ -95,8 +95,8 @@ Phoebe:不对，我们是在聊网球，网球比较像真的。
 …………………………
 (罗斯瑞秋过来，讨论两人结婚的事情)
 Ross:嘿！
-Phoebe &amp; Chandler:嘿！
-Monica:嗨！
+Monica/Phoebe:嘿！
+Chandler:嗨！
 Ross:怎样？
 Chandler:你们要谈谈昨晚的事吗？
 Rachel:昨晚什么事？昨晚又没怎样。
@@ -141,11 +141,12 @@ Chandler:没错，有征兆我们才结婚，要是你又掷出八来，就表�
 Monica:好，八就结婚，2、3、4、5、6、7、9、10、11、12就不结。
 Chandler:听起来不错。
 Monica:好。
-Croupler:有人要掷了！请押注。
+Croupier:有人要掷了！请押注。
 Monica:好了吗？
 Chandler:好了。
 Monica:来个八吧。
-Chandler:没错，八。八，简单八。
+Chandler:没错，八。
+Croupier:八，简单八。
 Monica:居然真的是八。
 Chandler:真是太不可能了。那就结婚吧……我猜。
 Monica:等等，那不是难的八，我昨晚掷的是难的八。
@@ -199,7 +200,8 @@ Monica:好啦！说真的，真的很痛。
 Chandler:我就叫你不要走路，来。
 (新娘抱)
 Monica:这没有任何含意吧？
-Chandler:没有！好。
+Chandler:没有！
+Monica:好。
 …………………………
 (汽车)
 Phoebe:你怎么可以让人搭便车？他搞不好是强…… 强奸犯或杀人犯什么的。

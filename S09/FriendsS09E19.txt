@@ -76,25 +76,25 @@ Rachel:好了，你不是真的需要运气才做的好，但……天啊！那�
 Joey:瑞秋，如果没有你在这里猜测……这些男的是不是同性恋，我还真的不知道我能不能演的好！
 Rachel:我很抱歉，你说的对，很抱歉，祝你好运！
 Director:拜托准备好！安静……开拍！
-Actress/Olivia:德瑞克！你在这里做什么呢？
-Joey/Drake:阻止你嫁给不对的人……犯下你这辈子最大的错误。
-Actress/Olivia:出去！
-Joey/Drake:你并不爱他！
-Actress/Olivia:你知道什么是爱吗？
-Joey/Drake:我知道那晚我们在桥下接吻的感觉是什么。
-Actress/Olivia:那个吻并没有发生 那么，这个呢？
+Actress (TV):德瑞克！你在这里做什么呢？
+Joey (TV):阻止你嫁给不对的人……犯下你这辈子最大的错误。
+Actress (TV):出去！
+Joey (TV):你并不爱他！
+Actress (TV):你知道什么是爱吗？
+Joey (TV):我知道那晚我们在桥下接吻的感觉是什么。
+Actress (TV):那个吻并没有发生 那么，这个呢？
 Rachel:喔！
-Actress/Olivia:我说过了，滚出去！
-Joey/Drake:好，我走。
-Joey/Drake:但是让我问你一个问题……
+Actress (TV):我说过了，滚出去！
+Joey (TV):好，我走。
+Joey (TV):但是让我问你一个问题……
 Chase Lassiter:你看起来很面熟，我们有……？嘘！他要问她问题！
-Joey/Drake:你可以渡过一生，而不知道我们如果在一起会是如何吗？
-Actress/Olivia:我没有选择……
-Joey/Drake:你有选择的。
-Joey/Drake:你有的，我才是那个没有选择的人，因为我……
-因为我无法停止爱你。
-Actress/Olivia:别那样说……
-Joey/Drake:你叫我停下来吧，你只要……叫我停下来。
+Joey (TV):你可以渡过一生，而不知道我们如果在一起会是如何吗？
+Actress (TV):我没有选择……
+Joey (TV):你有选择的。
+Joey (TV):你有的，我才是那个没有选择的人，因为我……
+Joey (TV):因为我无法停止爱你。
+Actress (TV):别那样说……
+Joey (TV):你叫我停下来吧，你只要……叫我停下来。
 Director:停！
 Rachel:不！停也好！那是你的决定。
 …………………………
@@ -172,12 +172,12 @@ Joey:好的……
 Joey:好的，从这一页开头开始。
 Rachel:好的。
 Rachel:嗨，德瑞克，我很讶异会在此看到你。
-Joey/Drake:我不敢相信你嫁给他了。
-Rachel/actress:我能有什么选择呢？他把我妹妹关在地牢里！
-Joey/Drake:那我们呢？我们对彼此的感觉呢？
-Rachel/actress:结束了！你必须要接受。
-Joey/Drake:我怎么能够做的到呢？当我知道我再也无法把你拥入怀中，或是碰触你的肌肤，或是感觉你的双唇，或是永远无法跟你做爱？
-Joey/Drake:我怎么能接受……我再也无法亲吻你而我现在最想要做的，就只是亲吻你。
+Joey (TV):我不敢相信你嫁给他了。
+Rachel:我能有什么选择呢？他把我妹妹关在地牢里！
+Joey (TV):那我们呢？我们对彼此的感觉呢？
+Rachel:结束了！你必须要接受。
+Joey (TV):我怎么能够做的到呢？当我知道我再也无法把你拥入怀中，或是碰触你的肌肤，或是感觉你的双唇，或是永远无法跟你做爱？
+Joey (TV):我怎么能接受……我再也无法亲吻你而我现在最想要做的，就只是亲吻你。
 Rachel:亲我。
 Joey:什么？
 Rachel:亲我。
@@ -241,7 +241,7 @@ Monica:那很难耶！
 Rachel:我知道。
 Phoebe:嘿！
 (菲比拿着包过来了)
-Rachel and Monica:嗨，菲比。
+Rachel/Monica:嗨，菲比。
 Phoebe:莫妮卡，瞧瞧我为了要到你餐厅演唱，买了什么。
 Phoebe:等等！
 (菲比戴上了帽子，手里拿着一个眼镜)

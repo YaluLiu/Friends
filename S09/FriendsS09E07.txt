@@ -44,7 +44,7 @@ Monica:太棒了！
 Rachel:我知道！我们以前都在谈什么呢？
 Monica:不知道。
 Phoebe:嗨！
-Rachel and Monica:嗨！
+Rachel/Monica:嗨！
 Phoebe:听着！你们要帮我选衣服，我今晚要跟麦克的父母见面！
 Monica:哇，男朋友的父母亲，真是一大步。
 Phoebe:真的吗？我倒是没有这样想过。
@@ -52,7 +52,7 @@ Monica:他们会喜欢你的，自然随性就好。
 Phoebe:他们住在上东区的公园大道！
 Rachel:那她就不能自然随性了
 Phoebe:好了，那么，哪一件呢？你们可以说都不好。
-Rachel and Monica:喔，天啊，都不好！
+Rachel/Monica:喔，天啊，都不好！
 Phoebe:你们大可以委婉一点说。
 Monica:我很抱歉，我们会带你去买衣服。没事的。
 Rachel:我会帮你的！我很会搞跟父母亲见面这种事。

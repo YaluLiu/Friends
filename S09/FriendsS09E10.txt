@@ -146,7 +146,7 @@ Chandler:谢谢。
 Wendy:除此之外，我得要等到楼下的派对都结束了我才能走；有一些气坏了的保险员正在找他们的火腿。
 Chandler:钱德·宾。
 Monica:嗨，亲爱的！我们全部都在这里；我们想要祝你圣诞快乐。
-Others:圣诞快乐！
+All:圣诞快乐！
 Chandler:圣诞快乐，我想念你们！
 Monica:很难受吗？每个人都在认真工作吗？
 Chandler:嗯，没有，只有我跟温蒂。
@@ -178,7 +178,7 @@ Monica:好的！
 Chandler:圣诞快乐。
 Monica:圣诞快乐。
 Chandler:你们大家圣诞快乐！
-Others:圣诞快乐。
+All:圣诞快乐。
 Chandler:我老婆打招呼。
 Wendy:啊。谈得愉快吗？
 Chandler:嗯，她有一种奇怪的想法，认为……因为我们两个单独在一起，所以有事情会发生。
@@ -228,9 +228,9 @@ Chandler:是的！
 Monica:你想要一起看吗？
 Chandler:数到三？
 Monica:一！
-Chandler:二！
+Monica/Chandler:二！
 Monica:二！
-Both:三！
+Monica/Chandler:三！
 Chandler:我想我可以很肯定的说我们的友情已经完全被摧毁了。
 Monica:反正我们本来也没有很好！
 …………………………
@@ -246,7 +246,7 @@ Monica:我认为你比你想的还棒。
 Chandler:真的吗？好的，所以如果……
 Monica:知道什么时候该停。
 Chandler:我感觉到我应该停了。
-Monica:所以我们没事了吗？
+Chandler:所以我们没事了吗？
 Monica:是的。
 Monica:别跳那个舞。
 Chandler:好的！

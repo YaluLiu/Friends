@@ -29,17 +29,17 @@ Chandler:嗯，你刚好证明了他们是错的。
 (罗斯家，艾米敲门)
 Rachel:喔，艾玛。这是你第一个感恩节。你要感谢什么呢？妈咪的胸部吗？
 Ross:很多人都会感谢那东西的。
-Ross:嗨？瑞秋？
+Amy:嗨？瑞秋？
 Rachel:是谁？
 Woman at door:是你最喜欢的妹妹。
-Rachel:吉儿？
+Ross/Rachel:吉儿？
 Woman at door:艾美！
 Rachel:把我的戒指藏起来。
 Rachel:艾美！感恩节快乐。
 Amy:你有没有直发器呢？
 Rachel:嗨。
 Amy:哦……嗨……
-Rachel:啊。
+Unknown:啊。
 Amy:直发器？
 Rachel:我好像一年没有见到你了。
 Amy:我知道，我知道，我忙坏了。
@@ -125,10 +125,10 @@ Ross:相处的可真融洽。
 …………………………
 (莫妮卡家)
 Rachel:嗨。
-Everyone:嘿。
+All:嘿。
 Rachel:嘿，大伙儿，这是我妹妹艾美。
 Rachel:这是钱德、乔伊、菲比还有你认识的莫妮卡。
-Everyone:嗨。
+All:嗨。
 Amy:喔，我的天。你有演《我们的日子》。
 Joey:是的。
 Amy:哇！他们一定是帮你化很浓的妆。
@@ -288,7 +288,7 @@ Rachel:哈哈哈。啊哈哈。是五五折。
 Amy:你这个贱人。
 Amy:你就是认为你很完美。拥有你的新生儿，还有你的小公寓。
 Amy:让我告诉你一件事。你的婴儿并不怎么可爱。
-Ross walks over:太过分了，艾美，太过分了。
+Ross:太过分了，艾美，太过分了。
 Rachel:你收回那句话。
 Amy:不。
 Rachel:收回那句话！
@@ -320,7 +320,7 @@ Amy:我很抱歉。
 Rachel:莫妮卡，我很抱歉。
 Chandler:好了，这样好多了。
 Chandler:现在，我要你们诚心地跟彼此道歉。
-Chandler:对不起，对不起。
+Amy/Rachel:对不起，对不起。
 Chandler:对了，刚才那场架真是让人情欲高涨。
 Ross:老兄。干的好。
 Ross:你知道吗？如果我跟瑞秋还有莫妮卡死了，你可以照顾艾玛。

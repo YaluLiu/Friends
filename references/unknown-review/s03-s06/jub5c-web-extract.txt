@@ -1,0 +1,446 @@
+Internal Error ()
+citeturn62view0 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/243/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/243/: (502) Bad Gateway
+--------------------------------------------------------------------------------
+老友记-Friends 第五季 第二集 S05E02英文台词、剧本翻译、中英文对照、剧本下载-中英文剧本站 (https://www.jubenz.com/friends/244/)
+citeturn62view1 [wordlim: 200] Crawled: 1.3 years ago; Content type: text/html; Source: open({"ref_id":"https://www.jubenz.com/friends/244/","lineno":null}); Total lines: 690
+L0:  cite0†中英文剧本站 L1: 
+L2:   * cite1†电影剧本 (current) L3:   * cite2†剧集剧本 (current) L4: 
+L5: cite3† 搜索  L6: ##### Friends.老友记美剧原声
+L7: 
+L8: cite4†老友记 第一季 L9: 
+L10: cite5†老友记 第二季 L11: 
+L12: cite6†老友记 第三季 L13: 
+L14: cite7†老友记 第四季 L15: 
+L16: cite8†老友记 第五季 L17: 
+L18:   * cite8†罗斯说漏嘴以后 L19:   * cite9†热吻连连 L20: cite9† Part 1 L21:   * cite10†三胞胎 L22:   * cite11†菲比讨厌PBS L23:   * cite12†谁进谁出 L24:   * cite13†以貌取人 L25:   * cite14†罗斯入伙 L26:   * cite15†感恩节大回顾 L27:   * cite16†罗斯的三明治 L28:   * cite17†兄妹“情” L29:   * cite18†新年新气象 L30:   * cite19†钱德勒例行公事的假笑 L31:   * cite20†乔伊背包包 L32:   * cite21†恍然大悟 L33:   * cite22†敲打乔伊的女孩 L34:   * cite23†警察来了 L35:   * cite24†瑞秋的无心之吻 L36:   * cite25†瑞秋开始吸烟 L37:   * cite26†罗斯不会放电 L38:   * cite27†一起去巡逻 L39:   * cite28†掷球游戏 L40:   * cite29†乔伊的大好机会来了 L41:   * cite30†拉斯维加斯之旅 L42:   * cite31†赌城那些事儿 L43: cite32†老友记 第六季 L44: 
+L45: cite33†老友记 第七季 L46: 
+L47: cite34†老友记 第八季 L48: 
+L49: cite35†老友记 第九季 L50: 
+L51: cite36†老友记 第十季 L52: # 老友记 第五季 第二集
+L53: 
+L54: ## FriendsS05E02
+L55: 
+L56: ##### Part1
+L57: 
+L58: ##### Aug. 19, 2019, 12:51 p.m.
+L59: 
+L60: 欢迎光临
+L61: 
+L62: # Friends Season 5 Episode 2: The one With All the Kissing.
+L63: # 老友记第5季第2集:热吻连连。
+L64: Monica: You look cute in bubbles.
+L65: 你全身泡泡好可爱。
+L66: Chandler: Ehh, you're just liquored up.
+L67: 你喝太多眼花了。
+L68: Joey: Hey, it's me! I'm coming in!
+L69: 是我，我进去了！
+L70: Chandler: I've had a very long, hard day. You're home early.
+L71: 我今天上班累死了。你提早回家。
+L72: Joey: Yeah, my date threw up. Ahh, I'm gonna go get some chicken, you want some?
+L73: 因为我的约会对象吐了一地。我要去买炸鸡，你要不要？
+L74: Chandler: Ahh, no thanks. No chicken, bye-bye then.
+L75: 不了，谢谢，再见。
+L76: Joey: You sure? Some extra crispy? Dirty rice? Beans?
+L77: 你确定？要不要什么脆的？粟米？豆子？
+L78: Chandler: For last time no! Get out! Get out, Joey!
+L79: 我最后一次说我不要了！出去，乔伊！
+L80: Joey: All right!
+L81: 知道了！
+L82: Chandler: Are you ok? I'm so sorry, he wouldn't leave. He kept asking me if I want chicken.
+L83: 你没事吧？抱歉，他死都不走，缠着我问要不要炸鸡。
+L84: Monica: Chicken? I could eat some chicken.
+L85: 炸鸡？我想吃炸鸡。
+L86: Chandler: Hey Joe!
+L87: 乔伊！
+L88: Chandler: Yeah, can I get a 3-piece, some coleslaw, and some beans, and a Coke-Diet Coke.
+L89: 我要三块鸡、沙拉、豆子、可乐——健怡可乐。
+L90: Phoebe: Hey!
+L91: 嗨！
+L92: Joey and Phoebe: Morning Pheebs!
+L93: 早安，菲比！
+L94: Phoebe: I have to tell you this story. Ok, I was coming over here and this cab driver...
+L95: 我非告诉你们不可，刚才载我来的司机……
+L96: Joey: Was his name Angus?
+L97: 那人是不是叫做安格斯？
+L98: Phoebe: What?
+L99: 什么？
+L100: Joey: Oh, he was this cab driver we had in London.
+L101: 我们在伦敦碰到的计程车司机。
+L102: Phoebe: Oh. Ha-ha-ha. All right, anyway...
+L103: 好吧，总之……
+L104: Monica: Wait, what that place, that pub he took us to?
+L105: 他载我们去的酒馆叫什么？
+L106: Chandler: Uh, The Wheatsheaf.
+L107: 麦子酒馆。
+L108: Joey: Yeah-yeah-yeah, and they had that beer! That uh...
+L109: 对，那里有一种啤酒……
+L110: Monica: Boddingtons!
+L111: 柏丁顿！
+L112: All: Boddingtons! Woohoo!
+L113: 就是柏丁顿！
+L114: Chandler: Ooh! Ahh, Pheebs, was gonna tell a story.
+L115: 菲比有话要说。
+L116: Phoebe: Yeah, ok, so, he had a really funny hat- I don't wanna talk about it.
+L117: 他的帽子很好笑…… 我不想说了。
+L118: Joey: Hey, Ross, Boddington! Yeah! Ho-ho, man. That was good beer.
+L119: 罗斯，柏丁顿！那是好啤酒。
+L120: Joey: You know, I'd walk back to London for another frosty one of those bad boys.
+L121: 若是能再喝一杯，要我走回伦敦都行。
+L122: Ross: You know, I think they have those at that British pub at the trade center.
+L123: 世贸附近的英国酒馆好像有。
+L124: Joey: Later!
+L125: 回头见！
+L126: Ross: Isn't Rachel supposed to be back by now?
+L127: 瑞秋不是应该回来了吗？
+L128: Monica: Yeah, but her plane got delayed in Athens. But actually, she should be here by now.
+L129: 可是班机在雅典误点。不过现在也该到了。
+L130: Ross: Oh, so-so you talked to her. Did she, did she sound mad?
+L131: 你跟她通过电话，她很生气吗？
+L132: Monica: No, but, she likes me. You abandoned her on a plane to Greece.
+L133: 不会，那是因为她喜欢我。你丢下她让她独自飞到希腊去。
+L134: Ross: Ok, I did not abandon Rachel! Ok? Emily showed up at the airport! I had to go after her! I mean, I-I did what I had to do!
+L135: 我才没有丢下瑞秋好么？艾蜜莉出现在机场，我当然得去追她。
+L136: Ross: She's my wife! Rachel is my wife! You know- Emily! Emily, is my wife. Man, what is that?
+L137: 我别无选择，毕竟她是我妻子，瑞秋是我妻子。是……艾蜜莉！艾蜜莉是我老婆，我是怎么了？
+L138: Phoebe: So you still haven't heard from Emily?
+L139: 你还没有艾蜜莉的消息？
+L140: Ross: No, not since I lost her at the airport.
+L141: 我在机场追丢之后就没有了。
+L142: Chandler: I can't believe she can outrun you man!
+L143: 她竟然跑得比你快！
+L144: Ross: Hey, she's fast! okay? Oh! You-you think you can beat me? Let's go! Outside! I'm-I'm sorry, I'm just a little...
+L145: 她是很快，好吗？你自以为能快过我？我们现在就去外头较量！抱歉，我太……
+L146: Monica: Slow?
+L147: 慢了？
+L148: Ross: Oh you want some? ! Huh? Ok, get the shoes on! Let's go man!
+L149: 你要跟我比比吗？走啊，去穿球鞋，我们去赛跑！
+L150: Monica: It's cool, ok? You're the fastest!
+L151: 别激动，你跑得最快！
+L152: Rachel: Hi!
+L153: 嗨！
+L154: All: Oh, my God, Rachel!
+L155: 瑞秋！嗨！
+L156: Ross: Rach, Rach, I am so sorry. I am so-so sorry.
+L157: 瑞秋，我很抱歉。非常对不起你。
+L158: Rachel: Oh Ross, come on! You just did what you had to do. Hey Pheebs.
+L159: 罗斯，你没做错。嗨，菲比。
+L160: Ross: What? That's it? You're not mad? I mean, it must've been terrible.
+L161: 就这样？你不生气？你应该很火大。
+L162: Rachel: Terrible? Hell, I was in Greece! That was a nice hotel! Nice beach, met the nice people. It's not too shabby for Rachel.
+L163: 火大？我可是在希腊！那间饭店非常棒，海滩很美，人又和善。对我瑞秋来说可不差。
+L164: Ross: So, what? That's it?
+L165: 就这样？不生气？
+L166: Rachel: Well, yeah! We're cool. Totally cool.
+L167: 对，我没生你的气。
+L168: Ross: Uh. Thanks Rach. Oh, you're the best.
+L169: 谢谢，你真好。
+L170: Rachel: Oh no, you're the best.
+L171: 你才好呢。
+L172: Ross: Ohh, I gotta go to the flower store!
+L173: 我要去花店一趟。
+L174: Ross: Check it out, no one will tell me where Emily is, so I'm gonna send 72 long-stem, red roses to her parents' house, one for each day that I've known and loved her.
+L175: 听我说，大家都不肯说，艾蜜莉在哪里。我决定买72朵长茎红玫瑰，送去艾蜜莉爸妈家。每朵代表我认识她，并且深爱她的每一天。
+L176: Ross: That ought get her talk to me again.
+L177: 她一定会感动地软化。
+L178: Chandler: Oh, Ross, when you make out the card; be sure to make it out to, “Emily”.
+L179: 罗斯，写卡片时别忘了，对方是“艾蜜莉”。
+L180: Monica: Hey that's great that you- so good that you had such a good time in Greece!
+L181: 瑞秋，太好了，幸好你在希腊玩得开心。
+L182: Rachel: What? I didn't have a good time in Greece! Ross abandoned me! Ok?
+L183: 什么？我在希腊才不开心！罗斯丢下我一人！
+L184: Rachel: I couldn't get a plane out, so I had to stay, in, their, honeymoon, suite, with people coming up to me all the time going, "Oh, Mrs. Geller, why are you cry?"
+L185: 我买不到机票回来，只好住在他们的蜜月套房！每个人都要来问我，“盖勒太太，你哭什么？”
+L186: Rachel: I mean, it was sooo humiliating. I felt like such an idiot! I mean, it's all my fault! And you know why, because I make very bad decisions.
+L187: 简直丢死人了，我真是个白♥痴。这都是我的错。你们知道为什么吗？因为我的决定都不对。
+L188: Chandler: Oh that's not true.
+L189: 不要这么说。
+L190: Rachel: Yes it is! It is true! I went, I went after Ross in stupid London.
+L191: 就是这样，我没胡说！我跑去蠢伦敦追罗斯。
+L192: Phoebe: London is stupid! Stupid!
+L193: 伦敦的确是个蠢地方！太蠢了！
+L194: Rachel: I put on a cheer leading outfit to seduce Joshua. Then I lost him because I asked him to marry me after four dates.
+L195: 我打扮得像个啦啦队长，倒追约书亚。约了四次会就叫他娶我，把他吓死了。
+L196: Rachel: And then I uh I went to Greece on somebody else's honeymoon. Ok? Do those sound like very good decisions to you?
+L197: 然后我还去希腊渡别人的蜜月。你们觉得这些决定正确吗？
+L198: Monica: I like your little braid.
+L199: 我喜欢你的小辫子。
+L200: Rachel: All right. You know what? I just shouldn't be allowed to make decisions anymore.
+L201: 我不应该做任何决定。
+L202: Rachel: Phoebe, you were right. I should've never gone to London, and from now on you make all of my decisions for me.
+L203: 菲比，你说得对，我根本不该去伦敦。从现在开始由你帮我做决定。
+L204: Phoebe: Oh...No, I did that for someone once. I'm-I'm not comfortable having that kind of power and control over someone's life.
+L205: 不行，我以前就这么做过。我不喜欢主宰别人的生活。
+L206: Monica: I'll do it!
+L207: 那我来！
+L208: Rachel: That's fine. So Monica, you are now in charge of my love life.
+L209: 很好，莫妮卡，以后由你主宰我的感情生活。
+L210: Chandler: Ok, I gotta go to work.
+L211: 我该去上班了。
+L212: Chandler: And uh, Rachel, great to have you back.
+L213: 瑞秋，很高兴看到你回来。
+L214: Chandler: Pheebs!
+L215: 菲比！
+L216: Chandler: Always a pleasure.
+L217: 真开心。
+L218: Monica: Oh, Rachel, sweetie, look, here's a really cute picture of you and Joey at the reception.
+L219: 瑞秋，亲爱的，你看。这是你跟乔伊在招待会的照片。
+L220: Rachel: Ohh, he's married! Ross is married. I can't- I still can't believe it.
+L221: 他已经结婚了。罗斯结婚了，我到现在还不敢相信。
+L222: Monica: Oh. Honey, sweetie, by the edges.
+L223: 亲爱的，抓旁边就好。
+L224: Rachel: I mean, you know I'm just gonna have to accept it...I mean, it's my fault.
+L225: 看来我只好接受事实，这都要怪我。
+L226: Monica: Sweetie! Edges! Fingers! smudgey! Pictures!
+L227: 亲爱的！拿边上！手脏！会有印子！
+L228: Rachel: Oh my God!
+L229: 天啊！
+L230: Monica: It's ok. That's ok. I-I know that you're very upset right now ok. I know, I know that wasn't about me.
+L231: 算了。我知道你心情低落，不是故意找我麻烦。
+L232: Joey: I bet it was about her a little.
+L233: 我看她就是跟她作对。
+L234: Monica: If you would stop thinking about Ross for one minute you would notice that there are great guys everywhere! I mean, look! Look, Gunther! I mean, he's nice, he's cute.
+L235: 你要是肯放下罗斯一分钟，就会发现到处有帅哥。你看，例如甘瑟。他既善良又可爱。
+L236: Rachel: Yeah, I guess Gunther is kind of...
+L237: 甘瑟的确……
+L238: Monica: Look the guy over there. Remember? That is the guy you flirted with at the counter that time.
+L239: 还有那边那个家伙。记得吗？你以前，跟他打情骂俏过。
+L240: Rachel: Oh, I don't know. I don't know.
+L241: 我不知道……
+L242: Monica: You're going to talk to him! You know what? We made a deal, I make your decisions and I say you're going to talk to him.
+L243: 你现在就去跟他说话。我们说好由我发号施令，我命令你去跟他说话。
+L244: Rachel: All right, you're the boss. I guess I gotta do what you tell me.
+L245: 好吧，你说了算。看来我只好照办。
+L246: Joey: Say that to him and you're golden.
+L247: 他听到这句话肯定上钩。
+L248: Phoebe: Hey! Joey: Hey, Pheebs!
+L249: 嗨！嗨，菲比！
+L250: Monica: We got out pictures back from London. Here's all of us at the Tower of London...
+L251: 伦敦的照片洗出来了。这张是所有人在伦敦塔拍的……
+L252: Phoebe: Oh! Here we all are! Yeah, there's Ross and Joey and you, and me.
+L253: 大家都在照片中，有罗斯、乔伊、你……和我。
+L254: Chandler: All right, you know what, we've been talking about London too much haven't we?
+L255: 你一定听烦我们说伦敦的事了。
+L256: Phoebe: No. I'm sorry. It's just 'cause I couldn't be there. 'Cause all I ever get to do now is pregnant stuff, it just bums me out.
+L257: 是我不好，因为我去不了。我只能大着肚子，烦都快烦死了。
+L258: Chandler and Joey: Uh we're sorry. Sorry Pheebs.
+L259: 很抱歉……
+L260: Monica: You know what I like to do? It sounds a little corny but sometimes when I'm bummed out, I like to just close my eyes and think about what a wonderful gift life is.
+L261: 你知道我伤心时都怎么做吗？有时候事情不太顺利，我就闭上眼睛，想想人生实在挺美好。
+L262: Monica: See?
+L263: 有用吧？
+L264: Phoebe: Uh-huh.
+L265: 嗯哼。
+L266: Monica: What happened?
+L267: 怎么样？
+L268: Rachel: Well, you know, a little of this, a little of that. Got myself a date tomorrow night.
+L269: 总之我们东扯西扯，明天晚上要出去约会。
+L270: Monica: See, didn't I tell you? ! You're getting over Ross already!
+L271: 看吧？你就要忘记罗斯了。
+L272: Rachel: Well...
+L273: 好吧……
+L274: Gunther: Get out!
+L275: 滚出去！
+L276: Monica: What took you so long?
+L277: 你怎么去那么久？
+L278: Chandler: I got caught up at work, but I'm quitting tomorrow.
+L279: 公事担搁了，不过我明天就辞职。
+L280: Chandler: So, thanks for having me over!
+L281: 谢谢你邀我过来！
+L282: Chandler: Rach. Pheebs.
+L283: 瑞秋，菲比。
+L284: Joey: See ya!
+L285: 再见！
+L286: Joey: What the hell was that?
+L287: 他发什么神经？
+L288: Monica: Probably some, you know, European goodbye thing he picked up in London.
+L289: 可能在伦敦学到的欧洲风俗。
+L290: Rachel: Wh- That's not European!
+L291: 那才不是欧洲风俗。
+L292: Phoebe: Well, it felt French.
+L293: 比较像法式热吻。
+L294: Joey: Well I guess it's time for me to say goodbye too, my old friends. Come here give me a little sugar.
+L295: 换我跟各位老友说再见了。过来给我点甜头吧。
+L296: Rachel: Oh God, I really had a good time!
+L297: 我玩得好开心！
+L298: Dave: Yeah, me too. Uh. So, I guess this is it.
+L299: 我也是，看来今天要结束了。
+L300: Rachel: Yeah. Umm, unless you wanna come inside?
+L301: 除非你想进来？
+L302: Dave: Yeah!
+L303: 好！
+L304: Rachel: Ok. Oh, uh, wait a minute, you know what? I uh, I can't decide this. Umm, ok, just hold on a second. Ok.
+L305: 等等，我无法自做主张，等我一下。
+L306: Dave: Yeah!
+L307: 好！
+L308: Ross: Hi.
+L309: 嗨。
+L310: Rachel: Is Monica around? I-I have to ask her something. Where's Monica? I have to ask her something.
+L311: 莫妮卡在吗？我有事要问她。
+L312: Ross: Doing her laundry.
+L313: 她去洗衣服。
+L314: Rachel: What's that?
+L315: 那是什么？
+L316: Ross: Came in the mail today, it's uh, 72 long-stemmed red roses, one for each day that I've known and loved Emily, cut up into mulch!
+L317: 我今天收到的包裹，72朵代表我深爱艾蜜莉的红玫瑰给剪成碎片。
+L318: Rachel: Oh, honey that's awful.
+L319: 真是糟糕。
+L320: Ross: Oh, it's not so bad. Monica's gonna make potpourri! I think I'm gonna, go wander out in the rain for awhile.
+L321: 还好啦，莫妮卡要用来做香料。我要去淋雨散散心。
+L322: Rachel: But, it's not raining.
+L323: 但外面没下雨。
+L324: Ross: I can't catch a break!
+L325: 我的运气真不好！
+L326: Rachel: You know what, Ross? You're not going anywhere. You're gonna sit right here. I'm gonna make you a cup of tea and we're gonna talk this whole thing out. All right? Ok.
+L327: 罗斯，你知道什么呀？你哪也别去。就坐这里，我们喝茶聊天，好吗？
+L328: Rachel: Hey, Dave!
+L329: 嗨，大卫！
+L330: Dave: Yeah?
+L331: 怎么样？
+L332: Rachel: Umm, listen, I'm gonna need to take a rain check, my roommate is just really sick. Ok? Ok! Bye!
+L333: 改天再请你进来，我的室友病得很重，再见！亲爱的，听着，我知道你现在一定很伤心……
+L334: Rachel: Honey, listen, I know, I know things seem so bad right now and that they're not gonna get any...
+L335: 亲爱的，听着，我知道你现在一定很伤心……
+L336: Monica: Rach? Can I talk to you just for a minute? I-I dropped some socks.
+L337: 瑞秋？我可以跟你谈谈吗？我掉了几支袜子。
+L338: Rachel: Yeah!
+L339: 好！
+L340: Monica: What is the matter with you? ! Do-do you wanna fall into the trap? Do you wanna fall into the trap?
+L341: 你哪根筋不对？你又想跳回去自找苦吃？
+L342: Rachel: Ohh! You did not drop any socks!
+L343: 你根本没掉袜子！
+L344: Monica: I just ran into Dave he told me you blew him off! I mean, you listen to me! Now, I'm calling the shots!
+L345: 我刚碰到大卫，他说你打发他走！你给我听好，这里由我当家！
+L346: Monica: I say you leave Ross alone and go get Dave! And what the hell were you trying to do?
+L347: 我要你离开罗斯去追大卫。你到底想怎么样？
+L348: Rachel: Well, ultimately, I was trying you know, I-I wanted...tell him you know, that I'm still in love with him.
+L349: 其实我想……我打算……告诉他我还爱他。
+L350: Monica: What? You cannot tell him that!
+L351: 什么？你不准说！
+L352: Rachel: Why? Why not? People love to hear that! Come on I love you. Now, wasn't that nice?
+L353: 为什么？大家都喜欢听到这种话！我爱你。你不喜欢听吗？
+L354: Monica: No. I make the decisions, and I say no.
+L355: 这里由我做决定，我不准你说。
+L356: Rachel: Well, you know what, no, you don't make my decisions because, you're fired.
+L357: 你不能帮我做决定，因为我要开除你。
+L358: Monica: You can't fire me. I make your decisions and I say, "I'm not fired!" Ha!
+L359: 你不能开除我。你的事情由我来决定，我说：我没被开除。
+L360: Rachel: Well...
+L361: 既然如此……
+L362: Monica: Rachel! Come on! Let me in!
+L363: 瑞秋，让我进去！
+L364: Joey: Having some trouble?
+L365: 怎么了？
+L366: Monica: Rachel locked the door.
+L367: 瑞秋把我锁在门外。
+L368: Joey: I'll kick that door in if you give me a little sugar.
+L369: 你肯亲我，我就帮你撞开。
+L370: Rachel: Ross, there's something I wanna talk to you about. I just need to.
+L371: 罗斯，我有话要告诉你。
+L372: Monica: Rachel, open this door.
+L373: 瑞秋，开门！
+L374: Ross: What, is it locked?
+L375: 门锁着吗？
+L376: Rachel: She's fine. Listen...
+L377: 别管她，听我说。
+L378: Monica: Rachel, I can do this all night if I have to!
+L379: 我可以在外面鬼叫一整晚！
+L380: Ross: Do you want me to get that?
+L381: 要不要我去开门？
+L382: Rachel: No. You know what? Jus-just let her do her thing and we'll do our thing. 'Cause I really need to tell you...
+L383: 别理她，我们说我们的。我要告诉你……
+L384: Monica: Thank you.
+L385: 谢谢。
+L386: Monica: Rachel, can I talk to you outside for a sec?
+L387: 瑞秋，我可以跟你谈谈吗？
+L388: Rachel: No.
+L389: 不可以。
+L390: Monica: I really need to talk to you.
+L391: 我真的有话要跟你说。
+L392: Rachel: Well, then talk!
+L393: 那就说啊。
+L394: Monica: Ok, I will. Remember that thing that we just discussed that you wanted to do?
+L395: 好的。记得我们刚说你要做的事吗？
+L396: Rachel: Yes! Ross: What thing?
+L397: 记得！什么事？
+L398: Monica: Well, Rachel wants to take swing dance lessons. Which I think is a really stupid idea!
+L399: 瑞秋要去学摇摆舞，我非常不赞成。
+L400: Monica: It's dangerous, she's never going to get what she wants, and who knows who she might end up hurting.
+L401: 因为这种舞很危险。她一定学不会，而且搞不好还会撞伤人。
+L402: Ross: Monica's right, swing dancing can be tricky. I'm gonna use the phone.
+L403: 莫妮卡说得对，摇摆舞有点危险。我要打电话。
+L404: Ross: I gotta cancel those five giant teddy bears I sent to Emily. My God, think of the massacre.
+L405: 取消五只送给艾蜜莉的泰迪熊。上帝啊，想想这个惨状。
+L406: Rachel: I'm gonna do it.
+L407: 我就是要说。
+L408: Monica: All right, Rachel, ok, I know-I know you think I'm crazy, please, before you tell him you love him.
+L409: 瑞秋，我知道你认为我疯了。但是在你告诉他之前。
+L410: Monica: Just-just try to find one person who thinks this is a good idea. 'Cause I bet you, you can't.
+L411: 至少找到一个人支持你。我打赌你找不到。
+L412: Rachel: But I...
+L413: 可是……
+L414: Monica: Please!
+L415: 拜托！
+L416: Rachel: All right, fine.
+L417: 好吧。
+L418: Monica: Joey, I'm in!
+L419: 乔伊，我已经进来了！
+L420: Joey: All right. Good deal.
+L421: 好，做得好！
+L422: Rachel: Hi.
+L423: 嗨！
+L424: All: Hey, Rach.
+L425: 嗨，瑞秋！
+L426: Monica: So how did you find anyone that agrees with you yet?
+L427: 你找到谁支持你了吗？
+L428: Rachel: No. But you know what? I think-I think I need a male point of view. Joey. You're a man.
+L429: 还没，我决定问男性的意见。乔伊。你是男人。
+L430: Joey: You got that right.
+L431: 货真价实。
+L432: Rachel: Now do you think it would be a good idea if I told Ross that I was still in love with him?
+L433: 你觉得我该告诉罗斯，我还爱他吗？
+L434: Joey: Nope.
+L435: 不。
+L436: All: Pheebs! Hey Pheebs!
+L437: 嗨，菲比！
+L438: Joey: Uh, ok, Pheebs?
+L439: 菲比？
+L440: Phoebe: Yeah?
+L441: 怎样？
+L442: Joey: Umm, you know how the other day you were talking about how you didn't get to go to London and you were kinda feeling left out?
+L443: 你上次说你都不能去伦敦，觉得自己遭大家遗弃？
+L444: Phoebe: Yeah?
+L445: 如何？
+L446: Joey: All right, well, we all felt really bad about that. So, we decided, that we should all take a little trip together!
+L447: 我们很愧疚，所以决定大家一起去旅行！
+L448: Phoebe: Ohh, that's so nice! How great! Where, where? Where's the trip? !
+L449: 太好了！要去哪里？
+L450: Monica: Well, we thought we would all go to a picnic, in Central Park!
+L451: 我们可以一起去野餐，就去♥中♥央公园！
+L452: Phoebe: Central...Park!
+L453: 中央……公园！
+L454: Joey: Yeah, all of us! All day!
+L455: 对，大家一起去个一整天！
+L456: Phoebe: That sucks! That's not a trip! I just came from the park!
+L457: 什么鸟地方？！那根本不算旅行，我才刚从公园过来。
+L458: Phoebe: What are we gonna high five about at the stupid Central Park? "Well, it's right by my house, all right!"
+L459: 大家去♥中♥央公园有什么好兴奋？“好耶，就在我家旁边！”
+L460: Chandler: Well, I'm gonna go home and bask in the triumph of my Central Park idea.
+L461: 我决定回家反省这个烂主意。
+L462: Rachel: Hey-whoa-whoa-whoa! Ho-ho-hold on a sec there, Mr. Kissey!
+L463: 等一下，热吻先生。
+L464: Rachel: You know, I've been meaning to talk to you about this whole, little, new European thing you've got going on.
+L465: 我一直想跟你讨论，你新学的欧洲民情。
+L466: Rachel: And I just need to tell you that it makes me very uncomfortable and I just- you know- just stop it!
+L467: 还有你搞得我非常不自在，拜托你别再亲了。
+L468: Chandler: I was just trying to bring a little culture to the group.
+--------------------------------------------------------------------------------
+老友记-Friends 第五季 第五集 S05E05英文台词、剧本翻译、中英文对照、剧本下载-中英文剧本站 (https://www.jubenz.com/friends/247/)
+citeturn62view2 [wordlim: 200] Crawled: last year; Content type: text/html; Source: open({"ref_id":"https://www.jubenz.com/friends/247/","lineno":null}); Total lines: 672
+--------------------------------------------------------------------------------
+老友记-Friends 第五季 第六集 S05E06英文台词、剧本翻译、中英文对照、剧本下载-中英文剧本站 (https://www.jubenz.com/friends/248/)
+citeturn62view3 [wordlim: 200] Crawled: 1.4 years ago; Content type: text/html; Source: open({"ref_id":"https://www.jubenz.com/friends/248/","lineno":null}); Total lines: 608
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn62view4 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/249/","lineno":null}); Total lines: 1
+

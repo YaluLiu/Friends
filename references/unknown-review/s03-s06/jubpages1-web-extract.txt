@@ -1,0 +1,20 @@
+Internal Error ()
+citeturn47view0 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/147/","lineno":null}); Total lines: 1
+L0: URL https://www.jubenz.com/friends/147/ is not accessible via this tool.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn47view1 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/150/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/150/: (502) Bad Gateway
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn47view2 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/171/","lineno":null}); Total lines: 1
+L0: URL https://www.jubenz.com/friends/171/ is not accessible via this tool.
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn47view3 [wordlim: 200] Source: click({"ref_id":"turn45view0","id":34}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/243/: (502) Bad Gateway
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn47view4 [wordlim: 200] Source: click({"ref_id":"turn45view0","id":35}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/268/: (502) Bad Gateway
+

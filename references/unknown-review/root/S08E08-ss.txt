@@ -1,0 +1,753 @@
+Friends 227408 Episode Script | SS
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        @charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h1,h3{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}a{color:#0d6efd;text-decoration:underline}button{border-radius:0}button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}[type=button],button{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-text,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::-webkit-file-upload-button{font:inherit}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}@media (min-width:992px){.col-lg-2{flex:0 0 auto;width:16.66666667%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle::after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-item{display:block;width:100%;padding:.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:.5rem;padding-bottom:.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-brand{padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;text-decoration:none;white-space:nowrap}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;background-repeat:no-repeat;background-position:center;background-size:100%}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand{color:#fff}.navbar-dark .navbar-nav .nav-link{color:rgba(255,255,255,.55)}.navbar-dark .navbar-toggler{color:rgba(255,255,255,.55);border-color:rgba(255,255,255,.1)}.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")}.d-block{display:block!important}.d-flex{display:flex!important}.d-none{display:none!important}.w-100{width:100%!important}.h-100{height:100%!important}.flex-column{flex-direction:column!important}.flex-grow-1{flex-grow:1!important}.flex-shrink-0{flex-shrink:0!important}.flex-nowrap{flex-wrap:nowrap!important}.mt-2{margin-top:.5rem!important}.mb-2{margin-bottom:.5rem!important}.p-3{padding:1rem!important}.px-2{padding-right:.5rem!important;padding-left:.5rem!important}.text-center{text-align:center!important}.text-dark{--bs-text-opacity:1;color:rgba(var(--bs-dark-rgb),var(--bs-text-opacity))!important}.text-white{--bs-text-opacity:1;color:rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important}.bg-dark{--bs-bg-opacity:1;background-color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-none{display:none!important}}@media (min-width:1200px){.d-xl-block{display:block!important}}body{background-color:#fed41e}.navbar-brand{font-size:18px;font-weight:700;color:#fed41e!important}.container{max-width:960px}h1{text-align:center}.scrolling-script-container{height:600px;overflow:scroll;width:99%;border:1px solid #000;padding:4px;margin-top:5px}.breadcrumbs{font-size:12px;margin-bottom:10px}.scrolling-script-container{font-size:14px}a{color:#fff}@media screen and (min-width:800px){.top-row{height:370px}}.topblock{display:none}@media screen and (max-width:480px){.topblock{display:block}}@media screen and (max-width:768px){.topblock{display:block}}
+        
+    
+
+
+
+    
+        window._taboola = window._taboola || [];
+        _taboola.push({category: 'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)) {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/springfield/loader.js',
+            'tb_loader_script');
+        if (window.performance && typeof window.performance.mark == 'function') {
+            window.performance.mark('tbl_ic');
+        }
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+
+    
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+        .top-block-desktop {
+
+            display: block;
+
+        }
+
+    }
+
+    .topblock {
+        display: none;
+    }
+
+    .
+
+
+    @media screen and (max-width: 480px) {
+        .topblock {
+            display: block;
+        }
+
+
+        .top-container {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 812px) and (orientation: landscape) {
+        .topblock {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .topblock {
+            display: block;
+        }
+
+        .top-container {
+            display: none;
+        }
+
+        .top-block-desktop {
+
+            display: none;
+
+        }
+    }
+
+    
+    @font-face {
+        font-family: bootstrap-icons;
+        src: url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"), url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("woff")
+    }
+
+    .bi::before, [class*=" bi-"]::before {
+        display: inline-block;
+        font-family: bootstrap-icons !important;
+        font-style: normal;
+        font-weight: 400 !important;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        vertical-align: -.125em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale
+    }
+
+    .bi-facebook::before {
+        content: "\f344"
+    }
+
+    .bi-twitter-x::before {
+        content: "\f8db"
+    }
+
+
+
+
+
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-406ZB8S3DD');
+
+
+
+
+
+
+
+
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "@id": "https://www.springfieldspringfield.co.uk/#org",
+                "name": "Springfield! Springfield!",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "sameAs": [
+                    "https://twitter.com/springfieldx2",
+                    "https://www.facebook.com/springfieldspringfield/"
+                ]
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://www.springfieldspringfield.co.uk/#website",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "name": "Springfield! Springfield!"
+            }
+        ]
+    }
+Springfield! Springfield!
+Movie Scripts
+                    
+                    TV Show
+                            Episode Scripts
+                    
+                    
+                        The Simpsons
+                        
+                            Characters
+                            Episode Guide
+                            Simpsons
+                                    Episode Scripts
+                            Guest Stars
+                            Springfield
+                            Buddy Icons
+                            Images
+                            iPhone / iPod Wallpaper
+                            PSP Wallpaper
+                            Scenes
+                            Sounds
+                        
+                    
+                    
+                    Contact
+window._taboola = window._taboola || [];
+                        _taboola.push({
+                            mode: 'thumbnails-b',
+                            container: 'taboola-below-category-thumbnailsb',
+                            placement: 'Below Category Thumbnails',
+                            target_type: 'mix'
+                        });
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+TV Show Episode Scripts  >  Friends  >  Season 8  >  The One With the Stripper
+Friends s08e08 Episode Script
+227408 - The One With the Stripper
+I'm having dinner with my dad tomorrow.
+Wanna come? Sure.
+He's kind of sexy.
+I'll be there too.
+So we'll come up with a signal.
+If it's going well, you can take off.
+I need your support.
+I haven't told him I'm pregnant.
+Oh.
+Why not? He's gonna flip out.
+I hate it when he's angry.
+This is all so "Papa Don't Preach.
+" He's scary.
+Once, he caught me smoking.
+He said if I did it again, he'd make me eat the pack.
+Wow.
+Well, I will be there.
+I won't let that man make you eat your baby! Hey, who is that guy? I think I know him.
+No, you don't.
+Oh, my God! Monica, he's the stripper from your bachelorette party! Her what? Your secret bachelorette party.
+- Bachelorette party? - She untied his G-string with her teeth.
+Somebody stop me! We weren't gonna have parties.
+We agreed that it's a silly tradition.
+It's a grand tradition! They surprised me.
+There was nothing I could do.
+You could've untied it with your hands.
+This is so unfair.
+I wanted to throw a bachelor party but I wasn't allowed.
+All we got was dinner.
+You went home with the waitress.
+Yeah, that was a good night.
+Why didn't you tell me? The two pillars of marriage are openness and honesty.
+I knew giving you that book would come back and bite me in the ass.
+The One With the Stripper mrnch@dh.
+net.
+mk Subtitle Editor (c) Digital Higherground - Igor Janevski, 2004 - I'll order everyone the chicken.
+- Oh, I don't eat meat.
+It's chicken! - I don't eat that either.
+- I never understand you lesbians.
+- So, what's new with you? - Well, actually Your '74 Lafite, sir.
+I ordered the '75.
+That's a magnificent wine.
+'74 is sewage! Why would you bring me sewage? Are you an idiot? Is that why you're a waiter? This is why I didn't want to wait on you.
+Oh, come on.
+Don't be such a baby.
+In case you didn't notice, that is a scary man.
+He's right, though.
+The '74 is absolute piss.
+This was a huge mistake.
+I can't tell him.
+I can't.
+Rachel I'm gonna wait a couple of years, and then the baby will tell him.
+- Why? So he can get mad at the baby? - That's the baby's problem.
+- Everything okay with the waiter? - I don't know.
+I went to the bathroom.
+So, sweetie, you were starting to tell me what's new with you.
+I got TiVo.
+- What's TiVo? - It's slang for "pregnant.
+" Are you pregnant? Well, yes and no.
+Except, not no.
+So to sum it up, yeah.
+Who is the father? Please don't tell me it's her! No, it's Ross.
+You like Ross.
+I hope you're okay with this.
+This is a good thing.
+This is your first grandchild! You're gonna be a poppy! That's true.
+I'm a poppy! I'm gonna be a poppy! - So when is the wedding? - The who? The wedding.
+There's going to be a wedding.
+Young lady, don't you tell me my first grandchild is gonna be a bastard! - Tell me there's gonna be a wedding! - February 2nd! It was cool seeing you lecture today.
+Thanks.
+Although it seemed like you were falling asleep.
+No, I had my eyes closed so I could concentrate and take it all in.
+A lot of my students do that.
+- I've got to get going.
+- I'll see you tonight? Thanks for showing me your semiprecious stone collection.
+It was amazing.
+My God, you must be good in bed.
+So you and Mona.
+It's been a while.
+How is it? It's going good.
+I mean, we get along great.
+She's so - Hot? - I was gonna say sweet, but yeah! She's okay with the baby? I haven't actually told her yet.
+I don't wanna scare her off.
+You have to be honest, or you may think you're on the same path but you're on different ones.
+I'm gonna take that book and beat you to death with it.
+You are gonna love me so much.
+I felt bad about the bachelorette party so tonight you're gonna have a bachelor party.
+I got this number from a guy at work and I hired a stripper for you.
+I'm going in the wife hall of fame! - Honey, I don't want a stripper.
+- Will you let the lady talk? Come on, it'll be fun.
+It'll make me feel better.
+I appreciate it, but it's a little creepy.
+I'm not a bachelor anymore.
+Just think of it as a two-month anniversary present.
+Sure.
+One year is paper, but two months is lap dance.
+Please, I feel so bad.
+Just watch the hot woman get naked! - Fine, but I'm only doing this for you.
+- Yeah! And Joey.
+- Who else do you wanna invite? - Ross and Joey is embarrassing enough.
+I can't make it.
+I'm seeing Mona tonight.
+Why cancel a real date to go to a fake bachelor party? I'm sorry.
+I gotta cancel tonight, baby.
+I'm sorry I won't make it to your imaginary wedding.
+I'm busy that day.
+I already have a unicorn baptism and a leprechaun bar mitzvah.
+I know.
+I panicked.
+I didn't want him yelling at me like I was some '74 Latour.
+It's Lafite.
+The '74 Latour is actually drinking quite nicely.
+I'm gonna tell him.
+I'm gonna be strong.
+I just called a friend.
+I think I may be able to book the Plaza on short notice.
+Really? The Plaza? Oh, Daddy! - Daddy, I need to talk to you.
+- What is it, sweetie? Ross and I aren't getting married.
+- I'm sorry.
+- I don't believe this! - Stay calm, please.
+- How do you expect me to stay calm? This is unacceptable, Rachel.
+And I wanna know why! Is it because that punk won't marry you? - Is that it? - Yes.
+He says I'm damaged goods.
+You nervous about getting married? What are you doing? Pretend it's a real bachelor party.
+It'll be more fun.
+All right.
+I can't believe tomorrow's the big day.
+You're never gonna be with another woman.
+You have to wake up to the same face every day until you finally have the sweet release of death.
+You're right.
+This is more fun.
+That's her! Okay, come on! Which one of you is Chandler? That's me! That's me.
+Joey Tribbiani.
+Big fan.
+- Is that a bedroom? - Yeah, right over there.
+Whenever you're ready.
+That was weird.
+- Why would she go in the bedroom? - I'm waiting.
+- So she's a - Yeah, that's one naked hooker.
+I love your place.
+Where is this guy from? That's an 18th-century artifact from Calcutta.
+Oh.
+Wow.
+So you're more than just dinosaurs.
+So much more.
+Oh, my God! I am so sorry! Forget it.
+It's from Pier 1.
+Sorry.
+Think you can knock up my daughter and not marry her? I ought to kill you! This is actually not a great time for me.
+So come on.
+Explain yourself, Geller.
+- You got Rachel pregnant! - You got her pregnant? - Who did? - You did! Yes, but it was a one-night thing.
+It meant nothing.
+Oh? Really? My daughter means nothing? No, sir.
+She means a lot to me.
+I love Rachel.
+- What? - But not that way.
+I'm not in love.
+I love her like a friend.
+So you get her in trouble and refuse to marry her? I offered to marry her.
+But I didn't want to.
+Why not? You wanted to be with this tramp? Tramp? I'm sorry.
+Dr.
+Green, Mona.
+Mona, Dr.
+Green.
+I can't believe there is a naked hooker in there! Maybe she's a hooker and a stripper but she got confused about what to do.
+Maybe.
+Technically, she stripped.
+We just missed it.
+Ma'am? Are you also a stripper? No, but I can pretend to strip.
+Costs extra.
+Here's the extras: Handcuffs, spanking Maybe Monica's playing a joke on you.
+Getting her husband a hooker.
+That's pretty funny.
+That is funny.
+Maybe for my birthday she'll murder someone.
+I'll bet Ross was in on it.
+He was conveniently busy.
+- You mind if I smoke in here? - Actually, I'd rather Go ahead.
+We're gonna have to burn that room, anyway.
+- How could you hide this? - I wanted to tell you, but You'd get what you wanted, then dump her, like Rachel.
+Hey, I did not dump Rachel.
+Nor are we still together.
+Can l? We'll just let the machine get that.
+"Ross", "it's Joey.
+" There's a hooker here.
+We thought you'd know something about it.
+No! No! No! No! I need to lie down.
+Tonight's the bachelor party? - Thanks for that number.
+- No problem.
+Who's the party for? - My husband.
+- You hired your husband a hooker? - She's a stripper.
+- No, a hooker.
+- Is that a name for strippers? - Lf they're hookers.
+Stu, I can't believe you did this.
+You're sure she's a hooker? Either that, or she's the best, most expensive date I ever had.
+- Maybe she meant to get you a hooker.
+- Why would she do that? Maybe she wants you to learn something.
+Is there anything you're really bad at, sexually? This is the worst bachelor party ever.
+- What's taking you boys so long? - In a minute! What's gonna happen in a minute? You should ask her to leave.
+- Why me? - It's your party.
+- Which is why you should do it.
+- No, you do it.
+Rock, paper, scissors for who tells the whore to leave.
+- What? - I miss this.
+I don't think we've done this before.
+No, I miss hanging out with you.
+- We still hang out.
+- Not like we used to.
+Remember? We used to be inseparable.
+You know, now it's like things are different.
+Well, you know, things are different.
+I'm married now.
+Don't get me wrong, I'm happy for you guys.
+I just miss hanging out.
+Just us, you know? Yeah, I miss that too.
+From now on, we'll make time to hang out.
+You got it.
+Come here.
+Oh, God.
+Listen, I am this close to robbing you guys.
+She's a hooker! She's a Hi.
+We spoke on the phone.
+So your dad dropped by.
+He's a pleasant man.
+- Oh, no.
+- I better go.
+Just over here.
+I can't miss the fight.
+Ross, I am so sorry.
+I'll straighten this out tomorrow in person.
+Or via e-mail.
+I don't care about your dad.
+Mona is totally freaked out! I'll fix that too.
+What's her e-mail? I'll fix this.
+I swear I'll talk to her.
+Okay.
+Thank you.
+That's it? You call that a fight? "We were on a break!" "No we weren't!" What happened to you two? Thank you so much for coming back over.
+Oh, good.
+You're here.
+And I was worried that it would be uncomfortable.
+Mona, just hear me out.
+I'm sorry about my father yelling at you.
+But you held your own.
+You have to tell me how.
+- Focus.
+- Okay.
+Yes, Ross and I used to date.
+And yes, we are gonna have a baby.
+But we are definitely not getting back together.
+- How can I be sure? - We drove each other crazy.
+He was possessive, jealous.
+He couldn't let the little things go.
+Trying to date this woman.
+None of that compared to how kind and gentle and thoughtful he is.
+You probably shouldn't touch me.
+I don't want something so complicated.
+But what relationship is not complicated? We all have our baggage.
+You must too.
+Why else would you still be single? I'm so gonna leave right now.
+Should I leave this open? I'm not sure.
+Why didn't you just tell me? It has nothing to do with how I feel.
+- You still should have told me.
+- I was going to but I thought you should hear it from Rachel's father.
+I made a mistake but it's only because I really like you.
+Really.
+Okay.
+I guess you can close the door now.
+Forgot my purse.
+Oh, you guys made up.
+Good kisser, isn't he? I'm going! I swear I didn't know she was a hooker.
+You let her smoke? Her ass-print is still on our quilt.
+Really want to talk about smoking? I'm gonna make this up to you.
+I promised a stripper and you're gonna get a stripper.
+- Monica, wait.
+- What? Carry on.
+These tennis shoes are so tight.
+- I think I'll take them off.
+- Could you not narrate? Gotcha, sailor.
+Just because you're not in love - You told your dad the truth.
+- An hour ago.
+- Wanna go see a movie? - Yes.
+Bye, Dad.
+It's unacceptable! What does love have to do with it? There are more important things than love.
+You have to think about the consequences of your decisions! I do think about the consequences of my decisions! What gives you the right to? Go to hell! Stupid guy on my phone.
+Previous EpisodeNext Episode
+Report an Issue with This Script   |   Friends Episode Scripts   |   More TV Show Episode Scripts
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+Springfield! Springfield!
+About      Terms      Privacy Policy      Contact
+(function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});

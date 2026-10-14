@@ -1,0 +1,14 @@
+{
+  "episode": "S02E22",
+  "line": 341,
+  "speaker": "candidate Chandler, NOT adopted",
+  "url": "https://friends.fandom.com/wiki/The_One_With_The_Two_Parties",
+  "accessed_at": "2026-10-14T13:22:41.467070+08:00",
+  "source_kind": "separate fan-maintained plot synopsis; web search cached extraction, not downloaded HTML",
+  "scene": "closing scene, Rachel birthday flan / volleyball",
+  "quote": "Chandler yells heads up and tosses a ball",
+  "finding": "Plot explicitly identifies Chandler as the caller when the ball destroys the flan; local Joshua transcript only calls him Somebody.",
+  "limitation": "Fan plot synopsis, not an official speaker transcript or direct audio check.",
+  "status": "unresolved source conflict; Chinese remains Unknown",
+  "conflicting_evidence": "Downloaded Fanfr VF E22 explicitly Joey : Attention ! at final flan. Fandom instead attributes it to Chandler. No original audio check; retain Unknown."
+}

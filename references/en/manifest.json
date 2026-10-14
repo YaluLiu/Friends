@@ -1,0 +1,3449 @@
+{
+  "source_index_url": "https://www.friends-tv.org/transcripts.html",
+  "archive_url": "https://www.friends-tv.org/transcripts.zip",
+  "downloaded_at": "2026-10-14T10:48:00+08:00",
+  "source_type": "Fan transcripts, including extended scenes; not official production scripts.",
+  "archive_sha256": "f9a8d16c1a946277b4d7876be6628d72e4a4325b8b13ad856ced02946e54dc76",
+  "index_sha256": "e7f667b63123a6dbcc454832a16ac77e657e1cf7a772f57cdac917cb8ccaffe2",
+  "transcript_count": 228,
+  "episode_count": 236,
+  "mapping_note": "Chinese S01E16 combines standard E16-E17; Chinese S01E17-E23 map to standard E18-E24. Mapping is a navigation aid, not line-by-line verification.",
+  "transcripts": [
+    {
+      "season": 1,
+      "episodes": [
+        1
+      ],
+      "title": "1.01 Pilot",
+      "path": "S01/FriendsS01E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/101extended.htm",
+      "archive_member": "transcripts/101extended.htm",
+      "bytes": 42542,
+      "sha256": "07aeed3d7df106cc956e21a16b365acf0ee6a169d25843eba235e2dfe736258d",
+      "chinese_files": [
+        "S01/FriendsS01E01.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        2
+      ],
+      "title": "1.02 The One With the Sonogram at the End",
+      "path": "S01/FriendsS01E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/102extended.htm",
+      "archive_member": "transcripts/102extended.htm",
+      "bytes": 27782,
+      "sha256": "2f6cef16b1ad01591f00a9421533ad58671af7bd658688010ec69f539fd7fb74",
+      "chinese_files": [
+        "S01/FriendsS01E02.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        3
+      ],
+      "title": "1.03 The One With the Thumb",
+      "path": "S01/FriendsS01E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/103extended.htm",
+      "archive_member": "transcripts/103extended.htm",
+      "bytes": 28287,
+      "sha256": "93d793d4d0bf7016ebfd5ba991bf9df282450ecde9cfb468a3b6f2dff69199dd",
+      "chinese_files": [
+        "S01/FriendsS01E03.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        4
+      ],
+      "title": "1.04 The One With George Stephanopoulos",
+      "path": "S01/FriendsS01E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/104extended.htm",
+      "archive_member": "transcripts/104extended.htm",
+      "bytes": 38630,
+      "sha256": "3129442f94c61207fff2fd0381452423004a16f35e225848b5afddb96d8f7532",
+      "chinese_files": [
+        "S01/FriendsS01E04.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        5
+      ],
+      "title": "1.05 The One With the East German Laundry Detergent",
+      "path": "S01/FriendsS01E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/105extended.htm",
+      "archive_member": "transcripts/105extended.htm",
+      "bytes": 27136,
+      "sha256": "1738e0214039808f68f483b8f877ef908bb7327d2f9e02b527c5918a2e335c03",
+      "chinese_files": [
+        "S01/FriendsS01E05.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        6
+      ],
+      "title": "1.06 The One With the Butt",
+      "path": "S01/FriendsS01E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/106extended.htm",
+      "archive_member": "transcripts/106extended.htm",
+      "bytes": 33398,
+      "sha256": "10ef9af7fd7f189a6623479b7795c2fd41c90c531fac8f12788dc1719f42c6d1",
+      "chinese_files": [
+        "S01/FriendsS01E06.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        7
+      ],
+      "title": "1.07 The One With the Blackout",
+      "path": "S01/FriendsS01E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/107extended.htm",
+      "archive_member": "transcripts/107extended.htm",
+      "bytes": 32512,
+      "sha256": "88dccac4fa46018289723b9a2d980f1de41eb4dd98ce4df9d4131c40420fcc31",
+      "chinese_files": [
+        "S01/FriendsS01E07.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        8
+      ],
+      "title": "1.08 The One Where Nana Dies Twice",
+      "path": "S01/FriendsS01E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/108extended.htm",
+      "archive_member": "transcripts/108extended.htm",
+      "bytes": 24620,
+      "sha256": "9ac0f9192ff45e91813696dce5d245b954a698dc856a07e83867099d0068ee43",
+      "chinese_files": [
+        "S01/FriendsS01E08.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        9
+      ],
+      "title": "1.09 The One Where Underdog Gets Away",
+      "path": "S01/FriendsS01E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/109extended.htm",
+      "archive_member": "transcripts/109extended.htm",
+      "bytes": 24823,
+      "sha256": "e19c8464db866b108bad6cf84617cc3f14f1f7b4ad05011faa0358e25f0752a5",
+      "chinese_files": [
+        "S01/FriendsS01E09.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        10
+      ],
+      "title": "1.10 The One With the Monkey",
+      "path": "S01/FriendsS01E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/110extended.htm",
+      "archive_member": "transcripts/110extended.htm",
+      "bytes": 29185,
+      "sha256": "069be443a5bd463063c1df9bf114e8f7f488b256529af04267387c60e3301572",
+      "chinese_files": [
+        "S01/FriendsS01E10.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        11
+      ],
+      "title": "1.11 The One With Mrs. Bing",
+      "path": "S01/FriendsS01E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/111extended.htm",
+      "archive_member": "transcripts/111extended.htm",
+      "bytes": 29322,
+      "sha256": "6e40262af77e4d77df1b71c176ed91db442993d8e0eed3931b43fe643935ef44",
+      "chinese_files": [
+        "S01/FriendsS01E11.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        12
+      ],
+      "title": "1.12 The One With the Dozen Lasagnas",
+      "path": "S01/FriendsS01E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/112extended.htm",
+      "archive_member": "transcripts/112extended.htm",
+      "bytes": 27047,
+      "sha256": "54f40f8408906e6100f510d2f2521880cc7b90748babd0e6cf45005d89aad1a6",
+      "chinese_files": [
+        "S01/FriendsS01E12.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        13
+      ],
+      "title": "1.13 The One With the Boobies",
+      "path": "S01/FriendsS01E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/113extended.htm",
+      "archive_member": "transcripts/113extended.htm",
+      "bytes": 25812,
+      "sha256": "07ad50ef52170f1971913432790f5d5353bffd8faba91331fbd9eeef9e088394",
+      "chinese_files": [
+        "S01/FriendsS01E13.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        14
+      ],
+      "title": "1.14 The One With the Candy Hearts",
+      "path": "S01/FriendsS01E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/114extended.htm",
+      "archive_member": "transcripts/114extended.htm",
+      "bytes": 31467,
+      "sha256": "42e4f8de297d1e3817408fb51c40b28bc08f327c31d96953b5fb3e6fede69ad4",
+      "chinese_files": [
+        "S01/FriendsS01E14.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        15
+      ],
+      "title": "1.15 The One With the Stoned Guy",
+      "path": "S01/FriendsS01E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/115extended.htm",
+      "archive_member": "transcripts/115extended.htm",
+      "bytes": 28086,
+      "sha256": "76aecea4b7c4d0ebadbc8db7fcc45f2bcf8d046af4e5ccd2f58d683ca3f02922",
+      "chinese_files": [
+        "S01/FriendsS01E15.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        16
+      ],
+      "title": "1.16 The One With Two Parts, part 1",
+      "path": "S01/FriendsS01E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/116extended.htm",
+      "archive_member": "transcripts/116extended.htm",
+      "bytes": 32522,
+      "sha256": "96adaf38905b6d24cd866e29bf7fe2c64198eaf469b15957688880560dbf0459",
+      "chinese_files": [
+        "S01/FriendsS01E16.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        17
+      ],
+      "title": "1.17 The One With Two Parts, part 2",
+      "path": "S01/FriendsS01E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/117extended.htm",
+      "archive_member": "transcripts/117extended.htm",
+      "bytes": 38642,
+      "sha256": "64cf6f9d240708fdab5aad471741e7b91b24214b1953f080da0baa6c6b06f201",
+      "chinese_files": [
+        "S01/FriendsS01E16.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        18
+      ],
+      "title": "1.18 The One With All the Poker",
+      "path": "S01/FriendsS01E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/118extended.htm",
+      "archive_member": "transcripts/118extended.htm",
+      "bytes": 30604,
+      "sha256": "7aa425e2ca9ace10eaca88b8ab840f73e3093cc56b53143bb71b32caec2dd9ea",
+      "chinese_files": [
+        "S01/FriendsS01E17.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        19
+      ],
+      "title": "1.19 The One Where the Monkey Gets Away",
+      "path": "S01/FriendsS01E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/119extended.htm",
+      "archive_member": "transcripts/119extended.htm",
+      "bytes": 27050,
+      "sha256": "fcb95de45b90e2600301caaa6953dbd872ba9e5ac542b9e6831f1bbcb58b418d",
+      "chinese_files": [
+        "S01/FriendsS01E18.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        20
+      ],
+      "title": "1.20 The One with the Evil Orthodontist",
+      "path": "S01/FriendsS01E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/120extended.htm",
+      "archive_member": "transcripts/120extended.htm",
+      "bytes": 25683,
+      "sha256": "ee997e9fda70f571c63e57579fe74854eebfe2fc852d656cac9be5172c950e24",
+      "chinese_files": [
+        "S01/FriendsS01E19.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        21
+      ],
+      "title": "1.21 The One with Fake Monica",
+      "path": "S01/FriendsS01E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/121extended.htm",
+      "archive_member": "transcripts/121extended.htm",
+      "bytes": 24783,
+      "sha256": "3f71be7d214de84858aec8cce2c7aa729387424f775f81417c4178c01a76de54",
+      "chinese_files": [
+        "S01/FriendsS01E20.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        22
+      ],
+      "title": "1.22 The One with the Ick Factor",
+      "path": "S01/FriendsS01E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/122extended.htm",
+      "archive_member": "transcripts/122extended.htm",
+      "bytes": 26596,
+      "sha256": "44ee950d028df1bff4500bb89bca12a708a6b42815e8d41b3195a9f4830a844f",
+      "chinese_files": [
+        "S01/FriendsS01E21.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        23
+      ],
+      "title": "1.23 The One with the Birth",
+      "path": "S01/FriendsS01E23.html",
+      "source_url": "https://www.friends-tv.org/transcripts/123extended.htm",
+      "archive_member": "transcripts/123extended.htm",
+      "bytes": 28204,
+      "sha256": "bf004e9137542276997ce5ce171941a0f5a08397a4d5083767a7fa935cdf09a9",
+      "chinese_files": [
+        "S01/FriendsS01E22.txt"
+      ]
+    },
+    {
+      "season": 1,
+      "episodes": [
+        24
+      ],
+      "title": "1.24 The One where Rachel Finds Out",
+      "path": "S01/FriendsS01E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/124extended.htm",
+      "archive_member": "transcripts/124extended.htm",
+      "bytes": 34487,
+      "sha256": "dda22fbc4ab7e438bc7e72641a663e376a29e0c4aee6883521dd1b6ccbed0858",
+      "chinese_files": [
+        "S01/FriendsS01E23.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        1
+      ],
+      "title": "2.01 The One With Ross' New Girlfriend",
+      "path": "S02/FriendsS02E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/201extended.htm",
+      "archive_member": "transcripts/201extended.htm",
+      "bytes": 23410,
+      "sha256": "f26ce133dc576ecb1e111418ec6e130cef9133c4e0a7a98894fe443c73e742ca",
+      "chinese_files": [
+        "S02/FriendsS02E01.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        2
+      ],
+      "title": "2.02 The One With the Breast Milk",
+      "path": "S02/FriendsS02E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/202extended.htm",
+      "archive_member": "transcripts/202extended.htm",
+      "bytes": 23729,
+      "sha256": "67f7b4cca8ef5977371a7cf3d8f696ff0e0cdf170f080c00d6e595d64049089b",
+      "chinese_files": [
+        "S02/FriendsS02E02.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        3
+      ],
+      "title": "2.03 The One Where Heckles Dies",
+      "path": "S02/FriendsS02E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/203extended.htm",
+      "archive_member": "transcripts/203extended.htm",
+      "bytes": 25912,
+      "sha256": "20f9b8a452f523a04a0a80ea89e00020b039439a8003ceb5c74f082c0b17b6c2",
+      "chinese_files": [
+        "S02/FriendsS02E03.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        4
+      ],
+      "title": "2.04 The One With Phoebe's Husband",
+      "path": "S02/FriendsS02E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/204extended.htm",
+      "archive_member": "transcripts/204extended.htm",
+      "bytes": 24437,
+      "sha256": "048f57544e530dd7dcde9b699984e6c410f2952152c4db4f73ab68addf5e897d",
+      "chinese_files": [
+        "S02/FriendsS02E04.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        5
+      ],
+      "title": "2.05 The One With Five Steaks and an Eggplant",
+      "path": "S02/FriendsS02E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/205extended.htm",
+      "archive_member": "transcripts/205extended.htm",
+      "bytes": 28297,
+      "sha256": "a662e92fbe347b302440fa7d41c03d87932d3786633184375ed18ea6deba5b0b",
+      "chinese_files": [
+        "S02/FriendsS02E05.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        6
+      ],
+      "title": "2.06 The One With the Baby on the Bus",
+      "path": "S02/FriendsS02E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/206extended.htm",
+      "archive_member": "transcripts/206extended.htm",
+      "bytes": 28511,
+      "sha256": "cc0f6be114725489dd58aa416971cbdeba0584612cfaa17f434839ce62034118",
+      "chinese_files": [
+        "S02/FriendsS02E06.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        7
+      ],
+      "title": "2.07 The One Where Ross Finds Out",
+      "path": "S02/FriendsS02E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/207extended.htm",
+      "archive_member": "transcripts/207extended.htm",
+      "bytes": 23753,
+      "sha256": "c5d29cc45cc6a96dfa13d00d25b8846d63a70650f3c3b66f55d04c9c68f33d71",
+      "chinese_files": [
+        "S02/FriendsS02E07.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        8
+      ],
+      "title": "2.08 The One With the List",
+      "path": "S02/FriendsS02E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/208extended.htm",
+      "archive_member": "transcripts/208extended.htm",
+      "bytes": 36340,
+      "sha256": "8103c9f9e24e0d05acbfc6a2c6cb602ee416d61eed2dc939230b23ec85c11317",
+      "chinese_files": [
+        "S02/FriendsS02E08.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        9
+      ],
+      "title": "2.09 The One With Phoebe's Dad",
+      "path": "S02/FriendsS02E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/209extended.htm",
+      "archive_member": "transcripts/209extended.htm",
+      "bytes": 43589,
+      "sha256": "c22a13f7c249e74d9af19dcf5f58a013948c7ff8ff19f949c846d38d45c96af3",
+      "chinese_files": [
+        "S02/FriendsS02E09.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        10
+      ],
+      "title": "2.10 The One With Russ",
+      "path": "S02/FriendsS02E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/210extended.htm",
+      "archive_member": "transcripts/210extended.htm",
+      "bytes": 43687,
+      "sha256": "3ca417250aac483f948999c1d274e96a792aa55dbc42155d0ae12e901ee02c17",
+      "chinese_files": [
+        "S02/FriendsS02E10.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        11
+      ],
+      "title": "2.11 The One With The Lesbian Wedding",
+      "path": "S02/FriendsS02E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/211extended.htm",
+      "archive_member": "transcripts/211extended.htm",
+      "bytes": 36677,
+      "sha256": "752d933baac382cc9cf4635084099d4f112f3b34ed5a272d666307ef5a8614b6",
+      "chinese_files": [
+        "S02/FriendsS02E11.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        12,
+        13
+      ],
+      "title": "2.12-2.13 The One After the Superbowl, part 1 & 2",
+      "path": "S02/FriendsS02E12-E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/212extended.htm",
+      "archive_member": "transcripts/212extended.htm",
+      "bytes": 82706,
+      "sha256": "94839d2d4669a0058c2f958d5f88b4abc8a476a84bf93183b186ca5c571670a2",
+      "chinese_files": [
+        "S02/FriendsS02E12.txt",
+        "S02/FriendsS02E13.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        14
+      ],
+      "title": "2.14 The One With The Prom Video",
+      "path": "S02/FriendsS02E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/214extended.htm",
+      "archive_member": "transcripts/214extended.htm",
+      "bytes": 26585,
+      "sha256": "52c8b4c1e5f99388323f033080659d424568f6344c3df797ee19d702134836f1",
+      "chinese_files": [
+        "S02/FriendsS02E14.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        15
+      ],
+      "title": "2.15 The One Where Ross and Rachel...You Know",
+      "path": "S02/FriendsS02E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/215extended.htm",
+      "archive_member": "transcripts/215extended.htm",
+      "bytes": 25229,
+      "sha256": "ec5fc8df1990d0be8ee89709189a9928b5bb694762493be166d471a80ebadee2",
+      "chinese_files": [
+        "S02/FriendsS02E15.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        16
+      ],
+      "title": "2.16 The One Where Joey Moves Out",
+      "path": "S02/FriendsS02E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/216extended.htm",
+      "archive_member": "transcripts/216extended.htm",
+      "bytes": 51701,
+      "sha256": "3ad6a9619104ca34d8d4e9dff4654cf14ff2b9d1d68e3a1294525abb1e7664dd",
+      "chinese_files": [
+        "S02/FriendsS02E16.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        17
+      ],
+      "title": "2.17 The One Where Eddie Moves In",
+      "path": "S02/FriendsS02E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/217extended.htm",
+      "archive_member": "transcripts/217extended.htm",
+      "bytes": 46416,
+      "sha256": "65a86832ff1c9076b633350463c3eee609aec9f277dad35d9148d0f569e49307",
+      "chinese_files": [
+        "S02/FriendsS02E17.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        18
+      ],
+      "title": "2.18 The One Where Dr. Ramoray Dies",
+      "path": "S02/FriendsS02E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/218extended.htm",
+      "archive_member": "transcripts/218extended.htm",
+      "bytes": 44543,
+      "sha256": "8ffbe71b54c258d19a3742f43332d47e6a16757d12db86152cce38ad52ab07ab",
+      "chinese_files": [
+        "S02/FriendsS02E18.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        19
+      ],
+      "title": "2.19 The One Where Eddie Won't Go",
+      "path": "S02/FriendsS02E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/219extended.htm",
+      "archive_member": "transcripts/219extended.htm",
+      "bytes": 47951,
+      "sha256": "88a53c6031bf2b01808e0aaba42536ed2450cc2ca64810362b46859adce1ceaf",
+      "chinese_files": [
+        "S02/FriendsS02E19.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        20
+      ],
+      "title": "2.20 The One Where Old Yeller Dies",
+      "path": "S02/FriendsS02E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/220extended.htm",
+      "archive_member": "transcripts/220extended.htm",
+      "bytes": 48802,
+      "sha256": "dc84f01ab85411adcbde56848046aea3469b7e1293328c49d6c5be9d9515f257",
+      "chinese_files": [
+        "S02/FriendsS02E20.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        21
+      ],
+      "title": "2.21 The One With The Bullies",
+      "path": "S02/FriendsS02E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/221extended.htm",
+      "archive_member": "transcripts/221extended.htm",
+      "bytes": 48850,
+      "sha256": "38b2cc004adae8fb933f5cb81fb523b67a002d0aa6a34412651cd679a126c338",
+      "chinese_files": [
+        "S02/FriendsS02E21.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        22
+      ],
+      "title": "2.22 The One With Two Parties",
+      "path": "S02/FriendsS02E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/222extended.htm",
+      "archive_member": "transcripts/222extended.htm",
+      "bytes": 41568,
+      "sha256": "bbb97c60cb1d93d669ea1ceec9bf9ab5b855e96ed7bd149b70fef64e2001cfd3",
+      "chinese_files": [
+        "S02/FriendsS02E22.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        23
+      ],
+      "title": "2.23 The One With The Chicken Pox",
+      "path": "S02/FriendsS02E23.html",
+      "source_url": "https://www.friends-tv.org/transcripts/223extended.htm",
+      "archive_member": "transcripts/223extended.htm",
+      "bytes": 42353,
+      "sha256": "19af2e0c0c6c3d4cfa2c0941fd9bf985a05a6548496b83ff75a4375d3fb79424",
+      "chinese_files": [
+        "S02/FriendsS02E23.txt"
+      ]
+    },
+    {
+      "season": 2,
+      "episodes": [
+        24
+      ],
+      "title": "2.24 The One With Barry & Mindy's Wedding",
+      "path": "S02/FriendsS02E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/224extended.htm",
+      "archive_member": "transcripts/224extended.htm",
+      "bytes": 39123,
+      "sha256": "a18e601c96a12850f15e43207a6bbe59fd3154ebc51cc60e334252b9f5b9784f",
+      "chinese_files": [
+        "S02/FriendsS02E24.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        1
+      ],
+      "title": "3.01 The One With The Princess Leia Fantasy",
+      "path": "S03/FriendsS03E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/301extended.htm",
+      "archive_member": "transcripts/301extended.htm",
+      "bytes": 24957,
+      "sha256": "87ac85d43f1d531522380714a42e82cc73e19b63d1e9622d8be948fa54fc0b03",
+      "chinese_files": [
+        "S03/FriendsS03E01.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        2
+      ],
+      "title": "3.02 The One Where No One's Ready",
+      "path": "S03/FriendsS03E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/302extended.htm",
+      "archive_member": "transcripts/302extended.htm",
+      "bytes": 26223,
+      "sha256": "8215aaf107ec00e6e151243da64bb1af00c73b53e809b9b45c60efd7c6a1fb42",
+      "chinese_files": [
+        "S03/FriendsS03E02.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        3
+      ],
+      "title": "3.03 The One With The Jam",
+      "path": "S03/FriendsS03E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/303extended.htm",
+      "archive_member": "transcripts/303extended.htm",
+      "bytes": 23056,
+      "sha256": "7ffac5a7c767b1abe75361aa5ef0c4531d008153474a15de67f81e92dbaf3847",
+      "chinese_files": [
+        "S03/FriendsS03E03.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        4
+      ],
+      "title": "3.04 The One With The Metaphorical Tunnel",
+      "path": "S03/FriendsS03E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/304extended.htm",
+      "archive_member": "transcripts/304extended.htm",
+      "bytes": 27336,
+      "sha256": "02482aa9ea1f46e97bdc536cbb381a17b731c5499a09053bd641826a1cc267c2",
+      "chinese_files": [
+        "S03/FriendsS03E04.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        5
+      ],
+      "title": "3.05 The One With Frank, Jr.",
+      "path": "S03/FriendsS03E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/305extended.htm",
+      "archive_member": "transcripts/305extended.htm",
+      "bytes": 26992,
+      "sha256": "8ffb478fe8eab03c5795a3476b6b0a681c7cc8ee56dd889b494bea419e740fa0",
+      "chinese_files": [
+        "S03/FriendsS03E05.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        6
+      ],
+      "title": "3.06 The One With The Flashback",
+      "path": "S03/FriendsS03E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/306extended.htm",
+      "archive_member": "transcripts/306extended.htm",
+      "bytes": 24345,
+      "sha256": "9ebc4cd365441e13fefc947df7a8b9ba3b813c67fcd5b210993cd321c2c0d5ae",
+      "chinese_files": [
+        "S03/FriendsS03E06.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        7
+      ],
+      "title": "3.07 The One With The Racecar Bed",
+      "path": "S03/FriendsS03E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/307extended.htm",
+      "archive_member": "transcripts/307extended.htm",
+      "bytes": 25771,
+      "sha256": "8b06f5abcad11cc44a2b36964c959882511a6a1a840c162f3fa343d47907f7b1",
+      "chinese_files": [
+        "S03/FriendsS03E07.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        8
+      ],
+      "title": "3.08 The One With The Giant Poking Device",
+      "path": "S03/FriendsS03E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/308extended.htm",
+      "archive_member": "transcripts/308extended.htm",
+      "bytes": 24511,
+      "sha256": "17cb368eb2fb49e864f7831994a7655de75e2c1b9fe4ef23f55aa6d01175e5db",
+      "chinese_files": [
+        "S03/FriendsS03E08.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        9
+      ],
+      "title": "3.09 The One With The Football",
+      "path": "S03/FriendsS03E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/309extended.htm",
+      "archive_member": "transcripts/309extended.htm",
+      "bytes": 41164,
+      "sha256": "531d0a0d3d7b911ed42acd986908db66e60cf8737fc89bcf6fa4744979e9f441",
+      "chinese_files": [
+        "S03/FriendsS03E09.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        10
+      ],
+      "title": "3.10 The One Where Rachel Quits",
+      "path": "S03/FriendsS03E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/310extended.htm",
+      "archive_member": "transcripts/310extended.htm",
+      "bytes": 25121,
+      "sha256": "55ce7b4c34f69af896e145b474f5cc18f2154c4572334cf74da491f9aea8d2fc",
+      "chinese_files": [
+        "S03/FriendsS03E10.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        11
+      ],
+      "title": "3.11 The One Where Chandler Can't Remember Which Sister",
+      "path": "S03/FriendsS03E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/311extended.htm",
+      "archive_member": "transcripts/311extended.htm",
+      "bytes": 28083,
+      "sha256": "b3220c628a1baf5387eb5124f1c7958bad9a56b9c16d3f7e76636416dbf038f9",
+      "chinese_files": [
+        "S03/FriendsS03E11.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        12
+      ],
+      "title": "3.12 The One With All The Jealousy",
+      "path": "S03/FriendsS03E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/312extended.htm",
+      "archive_member": "transcripts/312extended.htm",
+      "bytes": 25439,
+      "sha256": "005d2ea547bc303f289974558b1aff9abf1a22de94108b7e86335087662048bf",
+      "chinese_files": [
+        "S03/FriendsS03E12.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        13
+      ],
+      "title": "3.13 The One Where Monica and Richard Are Just Friends",
+      "path": "S03/FriendsS03E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/313extended.htm",
+      "archive_member": "transcripts/313extended.htm",
+      "bytes": 26291,
+      "sha256": "c7f23c3ebeb8d9546b01ccaa061aaa651a5a17e5d99e48063dc255b5d912b5bb",
+      "chinese_files": [
+        "S03/FriendsS03E13.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        14
+      ],
+      "title": "3.14 The One With Phoebe's Ex-Partner",
+      "path": "S03/FriendsS03E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/314extended.htm",
+      "archive_member": "transcripts/314extended.htm",
+      "bytes": 23888,
+      "sha256": "3adaec52e688a4dfd00cd0f25ccbef4401a74836f7fc8f61514378a2a75dda5d",
+      "chinese_files": [
+        "S03/FriendsS03E14.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        15
+      ],
+      "title": "3.15 The One Where Ross And Rachel Take A Break",
+      "path": "S03/FriendsS03E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/315extended.htm",
+      "archive_member": "transcripts/315extended.htm",
+      "bytes": 25982,
+      "sha256": "6b197fb8779bd310c5705de01b77faa8038549b61aff3abd0eacb9ecb74602a5",
+      "chinese_files": [
+        "S03/FriendsS03E15.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        16
+      ],
+      "title": "3.16 The One The Morning After",
+      "path": "S03/FriendsS03E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/316extended.htm",
+      "archive_member": "transcripts/316extended.htm",
+      "bytes": 29010,
+      "sha256": "197f9139ace80474a8e299ecfa01127c198e76acf1c60f1275693b55a8fbbb65",
+      "chinese_files": [
+        "S03/FriendsS03E16.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        17
+      ],
+      "title": "3.17 The One Without The Ski Trip",
+      "path": "S03/FriendsS03E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/317extended.htm",
+      "archive_member": "transcripts/317extended.htm",
+      "bytes": 27962,
+      "sha256": "1621d9954ec06caa72020b38a44c02ea20887dc578a64406bc3139a4a31d8747",
+      "chinese_files": [
+        "S03/FriendsS03E17.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        18
+      ],
+      "title": "3.18 The One With The Hypnosis Tape",
+      "path": "S03/FriendsS03E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/318extended.htm",
+      "archive_member": "transcripts/318extended.htm",
+      "bytes": 26921,
+      "sha256": "6751cf9521a8807006e822c2b584224fb48f59956390ee5a16a7a5390272a586",
+      "chinese_files": [
+        "S03/FriendsS03E18.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        19
+      ],
+      "title": "3.19 The One With The Tiny T-Shirt",
+      "path": "S03/FriendsS03E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/319extended.htm",
+      "archive_member": "transcripts/319extended.htm",
+      "bytes": 25077,
+      "sha256": "3e41c63489cbe99ddceac4ed91a400965db1e5690a5ade4bd33901a2490c10c5",
+      "chinese_files": [
+        "S03/FriendsS03E19.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        20
+      ],
+      "title": "3.20 The One With The Dollhouse",
+      "path": "S03/FriendsS03E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/320extended.htm",
+      "archive_member": "transcripts/320extended.htm",
+      "bytes": 26728,
+      "sha256": "345c52c88c215ae8e1e84b9084bc612932f0598d67834f4c6d260df1aa5ab62e",
+      "chinese_files": [
+        "S03/FriendsS03E20.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        21
+      ],
+      "title": "3.21 The One With a Chick. And a Duck.",
+      "path": "S03/FriendsS03E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/321extended.htm",
+      "archive_member": "transcripts/321extended.htm",
+      "bytes": 29563,
+      "sha256": "919d681b10650b7d57463da11d7fc6ab0632b2898905dfc31e01b593610b02f3",
+      "chinese_files": [
+        "S03/FriendsS03E21.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        22
+      ],
+      "title": "3.22 The One With The Screamer",
+      "path": "S03/FriendsS03E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/322extended.htm",
+      "archive_member": "transcripts/322extended.htm",
+      "bytes": 27329,
+      "sha256": "b85bbf568841d9bb6fe6f7d25b4c9c6819e9b63b11c852aaaa62e7a48f242e72",
+      "chinese_files": [
+        "S03/FriendsS03E22.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        23
+      ],
+      "title": "3.23 The One With Ross's Thing",
+      "path": "S03/FriendsS03E23.html",
+      "source_url": "https://www.friends-tv.org/transcripts/323extended.htm",
+      "archive_member": "transcripts/323extended.htm",
+      "bytes": 27288,
+      "sha256": "4fdb9a709fee548587de77a5402cafee318faa7ca2637cc57a09527616e78c30",
+      "chinese_files": [
+        "S03/FriendsS03E23.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        24
+      ],
+      "title": "3.24 The One With The Ultimate Fighting Champion",
+      "path": "S03/FriendsS03E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/324extended.htm",
+      "archive_member": "transcripts/324extended.htm",
+      "bytes": 27379,
+      "sha256": "0c5ba4bf95d3b1af41414bb19f067953f37cf038c9126de05e02896900d9c7c1",
+      "chinese_files": [
+        "S03/FriendsS03E24.txt"
+      ]
+    },
+    {
+      "season": 3,
+      "episodes": [
+        25
+      ],
+      "title": "3.25 The One At The Beach",
+      "path": "S03/FriendsS03E25.html",
+      "source_url": "https://www.friends-tv.org/transcripts/325extended.htm",
+      "archive_member": "transcripts/325extended.htm",
+      "bytes": 29893,
+      "sha256": "230ec8fb24388c3df267f44723fce54dee223b3706157109c3a7c0a0c1f80b76",
+      "chinese_files": [
+        "S03/FriendsS03E25.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        1
+      ],
+      "title": "4.01 The One With The Jellyfish",
+      "path": "S04/FriendsS04E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/401extended.htm",
+      "archive_member": "transcripts/401extended.htm",
+      "bytes": 25207,
+      "sha256": "efe8f8d107b3950d5ecc70f7e51a31eb4b9823e034a7d87fc19d2cf3af05cc43",
+      "chinese_files": [
+        "S04/FriendsS04E01.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        2
+      ],
+      "title": "4.02 The One With The Cat",
+      "path": "S04/FriendsS04E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/402extended.htm",
+      "archive_member": "transcripts/402extended.htm",
+      "bytes": 26740,
+      "sha256": "bd0e1973d6d7b91bacf03a578428f2c99b3ccec5ce22f567a0228865dd278710",
+      "chinese_files": [
+        "S04/FriendsS04E02.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        3
+      ],
+      "title": "4.03 The One With The 'Cuffs",
+      "path": "S04/FriendsS04E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/403extended.htm",
+      "archive_member": "transcripts/403extended.htm",
+      "bytes": 27022,
+      "sha256": "83c76df5c4d257514a27a8949d0006e6d57f1beb3ae8af4abe357df9be3c6f44",
+      "chinese_files": [
+        "S04/FriendsS04E03.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        4
+      ],
+      "title": "4.04 The One With The Ballroom Dancing",
+      "path": "S04/FriendsS04E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/404extended.htm",
+      "archive_member": "transcripts/404extended.htm",
+      "bytes": 24619,
+      "sha256": "1aa57a3d0b7d968af1aabb70b905b3aee481c57d2a02ca50a5c57f682274a209",
+      "chinese_files": [
+        "S04/FriendsS04E04.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        5
+      ],
+      "title": "4.05 The One With Joey's New Girlfriend",
+      "path": "S04/FriendsS04E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/405extended.htm",
+      "archive_member": "transcripts/405extended.htm",
+      "bytes": 37067,
+      "sha256": "00b2403d28bcc01f58b22ffa556dea417ffc9fdaf431ded43e70008a2cffd405",
+      "chinese_files": [
+        "S04/FriendsS04E05.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        6
+      ],
+      "title": "4.06 The One With The Dirty Girl",
+      "path": "S04/FriendsS04E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/406extended.htm",
+      "archive_member": "transcripts/406extended.htm",
+      "bytes": 25886,
+      "sha256": "dcf8ee5f53dbaaed8211038e69bcc00731811553c1e4f662efb7322bec2bd996",
+      "chinese_files": [
+        "S04/FriendsS04E06.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        7
+      ],
+      "title": "4.07 The One Where Chandler Crosses The Line",
+      "path": "S04/FriendsS04E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/407extended.htm",
+      "archive_member": "transcripts/407extended.htm",
+      "bytes": 28271,
+      "sha256": "237a92c484a733faae31b746a3e0f233abd58b2b6c37f9394034d146cab47553",
+      "chinese_files": [
+        "S04/FriendsS04E07.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        8
+      ],
+      "title": "4.08 The One With Chandler In A Box",
+      "path": "S04/FriendsS04E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/408extended.htm",
+      "archive_member": "transcripts/408extended.htm",
+      "bytes": 29850,
+      "sha256": "1d33798f0ba80ad0c332c3a3207020e4fb7667de0d8ad7af869cda7bd3e8204a",
+      "chinese_files": [
+        "S04/FriendsS04E08.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        9
+      ],
+      "title": "4.09 The One Where They're Going To PARTY!",
+      "path": "S04/FriendsS04E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/409extended.htm",
+      "archive_member": "transcripts/409extended.htm",
+      "bytes": 24877,
+      "sha256": "5ef6efae8538fb548e6168c1d1d54936ce52bf4a5f31b39a93f468f1e9835f87",
+      "chinese_files": [
+        "S04/FriendsS04E09.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        10
+      ],
+      "title": "4.10 The One With The Girl From Poughkeepsie",
+      "path": "S04/FriendsS04E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/410extended.htm",
+      "archive_member": "transcripts/410extended.htm",
+      "bytes": 24593,
+      "sha256": "b37ade6a5be2b5ce6ec9118375004f317324570718dd86d3cd6aa5682cbec45a",
+      "chinese_files": [
+        "S04/FriendsS04E10.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        11
+      ],
+      "title": "4.11 The One With Phoebe's Uterus",
+      "path": "S04/FriendsS04E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/411extended.htm",
+      "archive_member": "transcripts/411extended.htm",
+      "bytes": 28463,
+      "sha256": "d345ad6c9352addd2597b327502177a74d1d3d80b100b3bbbf66e175dfbe7b9c",
+      "chinese_files": [
+        "S04/FriendsS04E11.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        12
+      ],
+      "title": "4.12 The One With The Embryos",
+      "path": "S04/FriendsS04E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/412extended.htm",
+      "archive_member": "transcripts/412extended.htm",
+      "bytes": 26470,
+      "sha256": "442967ad84059a6e42e3c8e0707b7c3bdb3d667016fd7c5c4339e3c0a79d71a3",
+      "chinese_files": [
+        "S04/FriendsS04E12.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        13
+      ],
+      "title": "4.13 The One With Rachel's Crush",
+      "path": "S04/FriendsS04E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/413extended.htm",
+      "archive_member": "transcripts/413extended.htm",
+      "bytes": 27577,
+      "sha256": "db4f1b1a55cffac82e314e5c340110300c83668abd967166f4b332705f35faf4",
+      "chinese_files": [
+        "S04/FriendsS04E13.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        14
+      ],
+      "title": "4.14 The One With Joey's Dirty Day",
+      "path": "S04/FriendsS04E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/414extended.htm",
+      "archive_member": "transcripts/414extended.htm",
+      "bytes": 29246,
+      "sha256": "6e9bca5a7db3b16ea775a5c04c0e3a7ea94535565c7317b9619b1a3583ea587b",
+      "chinese_files": [
+        "S04/FriendsS04E14.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        15
+      ],
+      "title": "4.15 The One With All The Rugby",
+      "path": "S04/FriendsS04E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/415extended.htm",
+      "archive_member": "transcripts/415extended.htm",
+      "bytes": 26992,
+      "sha256": "a002300a7b56b5ccc4c38379614d67824b7a3a993cbb5a261ab81c455d1707b0",
+      "chinese_files": [
+        "S04/FriendsS04E15.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        16
+      ],
+      "title": "4.16 The One With The Fake Party",
+      "path": "S04/FriendsS04E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/416extended.htm",
+      "archive_member": "transcripts/416extended.htm",
+      "bytes": 28294,
+      "sha256": "b4ba2d1919bbb1bb9a8c3ba9b72756bbaf7bd987ee701d86ebc9aa06c54d6514",
+      "chinese_files": [
+        "S04/FriendsS04E16.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        17
+      ],
+      "title": "4.17 The One With The Free Porn",
+      "path": "S04/FriendsS04E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/417extended.htm",
+      "archive_member": "transcripts/417extended.htm",
+      "bytes": 28641,
+      "sha256": "e7c00845e76a76e3eec911250cd4da52f948aaecbd0beec84be004c176a86ac1",
+      "chinese_files": [
+        "S04/FriendsS04E17.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        18
+      ],
+      "title": "4.18 The One With Rachel's New Dress",
+      "path": "S04/FriendsS04E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/418extended.htm",
+      "archive_member": "transcripts/418extended.htm",
+      "bytes": 25394,
+      "sha256": "99778365b8af807731bec8c14dfaab23f2ace9f275f9189144d9d2aa34165749",
+      "chinese_files": [
+        "S04/FriendsS04E18.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        19
+      ],
+      "title": "4.19 The One With All The Haste",
+      "path": "S04/FriendsS04E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/419extended.htm",
+      "archive_member": "transcripts/419extended.htm",
+      "bytes": 23885,
+      "sha256": "e0e5aaf41a329de93e87d3025d082d66f41d2b392cb6e9ea32ad2858701feeba",
+      "chinese_files": [
+        "S04/FriendsS04E19.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        20
+      ],
+      "title": "4.20 The One With All The Wedding Dresses",
+      "path": "S04/FriendsS04E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/420extended.htm",
+      "archive_member": "transcripts/420extended.htm",
+      "bytes": 24305,
+      "sha256": "d93a1dd5cea722fb3f9cb3f69ec24a277dd779ff7537204e122417ab3d2c6d01",
+      "chinese_files": [
+        "S04/FriendsS04E20.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        21
+      ],
+      "title": "4.21 The One With The Invitation",
+      "path": "S04/FriendsS04E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/421extended.htm",
+      "archive_member": "transcripts/421extended.htm",
+      "bytes": 31176,
+      "sha256": "86fd674e77f50804eb2f6056918fc3c63f297814b463f013e25198e13edd0d14",
+      "chinese_files": [
+        "S04/FriendsS04E21.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        22
+      ],
+      "title": "4.22 The One With The Worst Best Man Ever",
+      "path": "S04/FriendsS04E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/422extended.htm",
+      "archive_member": "transcripts/422extended.htm",
+      "bytes": 29691,
+      "sha256": "c2316ab83df512fcd0a718819f5136a927c75abfb7f7668c6b58fbfaa2403d96",
+      "chinese_files": [
+        "S04/FriendsS04E22.txt"
+      ]
+    },
+    {
+      "season": 4,
+      "episodes": [
+        23,
+        24
+      ],
+      "title": "4.23-4.24 The One With Ross's Wedding, part 1 & 2",
+      "path": "S04/FriendsS04E23-E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/423extended.htm",
+      "archive_member": "transcripts/423extended.htm",
+      "bytes": 72417,
+      "sha256": "85be5c9627aabfa91be3b81858fcbebe85c9b26d4d433ef286f0041286efbd0a",
+      "chinese_files": [
+        "S04/FriendsS04E23.txt",
+        "S04/FriendsS04E24.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        1
+      ],
+      "title": "5.01 The One After Ross Says Rachel",
+      "path": "S05/FriendsS05E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/501extended.htm",
+      "archive_member": "transcripts/501extended.htm",
+      "bytes": 28313,
+      "sha256": "f6dada2be79a7bfe74818b8d101951bdf7f915ac21202d800a2a436e50720fe1",
+      "chinese_files": [
+        "S05/FriendsS05E01.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        2
+      ],
+      "title": "5.02 The One With All The Kissing",
+      "path": "S05/FriendsS05E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/502extended.htm",
+      "archive_member": "transcripts/502extended.htm",
+      "bytes": 29224,
+      "sha256": "f5301dbf35e53f58807eaca08abacb11d7ec601b8d3f59b54e1e51740865bce6",
+      "chinese_files": [
+        "S05/FriendsS05E02.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        3
+      ],
+      "title": "5.03 The One Hundredth",
+      "path": "S05/FriendsS05E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/503extended.htm",
+      "archive_member": "transcripts/503extended.htm",
+      "bytes": 24981,
+      "sha256": "ff2c2ea2cbeef14d64c4cabdce0fc96af72a6756120f31d6b16ff7c371a445cf",
+      "chinese_files": [
+        "S05/FriendsS05E03.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        4
+      ],
+      "title": "5.04 The One Where Phoebe Hates PBS",
+      "path": "S05/FriendsS05E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/504extended.htm",
+      "archive_member": "transcripts/504extended.htm",
+      "bytes": 27517,
+      "sha256": "04acf36a23d13d09bcd185948ad0f6fc2940f7f1de9c444ffe9f133a637d5d68",
+      "chinese_files": [
+        "S05/FriendsS05E04.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        5
+      ],
+      "title": "5.05 The One With The Kips",
+      "path": "S05/FriendsS05E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/505extended.htm",
+      "archive_member": "transcripts/505extended.htm",
+      "bytes": 28036,
+      "sha256": "bbb7e619bf470bf4ebd631793acf655c69d3166e8ebb770e2d801000692f9fdf",
+      "chinese_files": [
+        "S05/FriendsS05E05.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        6
+      ],
+      "title": "5.06 The One With The Yeti",
+      "path": "S05/FriendsS05E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/506extended.htm",
+      "archive_member": "transcripts/506extended.htm",
+      "bytes": 26112,
+      "sha256": "63c6989ac13ac94f48198ad544f9717da35c7a574686f4a97ae34b7320606feb",
+      "chinese_files": [
+        "S05/FriendsS05E06.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        7
+      ],
+      "title": "5.07 The One Where Ross Moves In",
+      "path": "S05/FriendsS05E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/507extended.htm",
+      "archive_member": "transcripts/507extended.htm",
+      "bytes": 29179,
+      "sha256": "e7154e404d4d3bccf2ae8f5116966d7a4220801d69d0787a12f49898cfa5662c",
+      "chinese_files": [
+        "S05/FriendsS05E07.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        8
+      ],
+      "title": "5.08 The One With All The Thanksgivings",
+      "path": "S05/FriendsS05E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/508extended.htm",
+      "archive_member": "transcripts/508extended.htm",
+      "bytes": 28774,
+      "sha256": "4a47517f2fe8bf3c03944861baa83d5118eae6d4a62a3d30d9ef6968d550c29a",
+      "chinese_files": [
+        "S05/FriendsS05E08.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        9
+      ],
+      "title": "5.09 The One With Ross's Sandwich",
+      "path": "S05/FriendsS05E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/509extended.htm",
+      "archive_member": "transcripts/509extended.htm",
+      "bytes": 25810,
+      "sha256": "cddf22a3142a9605765a906060d47339b7cd1ab37ab402a5beb39044d32e4f0e",
+      "chinese_files": [
+        "S05/FriendsS05E09.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        10
+      ],
+      "title": "5.10 The One With The Inappropriate Sister",
+      "path": "S05/FriendsS05E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/510extended.htm",
+      "archive_member": "transcripts/510extended.htm",
+      "bytes": 29900,
+      "sha256": "94bd43ab363ae223309351b47b8c53f00c5d350b5efd636794d667729b75aa84",
+      "chinese_files": [
+        "S05/FriendsS05E10.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        11
+      ],
+      "title": "5.11 The One With All The Resolutions",
+      "path": "S05/FriendsS05E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/511extended.htm",
+      "archive_member": "transcripts/511extended.htm",
+      "bytes": 30582,
+      "sha256": "afb630ef66156ec67df59685bd4bfa199d58719dcd9e7d31f4b32f20449bde65",
+      "chinese_files": [
+        "S05/FriendsS05E11.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        12
+      ],
+      "title": "5.12 The One With Chandler's Work Laugh",
+      "path": "S05/FriendsS05E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/512extended.htm",
+      "archive_member": "transcripts/512extended.htm",
+      "bytes": 27035,
+      "sha256": "cc209bf77ca5b15cf06cf72c6def70151ca55da0a5dc429482b4b487d331b0b8",
+      "chinese_files": [
+        "S05/FriendsS05E12.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        13
+      ],
+      "title": "5.13 The One With Joey's Bag",
+      "path": "S05/FriendsS05E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/513extended.htm",
+      "archive_member": "transcripts/513extended.htm",
+      "bytes": 27085,
+      "sha256": "81ddf60941b91cd171243bdff9d0d6cc6867236c09e112fef0cadfebe9bc52ca",
+      "chinese_files": [
+        "S05/FriendsS05E13.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        14
+      ],
+      "title": "5.14 The One Where Everybody Finds Out",
+      "path": "S05/FriendsS05E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/514extended.htm",
+      "archive_member": "transcripts/514extended.htm",
+      "bytes": 29558,
+      "sha256": "752c299f20b958cea3dc33e41c34002f3420b9eb7b8acd1b07527f670f72895c",
+      "chinese_files": [
+        "S05/FriendsS05E14.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        15
+      ],
+      "title": "5.15 The One With The Girl Who Hits Joey",
+      "path": "S05/FriendsS05E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/515extended.htm",
+      "archive_member": "transcripts/515extended.htm",
+      "bytes": 26630,
+      "sha256": "f305f1058c9446165b87ce7787df34be32e16476a7e86b5939d7dab03199a22f",
+      "chinese_files": [
+        "S05/FriendsS05E15.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        16
+      ],
+      "title": "5.16 The One With The Cop",
+      "path": "S05/FriendsS05E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/516extended.htm",
+      "archive_member": "transcripts/516extended.htm",
+      "bytes": 32405,
+      "sha256": "9c25b12fa24faa37cd5e41846047e652256286dd95c2e132aa7eb32c08b9d567",
+      "chinese_files": [
+        "S05/FriendsS05E16.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        17
+      ],
+      "title": "5.17 The One With Rachel's Inadvertent Kiss",
+      "path": "S05/FriendsS05E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/517extended.htm",
+      "archive_member": "transcripts/517extended.htm",
+      "bytes": 27543,
+      "sha256": "a53e139f05760eedf95fcb6b1ee4a8cb69ff6f768643c06d47808ff783f3247c",
+      "chinese_files": [
+        "S05/FriendsS05E17.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        18
+      ],
+      "title": "5.18 The One Where Rachel Smokes",
+      "path": "S05/FriendsS05E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/518extended.htm",
+      "archive_member": "transcripts/518extended.htm",
+      "bytes": 32760,
+      "sha256": "9f12b32d74905b73b1459b979487cd51fc8b0c16eac0f1bcfa87ced2fde81ea9",
+      "chinese_files": [
+        "S05/FriendsS05E18.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        19
+      ],
+      "title": "5.19 The One Where Ross Can't Flirt",
+      "path": "S05/FriendsS05E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/519extended.htm",
+      "archive_member": "transcripts/519extended.htm",
+      "bytes": 28540,
+      "sha256": "e8a63d6f4f70bcb2c6e0ef704fde057b1b00b776ec2b3bafc298f4866149c4a2",
+      "chinese_files": [
+        "S05/FriendsS05E19.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        20
+      ],
+      "title": "5.20 The One With The Ride-Along",
+      "path": "S05/FriendsS05E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/520extended.htm",
+      "archive_member": "transcripts/520extended.htm",
+      "bytes": 26653,
+      "sha256": "8d57e7e6626c83e09de73d7f745478c563602801c494c7ed1090c278d4a0fe99",
+      "chinese_files": [
+        "S05/FriendsS05E20.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        21
+      ],
+      "title": "5.21 The One With The Ball",
+      "path": "S05/FriendsS05E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/521extended.htm",
+      "archive_member": "transcripts/521extended.htm",
+      "bytes": 30173,
+      "sha256": "b7ac66f01fb10561241437169a3b5bea4b9d53afae454481da7db11e1dc392d5",
+      "chinese_files": [
+        "S05/FriendsS05E21.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        22
+      ],
+      "title": "5.22 The One With Joey's Big Break",
+      "path": "S05/FriendsS05E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/522extended.htm",
+      "archive_member": "transcripts/522extended.htm",
+      "bytes": 32498,
+      "sha256": "86cd6086133ccc7e30fde5577798efe0af54d7b903a740941bbae0d3a60c104f",
+      "chinese_files": [
+        "S05/FriendsS05E22.txt"
+      ]
+    },
+    {
+      "season": 5,
+      "episodes": [
+        23,
+        24
+      ],
+      "title": "5.23-5.24 The One In Vegas, part 1 & 2",
+      "path": "S05/FriendsS05E23-E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/523extended.htm",
+      "archive_member": "transcripts/523extended.htm",
+      "bytes": 56202,
+      "sha256": "f2222bae98b37a4ab4ad5c7f24e6419c5d3675ea3dddacf214b487f5de992354",
+      "chinese_files": [
+        "S05/FriendsS05E23.txt",
+        "S05/FriendsS05E24.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        1
+      ],
+      "title": "6.01 The One After Vegas",
+      "path": "S06/FriendsS06E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/601extended.htm",
+      "archive_member": "transcripts/601extended.htm",
+      "bytes": 27834,
+      "sha256": "2babd62e4d216667ddf576537172f02c05e90f23fe60e2e232d03e44ca87a980",
+      "chinese_files": [
+        "S06/FriendsS06E01.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        2
+      ],
+      "title": "6.02 The One Where Ross Hugs Rachel",
+      "path": "S06/FriendsS06E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/602extended.htm",
+      "archive_member": "transcripts/602extended.htm",
+      "bytes": 27566,
+      "sha256": "54d4fee7ed617c2ebf707f4f40e7f62aad389346838b10cdaafee50333cc51be",
+      "chinese_files": [
+        "S06/FriendsS06E02.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        3
+      ],
+      "title": "6.03 The One With Ross's Denial",
+      "path": "S06/FriendsS06E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/603extended.htm",
+      "archive_member": "transcripts/603extended.htm",
+      "bytes": 27143,
+      "sha256": "e3504a4f08fe24ba9ee100eeba5874e064c0499f6473dc74f4e2cfc509cb362d",
+      "chinese_files": [
+        "S06/FriendsS06E03.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        4
+      ],
+      "title": "6.04 The One Where Joey Loses His Insurance",
+      "path": "S06/FriendsS06E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/604extended.htm",
+      "archive_member": "transcripts/604extended.htm",
+      "bytes": 27225,
+      "sha256": "82603d7dcef79417ae9c8acd1f58dda778cf1c37ef2972f2e4f75be90bd2df7d",
+      "chinese_files": [
+        "S06/FriendsS06E04.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        5
+      ],
+      "title": "6.05 The One With Joey's Porsche",
+      "path": "S06/FriendsS06E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/605extended.htm",
+      "archive_member": "transcripts/605extended.htm",
+      "bytes": 28498,
+      "sha256": "66b90b376b5b2bb1028814dd6bbf5ecaecab399b6693b63f98d7e67cec32040c",
+      "chinese_files": [
+        "S06/FriendsS06E05.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        6
+      ],
+      "title": "6.06 The One On The Last Night",
+      "path": "S06/FriendsS06E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/606extended.htm",
+      "archive_member": "transcripts/606extended.htm",
+      "bytes": 27301,
+      "sha256": "cfe9dac22c09233dd3b34b3794c3df7c96fc25a6363e9cce8240504a6d644ea4",
+      "chinese_files": [
+        "S06/FriendsS06E06.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        7
+      ],
+      "title": "6.07 The One Where Phoebe Runs",
+      "path": "S06/FriendsS06E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/607extended.htm",
+      "archive_member": "transcripts/607extended.htm",
+      "bytes": 25642,
+      "sha256": "531fb9073bb383a44a3bd40869e38bb3006be55d1f858de160d98d5e43a6c4eb",
+      "chinese_files": [
+        "S06/FriendsS06E07.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        8
+      ],
+      "title": "6.08 The One With Ross's Teeth",
+      "path": "S06/FriendsS06E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/608extended.htm",
+      "archive_member": "transcripts/608extended.htm",
+      "bytes": 25060,
+      "sha256": "fd568a47cef2239c766a08b0e1e6686520b205081784e71d98d413ca1156d7cf",
+      "chinese_files": [
+        "S06/FriendsS06E08.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        9
+      ],
+      "title": "6.09 The One Where Ross Got High",
+      "path": "S06/FriendsS06E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/609extended.htm",
+      "archive_member": "transcripts/609extended.htm",
+      "bytes": 35489,
+      "sha256": "81a48908b78aafbd453b34900ef59bf9be11c27a3c3093f8ec82185f6d3f1413",
+      "chinese_files": [
+        "S06/FriendsS06E09.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        10
+      ],
+      "title": "6.10 The One With The Routine",
+      "path": "S06/FriendsS06E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/610extended.htm",
+      "archive_member": "transcripts/610extended.htm",
+      "bytes": 26861,
+      "sha256": "753b0e9a1181cffc678d1b7185132700236e40477bd04ca551a9ca1be5fa0b46",
+      "chinese_files": [
+        "S06/FriendsS06E10.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        11
+      ],
+      "title": "6.11 The One With The Apothecary Table",
+      "path": "S06/FriendsS06E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/611extended.htm",
+      "archive_member": "transcripts/611extended.htm",
+      "bytes": 27772,
+      "sha256": "959dee58be73c41769127acf29872b1db62128047748da875f94e7321dfb8631",
+      "chinese_files": [
+        "S06/FriendsS06E11.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        12
+      ],
+      "title": "6.12 The One With The Joke",
+      "path": "S06/FriendsS06E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/612extended.htm",
+      "archive_member": "transcripts/612extended.htm",
+      "bytes": 26208,
+      "sha256": "28c005bfb7de42a22f0d9815d2c97a5d2db76a4519c8e1de472e8461069eb24a",
+      "chinese_files": [
+        "S06/FriendsS06E12.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        13
+      ],
+      "title": "6.13 The One With Rachel's Sister",
+      "path": "S06/FriendsS06E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/613extended.htm",
+      "archive_member": "transcripts/613extended.htm",
+      "bytes": 28575,
+      "sha256": "8eca5d82c45e39840fbea0d073e5c54e209f96acc959ef3b5a5f58a0439019b3",
+      "chinese_files": [
+        "S06/FriendsS06E13.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        14
+      ],
+      "title": "6.14 The One Where Chandler Can't Cry",
+      "path": "S06/FriendsS06E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/614extended.htm",
+      "archive_member": "transcripts/614extended.htm",
+      "bytes": 28191,
+      "sha256": "1ff0929d190da06f0e475937c9644f31964a6f1d0f1a6854fdb4ff94f839fbf3",
+      "chinese_files": [
+        "S06/FriendsS06E14.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        15,
+        16
+      ],
+      "title": "6.15-6.16 The One That Could Have Been, part 1 & 2",
+      "path": "S06/FriendsS06E15-E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/615extended.htm",
+      "archive_member": "transcripts/615extended.htm",
+      "bytes": 53997,
+      "sha256": "dff25eb75227ec161b919aeee486acdb91d9a8219bcc10ec3e87d0a3d193228b",
+      "chinese_files": [
+        "S06/FriendsS06E15.txt",
+        "S06/FriendsS06E16.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        17
+      ],
+      "title": "6.17 The One With Unagi",
+      "path": "S06/FriendsS06E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/617extended.htm",
+      "archive_member": "transcripts/617extended.htm",
+      "bytes": 25987,
+      "sha256": "33f8833c5f4ba1ba92391ed0e108d9ed3977f38f7ed7ffc4efab321474b62c09",
+      "chinese_files": [
+        "S06/FriendsS06E17.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        18
+      ],
+      "title": "6.18 The One Where Ross Dates a Student",
+      "path": "S06/FriendsS06E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/618extended.htm",
+      "archive_member": "transcripts/618extended.htm",
+      "bytes": 28010,
+      "sha256": "b8291fe0a128515814a3c93a3a5c7f8f26d3298dc9ac7ad39bfd8e1c969e90af",
+      "chinese_files": [
+        "S06/FriendsS06E18.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        19
+      ],
+      "title": "6.19 The One With Joey's Fridge",
+      "path": "S06/FriendsS06E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/619extended.htm",
+      "archive_member": "transcripts/619extended.htm",
+      "bytes": 27809,
+      "sha256": "503977892f3f339c87447998c20f9de318af23835ec1de128902d58049e1f0c0",
+      "chinese_files": [
+        "S06/FriendsS06E19.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        20
+      ],
+      "title": "6.20 The One With Mac & C.H.E.E.S.E.",
+      "path": "S06/FriendsS06E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/620extended.htm",
+      "archive_member": "transcripts/620extended.htm",
+      "bytes": 28880,
+      "sha256": "cbde135296b9f116fc4d0e662f89f89536dcbdab03a6f781161afc34ec0cc875",
+      "chinese_files": [
+        "S06/FriendsS06E20.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        21
+      ],
+      "title": "6.21 The One Where Ross Meets Elizabeth's Dad",
+      "path": "S06/FriendsS06E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/621extended.htm",
+      "archive_member": "transcripts/621extended.htm",
+      "bytes": 30538,
+      "sha256": "90b9e098c27417a3feedb0c0fd697bd57bed6af883c85a55c5f02d8150b975f3",
+      "chinese_files": [
+        "S06/FriendsS06E21.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        22
+      ],
+      "title": "6.22 The One Where Paul's The Man",
+      "path": "S06/FriendsS06E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/622extended.htm",
+      "archive_member": "transcripts/622extended.htm",
+      "bytes": 28517,
+      "sha256": "6531cd731ed5d999766171a6ae770ac0d98d83ae50111f81bdee0d7f8789923a",
+      "chinese_files": [
+        "S06/FriendsS06E22.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        23
+      ],
+      "title": "6.23 The One With The Ring",
+      "path": "S06/FriendsS06E23.html",
+      "source_url": "https://www.friends-tv.org/transcripts/623extended.htm",
+      "archive_member": "transcripts/623extended.htm",
+      "bytes": 30830,
+      "sha256": "9f063c78a50249d19273dfe4e2be72badd8aa0878f6988649150285d94088bce",
+      "chinese_files": [
+        "S06/FriendsS06E23.txt"
+      ]
+    },
+    {
+      "season": 6,
+      "episodes": [
+        24,
+        25
+      ],
+      "title": "6.24-6.25 The One With The Proposal, part 1 & 2",
+      "path": "S06/FriendsS06E24-E25.html",
+      "source_url": "https://www.friends-tv.org/transcripts/624extended.htm",
+      "archive_member": "transcripts/624extended.htm",
+      "bytes": 56509,
+      "sha256": "fe4a0f6cacc76070ac7b434aa3ec1f2bdbd23601164eb16a8fb9425dacaabeb4",
+      "chinese_files": [
+        "S06/FriendsS06E24.txt",
+        "S06/FriendsS06E25.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        1
+      ],
+      "title": "7.01 The One With Monica's Thunder",
+      "path": "S07/FriendsS07E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/701extended.htm",
+      "archive_member": "transcripts/701extended.htm",
+      "bytes": 28773,
+      "sha256": "5f7de7b4b1c369a999a06c7ba102e1b16927e7c32520f5c5b0d1c4e7e16b284f",
+      "chinese_files": [
+        "S07/FriendsS07E01.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        2
+      ],
+      "title": "7.02 The One With Rachel's Book",
+      "path": "S07/FriendsS07E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/702extended.htm",
+      "archive_member": "transcripts/702extended.htm",
+      "bytes": 28121,
+      "sha256": "3a3750ce004475fd9df26db879639a6dbbf9e23af799c4f33ed1f9f043255053",
+      "chinese_files": [
+        "S07/FriendsS07E02.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        3
+      ],
+      "title": "7.03 The One With Phoebe's Cookies",
+      "path": "S07/FriendsS07E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/703extended.htm",
+      "archive_member": "transcripts/703extended.htm",
+      "bytes": 25530,
+      "sha256": "3c3ac3156c8d3693caef3cd4f54255ba140e7561dc0cf7d4287cbbbd51dd2ceb",
+      "chinese_files": [
+        "S07/FriendsS07E03.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        4
+      ],
+      "title": "7.04 The One With Rachel's Assistant",
+      "path": "S07/FriendsS07E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/704extended.htm",
+      "archive_member": "transcripts/704extended.htm",
+      "bytes": 27295,
+      "sha256": "18c962a6176ca50df55c934ee1ed027d7bc8877beb9badd8927ad4aab511c4ab",
+      "chinese_files": [
+        "S07/FriendsS07E04.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        5
+      ],
+      "title": "7.05 The One With The Engagement Picture",
+      "path": "S07/FriendsS07E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/705extended.htm",
+      "archive_member": "transcripts/705extended.htm",
+      "bytes": 27436,
+      "sha256": "8305a0e76a54751fecd1a3b3b6243b191e4fad980456bdb7c6daff12848470b6",
+      "chinese_files": [
+        "S07/FriendsS07E05.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        6
+      ],
+      "title": "7.06 The One With The Nap Partners",
+      "path": "S07/FriendsS07E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/706extended.htm",
+      "archive_member": "transcripts/706extended.htm",
+      "bytes": 27313,
+      "sha256": "f41483e2af07b5c51aea9665a39d2d9ba1b58f44139d14b369fbd07e9404031f",
+      "chinese_files": [
+        "S07/FriendsS07E06.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        7
+      ],
+      "title": "7.07 The One With Ross's Library Book",
+      "path": "S07/FriendsS07E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/707extended.htm",
+      "archive_member": "transcripts/707extended.htm",
+      "bytes": 27932,
+      "sha256": "5466b464d4af6a701559fa0c0f4b81ae8d9936b60e6759646e33f027799333e3",
+      "chinese_files": [
+        "S07/FriendsS07E07.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        8
+      ],
+      "title": "7.08 The One Where Chandler Doesn't Like Dogs",
+      "path": "S07/FriendsS07E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/708extended.htm",
+      "archive_member": "transcripts/708extended.htm",
+      "bytes": 27784,
+      "sha256": "161d4cf9d014f6a38825523904651b15a1c51c3b29b25141e0bb019408a077e8",
+      "chinese_files": [
+        "S07/FriendsS07E08.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        9
+      ],
+      "title": "7.09 The One With All The Candy",
+      "path": "S07/FriendsS07E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/709extended.htm",
+      "archive_member": "transcripts/709extended.htm",
+      "bytes": 26874,
+      "sha256": "1871cbf316c8e60adc1103e1d19ea57d87d1a8eaa2ec051d84c729ac659fdf1a",
+      "chinese_files": [
+        "S07/FriendsS07E09.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        10
+      ],
+      "title": "7.10 The One With the Holiday Armadillo",
+      "path": "S07/FriendsS07E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/710extended.htm",
+      "archive_member": "transcripts/710extended.htm",
+      "bytes": 26707,
+      "sha256": "3a1e3fd1efe779b25a6ca07b9814accf8c492c42cc9bbcf5d71c9f4d246991d0",
+      "chinese_files": [
+        "S07/FriendsS07E10.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        11
+      ],
+      "title": "7.11 The One With All The Cheesecakes",
+      "path": "S07/FriendsS07E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/711extended.htm",
+      "archive_member": "transcripts/711extended.htm",
+      "bytes": 30583,
+      "sha256": "01db33d325c1e6bae8f0d13b1f44338f786ee5163bfcfdb7f7b57af7cb258929",
+      "chinese_files": [
+        "S07/FriendsS07E11.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        12
+      ],
+      "title": "7.12 The One Where They're Up All Night",
+      "path": "S07/FriendsS07E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/712extended.htm",
+      "archive_member": "transcripts/712extended.htm",
+      "bytes": 26048,
+      "sha256": "a9c23da0598466bc9ae69eaf2a8ae451a87dc1964cbe30408e0283a525a8a36e",
+      "chinese_files": [
+        "S07/FriendsS07E12.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        13
+      ],
+      "title": "7.13 The One Where Rosita Dies",
+      "path": "S07/FriendsS07E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/713extended.htm",
+      "archive_member": "transcripts/713extended.htm",
+      "bytes": 34351,
+      "sha256": "1ac095e5b66c734f0d4dda8647bd5c9f16b7ea2907df1e021433dd33561c33b7",
+      "chinese_files": [
+        "S07/FriendsS07E13.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        14
+      ],
+      "title": "7.14 The One Where They All Turn Thirty",
+      "path": "S07/FriendsS07E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/714extended.htm",
+      "archive_member": "transcripts/714extended.htm",
+      "bytes": 32687,
+      "sha256": "1cb4742028f8945bdc44f841f3af511f8dc3afdc8a2a7d2c80e7676ddd6c250d",
+      "chinese_files": [
+        "S07/FriendsS07E14.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        15
+      ],
+      "title": "7.15 The One With Joey's New Brain",
+      "path": "S07/FriendsS07E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/715extended.htm",
+      "archive_member": "transcripts/715extended.htm",
+      "bytes": 37030,
+      "sha256": "7ff4876449f5a2ee01bf98186f0ba651520c8661cf701ef547424aa06f883bc8",
+      "chinese_files": [
+        "S07/FriendsS07E15.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        16
+      ],
+      "title": "7.16 The One With The Truth About London",
+      "path": "S07/FriendsS07E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/716extended.htm",
+      "archive_member": "transcripts/716extended.htm",
+      "bytes": 40349,
+      "sha256": "c70002dfb645455b4d86560941bb8f80ff4bec944e4e54a17f96e84ecb1dffcb",
+      "chinese_files": [
+        "S07/FriendsS07E16.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        17
+      ],
+      "title": "7.17 The One With The Cheap Wedding Dress",
+      "path": "S07/FriendsS07E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/717extended.htm",
+      "archive_member": "transcripts/717extended.htm",
+      "bytes": 26621,
+      "sha256": "34e0e9d29f829e7bfe77564031e2eb99e3a924cab4a7b2d1c7504e1b2132a565",
+      "chinese_files": [
+        "S07/FriendsS07E17.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        18
+      ],
+      "title": "7.18 The One With Joey's Award",
+      "path": "S07/FriendsS07E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/718extended.htm",
+      "archive_member": "transcripts/718extended.htm",
+      "bytes": 28108,
+      "sha256": "3692ac9c827592a33f601b86b157ad27dd6b37e9e41931bb8f7bf90abd7b3de4",
+      "chinese_files": [
+        "S07/FriendsS07E18.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        19
+      ],
+      "title": "7.19 The One With Ross and Monica's Cousin",
+      "path": "S07/FriendsS07E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/719extended.htm",
+      "archive_member": "transcripts/719extended.htm",
+      "bytes": 25683,
+      "sha256": "e33bfc87adc2fd348c18e22cbde15d5cd9b26237a4bef69aad14fe393a6c239b",
+      "chinese_files": [
+        "S07/FriendsS07E19.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        20
+      ],
+      "title": "7.20 The One With Rachel's Big Kiss",
+      "path": "S07/FriendsS07E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/720extended.htm",
+      "archive_member": "transcripts/720extended.htm",
+      "bytes": 27520,
+      "sha256": "756fd438ca39946ff0691a4f0d4cb2de89eec5e92201eda07d31326f366f68a0",
+      "chinese_files": [
+        "S07/FriendsS07E20.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        21
+      ],
+      "title": "7.21 The One With The Vows",
+      "path": "S07/FriendsS07E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/721extended.htm",
+      "archive_member": "transcripts/721extended.htm",
+      "bytes": 26525,
+      "sha256": "8a7044601d3544f3e17c8fa7876c58c26f33e2cd61a1b5c84f811bdc36d33c6c",
+      "chinese_files": [
+        "S07/FriendsS07E21.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        22
+      ],
+      "title": "7.22 The One With Chandler's Dad",
+      "path": "S07/FriendsS07E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/722extended.htm",
+      "archive_member": "transcripts/722extended.htm",
+      "bytes": 29882,
+      "sha256": "055f3f5e7097607805d6a5903387636a73558879eed85c8ef499f79088bb9b82",
+      "chinese_files": [
+        "S07/FriendsS07E22.txt"
+      ]
+    },
+    {
+      "season": 7,
+      "episodes": [
+        23,
+        24
+      ],
+      "title": "7.23-7.24 The One With Monica and Chandler's Wedding, part 1 & 2",
+      "path": "S07/FriendsS07E23-E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/723extended.htm",
+      "archive_member": "transcripts/723extended.htm",
+      "bytes": 54481,
+      "sha256": "21a7eaebc27a70e90765df88070713b3dc080695aa02c91e677e4aacab0888a4",
+      "chinese_files": [
+        "S07/FriendsS07E23.txt",
+        "S07/FriendsS07E24.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        1
+      ],
+      "title": "8.01 The One After \"I Do\"",
+      "path": "S08/FriendsS08E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/801extended.htm",
+      "archive_member": "transcripts/801extended.htm",
+      "bytes": 31648,
+      "sha256": "426d68a4dee4aa496dbb9bb1f0c335c84c6723b4ba299fe5063a58c45c02896e",
+      "chinese_files": [
+        "S08/FriendsS08E01.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        2
+      ],
+      "title": "8.02 The One With The Red Sweater",
+      "path": "S08/FriendsS08E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/802extended.htm",
+      "archive_member": "transcripts/802extended.htm",
+      "bytes": 25666,
+      "sha256": "3f51d53a987e809ca8431e93367067f9efb2ed2e81bf386738a6bf3854feba62",
+      "chinese_files": [
+        "S08/FriendsS08E02.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        3
+      ],
+      "title": "8.03 The One Where Rachel Tells...",
+      "path": "S08/FriendsS08E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/803extended.htm",
+      "archive_member": "transcripts/803extended.htm",
+      "bytes": 33529,
+      "sha256": "3be4ff1811e6ab158321464216d52b5cc07c422a241140238ae2b164748ec12f",
+      "chinese_files": [
+        "S08/FriendsS08E03.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        4
+      ],
+      "title": "8.04 The One With The Video Tape",
+      "path": "S08/FriendsS08E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/804extended.htm",
+      "archive_member": "transcripts/804extended.htm",
+      "bytes": 27879,
+      "sha256": "ccb4a10709f4936bb058c1b736bd294361a4948b68bbd9136811ba3cc49e377c",
+      "chinese_files": [
+        "S08/FriendsS08E04.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        5
+      ],
+      "title": "8.05 The One With Rachel's Date",
+      "path": "S08/FriendsS08E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/805extended.htm",
+      "archive_member": "transcripts/805extended.htm",
+      "bytes": 27816,
+      "sha256": "fe0028039f653fd9c866e56971369b577ef0152297af0443bd1834369be65602",
+      "chinese_files": [
+        "S08/FriendsS08E05.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        6
+      ],
+      "title": "8.06 The One With The Halloween Party",
+      "path": "S08/FriendsS08E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/806extended.htm",
+      "archive_member": "transcripts/806extended.htm",
+      "bytes": 27338,
+      "sha256": "7eb39e36bd08b6f8093af5fa5ec08bff3b2df23101829c43cb8b601da982488c",
+      "chinese_files": [
+        "S08/FriendsS08E06.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        7
+      ],
+      "title": "8.07 The One With The Stain",
+      "path": "S08/FriendsS08E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/807extended.htm",
+      "archive_member": "transcripts/807extended.htm",
+      "bytes": 25924,
+      "sha256": "397d8aa2a9e4b1dc10b226baf6c39643067e12be3167110dafc7cfccbcbd4551",
+      "chinese_files": [
+        "S08/FriendsS08E07.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        8
+      ],
+      "title": "8.08 The One With The Stripper",
+      "path": "S08/FriendsS08E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/808extended.htm",
+      "archive_member": "transcripts/808extended.htm",
+      "bytes": 26322,
+      "sha256": "1d9a3f2df975363cf4330c2d9f4c7d17a0f4c07c3603a224348cba9b5884cbf5",
+      "chinese_files": [
+        "S08/FriendsS08E08.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        9
+      ],
+      "title": "8.09 The One With The Rumor",
+      "path": "S08/FriendsS08E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/809extended.htm",
+      "archive_member": "transcripts/809extended.htm",
+      "bytes": 27233,
+      "sha256": "29ae54a978f690ee008a3cbed40fd10db2218e0bb50f21ccf07ee4714a45411a",
+      "chinese_files": [
+        "S08/FriendsS08E09.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        10
+      ],
+      "title": "8.10 The One With Monica's Boots",
+      "path": "S08/FriendsS08E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/810extended.htm",
+      "archive_member": "transcripts/810extended.htm",
+      "bytes": 28871,
+      "sha256": "199cba2f158ba1e54a2f7128e836b3e60dcae717d6e0b4c1b3190deb99ab0547",
+      "chinese_files": [
+        "S08/FriendsS08E10.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        11
+      ],
+      "title": "8.11 The One With Ross' Step Forward",
+      "path": "S08/FriendsS08E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/811extended.htm",
+      "archive_member": "transcripts/811extended.htm",
+      "bytes": 33635,
+      "sha256": "d7f097ccb8afb6291995122544c08225938c90f3f6c44294cc3bef72f634dc92",
+      "chinese_files": [
+        "S08/FriendsS08E11.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        12
+      ],
+      "title": "8.12 The One Where Joey Dates Rachel",
+      "path": "S08/FriendsS08E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/812extended.htm",
+      "archive_member": "transcripts/812extended.htm",
+      "bytes": 27264,
+      "sha256": "e4f59e08e5d6c6ed378bd99920aa2f0b6d2f7e5ab5a1fc8822c83541a33e7d13",
+      "chinese_files": [
+        "S08/FriendsS08E12.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        13
+      ],
+      "title": "8.13 The One Where Chandler Takes a Bath",
+      "path": "S08/FriendsS08E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/813extended.htm",
+      "archive_member": "transcripts/813extended.htm",
+      "bytes": 24221,
+      "sha256": "e34a61f21022d2c88f0c2a0fe13feb3978cfa92926968b3aa30e7cc7700b1e29",
+      "chinese_files": [
+        "S08/FriendsS08E13.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        14
+      ],
+      "title": "8.14 The One With The Secret Closet",
+      "path": "S08/FriendsS08E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/814extended.htm",
+      "archive_member": "transcripts/814extended.htm",
+      "bytes": 26719,
+      "sha256": "4f722a11741139ca4c8fd478a79be33f315b9f1070468a3432ec2f53c6280247",
+      "chinese_files": [
+        "S08/FriendsS08E14.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        15
+      ],
+      "title": "8.15 The One With The Birthing Video",
+      "path": "S08/FriendsS08E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/815extended.htm",
+      "archive_member": "transcripts/815extended.htm",
+      "bytes": 28192,
+      "sha256": "4a332dcd3998fb5fc9649704d5165550eb5eab15bd5edf218e7fc44c7d019f61",
+      "chinese_files": [
+        "S08/FriendsS08E15.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        16
+      ],
+      "title": "8.16 The One Where Joey Tells Rachel",
+      "path": "S08/FriendsS08E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/816extended.htm",
+      "archive_member": "transcripts/816extended.htm",
+      "bytes": 22103,
+      "sha256": "c98f9d4abb27ea02e21f4051d0f29fa1ed66e453d5682291a951d5a8885dac87",
+      "chinese_files": [
+        "S08/FriendsS08E16.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        17
+      ],
+      "title": "8.17 The One With The Tea Leaves",
+      "path": "S08/FriendsS08E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/817extended.htm",
+      "archive_member": "transcripts/817extended.htm",
+      "bytes": 23896,
+      "sha256": "d4e58747e7f07ca634d0b9a8de98410a3e97a1ac68e04d884823a402cf933494",
+      "chinese_files": [
+        "S08/FriendsS08E17.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        18
+      ],
+      "title": "8.18 The One In Massapequa",
+      "path": "S08/FriendsS08E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/818extended.htm",
+      "archive_member": "transcripts/818extended.htm",
+      "bytes": 25275,
+      "sha256": "46724d1526bc9a6be147a83e437f44e528847f4659d5907a3f40e2d2e82b8992",
+      "chinese_files": [
+        "S08/FriendsS08E18.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        19
+      ],
+      "title": "8.19 The One With Joey's Interview",
+      "path": "S08/FriendsS08E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/819extended.htm",
+      "archive_member": "transcripts/819extended.htm",
+      "bytes": 30277,
+      "sha256": "67a2578f54bf86815770829f8f23701a521e39f6d5b66a226c5d747f3bfeb733",
+      "chinese_files": [
+        "S08/FriendsS08E19.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        20
+      ],
+      "title": "8.20 The One With The Baby Shower",
+      "path": "S08/FriendsS08E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/820extended.htm",
+      "archive_member": "transcripts/820extended.htm",
+      "bytes": 31442,
+      "sha256": "a924a2bcb0ff938c4421ecbaf2d4e9f1f757c847e8a112178ebe5fd64fb32a2b",
+      "chinese_files": [
+        "S08/FriendsS08E20.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        21
+      ],
+      "title": "8.21 The One With The Cooking Class",
+      "path": "S08/FriendsS08E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/821extended.htm",
+      "archive_member": "transcripts/821extended.htm",
+      "bytes": 28037,
+      "sha256": "99892665d5d579c2861a866646a482f0abc54c8714c8cb8c6a5dd7ea1dc6fedb",
+      "chinese_files": [
+        "S08/FriendsS08E21.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        22
+      ],
+      "title": "8.22 The One Where Rachel is Late",
+      "path": "S08/FriendsS08E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/822extended.htm",
+      "archive_member": "transcripts/822extended.htm",
+      "bytes": 25130,
+      "sha256": "244beb5c3ac22e4d91027193d52adfdcc8a8a88cf829c0c2c95b24702235edd0",
+      "chinese_files": [
+        "S08/FriendsS08E22.txt"
+      ]
+    },
+    {
+      "season": 8,
+      "episodes": [
+        23,
+        24
+      ],
+      "title": "8.23-8.24 The One Where Rachel Has a Baby, part 1 & 2",
+      "path": "S08/FriendsS08E23-E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/823extended.htm",
+      "archive_member": "transcripts/823extended.htm",
+      "bytes": 53930,
+      "sha256": "d09360fd89e1b1901cf603b58625832c98d1697e82e9fa5866f253e989491420",
+      "chinese_files": [
+        "S08/FriendsS08E23.txt",
+        "S08/FriendsS08E24.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        1
+      ],
+      "title": "9.01 The One Where No One Proposes",
+      "path": "S09/FriendsS09E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/901extended.htm",
+      "archive_member": "transcripts/901extended.htm",
+      "bytes": 25987,
+      "sha256": "36667e579b223c7525461aba6cbc6698709280412c54902359f236aeda0333fc",
+      "chinese_files": [
+        "S09/FriendsS09E01.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        2
+      ],
+      "title": "9.02 The One Where Emma Cries",
+      "path": "S09/FriendsS09E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/902extended.htm",
+      "archive_member": "transcripts/902extended.htm",
+      "bytes": 25733,
+      "sha256": "e117c3678fb092350ade8b73b0127314fe634a394bcf7bf072eec253322b4ba9",
+      "chinese_files": [
+        "S09/FriendsS09E02.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        3
+      ],
+      "title": "9.03 The One With the Pediatrician",
+      "path": "S09/FriendsS09E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/903extended.htm",
+      "archive_member": "transcripts/903extended.htm",
+      "bytes": 27089,
+      "sha256": "250970a613b9bbe585ce8a4dc8df8481138ba7cca416451bfcf26c9655b370fc",
+      "chinese_files": [
+        "S09/FriendsS09E03.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        4
+      ],
+      "title": "9.04 The One With the Sharks",
+      "path": "S09/FriendsS09E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/904extended.htm",
+      "archive_member": "transcripts/904extended.htm",
+      "bytes": 25709,
+      "sha256": "bf3960638cba15fe2360cbe1bd2e4d5096b01b39eb281a81497d8044c978a53d",
+      "chinese_files": [
+        "S09/FriendsS09E04.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        5
+      ],
+      "title": "9.05 The One With Phoebe's Birthday Dinner",
+      "path": "S09/FriendsS09E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/905extended.htm",
+      "archive_member": "transcripts/905extended.htm",
+      "bytes": 26832,
+      "sha256": "ff0a9e20a02f9927b56c4bd3de2b89854ab78d9356758e2b004cd2e97595125c",
+      "chinese_files": [
+        "S09/FriendsS09E05.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        6
+      ],
+      "title": "9.06 The One With the Male Nanny",
+      "path": "S09/FriendsS09E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/906extended.htm",
+      "archive_member": "transcripts/906extended.htm",
+      "bytes": 38118,
+      "sha256": "ee7bb7d3171bc12d33e94deff1b4f6e107fde4fe0029006719310d36b36a7a0e",
+      "chinese_files": [
+        "S09/FriendsS09E06.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        7
+      ],
+      "title": "9.07 The One With Ross's Inappropriate Song",
+      "path": "S09/FriendsS09E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/907extended.htm",
+      "archive_member": "transcripts/907extended.htm",
+      "bytes": 27705,
+      "sha256": "6aa7f8950c7f5d49598372055381074371048b665c95730f76b4513a3f439213",
+      "chinese_files": [
+        "S09/FriendsS09E07.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        8
+      ],
+      "title": "9.08 The One With Rachel's Other Sister",
+      "path": "S09/FriendsS09E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/908extended.htm",
+      "archive_member": "transcripts/908extended.htm",
+      "bytes": 30059,
+      "sha256": "ebf6952d51a6d3bea2547a5c8809936ad207da15922b6229b2065d051eb9b997",
+      "chinese_files": [
+        "S09/FriendsS09E08.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        9
+      ],
+      "title": "9.09 The One With Rachel's Phone Number",
+      "path": "S09/FriendsS09E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/909extended.htm",
+      "archive_member": "transcripts/909extended.htm",
+      "bytes": 32122,
+      "sha256": "f4c76e938d88754d947719eb4248a25165320db5a21c88c975bd6d8233d88f5c",
+      "chinese_files": [
+        "S09/FriendsS09E09.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        10
+      ],
+      "title": "9.10 The One With Christmas in Tulsa",
+      "path": "S09/FriendsS09E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/910extended.htm",
+      "archive_member": "transcripts/910extended.htm",
+      "bytes": 28166,
+      "sha256": "b5eca4fbb7713b5a13c3bcf9f00bd0a734aa844c1745f362ea91f9b10ac9f737",
+      "chinese_files": [
+        "S09/FriendsS09E10.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        11
+      ],
+      "title": "9.11 The One Where Rachel Goes Back To Work",
+      "path": "S09/FriendsS09E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/911extended.htm",
+      "archive_member": "transcripts/911extended.htm",
+      "bytes": 25018,
+      "sha256": "5dd29df3c47788a2743c8bad99080056c9625e7ecc93ddebe26fa51af012351d",
+      "chinese_files": [
+        "S09/FriendsS09E11.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        12
+      ],
+      "title": "9.12 The One With Phoebe's Rats",
+      "path": "S09/FriendsS09E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/912extended.htm",
+      "archive_member": "transcripts/912extended.htm",
+      "bytes": 25653,
+      "sha256": "49b181d6839cdb1c8f2619a514f8f43d8eeee544af227032cd13bc6a7657eaac",
+      "chinese_files": [
+        "S09/FriendsS09E12.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        13
+      ],
+      "title": "9.13 The One Where Monica Sings",
+      "path": "S09/FriendsS09E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/913extended.htm",
+      "archive_member": "transcripts/913extended.htm",
+      "bytes": 29978,
+      "sha256": "242f343f82358a9e4fce7e227154788f09a86af5d8c6dacf963a0ea83ca7a425",
+      "chinese_files": [
+        "S09/FriendsS09E13.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        14
+      ],
+      "title": "9.14 The One With The Blind Dates",
+      "path": "S09/FriendsS09E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/914extended.htm",
+      "archive_member": "transcripts/914extended.htm",
+      "bytes": 27661,
+      "sha256": "27f544a72d4ae37353e10a3cea25333370b95896ddbe0fe2a3ddcc625b1c733e",
+      "chinese_files": [
+        "S09/FriendsS09E14.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        15
+      ],
+      "title": "9.15 The One With The Mugging",
+      "path": "S09/FriendsS09E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/915extended.htm",
+      "archive_member": "transcripts/915extended.htm",
+      "bytes": 30125,
+      "sha256": "69dc903d7846784f681fdd284028ebde3962a47b8ee236f7eeabf4eaf8831221",
+      "chinese_files": [
+        "S09/FriendsS09E15.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        16
+      ],
+      "title": "9.16 The One With The Boob Job",
+      "path": "S09/FriendsS09E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/916extended.htm",
+      "archive_member": "transcripts/916extended.htm",
+      "bytes": 29239,
+      "sha256": "094f54bc3cc366cfa6f7ba9e9b5b9b4bef8db93d1f5f179b32ea11dd5d6cdc5c",
+      "chinese_files": [
+        "S09/FriendsS09E16.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        17
+      ],
+      "title": "9.17 The One With The Memorial Service",
+      "path": "S09/FriendsS09E17.html",
+      "source_url": "https://www.friends-tv.org/transcripts/917extended.htm",
+      "archive_member": "transcripts/917extended.htm",
+      "bytes": 28354,
+      "sha256": "baf728673ada8c07a8e5f198cae4acb834ed3a6afc846122c2fd3ada4657b4bf",
+      "chinese_files": [
+        "S09/FriendsS09E17.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        18
+      ],
+      "title": "9.18 The One With The Lottery",
+      "path": "S09/FriendsS09E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/918extended.htm",
+      "archive_member": "transcripts/918extended.htm",
+      "bytes": 28115,
+      "sha256": "514b1a05886f22cd42f3ef7810bf322f05c86b7c6b31dc36bf9768e1479f74fe",
+      "chinese_files": [
+        "S09/FriendsS09E18.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        19
+      ],
+      "title": "9.19 The One With Rachel's Dream",
+      "path": "S09/FriendsS09E19.html",
+      "source_url": "https://www.friends-tv.org/transcripts/919extended.htm",
+      "archive_member": "transcripts/919extended.htm",
+      "bytes": 29184,
+      "sha256": "7292877332eb632e3c2016a1e86b49e2cbc89aad8d0b6f6de6d44cd788edb7fd",
+      "chinese_files": [
+        "S09/FriendsS09E19.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        20
+      ],
+      "title": "9.20 The One With The Soap Opera Party",
+      "path": "S09/FriendsS09E20.html",
+      "source_url": "https://www.friends-tv.org/transcripts/920extended.htm",
+      "archive_member": "transcripts/920extended.htm",
+      "bytes": 28966,
+      "sha256": "d95354891a92231df724657240776a2b091fa6c13e23d7dee773f3b9d8f6a924",
+      "chinese_files": [
+        "S09/FriendsS09E20.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        21
+      ],
+      "title": "9.21 The One With The Fertility Test",
+      "path": "S09/FriendsS09E21.html",
+      "source_url": "https://www.friends-tv.org/transcripts/921extended.htm",
+      "archive_member": "transcripts/921extended.htm",
+      "bytes": 27892,
+      "sha256": "aede1682b69c8daa5f0350cde5809e0ae27ec5552d7fd3ae646f220bd95c8986",
+      "chinese_files": [
+        "S09/FriendsS09E21.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        22
+      ],
+      "title": "9.22 The One With The Donor",
+      "path": "S09/FriendsS09E22.html",
+      "source_url": "https://www.friends-tv.org/transcripts/922extended.htm",
+      "archive_member": "transcripts/922extended.htm",
+      "bytes": 30364,
+      "sha256": "837044cc2e4e6f09666c0a71ec973740048040655535d1def323c56d71422fd8",
+      "chinese_files": [
+        "S09/FriendsS09E22.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        23
+      ],
+      "title": "9.23 The One In Barbados, part 1",
+      "path": "S09/FriendsS09E23.html",
+      "source_url": "https://www.friends-tv.org/transcripts/923extended.htm",
+      "archive_member": "transcripts/923extended.htm",
+      "bytes": 36136,
+      "sha256": "e46f9037ae3e074670c7ae31ebf9d2d867f3be8cf6e927fd26baa958a9a6b5bc",
+      "chinese_files": [
+        "S09/FriendsS09E23.txt"
+      ]
+    },
+    {
+      "season": 9,
+      "episodes": [
+        24
+      ],
+      "title": "9.24 The One In Barbados, part 2",
+      "path": "S09/FriendsS09E24.html",
+      "source_url": "https://www.friends-tv.org/transcripts/924extended.htm",
+      "archive_member": "transcripts/924extended.htm",
+      "bytes": 27410,
+      "sha256": "cded73a35b1da410d8c64f8535921edcaff873fd7e3ae7f2ac8bf16b018ba584",
+      "chinese_files": [
+        "S09/FriendsS09E24.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        1
+      ],
+      "title": "10.01 The One After Joey and Rachel Kiss",
+      "path": "S10/FriendsS10E01.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1001extended.htm",
+      "archive_member": "transcripts/1001extended.htm",
+      "bytes": 34066,
+      "sha256": "71c71e9b5d6e99b1bb3a2c69808969210f4211903b331f8bd3633e805a939374",
+      "chinese_files": [
+        "S10/FriendsS10E01.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        2
+      ],
+      "title": "10.02 The One Where Ross is Fine",
+      "path": "S10/FriendsS10E02.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1002extended.htm",
+      "archive_member": "transcripts/1002extended.htm",
+      "bytes": 26385,
+      "sha256": "4b7a8bade4df7a24dce0dc2f20bc08a4f8330f08c9e69c144d680e538c8128d2",
+      "chinese_files": [
+        "S10/FriendsS10E02.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        3
+      ],
+      "title": "10.03 The One With Ross's Tan",
+      "path": "S10/FriendsS10E03.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1003extended.htm",
+      "archive_member": "transcripts/1003extended.htm",
+      "bytes": 28189,
+      "sha256": "9a71c3f1d3df9e7de5d841ba58961fba89b47c6a21ff1ef19b16322f67b20d7a",
+      "chinese_files": [
+        "S10/FriendsS10E03.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        4
+      ],
+      "title": "10.04 The One With the Cake",
+      "path": "S10/FriendsS10E04.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1004extended.htm",
+      "archive_member": "transcripts/1004extended.htm",
+      "bytes": 28214,
+      "sha256": "96099c66e42803711465eade7fdbd1ca1b44f76f97c261735666d12fa3cea69d",
+      "chinese_files": [
+        "S10/FriendsS10E04.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        5
+      ],
+      "title": "10.05 The One Where Rachel's Sister Baby-sits",
+      "path": "S10/FriendsS10E05.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1005extended.htm",
+      "archive_member": "transcripts/1005extended.htm",
+      "bytes": 31569,
+      "sha256": "37a9fd12d6d11a07eb0a20624250c1c83b282c24e14bb5953f092dca88831e01",
+      "chinese_files": [
+        "S10/FriendsS10E05.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        6
+      ],
+      "title": "10.06 The One With Ross's Grant",
+      "path": "S10/FriendsS10E06.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1006extended.htm",
+      "archive_member": "transcripts/1006extended.htm",
+      "bytes": 32378,
+      "sha256": "eb4b18bd06417d3393a064a22d9192aef1d432f2d73ca4a13e9dbfec02868e3e",
+      "chinese_files": [
+        "S10/FriendsS10E06.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        7
+      ],
+      "title": "10.07 The One With the Home Study",
+      "path": "S10/FriendsS10E07.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1007extended.htm",
+      "archive_member": "transcripts/1007extended.htm",
+      "bytes": 30169,
+      "sha256": "89e5ec75bea1bb6cc71b1c35f72436f1fccd9781c408aaf73498b9df35d7305f",
+      "chinese_files": [
+        "S10/FriendsS10E07.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        8
+      ],
+      "title": "10.08 The One With the Late Thanksgiving",
+      "path": "S10/FriendsS10E08.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1008extended.htm",
+      "archive_member": "transcripts/1008extended.htm",
+      "bytes": 30906,
+      "sha256": "11c27c98c62bc8988e3b5af0f12db38c83c47746f368ced59646515cc0008232",
+      "chinese_files": [
+        "S10/FriendsS10E08.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        9
+      ],
+      "title": "10.09 The One With The Birth Mother",
+      "path": "S10/FriendsS10E09.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1009extended.htm",
+      "archive_member": "transcripts/1009extended.htm",
+      "bytes": 30412,
+      "sha256": "e04ec71417ef27d9630569ec70e9e44f7e59e084792d7d39395685d251268bd8",
+      "chinese_files": [
+        "S10/FriendsS10E09.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        10
+      ],
+      "title": "10.10 The One Where Chandler Gets Caught",
+      "path": "S10/FriendsS10E10.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1010extended.htm",
+      "archive_member": "transcripts/1010extended.htm",
+      "bytes": 27434,
+      "sha256": "007a9f62f31bd8a19d732d7d1e3b7dfedf482284890801aa2e3a13043a6798ed",
+      "chinese_files": [
+        "S10/FriendsS10E10.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        11
+      ],
+      "title": "10.11 The One Where The Stripper Cries",
+      "path": "S10/FriendsS10E11.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1011extended.htm",
+      "archive_member": "transcripts/1011extended.htm",
+      "bytes": 35570,
+      "sha256": "c62bf0b03b39af9160c66a89fca50824c7ed7339809e9ef7c37bc358a3fb4580",
+      "chinese_files": [
+        "S10/FriendsS10E11.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        12
+      ],
+      "title": "10.12 The One With Phoebe's Wedding",
+      "path": "S10/FriendsS10E12.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1012extended.htm",
+      "archive_member": "transcripts/1012extended.htm",
+      "bytes": 38126,
+      "sha256": "82a8ab9f7701f2790f6c4fa2ec7918506ad3e069d244ffb71cd68250748e0854",
+      "chinese_files": [
+        "S10/FriendsS10E12.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        13
+      ],
+      "title": "10.13 The One Where Joey Speaks French",
+      "path": "S10/FriendsS10E13.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1013extended.htm",
+      "archive_member": "transcripts/1013extended.htm",
+      "bytes": 28774,
+      "sha256": "0cd3ed88fe9dca1bd33d09004e6c3c0357d470ec8f320357af6066626868e61f",
+      "chinese_files": [
+        "S10/FriendsS10E13.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        14
+      ],
+      "title": "10.14 The One With Princess Consuela",
+      "path": "S10/FriendsS10E14.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1014extended.htm",
+      "archive_member": "transcripts/1014extended.htm",
+      "bytes": 28989,
+      "sha256": "4cf50c9351940dcf9134b862784348348f9bc79df23150e150b09e4e01fece6f",
+      "chinese_files": [
+        "S10/FriendsS10E14.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        15
+      ],
+      "title": "10.15 The One Where Estelle Dies",
+      "path": "S10/FriendsS10E15.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1015extended.htm",
+      "archive_member": "transcripts/1015extended.htm",
+      "bytes": 25559,
+      "sha256": "0af2cb3ee76076a20f0811575f891d3759b9bf21fff9fe7bda22e1437cc7ae86",
+      "chinese_files": [
+        "S10/FriendsS10E15.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        16
+      ],
+      "title": "10.16 The One With Rachel's Going Away Party",
+      "path": "S10/FriendsS10E16.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1016extended.htm",
+      "archive_member": "transcripts/1016extended.htm",
+      "bytes": 27894,
+      "sha256": "5848e38fc4adcbee390fa98f4d8a869059515a475a02f9ba20fe482ff075091e",
+      "chinese_files": [
+        "S10/FriendsS10E16.txt"
+      ]
+    },
+    {
+      "season": 10,
+      "episodes": [
+        17,
+        18
+      ],
+      "title": "10.17-10.18 The Last One, part 1 & part 2",
+      "path": "S10/FriendsS10E17-E18.html",
+      "source_url": "https://www.friends-tv.org/transcripts/1017extended.htm",
+      "archive_member": "transcripts/1017extended.htm",
+      "bytes": 57649,
+      "sha256": "bf56ab1180e5e19aede4c4ece51b4591c5db28751af79f2b9247a6c962aaeb38",
+      "chinese_files": [
+        "S10/FriendsS10E17.txt",
+        "S10/FriendsS10E18.txt"
+      ]
+    }
+  ]
+}

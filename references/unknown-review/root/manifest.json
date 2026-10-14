@@ -1,0 +1,674 @@
+{
+  "sources": [
+    {
+      "season": 1,
+      "episode": 11,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison1/friendsgeneration2.php?episodescript=111&nav=script&version=vo",
+      "path": "references/unknown-review/root/S01E11-vo.html",
+      "downloaded_at": "2026-10-14T13:14:24.961776+08:00",
+      "bytes": 37396,
+      "sha256": "3564ef8e36998d3a869fc8e00229bc27a9b67ed10e0f57999ed313a9cae57502"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison1vf/friendsgeneration2.php?episodescript=111&nav=script&version=vf",
+      "path": "references/unknown-review/root/S01E11-vf.html",
+      "downloaded_at": "2026-10-14T13:14:25.641231+08:00",
+      "bytes": 37890,
+      "sha256": "e7559786631decfb19684b4c2322b35652fe87a8d42be7af800cbd9936d62978"
+    },
+    {
+      "season": 1,
+      "episode": 11,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e11&tv-show=friends",
+      "path": "references/unknown-review/root/S01E11-ss.html",
+      "downloaded_at": "2026-10-14T13:14:25.898032+08:00",
+      "bytes": 44084,
+      "sha256": "6c6d9bf045feae54b705e29a456161e3255de779c9d89c58e8a304575467d5cd"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison1/friendsgeneration2.php?episodescript=114&nav=script&version=vo",
+      "path": "references/unknown-review/root/S01E14-vo.html",
+      "downloaded_at": "2026-10-14T13:14:24.899939+08:00",
+      "bytes": 32018,
+      "sha256": "01bf773485a302be7df25a2f7fdacfb6fcd1ef7a9cf99dd1977a25da751159c7"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison1vf/friendsgeneration2.php?episodescript=114&nav=script&version=vf",
+      "path": "references/unknown-review/root/S01E14-vf.html",
+      "downloaded_at": "2026-10-14T13:14:25.510795+08:00",
+      "bytes": 30649,
+      "sha256": "8e38833501eac1cf7598509a9e0dc6f50fb359aad9d0cdb23f8066250a9c742c"
+    },
+    {
+      "season": 1,
+      "episode": 14,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e14&tv-show=friends",
+      "path": "references/unknown-review/root/S01E14-ss.html",
+      "downloaded_at": "2026-10-14T13:14:26.525672+08:00",
+      "bytes": 41572,
+      "sha256": "8d56e7ebf0f2032e6b85d4bf4ea68391cf9e62c3462fb9286a42bad6cfaa8464"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison1/friendsgeneration2.php?episodescript=115&nav=script&version=vo",
+      "path": "references/unknown-review/root/S01E15-vo.html",
+      "downloaded_at": "2026-10-14T13:14:26.453553+08:00",
+      "bytes": 35485,
+      "sha256": "1c7d8d5f87ecd2bf315b603bffa53e27cece2409593d2b6b86e26d593d05d009"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison1vf/friendsgeneration2.php?episodescript=115&nav=script&version=vf",
+      "path": "references/unknown-review/root/S01E15-vf.html",
+      "downloaded_at": "2026-10-14T13:14:26.594001+08:00",
+      "bytes": 35704,
+      "sha256": "b8569cdb79dfecdf1aaf9cc603a0236bea2ef3517ed2d2d1b1a02725db54d30a"
+    },
+    {
+      "season": 1,
+      "episode": 15,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e15&tv-show=friends",
+      "path": "references/unknown-review/root/S01E15-ss.html",
+      "downloaded_at": "2026-10-14T13:14:27.544992+08:00",
+      "bytes": 42289,
+      "sha256": "da79becd1a0a018b9cd340ca023a50aed9b002b26879c66f69ce9b98b3e487fc"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison1/friendsgeneration2.php?episodescript=118&nav=script&version=vo",
+      "path": "references/unknown-review/root/S01E18-vo.html",
+      "downloaded_at": "2026-10-14T13:14:28.291421+08:00",
+      "bytes": 36402,
+      "sha256": "16d252d7861b7a90d4d47c8cb101132aea7861cec81351b2de43312d04144035"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison1vf/friendsgeneration2.php?episodescript=118&nav=script&version=vf",
+      "path": "references/unknown-review/root/S01E18-vf.html",
+      "downloaded_at": "2026-10-14T13:14:26.876068+08:00",
+      "bytes": 34395,
+      "sha256": "49802d1e0cce70fd4ebb6a554c25fa966c22c4bc0a134bd82c1c27ccd7183fa1"
+    },
+    {
+      "season": 1,
+      "episode": 18,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s01e18&tv-show=friends",
+      "path": "references/unknown-review/root/S01E18-ss.html",
+      "downloaded_at": "2026-10-14T13:14:27.927319+08:00",
+      "bytes": 42431,
+      "sha256": "67d0a1cc8f94909ea70b4ae852e1e70898e954d8e40d63f5c931586f421b2e23"
+    },
+    {
+      "season": 7,
+      "episode": 4,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison7/friendsgeneration2.php?episodescript=704&nav=script&version=vo",
+      "path": "references/unknown-review/root/S07E04-vo.html",
+      "downloaded_at": "2026-10-14T13:14:27.906813+08:00",
+      "bytes": 39169,
+      "sha256": "56d6f934f39029945502378a954e35a86b8c0114c0fa01cc8a7f34c338fefccb"
+    },
+    {
+      "season": 7,
+      "episode": 4,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison7vf/friendsgeneration2.php?episodescript=704&nav=script&version=vf",
+      "path": "references/unknown-review/root/S07E04-vf.html",
+      "downloaded_at": "2026-10-14T13:14:27.687160+08:00",
+      "bytes": 42540,
+      "sha256": "a8a9b0adcbf26459f20df3f60bb323116f916f630c8091e426bf71cd7ef1dd43"
+    },
+    {
+      "season": 7,
+      "episode": 4,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s07e04&tv-show=friends",
+      "path": "references/unknown-review/root/S07E04-ss.html",
+      "downloaded_at": "2026-10-14T13:14:40.629877+08:00",
+      "bytes": 44090,
+      "sha256": "69ea45a84877b24355e023f027ad97673badbcbbd1ae10ea28a7c0f729ff7a75"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=803&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E03-vo.html",
+      "downloaded_at": "2026-10-14T13:14:29.562031+08:00",
+      "bytes": 38080,
+      "sha256": "ef58e06d90cd89af4abd0850415fba805fcd53a72d3f935fc65011270c5f1e48"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=803&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E03-vf.html",
+      "downloaded_at": "2026-10-14T13:14:32.266143+08:00",
+      "bytes": 40306,
+      "sha256": "74aae68d03c6ff354a0296fe055c3a4a143d010e93f95afc49be292751795f3e"
+    },
+    {
+      "season": 8,
+      "episode": 3,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e03&tv-show=friends",
+      "path": "references/unknown-review/root/S08E03-ss.html",
+      "downloaded_at": "2026-10-14T13:14:39.672652+08:00",
+      "bytes": 41900,
+      "sha256": "77f156303a1ce9ae27b4d2a9eaa9cb1c03bfc2c0da432c1f3401dee606654472"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=806&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E06-vo.html",
+      "downloaded_at": "2026-10-14T13:14:30.111688+08:00",
+      "bytes": 40048,
+      "sha256": "384381fcfc6bfc988c5c99ddccb5211f0052151414e6c2b4bf364f5c1fd760f4"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=806&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E06-vf.html",
+      "downloaded_at": "2026-10-14T13:14:29.412192+08:00",
+      "bytes": 43895,
+      "sha256": "f0dc98aa0a9cf284b29a602d541753d7bae17ac93c8cc61cb64d51c4f2bfea1a"
+    },
+    {
+      "season": 8,
+      "episode": 6,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e06&tv-show=friends",
+      "path": "references/unknown-review/root/S08E06-ss.html",
+      "downloaded_at": "2026-10-14T13:14:39.435610+08:00",
+      "bytes": 42920,
+      "sha256": "3748027253c164c56095be779a6a2f8240a707ff53e3978be23e137bc9d39444"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=808&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E08-vo.html",
+      "downloaded_at": "2026-10-14T13:14:30.494806+08:00",
+      "bytes": 39295,
+      "sha256": "240ac5b27998617e14b3e6ca404f6d604e7db0d75bb5cc5492713f768af51ca4"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=808&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E08-vf.html",
+      "downloaded_at": "2026-10-14T13:14:31.518103+08:00",
+      "bytes": 41144,
+      "sha256": "5164a5ba6d84a8ed5129bd0da5882ffe9e497ffcd6e19ec23a61f4c223056c8e"
+    },
+    {
+      "season": 8,
+      "episode": 8,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e08&tv-show=friends",
+      "path": "references/unknown-review/root/S08E08-ss.html",
+      "downloaded_at": "2026-10-14T13:14:40.793396+08:00",
+      "bytes": 42549,
+      "sha256": "e115e1075d84afddf00921b934a005788c05b5c1371db03392ede6b987acf8c9"
+    },
+    {
+      "season": 8,
+      "episode": 9,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=809&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E09-vo.html",
+      "downloaded_at": "2026-10-14T13:14:32.896143+08:00",
+      "bytes": 38663,
+      "sha256": "28a8d6543038f68bd6af9af55e7478420b85725adb4710813b74a2ce1073ec56"
+    },
+    {
+      "season": 8,
+      "episode": 9,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=809&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E09-vf.html",
+      "downloaded_at": "2026-10-14T13:14:39.056962+08:00",
+      "bytes": 40704,
+      "sha256": "506ae03ee0c7dcf303b2762824acf942b331c9deb3533fbea6a0fc4c1b32ae32"
+    },
+    {
+      "season": 8,
+      "episode": 9,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e09&tv-show=friends",
+      "path": "references/unknown-review/root/S08E09-ss.html",
+      "downloaded_at": "2026-10-14T13:14:39.799364+08:00",
+      "bytes": 43096,
+      "sha256": "fb6292d0f3e36066c9a513420a23902b22f25844e582eeaba04157588f8d9990"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=810&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E10-vo.html",
+      "downloaded_at": "2026-10-14T13:14:40.125373+08:00",
+      "bytes": 39082,
+      "sha256": "ab1ff771003f8bfcae0db2d57f2f33aa0438f58e0e67b30b7f361464520ccbd1"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=810&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E10-vf.html",
+      "downloaded_at": "2026-10-14T13:14:40.638022+08:00",
+      "bytes": 39932,
+      "sha256": "56ce8b2a94f345be602926f8459a85b2c9b910a5a101b748ae1aa4d2df853426"
+    },
+    {
+      "season": 8,
+      "episode": 10,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e10&tv-show=friends",
+      "path": "references/unknown-review/root/S08E10-ss.html",
+      "downloaded_at": "2026-10-14T13:14:49.453476+08:00",
+      "bytes": 43630,
+      "sha256": "8e2e8c5a3f430ab10f58b015dd89a3cca359422c63bdd95ed15a09ba1d9431fb"
+    },
+    {
+      "season": 8,
+      "episode": 14,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=814&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E14-vo.html",
+      "downloaded_at": "2026-10-14T13:14:41.235582+08:00",
+      "bytes": 37231,
+      "sha256": "1e54eb8ad4ddd40543e4f7a1dd651ed1652839d327ac26ad71f8f1da5dc69b11"
+    },
+    {
+      "season": 8,
+      "episode": 14,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=814&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E14-vf.html",
+      "downloaded_at": "2026-10-14T13:14:41.240528+08:00",
+      "bytes": 39319,
+      "sha256": "0a49d13886899c2dda4ab5ee70939346d2814c1c6221100299007d9013c43c72"
+    },
+    {
+      "season": 8,
+      "episode": 14,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e14&tv-show=friends",
+      "path": "references/unknown-review/root/S08E14-ss.html",
+      "downloaded_at": "2026-10-14T13:14:46.508317+08:00",
+      "bytes": 42663,
+      "sha256": "dffedb9690f018fce763fec4edd50c4a3fa0995d1c3efff2ba020c71f542e560"
+    },
+    {
+      "season": 8,
+      "episode": 15,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=815&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E15-vo.html",
+      "downloaded_at": "2026-10-14T13:14:43.970382+08:00",
+      "bytes": 37293,
+      "sha256": "eaa34df3ad234348882c383b384d3560eae51c0f68e0e6d1373b3a73d0033ec1"
+    },
+    {
+      "season": 8,
+      "episode": 15,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=815&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E15-vf.html",
+      "downloaded_at": "2026-10-14T13:14:43.481846+08:00",
+      "bytes": 38747,
+      "sha256": "decb796d519f06d78e15d63d815a7474ff2341799056687ec9349f0a999b991b"
+    },
+    {
+      "season": 8,
+      "episode": 15,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e15&tv-show=friends",
+      "path": "references/unknown-review/root/S08E15-ss.html",
+      "downloaded_at": "2026-10-14T13:14:50.120838+08:00",
+      "bytes": 42137,
+      "sha256": "60b3838eb4b6ec5ddf80be045b411faea7f862759df8e9d724266c1af9cec85a"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=822&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E22-vo.html",
+      "downloaded_at": "2026-10-14T13:14:42.311051+08:00",
+      "bytes": 36345,
+      "sha256": "6ba4b7df9e76a2c5acf144e089b42014d39e7ab8187dcf58ea687de84621165a"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=822&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E22-vf.html",
+      "downloaded_at": "2026-10-14T13:14:43.527931+08:00",
+      "bytes": 40435,
+      "sha256": "bafe6f7e37b9cb5637625dd0dd36ba7e3371b066971c85ddc5c486d49d013d6a"
+    },
+    {
+      "season": 8,
+      "episode": 22,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e22&tv-show=friends",
+      "path": "references/unknown-review/root/S08E22-ss.html",
+      "downloaded_at": "2026-10-14T13:14:50.243609+08:00",
+      "bytes": 43023,
+      "sha256": "9192bf2a57140801bc88ab1a2f057ab618150a146d265e18cf21c4c689ddefe8"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=823&nav=script&version=vo",
+      "path": "references/unknown-review/root/S08E23-vo.html",
+      "downloaded_at": "2026-10-14T13:14:48.970037+08:00",
+      "bytes": 40110,
+      "sha256": "15d7c7b1c1975ffc9fca1e0048ce46ba0f46e4d0ecb69e74edd0652d42037acc"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=823&nav=script&version=vf",
+      "path": "references/unknown-review/root/S08E23-vf.html",
+      "downloaded_at": "2026-10-14T13:14:45.106555+08:00",
+      "bytes": 43147,
+      "sha256": "50697cad4fd8313936d31a804ba101e3d4f6a6f469170dfa5de570bfef59adb9"
+    },
+    {
+      "season": 8,
+      "episode": 23,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s08e23&tv-show=friends",
+      "path": "references/unknown-review/root/S08E23-ss.html",
+      "downloaded_at": "2026-10-14T13:14:52.685485+08:00",
+      "bytes": 55304,
+      "sha256": "6ae353c86dbbde636b182af50163fe97ba650061219e594c880c2d77ddd7bdad"
+    },
+    {
+      "season": 9,
+      "episode": 2,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison9/friendsgeneration2.php?episodescript=902&nav=script&version=vo",
+      "path": "references/unknown-review/root/S09E02-vo.html",
+      "downloaded_at": "2026-10-14T13:14:53.013344+08:00",
+      "bytes": 37731,
+      "sha256": "0f66a31c6fd358be2d9b1c2bc54099b124e2536c2aa0d62dd2e418f6c6ddaa46"
+    },
+    {
+      "season": 9,
+      "episode": 2,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison9vf/friendsgeneration2.php?episodescript=902&nav=script&version=vf",
+      "path": "references/unknown-review/root/S09E02-vf.html",
+      "downloaded_at": "2026-10-14T13:14:52.609430+08:00",
+      "bytes": 39547,
+      "sha256": "da3853f37ef9273ec9cccfc15a6e016e4a419c6653139c6fe6686cec25f6642f"
+    },
+    {
+      "season": 9,
+      "episode": 2,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s09e02&tv-show=friends",
+      "path": "references/unknown-review/root/S09E02-ss.html",
+      "downloaded_at": "2026-10-14T13:14:54.210557+08:00",
+      "bytes": 44882,
+      "sha256": "5cc56372a16508a50705b7a3ec8ce849b0a44e22ed6638be4d8555ff884829ff"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison9/friendsgeneration2.php?episodescript=905&nav=script&version=vo",
+      "path": "references/unknown-review/root/S09E05-vo.html",
+      "downloaded_at": "2026-10-14T13:14:52.513210+08:00",
+      "bytes": 36464,
+      "sha256": "4e16a9ee1491e385483d281ca4a735b22090a293c5029a6d6e49f03ce7490c8e"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison9vf/friendsgeneration2.php?episodescript=905&nav=script&version=vf",
+      "path": "references/unknown-review/root/S09E05-vf.html",
+      "downloaded_at": "2026-10-14T13:14:52.714907+08:00",
+      "bytes": 40974,
+      "sha256": "2c3d260c65eb6267ba68c3525e9543ead295b642d86c25a332d66c8a1f2a1fee"
+    },
+    {
+      "season": 9,
+      "episode": 5,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s09e05&tv-show=friends",
+      "path": "references/unknown-review/root/S09E05-ss.html",
+      "downloaded_at": "2026-10-14T13:14:54.706122+08:00",
+      "bytes": 47457,
+      "sha256": "d3052956cdce93d2e0a0a3432a10cf6a92424a1b1035c47c652176a4dcaa520a"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison9/friendsgeneration2.php?episodescript=908&nav=script&version=vo",
+      "path": "references/unknown-review/root/S09E08-vo.html",
+      "downloaded_at": "2026-10-14T13:14:53.757320+08:00",
+      "bytes": 42455,
+      "sha256": "fdbd666ff54069e6abe1a4eab095ab0d663c28a4f57167e59fab6f552aeee7a9"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison9vf/friendsgeneration2.php?episodescript=908&nav=script&version=vf",
+      "path": "references/unknown-review/root/S09E08-vf.html",
+      "downloaded_at": "2026-10-14T13:14:53.804739+08:00",
+      "bytes": 43525,
+      "sha256": "654efc781c71ba41929f30fd2df3806e498d5b46644c58b676e13f1c74270572"
+    },
+    {
+      "season": 9,
+      "episode": 8,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s09e08&tv-show=friends",
+      "path": "references/unknown-review/root/S09E08-ss.html",
+      "downloaded_at": "2026-10-14T13:14:55.199944+08:00",
+      "bytes": 46995,
+      "sha256": "e9c464f61e382870a8bf3ec798e647e40124073b97eba744594d3daceb1c8fc0"
+    },
+    {
+      "season": 9,
+      "episode": 11,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison9/friendsgeneration2.php?episodescript=911&nav=script&version=vo",
+      "path": "references/unknown-review/root/S09E11-vo.html",
+      "downloaded_at": "2026-10-14T13:14:54.350105+08:00",
+      "bytes": 35484,
+      "sha256": "e617803ace78beca096bbbb04e0289bbc0ebd505322e72b9bb9b39e04e2b71b6"
+    },
+    {
+      "season": 9,
+      "episode": 11,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison9vf/friendsgeneration2.php?episodescript=911&nav=script&version=vf",
+      "path": "references/unknown-review/root/S09E11-vf.html",
+      "downloaded_at": "2026-10-14T13:14:55.165765+08:00",
+      "bytes": 38094,
+      "sha256": "12d32cbf50bd3b85edc589bb97dc768583daa9d8e70e31717b3bb3ac0dac4383"
+    },
+    {
+      "season": 9,
+      "episode": 11,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s09e11&tv-show=friends",
+      "path": "references/unknown-review/root/S09E11-ss.html",
+      "downloaded_at": "2026-10-14T13:14:55.815431+08:00",
+      "bytes": 46653,
+      "sha256": "fdcdb85bc81240cb19dff9736a8a010435de9ce4b6efbb5ad493302c5d619fb7"
+    },
+    {
+      "season": 10,
+      "episode": 4,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison10/friendsgeneration2.php?episodescript=1004&nav=script&version=vo",
+      "path": "references/unknown-review/root/S10E04-vo.html",
+      "downloaded_at": "2026-10-14T13:14:56.445568+08:00",
+      "bytes": 39641,
+      "sha256": "d9296a7d2ac6054b02f8a3da1c67a4314d7b7ff5111e1984c06dd04b7a94c57e"
+    },
+    {
+      "season": 10,
+      "episode": 4,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison10vf/friendsgeneration2.php?episodescript=1004&nav=script&version=vf",
+      "path": "references/unknown-review/root/S10E04-vf.html",
+      "downloaded_at": "2026-10-14T13:14:55.521183+08:00",
+      "bytes": 42539,
+      "sha256": "d0eafd2cfce5d2236e720001d6636cbf6b706182947bcc11f73b9b8fd6c1d363"
+    },
+    {
+      "season": 10,
+      "episode": 4,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s10e04&tv-show=friends",
+      "path": "references/unknown-review/root/S10E04-ss.html",
+      "downloaded_at": "2026-10-14T13:15:05.144698+08:00",
+      "bytes": 47157,
+      "sha256": "6545e1eaeeedc35b4ef0cfd6d6bcf1596e7343aa35cc38d680ffba0822df3f93"
+    },
+    {
+      "season": 10,
+      "episode": 11,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison10/friendsgeneration2.php?episodescript=1011&nav=script&version=vo",
+      "path": "references/unknown-review/root/S10E11-vo.html",
+      "downloaded_at": "2026-10-14T13:14:58.565810+08:00",
+      "bytes": 44387,
+      "sha256": "2b1ae5eaad98293d4a8aa92e92f122b1bb2897a8ab3cba91604473d9acfe9fa7"
+    },
+    {
+      "season": 10,
+      "episode": 11,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison10vf/friendsgeneration2.php?episodescript=1011&nav=script&version=vf",
+      "path": "references/unknown-review/root/S10E11-vf.html",
+      "downloaded_at": "2026-10-14T13:14:58.501840+08:00",
+      "bytes": 46008,
+      "sha256": "3a0ac5233e46beadc26cb94dafc045166dc52d00f92450c8fa7f290d7d2aee29"
+    },
+    {
+      "season": 10,
+      "episode": 11,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s10e11&tv-show=friends",
+      "path": "references/unknown-review/root/S10E11-ss.html",
+      "downloaded_at": "2026-10-14T13:15:05.709148+08:00",
+      "bytes": 47096,
+      "sha256": "346d1e6cd01d64cf7f1b773439b8caf1bfe2f6224f904ff209a4b85656b4f7b0"
+    },
+    {
+      "season": 10,
+      "episode": 12,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison10/friendsgeneration2.php?episodescript=1012&nav=script&version=vo",
+      "path": "references/unknown-review/root/S10E12-vo.html",
+      "downloaded_at": "2026-10-14T13:14:56.923904+08:00",
+      "bytes": 46454,
+      "sha256": "54f0cb6c0d78fd25b863dcd7d2edc2b3939ff8e5dfcd8b57369b35a3244ed172"
+    },
+    {
+      "season": 10,
+      "episode": 12,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison10vf/friendsgeneration2.php?episodescript=1012&nav=script&version=vf",
+      "path": "references/unknown-review/root/S10E12-vf.html",
+      "downloaded_at": "2026-10-14T13:14:58.898990+08:00",
+      "bytes": 49969,
+      "sha256": "ebba0b6d1b5c975d8c67f796fdb11f3b0b9b5a855bbe1580df81147c8b89d65c"
+    },
+    {
+      "season": 10,
+      "episode": 12,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s10e12&tv-show=friends",
+      "path": "references/unknown-review/root/S10E12-ss.html",
+      "downloaded_at": "2026-10-14T13:15:05.903653+08:00",
+      "bytes": 49519,
+      "sha256": "5e4fcb6deb7855a75e640b77d22693ea65ae370438d71c880823749644b05622"
+    },
+    {
+      "season": 10,
+      "episode": 18,
+      "variant": "vo",
+      "url": "https://www.fanfr.com/scripts/saison10/friendsgeneration2.php?episodescript=1018&nav=script&version=vo",
+      "path": "references/unknown-review/root/S10E18-vo.html",
+      "downloaded_at": "2026-10-14T13:14:59.438795+08:00",
+      "bytes": 37549,
+      "sha256": "734dfa43b0356dbd92b5f7f91b8ea7483a9dc4b098e9f196b5d710946aae7088"
+    },
+    {
+      "season": 10,
+      "episode": 18,
+      "variant": "vf",
+      "url": "https://www.fanfr.com/scripts/saison10vf/friendsgeneration2.php?episodescript=1018&nav=script&version=vf",
+      "path": "references/unknown-review/root/S10E18-vf.html",
+      "downloaded_at": "2026-10-14T13:15:00.773709+08:00",
+      "bytes": 37196,
+      "sha256": "c6f6061ec7c9d98f1d47ccb8712c75076343dc7c9c45cdc5f0ffbbb43c8a114b"
+    },
+    {
+      "season": 10,
+      "episode": 18,
+      "variant": "ss",
+      "url": "https://www.springfieldspringfield.co.uk/view_episode_scripts.php?episode=s10e18&tv-show=friends",
+      "path": "references/unknown-review/root/S10E18-ss.html",
+      "downloaded_at": "2026-10-14T13:15:05.141742+08:00",
+      "bytes": 58803,
+      "sha256": "3f151dfa9cc5bd081e16a2dd33ed31c8cb7f2c0cfae8823461cc5073d54b6fef"
+    }
+  ],
+  "warning": "Fanfr VO/VF often credited to same fan transcribers as local source. Springfield subtitle-style scripts usually omit speaker labels. More detail does not imply independent verification.",
+  "supplements": [
+    {
+      "url": "https://uploads-ssl.webflow.com/60918d8e38ba874f89f6dd43/6165b4f5ace5a5d0cb752cf0_Friends%20Transcripts.pdf",
+      "file": "Friends-Transcripts-webflow.pdf",
+      "accessed_at": "2026-10-14T13:26:20.524408+08:00",
+      "sha256": "5e828b476a0d1ececd676b442d2ee7ffa27281dfca0f899edc24f0ae3743ad09",
+      "note": "十季英文合集，已检查相关场景；内容与既有爱好者转录高度重合，并非独立成片逐字记录。未提供可据以新增确认的根代理剩余短应答。pdftotext -layout 提取保存 .txt。"
+    }
+  ]
+}

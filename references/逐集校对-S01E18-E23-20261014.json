@@ -1,0 +1,1848 @@
+{
+  "date": "2026-10-14",
+  "source_note": "当前 references/en 英文爱好者台词稿；依页首说明及原始 HTML 蓝色标记区分原播与 DVD 专属，不代表视频核实。",
+  "baseline_directory": "/tmp/friends-proofread-s01-20261014",
+  "episodes": [
+    {
+      "chinese_file": "S01/FriendsS01E18.txt",
+      "english_file": "references/en/S01/FriendsS01E19.html",
+      "comparison_status": "全文按场景顺序逐段完整对照；非视频核实",
+      "changes": [
+        {
+          "kind": "原播动作及对白",
+          "html_lines": [
+            26
+          ],
+          "summary": "顾客摇头及瑞秋回应",
+          "old_text": "Rachel:你不是那个要喝茶的人对吧？",
+          "new_text": "Rachel:你不是那个要喝茶的人对吧？\n(顾客摇头。)\nRachel:好吧。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            35,
+            38
+          ],
+          "summary": "明确双方身份的问答",
+          "old_text": "Monica:这是明蒂？她真漂亮(非常)……真幸运……有你这样的朋友。",
+          "new_text": "Monica:就是那个你差点和他……的巴瑞？\nRachel:就是那个我差点和他……的巴瑞。\nMonica:明蒂，你的伴……？\nRachel:明蒂，我的伴……。哦！\nMonica:这是明蒂？她真漂亮(非常)……真幸运……有你这样的朋友。"
+        },
+        {
+          "kind": "DVD及原播动作",
+          "html_lines": [
+            39
+          ],
+          "summary": "改口表情与DVD安静时间",
+          "old_text": "Monica:这是明蒂？她真漂亮(非常)……真幸运……有你这样的朋友。",
+          "new_text": "Monica:这是明蒂？她真漂亮(非常)……真幸运……有你这样的朋友。\n(莫妮卡看见瑞秋的脸色，赶紧改口。)\n(DVD加长片段开始)\n(莫妮卡站起来，压低声音。)\nMonica:你知道吗？现在该安静了。嘘！嘘！嘘！\n(她离开。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            41,
+            44
+          ],
+          "summary": "失神及唤回注意",
+          "old_text": "Rachel:抱歉，我实在太笨了。是我不要巴瑞的，对吧？",
+          "new_text": "(瑞秋心不在焉，没回应罗斯。)\nRachel:什么？\nRoss:嗨。\nRachel:抱歉，我实在太笨了。是我不要巴瑞的，对吧？"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            48,
+            50
+          ],
+          "summary": "拆分被误并入瑞秋行的罗斯插话，文字保留",
+          "old_text": "Rachel:我不知道，我想这不是没有男人的问题，而是有没有合适的男人的问题。和巴瑞在安全，轻松，但缺少激情。和保罗在一起就充满激情如野兽般原始的性爱。够了，够了，我明白。我知道你们俩在一起是什么样子。我的意思是，你觉得你能同时拥有二者么？一个人既像你最好的朋友，又可以让你充满激情？",
+          "new_text": "Rachel:我不知道，我想这不是没有男人的问题，而是有没有合适的男人的问题。和巴瑞在安全，轻松，但缺少激情。和保罗在一起就充满激情如野兽般原始的性爱。\nRoss:够了，够了，我明白。我知道你们俩在一起是什么样子。\nRachel:我的意思是，你觉得你能同时拥有二者么？一个人既像你最好的朋友，又可以让你充满激情？"
+        },
+        {
+          "kind": "最小纠错",
+          "html_lines": [
+            51,
+            54
+          ],
+          "summary": "罗斯告白被打断，原文不能理解成某人总被打断",
+          "old_text": "Ross:是，是。我是这么认为，我真的这么认为。其实说来好笑，时常你认为无法让你感受到激情的人却是被打断了。",
+          "new_text": "Ross:是，是。我是这么认为，我真的这么认为。其实说来好笑，时常你认为无法让你感受到激情的人，却可能正是那个……"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            53,
+            54
+          ],
+          "summary": "被打断的告白收尾",
+          "old_text": "(其他四个人到来)",
+          "new_text": "(其他四个人到来)\nMonica:嗨。\nRoss:……被打断的人。嗨！"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            55,
+            57
+          ],
+          "summary": "电影评价为莫妮卡与菲比回答",
+          "old_text": "Rachel:各位，电影如何？很棒。很不错。",
+          "new_text": "Rachel:各位，电影如何？\nMonica:很棒。\nPhoebe:很不错。"
+        },
+        {
+          "kind": "最小说话人纠错",
+          "html_lines": [
+            69
+          ],
+          "summary": "寄养安排异议是莫妮卡发言",
+          "old_text": "Ross:等等等等，摩尼卡阿姨能说句话吗？",
+          "new_text": "Monica:等等等等，摩尼卡阿姨能说句话吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            84
+          ],
+          "summary": "订婚礼物笑话与逃跑原因",
+          "old_text": "Rachel:抱歉，巴瑞，一份小小的订婚礼物，我相信你没登记。",
+          "new_text": "(瑞秋把鞋拿进厨房，将鞋里的粪便倒在订婚公报上，再把公报折起来。)\nRachel:抱歉，巴瑞，一份小小的订婚礼物，我相信你没登记。"
+        },
+        {
+          "kind": "原播动作补全",
+          "html_lines": [
+            84
+          ],
+          "summary": "明确她出门扔掉包裹且门未关",
+          "old_text": "(去了门外，猴子趁机逃跑，瑞秋)",
+          "new_text": "(瑞秋伸直胳膊拿着公报走出公寓，却忘了关门。马修朝相反方向跑出去。电视中传来一声枪响，瑞秋跑回来继续看剧情，随后低头发现猴子不见了，门还开着。)"
+        },
+        {
+          "kind": "最小说话人纠错及动作",
+          "html_lines": [
+            127,
+            129
+          ],
+          "summary": "回应为罗斯，补误会动作",
+          "old_text": "Rachel:罗斯，我没法这样下去！好，又快又痛苦。",
+          "new_text": "Rachel:罗斯，我没法这样下去！\nRoss:好，又快又痛苦。\n(罗斯误以为瑞秋在拒绝自己，又把酒塞塞回去。)"
+        },
+        {
+          "kind": "原播剧情",
+          "html_lines": [
+            135
+          ],
+          "summary": "失踪猴子窗台位置",
+          "old_text": "Rachel:马修……我应该，应该把它弄丢了。",
+          "new_text": "Rachel:马修……我应该，应该把它弄丢了。\n(镜头移到窗外，罗斯难以置信；镜头继续拉远，马修正坐在窗台上。)"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            140,
+            142
+          ],
+          "summary": "门铃与对讲机回应",
+          "old_text": "Rachel:是谁？动物控制中心。瞧，我甚至打给动物控制中心",
+          "new_text": "Rachel:是谁？\nIntercom:动物控制中心。\nRachel:瞧，我甚至打给动物控制中心"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            151
+          ],
+          "summary": "对动物管制员掩饰",
+          "old_text": "Ross:是的，我以为我们有养猴子，但是我们没有。",
+          "new_text": "(罗斯搂住瑞秋，两人装作甜蜜又若无其事。)\nRoss:是的，我以为我们有养猴子，但是我们没有。"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            153,
+            155
+          ],
+          "summary": "罗斯纠正瑞秋说错的帽子",
+          "old_text": "Rachel:结果是帽子。猫！猫！我说了什么？",
+          "new_text": "Rachel:结果是帽子。\nRoss:猫！\nRachel:猫！我说了什么？"
+        },
+        {
+          "kind": "原播剧情",
+          "html_lines": [
+            183
+          ],
+          "summary": "与猴子擦肩而过",
+          "old_text": "(钱乔找人，遇到美女)",
+          "new_text": "(马修从窗户跳进楼里，跑下楼梯。钱德勒和乔伊从楼上下来，却没有看见它。)\n(钱乔找人，遇到美女)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            188,
+            190
+          ],
+          "summary": "美女大汗导致hot双关",
+          "old_text": "Girl A:需要帮忙吗？",
+          "new_text": "(门开了，一个大汗淋漓的女人站在门口，钱德勒和乔伊一时看呆了。)\nGirl A:需要帮忙吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            198,
+            200
+          ],
+          "summary": "两人眼神与女子出汗",
+          "old_text": "Girl B:试试这个代基里酒，是不是朗姆酒加多了？",
+          "new_text": "(另一个大汗淋漓的女人来到门口，钱德勒和乔伊互相交换眼色。)\nGirl B:试试这个代基里酒，是不是朗姆酒加多了？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            206
+          ],
+          "summary": "索取照片后被拒绝",
+          "old_text": "Chandler:从现在起不准你和其他人讲话。",
+          "new_text": "(两个女人赶紧关上门。)\nChandler:从现在起不准你和其他人讲话。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            220,
+            224
+          ],
+          "summary": "动物管制员持枪",
+          "old_text": "Luisa:站过去，两位小姐。",
+          "new_text": "(马修坐在角落里发出叫声；露莎出现在楼梯上，给麻醉枪装弹。)\nLuisa:站过去，两位小姐。"
+        },
+        {
+          "kind": "最小说话人纠错",
+          "html_lines": [
+            228
+          ],
+          "summary": "喊猴子逃跑的是莫妮卡",
+          "old_text": "Phoebe:快跑，马修，快跑！",
+          "new_text": "Monica:快跑，马修，快跑！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            227
+          ],
+          "summary": "挡镖关键时点",
+          "old_text": "Monica:快跑，马修，快跑！",
+          "new_text": "(慢镜头中，菲比先看马修，再看露莎；露莎开枪的一刻，菲比扑向马修替它挡镖。)\nMonica:快跑，马修，快跑！"
+        },
+        {
+          "kind": "原播动作及对白",
+          "html_lines": [
+            228,
+            230
+          ],
+          "summary": "拔镖晃动及莫妮卡回应",
+          "old_text": "(菲比扑过去，中了一针)",
+          "new_text": "(马修逃走，露莎追出去。菲比发现麻醉镖扎在自己的屁股上，拔下镖，身体晃了一下。)\nMonica:哦，天哪。"
+        },
+        {
+          "kind": "原播剧情",
+          "html_lines": [
+            231
+          ],
+          "summary": "香蕉诱捕过程",
+          "old_text": "(罗斯和瑞秋发现有人买香蕉)",
+          "new_text": "(马修在走廊上捡起地上的香蕉，一只尚未露面的手把它抓走。)\n(罗斯和瑞秋发现有人买香蕉)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            236,
+            237
+          ],
+          "summary": "二人伤脚原因",
+          "old_text": "Rachel:罗斯，我已向你到过无数次歉了你还想要我怎样？你想我的脚也受伤？我马上就把脚弄伤。瞧，高兴了吧。",
+          "new_text": "(罗斯沮丧地踢路标，把自己的脚踢伤；瑞秋赌气照做，也痛得直叫。)\nRachel:罗斯，我已向你到过无数次歉了你还想要我怎样？你想我的脚也受伤？我马上就把脚弄伤。瞧，高兴了吧。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            261
+          ],
+          "summary": "进入屋内的直接线索",
+          "old_text": "Heckles:补充钾。",
+          "new_text": "Heckles:补充钾。\n(屋里传出猴子的叫声，罗斯推开赫克尔斯冲进去。)"
+        },
+        {
+          "kind": "DVD动作",
+          "html_lines": [
+            267,
+            268
+          ],
+          "summary": "已存在对白缺放大镜笑点",
+          "old_text": "Monica:怎么了？",
+          "new_text": "(DVD加长片段开始)\n(众人看着莫妮卡：她站在落地放大镜后，骨盆部位被放大了。她没反应过来，随后才发现自己站的位置。)\n(DVD加长片段结束)\nMonica:怎么了？"
+        },
+        {
+          "kind": "DVD对白及原播动作",
+          "html_lines": [
+            269,
+            272
+          ],
+          "summary": "呼唤与猴子女装现身",
+          "old_text": "Monica:怎么了？",
+          "new_text": "Monica:怎么了？\n(DVD加长片段开始)\nRoss:马修！\n(DVD加长片段结束)\n(马修穿着粉红色连衣裙跳出来，大家倒吸一口气。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            275,
+            279
+          ],
+          "summary": "猴子被装笼的机制",
+          "old_text": "Luisa:过来，猴子！总算逮到你了。",
+          "new_text": "(马修在罗斯和赫克尔斯的呼唤间来回转身；露莎从门外唤它，它跑进笼子，露莎立刻关门。)\nLuisa:过来，猴子！总算逮到你了。"
+        },
+        {
+          "kind": "DVD动作",
+          "html_lines": [
+            293
+          ],
+          "summary": "大人训诫时的幼稚动作",
+          "old_text": "Joey:哈克先生，我能来点这个吗？",
+          "new_text": "(DVD加长片段开始)\n(乔伊也站到落地放大镜后。)\n(DVD加长片段结束)\nJoey:哈克先生，我能来点这个吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            297,
+            298
+          ],
+          "summary": "不脱裙子笑点",
+          "old_text": "Ross:终于能脱去这件衣服，不是吗？或是这样也不错。",
+          "new_text": "(罗斯想帮马修脱下裙子，但马修抗拒。)\nRoss:终于能脱去这件衣服，不是吗？或是这样也不错。"
+        },
+        {
+          "kind": "最小场景纠错",
+          "html_lines": [
+            320
+          ],
+          "summary": "源稿明确年鉴，不是电视",
+          "old_text": "(大家一起看电视)",
+          "new_text": "(大家聚在咖啡馆。)"
+        },
+        {
+          "kind": "DVD对白",
+          "html_lines": [
+            320
+          ],
+          "summary": "答应展示年鉴",
+          "old_text": "Monica:这是我在 \"音乐之声\" 里面，看见范崔普的孩子吗？",
+          "new_text": "(DVD加长片段开始)\n(大家围着莫妮卡翻看她的高中年鉴。)\nMonica:好，好吧。行了。\n(DVD加长片段结束)\nMonica:这是我在 \"音乐之声\" 里面，看见范崔普的孩子吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            331
+          ],
+          "summary": "麻醉恢复后的动作",
+          "old_text": "Phoebe:我的屁股蛋醒了，哦，我的屁股醒了。",
+          "new_text": "(菲比站起来，跳着舞活动恢复知觉的屁股。)\nPhoebe:我的屁股蛋醒了，哦，我的屁股醒了。"
+        }
+      ],
+      "unresolved": [
+        "爱好者稿明确无法判断两位女子分别是 Tia 或 Samantha，沿用 Girl A/Girl B。",
+        "部分原有DVD对白未追溯统一加标；仅本次新增DVD均按蓝色边界标注。"
+      ],
+      "line_ending": "LF",
+      "validation": {
+        "reverse_replay_matches_baseline": true,
+        "dvd_boundaries_balanced": true,
+        "dvd_block_pairs": 5,
+        "added_line_count": 57,
+        "complete_source_html_line_span": [
+          25,
+          332
+        ],
+        "all_removed_baseline_lines_have_full_old_text": true
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E19.txt",
+      "english_file": "references/en/S01/FriendsS01E20.html",
+      "comparison_status": "全文按场景顺序逐段完整对照；非视频核实",
+      "changes": [
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            65
+          ],
+          "summary": "朋友质问复合",
+          "old_text": "Joey:废话，你上哪儿去了？",
+          "new_text": "Monica:瑞秋，到底怎么回事？他不就是你在婚礼上抛下的那个巴瑞吗？\nJoey:废话，你上哪儿去了？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            68
+          ],
+          "summary": "钱德勒突然反对的原因",
+          "old_text": "Chandler:是的！",
+          "new_text": "(罗斯打了钱德勒的胳膊，示意他反对瑞秋。)\nChandler:是的！"
+        },
+        {
+          "kind": "原播语气及动作",
+          "html_lines": [
+            54,
+            55
+          ],
+          "summary": "假装没在议论瑞秋",
+          "old_text": "Chandler:这就是法案成为法律的原因。",
+          "new_text": "(瑞秋进来，钱德勒连忙装作大家一直在讨论别的话题。)\nChandler:这就是法案成为法律的原因。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            56
+          ],
+          "summary": "众人配合转移话题",
+          "old_text": "Chandler:这就是法案成为法律的原因。",
+          "new_text": "Chandler:这就是法案成为法律的原因。\nAll:哦！……对！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            117
+          ],
+          "summary": "被病人撞见",
+          "old_text": "Bobby:法大夫。",
+          "new_text": "(巴瑞从柜子上找回瑞秋的胸罩，递给她，两人接吻时鲍比进来了。)\nBobby:法大夫。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            119
+          ],
+          "summary": "假检查掩饰",
+          "old_text": "Barry:好了，格林小姐，看来一切正常。(摆着瑞秋的嘴看她的牙齿)",
+          "new_text": "(他们赶紧分开，假装巴瑞正在检查瑞秋的牙齿。)\nBarry:好了，格林小姐，看来一切正常。(摆着瑞秋的嘴看她的牙齿)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            120
+          ],
+          "summary": "假检查后半句",
+          "old_text": "Barry:好了，格林小姐，看来一切正常。(摆着瑞秋的嘴看她的牙齿)",
+          "new_text": "Barry:好了，格林小姐，看来一切正常。(摆着瑞秋的嘴看她的牙齿)\nBarry:嗯，我看确实开始有进展了。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            128
+          ],
+          "summary": "检查电话是否坏了",
+          "old_text": "Chandler:是的，这电话没问题啊，她为何不回我电话？",
+          "new_text": "(钱德勒用自己的电话拨号，电话响了。)\nChandler:是的，这电话没问题啊，她为何不回我电话？"
+        },
+        {
+          "kind": "原播语气",
+          "html_lines": [
+            147
+          ],
+          "summary": "低声告白与大声重复形成反差",
+          "old_text": "Rachel:结果我们在他椅子上做爱了。",
+          "new_text": "(瑞秋压低声音告诉莫妮卡。)\nRachel:结果我们在他椅子上做爱了。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            155
+          ],
+          "summary": "被瑞秋反问卡住",
+          "old_text": "Chandler:如果需要我可以过去点。",
+          "new_text": "(罗斯支支吾吾，答不出来。)\nChandler:如果需要我可以过去点。"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            160,
+            162
+          ],
+          "summary": "钱德勒抢错电话与抬腿动作",
+          "old_text": "Rachel:哈喽！明蒂，嗨，你还好吗？是的，是的，我听说了，恭喜啊！这真是太好了！真的吗？哦，天呐，好的，好的。我明天工作，如果你愿意你可以过来…… 好的，太好了，太好了，好吧，明天见了。好的，再见。噢，天呀，哦，天呀，哦，天呀！",
+          "new_text": "(电话响，钱德勒扑向自己的电话。)\nChandler:喂？喂？\n(瑞秋接起公寓里的电话，铃声才停。她边说边绕桌走，大家一一抬腿给她让路。)\nRachel:哈喽！明蒂，嗨，你还好吗？是的，是的，我听说了，恭喜啊！这真是太好了！真的吗？哦，天呐，好的，好的。我明天工作，如果你愿意你可以过来…… 好的，太好了，太好了，好吧，明天见了。好的，再见。噢，天呀，哦，天呀，哦，天呀！"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            166,
+            168
+          ],
+          "summary": "莫妮卡模仿铃声恶作剧",
+          "old_text": "Chandler:地狱全是你这种人。",
+          "new_text": "(钱德勒盯着电话，莫妮卡悄悄靠过来，模仿铃声。)\nMonica:铃铃铃！\n(钱德勒赶忙抓住电话，才发现自己受骗。)\nChandler:地狱全是你这种人。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            182,
+            183
+          ],
+          "summary": "瑞秋拒绝乔伊追问",
+          "old_text": "Joey:等等，我和你一起出去。她在夏令营时教你亲吻，你是穿着制服呢，还是……没事了。",
+          "new_text": "Joey:等等，我和你一起出去。她在夏令营时教你亲吻，你是穿着制服呢，还是……没事了。\n(瑞秋出门，把门摔在乔伊面前；乔伊随后也出去。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            190
+          ],
+          "summary": "莫妮卡洁癖与钱德勒坐姿",
+          "old_text": "Chandler:丹妮尔，你好，我是Chandler，我很好。呃，我不知道你是否给我打过电话，呃，因为我这个白痴不小心把电话关了。哦，呃，好的，没事儿，很好，好的。她正在打另一个电话，她会给我打回来……她正在打另一个电话，她会给我打回来……",
+          "new_text": "(钱德勒坐到莫妮卡椅子的靠背上，把脚踩在椅面；莫妮卡在他脚下垫了条毛巾。)\nChandler:丹妮尔，你好，我是Chandler，我很好。呃，我不知道你是否给我打过电话，呃，因为我这个白痴不小心把电话关了。哦，呃，好的，没事儿，很好，好的。她正在打另一个电话，她会给我打回来……她正在打另一个电话，她会给我打回来……"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            206
+          ],
+          "summary": "表面伴娘邀请后的哭泣",
+          "old_text": "Mindy:不只这些。",
+          "new_text": "(明蒂忽然开始哭。)\nMindy:不只这些。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            241
+          ],
+          "summary": "填字游戏五字母缩写笑话",
+          "old_text": "Ross:五个字母。",
+          "new_text": "Ross:五个字母。\nPhoebe:那就缩写成 Rdtor。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            245
+          ],
+          "summary": "阻止乔伊被偷窥者带偏",
+          "old_text": "Joey:对，我邻居…… 对，黑褐色头发，她说你有天穿着绿色裙子非常好看。",
+          "new_text": "Monica:乔伊！\nJoey:对，我邻居…… 对，黑褐色头发，她说你有天穿着绿色裙子非常好看。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            271
+          ],
+          "summary": "第一次不算后的回应",
+          "old_text": "Barry:我亲爱的，再给我，再给我一次机会，好不？我们再重新来过。我们再到Aruba去。",
+          "new_text": "Mindy:好吧……\nBarry:我亲爱的，再给我，再给我一次机会，好不？我们再重新来过。我们再到Aruba去。"
+        },
+        {
+          "kind": "最小关键译义纠错",
+          "html_lines": [
+            279
+          ],
+          "summary": "hogging the ball是独占控球权比喻抢着骂人，并非抓生殖器",
+          "old_text": "Rachel:好吧，好吧，我们在这儿，恨你！看见他走出去时满身大汗没？听着亲爱的，如果我去抓住他的蛋蛋，然后你狠狠打他几拳，我告诉你，那感觉一定很爽。",
+          "new_text": "Rachel:好吧，好吧，我们在这儿，恨你！看见他走出去时满身大汗没？听着亲爱的，如果我把骂他的机会全占了，你随时加入，给他来几句狠的。我告诉你，那感觉一定很爽。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            291,
+            292
+          ],
+          "summary": "Joey误读拥抱的回扣",
+          "old_text": "Joey:好日子啊。",
+          "new_text": "(莫妮卡和瑞秋拥抱；乔伊进来，满意地看着她们。)\nJoey:好日子啊。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            317
+          ],
+          "summary": "众人对双重标准的反应",
+          "old_text": "Chandler:她好像很不错，她大老远来这儿只想确定我没事儿？我的意思是…… 有这个必要吗？",
+          "new_text": "Chandler:她好像很不错，她大老远来这儿只想确定我没事儿？我的意思是…… 有这个必要吗？\n(大家呻吟着，纷纷拍打钱德勒。)"
+        }
+      ],
+      "unresolved": [
+        "本集DVD对白原中文大多已有，未增加缺乏蓝色依据的DVD内容。"
+      ],
+      "line_ending": "LF",
+      "validation": {
+        "reverse_replay_matches_baseline": true,
+        "dvd_boundaries_balanced": true,
+        "dvd_block_pairs": 0,
+        "added_line_count": 24,
+        "complete_source_html_line_span": [
+          24,
+          318
+        ],
+        "all_removed_baseline_lines_have_full_old_text": true
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E20.txt",
+      "english_file": "references/en/S01/FriendsS01E21.html",
+      "comparison_status": "全文按场景顺序逐段完整对照；非视频核实",
+      "changes": [
+        {
+          "kind": "DVD动作",
+          "html_lines": [
+            25
+          ],
+          "summary": "母亲开口与女儿打断",
+          "old_text": "Waiter:准备好买单了吗？",
+          "new_text": "(DVD加长片段开始)\n(盖勒太太正要开口，莫妮卡抢着补上一句关于约会的抱怨。)\n(DVD加长片段结束)\nWaiter:准备好买单了吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            52
+          ],
+          "summary": "猴子乱搞台灯的视觉线索",
+          "old_text": "Phoebe:哦，讨厌。罗斯，他又这么干了。",
+          "new_text": "(沙发后面的台灯正在晃动，菲比指着它。)\nPhoebe:哦，讨厌。罗斯，他又这么干了。"
+        },
+        {
+          "kind": "DVD对白",
+          "html_lines": [
+            60
+          ],
+          "summary": "乔伊对不能理解的附和",
+          "old_text": "Phoebe:我明白。可是我们不能。",
+          "new_text": "Phoebe:我明白。可是我们不能。\n(DVD加长片段开始)\nJoey:对。\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            77,
+            78
+          ],
+          "summary": "生活清单是莫妮卡自问",
+          "old_text": "Rachel:哦，现在说 \"好吗\" 有点太迟了。我到过公园骑马吗？我在新学校上过课吗？",
+          "new_text": "Rachel:哦，现在说 \"好吗\" 有点太迟了。\nMonica:我到过公园骑马吗？我在新学校上过课吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            77,
+            79
+          ],
+          "summary": "深夜困倦与莫妮卡执着反差",
+          "old_text": "Rachel:哦，现在说 \"好吗\" 有点太迟了。",
+          "new_text": "(瑞秋打着哈欠。)\nRachel:哦，现在说 \"好吗\" 有点太迟了。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            85,
+            86
+          ],
+          "summary": "this big尺寸双关",
+          "old_text": "Joey:而且，我应该就是乔，乔伊让我感觉……我就这么大，可我不是。",
+          "new_text": "Joey:而且，我应该就是乔，乔伊让我感觉……我就这么大，可我不是。\n(乔伊用手比出个小尺寸，送咖啡的女服务员用古怪的眼神看他。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            93,
+            95
+          ],
+          "summary": "乔伊真的接受斯大林名字",
+          "old_text": "Chandler:或许你想试试乔瑟夫。",
+          "new_text": "Chandler:或许你想试试乔瑟夫。\n(乔伊恍然大悟地把名字记下来，钱德勒震惊地看着他。)"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            104,
+            105
+          ],
+          "summary": "瑞秋质疑被并入莫妮卡",
+          "old_text": "Monica:好的，太棒了，太棒了，非常感谢。我要去上踢踏舞课了。什么？这样你就可以跟偷你信用卡的人一起跳踢踏？",
+          "new_text": "Monica:好的，太棒了，太棒了，非常感谢。我要去上踢踏舞课了。\nRachel:什么？这样你就可以跟偷你信用卡的人一起跳踢踏？"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            130,
+            131
+          ],
+          "summary": "身体不协调是莫妮卡自问",
+          "old_text": "Phoebe:我完全融人进去了。你没有觉得自己有时毫无协调感吗？",
+          "new_text": "Phoebe:我完全融人进去了。\nMonica:你没有觉得自己有时毫无协调感吗？"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            138
+          ],
+          "summary": "对落单莫妮卡的反应",
+          "old_text": "Monica:这下可好，体育课的旧事又重演了。",
+          "new_text": "Monica:这下可好，体育课的旧事又重演了。\nPhoebe/Rachel:哦……"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            141
+          ],
+          "summary": "老师拉人及假莫妮卡入场",
+          "old_text": "Fake Monica:没关系，没关系。我来了。抱歉，我迟到来了。好了，那个紧张的新人是谁？",
+          "new_text": "(莫妮卡极慢地往教室前面挪，老师拉住她的手拽她过去；这时一个女人突然冲进来。)\nFake Monica:没关系，没关系。我来了。抱歉，我迟到来了。好了，那个紧张的新人是谁？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            148
+          ],
+          "summary": "宾州荷兰人托词原因；不捏造未转录外语",
+          "old_text": "Fake Monica:你在开玩笑吧？我在阿姆斯特丹住了三年。",
+          "new_text": "Fake Monica:你在开玩笑吧？我在阿姆斯特丹住了三年。\n(假莫妮卡用荷兰语向莫妮卡问话。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            158
+          ],
+          "summary": "性成熟笑话针对钱德勒，不是罗斯",
+          "old_text": "Joey:嘿，它超过你了呢。",
+          "new_text": "(乔伊转向钱德勒。)\nJoey:嘿，它超过你了呢。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            162
+          ],
+          "summary": "三不猴视觉笑话",
+          "old_text": "(中央公园咖啡馆；接上一个场景)",
+          "new_text": "(中央公园咖啡馆；接上一个场景)\n(三人像“三不猴”一样坐着：钱德勒捂嘴，罗斯捂耳朵，乔伊遮眼睛。)"
+        },
+        {
+          "kind": "最小关键译义纠错",
+          "html_lines": [
+            170
+          ],
+          "summary": "out of state是外州，不是状态不好",
+          "old_text": "Ross:我们申请很多动物园，当然大型州立动物园是优先考虑。比方说圣地牙哥动物园，是吧？那可能只是遥不可及的梦想，因为他状态不好。",
+          "new_text": "Ross:我们申请很多动物园，当然大型州立动物园是优先考虑。比方说圣地牙哥动物园，是吧？那可能只是遥不可及的梦想，因为它不在加州。",
+          "matched_fragment": "那可能只是遥不可及的梦想，因为他状态不好。",
+          "replacement_fragment": "那可能只是遥不可及的梦想，因为它不在加州。"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            191,
+            192
+          ],
+          "summary": "提议试演的是假莫妮卡",
+          "old_text": "Monica:什么？ \"猫\" 剧还有一个缺额。我想我们可以去唱 \"回忆\"。让自己彻底当个傻子，如何？",
+          "new_text": "Monica:什么？\nFake Monica:\"猫\" 剧还有一个缺额。我想我们可以去唱 \"回忆\"。让自己彻底当个傻子，如何？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            203,
+            205
+          ],
+          "summary": "椅子承担冲击的笑点",
+          "old_text": "Phoebe:我想应该椅子最可怜。",
+          "new_text": "(马修又在拿椅子发泄。)\nPhoebe:我想应该椅子最可怜。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            243
+          ],
+          "summary": "瑞秋呼唤喝水的莫妮卡",
+          "old_text": "(莫妮卡打开水龙头，直接喝水)",
+          "new_text": "(莫妮卡打开水龙头，直接喝水)\nRachel:莫妮卡？莫妮卡！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            289
+          ],
+          "summary": "飞机上玩具的具体内容",
+          "old_text": "Ross:如果你们不介意，我想和它独处。",
+          "new_text": "(瑞秋递给马修一只泰迪熊。)\nRoss:如果你们不介意，我想和它独处。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            291
+          ],
+          "summary": "独处要求没有立即被领会",
+          "old_text": "All:当然可以。继续。",
+          "new_text": "All:当然可以。继续。\n(大家站在原地，随后才明白罗斯是想单独告别，便走到房间另一头。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            292
+          ],
+          "summary": "告别中再次性冲动",
+          "old_text": "Ross:好吧，马修。能放开我的腿吗？能暂时不要乱来吗？马修……带它走好吗？带它走。",
+          "new_text": "(马修爬下来，又开始乱搞罗斯的腿，打断了他的深情告别。)\nRoss:好吧，马修。能放开我的腿吗？能暂时不要乱来吗？马修……带它走好吗？带它走。"
+        },
+        {
+          "kind": "原播语气",
+          "html_lines": [
+            296
+          ],
+          "summary": "试镜演员的表演水平",
+          "old_text": "Actor:希望我是你手上的手套…… 这样我就能抚摸你的脸颊。",
+          "new_text": "(演员夸张又蹩脚地表演。)\nActor:希望我是你手上的手套…… 这样我就能抚摸你的脸颊。"
+        }
+      ],
+      "unresolved": [
+        "现有部分动作描述（如跳舞评价）包含原译解释，本次不按源稿未写的细节继续扩写。",
+        "本集餐厅开场本为DVD片段；已有文本未全面加界标，本次新增动作独立标注DVD。"
+      ],
+      "line_ending": "LF",
+      "validation": {
+        "reverse_replay_matches_baseline": true,
+        "dvd_boundaries_balanced": true,
+        "dvd_block_pairs": 2,
+        "added_line_count": 25,
+        "complete_source_html_line_span": [
+          24,
+          302
+        ],
+        "all_removed_baseline_lines_have_full_old_text": true
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E21.txt",
+      "english_file": "references/en/S01/FriendsS01E22.html",
+      "comparison_status": "全文按场景顺序逐段完整对照；非视频核实",
+      "changes": [
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            26,
+            27
+          ],
+          "summary": "开头劝说与拒绝",
+          "old_text": "Phoebe:告诉他嘛 就给他说吧，",
+          "new_text": "Monica:告诉他。\nRachel:不要。\nPhoebe:告诉他嘛 就给他说吧，"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            36
+          ],
+          "summary": "钱德勒听说春梦的反应",
+          "old_text": "Phoebe:在这张桌子上做爱。",
+          "new_text": "Phoebe:在这张桌子上做爱。\nChandler:哇！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            44
+          ],
+          "summary": "两人私下说话转场",
+          "old_text": "Chandler:你没事吧？",
+          "new_text": "(罗斯走到柜台，钱德勒跟过去。)\nChandler:你没事吧？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            49
+          ],
+          "summary": "瑞秋让他下去的原因",
+          "old_text": "Chandler:你好啊，瑞秋。",
+          "new_text": "(钱德勒坐在瑞秋梦里那张桌子上。)\nChandler:你好啊，瑞秋。"
+        },
+        {
+          "kind": "最小关键译义纠错",
+          "html_lines": [
+            62
+          ],
+          "summary": "boob reduced是单侧缩乳，不是切除乳房",
+          "old_text": "Chandler:我的秘书这几周都不会来上班。她要去切掉她的一个咪咪。那个咪咪背后还有段一言难尽的故事哦。",
+          "new_text": "Chandler:我的秘书这几周都不会来上班。她要把其中一边的咪咪缩小。那个咪咪背后还有段一言难尽的故事哦。",
+          "matched_fragment": "她要去切掉她的一个咪咪。",
+          "replacement_fragment": "她要把其中一边的咪咪缩小。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            88
+          ],
+          "summary": "年龄调侃的缺失回应",
+          "old_text": "Monica:我就是26岁。",
+          "new_text": "Phoebe:嗯，也许能装二十五、二十六。\nMonica:我就是26岁。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            93
+          ],
+          "summary": "铃声响时不接电话在玩办公工具",
+          "old_text": "Phoebe:能。",
+          "new_text": "(菲比正在玩起钉器。)\nPhoebe:能。"
+        },
+        {
+          "kind": "原播缺句及最小说话人拆分",
+          "html_lines": [
+            98,
+            102
+          ],
+          "summary": "罗斯电话的转述及钱德勒回应",
+          "old_text": "Phoebe:他知道这件事指的是什么吗？他有你的号码？好，我会转告他的，再见。罗斯打的。真好玩。现在干什么？",
+          "new_text": "Phoebe:他知道这件事指的是什么吗？他有你的号码？好，我会转告他的，再见。\nChandler:什么？\nPhoebe:罗斯向你问好。\nChandler:啊！\nPhoebe:真好玩。现在干什么？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            104
+          ],
+          "summary": "most likely来自占卜玩具而非工作判断",
+          "old_text": "Phoebe:\"应该是\"。我就在外面。好的，拜拜。",
+          "new_text": "(菲比边玩魔法八号球边读出答案，然后往门外走。)\nPhoebe:\"应该是\"。我就在外面。好的，拜拜。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            120
+          ],
+          "summary": "拆穿没有计划过夜的说法",
+          "old_text": "Monica:刮了。",
+          "new_text": "Monica:刮了。\nRachel:啊哈！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            123
+          ],
+          "summary": "误认为临产的呼机来源",
+          "old_text": "Ross:这就是了！天哪！宝宝要出生了！",
+          "new_text": "(罗斯的BP机响了。)\nRoss:这就是了！天哪！宝宝要出生了！"
+        },
+        {
+          "kind": "原播语气",
+          "html_lines": [
+            147,
+            160
+          ],
+          "summary": "众人模仿的强调方式",
+          "old_text": "Chandler:够了，我的声音不是那样的。这一点都不真实。这一点都不……这一点都不……这……噢，闭嘴！",
+          "new_text": "(大家轮流模仿钱德勒，故意在不同词上重读。钱德勒反驳时，自己也说出了同样的重音。)\nChandler:够了，我的声音不是那样的。这一点都不真实。这一点都不……这一点都不……这……噢，闭嘴！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            213
+          ],
+          "summary": "不要说与后来回扣动作",
+          "old_text": "Ethan:和你坠入爱河。",
+          "new_text": "(莫妮卡伸手捂住伊森的嘴，不让他把话说完。)\nEthan:和你坠入爱河。"
+        },
+        {
+          "kind": "DVD剧情及对白",
+          "html_lines": [
+            273,
+            278
+          ],
+          "summary": "罗斯先安慰后取笑伊森年纪",
+          "old_text": "Phoebe:好。但是我们能不一起去吗？我不想成为邀请老板的二货。",
+          "new_text": "Phoebe:好。但是我们能不一起去吗？我不想成为邀请老板的二货。\n(DVD加长片段开始)\n(莫妮卡走回客厅。)\nRoss:你没事吧？\nMonica:嗯。\nRoss:你知道，这对他肯定也不容易。\nMonica:我知道。\nRoss:他也许得花点时间才能走出来。不过到四点，《布偶宝宝》就开播了。\n(莫妮卡开始打罗斯，罗斯和乔伊笑起来。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "DVD动作及对白",
+          "html_lines": [
+            280,
+            284
+          ],
+          "summary": "球砸到门外女子，解释道歉",
+          "old_text": "Chandler:往下跑，再跑，再跑！对不起，雪莉。看到没有，好玩吧？我觉得昨晚上真是太爽了。唱KTV的时候，我和崔西合唱了首\"黑檀木和白象牙\"。",
+          "new_text": "(DVD加长片段开始)\n(钱德勒站在办公室里，向门外扔出一个软垫橄榄球。)\nWoman outside:哎哟！\n(DVD加长片段结束)\nChandler:往下跑，再跑，再跑！对不起，雪莉。看到没有，好玩吧？我觉得昨晚上真是太爽了。唱KTV的时候，我和崔西合唱了首\"黑檀木和白象牙\"。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            295
+          ],
+          "summary": "菲比再次打断",
+          "old_text": "Chandler:但是我只是想……",
+          "new_text": "Chandler:但是我只是想……\nPhoebe:不行。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            307
+          ],
+          "summary": "配合新干手机的托词",
+          "old_text": "(众人立刻离开，留下莫妮卡和伊森两个人)",
+          "new_text": "Joey:已经装好了？\n(众人立刻离开，留下莫妮卡和伊森两个人)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            315
+          ],
+          "summary": "回扣早前不让说爱",
+          "old_text": "Monica:爱你。",
+          "new_text": "(伊森也伸手捂住莫妮卡的嘴。)\nMonica:爱你。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            336
+          ],
+          "summary": "醒来确认罗斯在旁边",
+          "old_text": "Ross:我在这。",
+          "new_text": "Rachel:罗斯？\nRoss:我在这。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            339
+          ],
+          "summary": "梦后马上临产转折",
+          "old_text": "Ross:啥？真不赶巧，现在我有宝宝了。",
+          "new_text": "(罗斯的BP机响了，这次真是卡萝要生了。)\nRoss:啥？真不赶巧，现在我有宝宝了。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            343,
+            345
+          ],
+          "summary": "第二次跌倒才导致受伤台词",
+          "old_text": "Ross:我受伤了。",
+          "new_text": "(罗斯又跳到茶几上找电话，随后从桌子跑过沙发，滑倒摔到地上。)\nRoss:我受伤了。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            354,
+            358
+          ],
+          "summary": "医院出发时化妆和带食物",
+          "old_text": "Rachel:咋了？我不能打扮的漂亮一点吗？那儿或许有医生。",
+          "new_text": "(瑞秋带着镜子和口红出来，乔伊则拿着一个大三明治。)\nRachel:咋了？我不能打扮的漂亮一点吗？那儿或许有医生。"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            359,
+            360
+          ],
+          "summary": "三明治回答是乔伊",
+          "old_text": "Ross:这是啥？留着路上吃的。",
+          "new_text": "Ross:这是啥？\nJoey:留着路上吃的。"
+        },
+        {
+          "kind": "原播表情",
+          "html_lines": [
+            365
+          ],
+          "summary": "当姑姑的感动",
+          "old_text": "Monica:我真不敢相信，我要当姑姑了。我快有侄子了。",
+          "new_text": "(莫妮卡哭着走出来。)\nMonica:我真不敢相信，我要当姑姑了。我快有侄子了。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            370,
+            371
+          ],
+          "summary": "众人带走呆住的罗斯",
+          "old_text": "Joey:好好好。我在走，我在走。走吧。小宝贝。",
+          "new_text": "Joey:好好好。我在走，我在走。走吧。小宝贝。\nChandler:走了，走了。\nRachel:罗斯，罗斯。"
+        }
+      ],
+      "unresolved": [
+        "原稿个别舞蹈与口语可译法不唯一，不据此重写已有译文。",
+        "后半集门外橄榄球动作及疼痛叫声为蓝色DVD，原有复合对白未全面追溯标记。"
+      ],
+      "line_ending": "LF",
+      "validation": {
+        "reverse_replay_matches_baseline": true,
+        "dvd_boundaries_balanced": true,
+        "dvd_block_pairs": 2,
+        "added_line_count": 40,
+        "complete_source_html_line_span": [
+          25,
+          372
+        ],
+        "all_removed_baseline_lines_have_full_old_text": true
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E22.txt",
+      "english_file": "references/en/S01/FriendsS01E23.html",
+      "comparison_status": "全文按场景顺序逐段完整对照；非视频核实",
+      "changes": [
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            31
+          ],
+          "summary": "雪茄回答的前问",
+          "old_text": "Joey:我会在等候室拿出雪茄来。",
+          "new_text": "Monica:乔伊，等你有孩子时你打算怎么办？\nJoey:我会在等候室拿出雪茄来。"
+        },
+        {
+          "kind": "原播表情及语气",
+          "html_lines": [
+            36
+          ],
+          "summary": "瑞秋学钱德勒失败",
+          "old_text": "Rachel:怎么了？Chandler这样说的时候就没事。",
+          "new_text": "(大家都看着瑞秋，觉得她这笑话说得不是时候。)\nRachel:怎么了？Chandler这样说的时候就没事。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            60
+          ],
+          "summary": "向产科医生问候",
+          "old_text": "Doctor:那么，你们考虑生个孩子？好的，我了解你已怀胎九月。这是个好的开始。宫缩情况如何？",
+          "new_text": "Ross:弗朗兹布劳医生，你好。\nDoctor:那么，你们考虑生个孩子？好的，我了解你已怀胎九月。这是个好的开始。宫缩情况如何？"
+        },
+        {
+          "kind": "最小数值纠错",
+          "html_lines": [
+            64
+          ],
+          "summary": "宫缩持续秒数漏5，保留数字形式",
+          "old_text": "Ross:9秒。石英表，哈！",
+          "new_text": "Ross:59秒。石英表，哈！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            71
+          ],
+          "summary": "争抢无意义与瑞秋已完成",
+          "old_text": "Rachel:嗨，我想你可能想喝点碎冰。",
+          "new_text": "(罗斯和苏珊争着出去拿碎冰，正好碰上瑞秋已经拿了一杯进来。)\nRachel:嗨，我想你可能想喝点碎冰。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            77
+          ],
+          "summary": "半睡半醒回应不是有意提议做爱",
+          "old_text": "Monica:我想要个孩子。",
+          "new_text": "(钱德勒靠在莫妮卡的肩上，快睡着了。)\nMonica:我想要个孩子。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            85
+          ],
+          "summary": "球队话题的起句",
+          "old_text": "Joey:哦是的。",
+          "new_text": "Lydia:尼克斯球迷？\nJoey:哦是的。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            91,
+            92
+          ],
+          "summary": "双方支持球队及乔伊说坏了的回嘴",
+          "old_text": "Lydia:哦闭嘴。你知道，今年是重建年。你……哇！",
+          "new_text": "Lydia:凯尔特人。\nJoey:凯尔特人？哈，他们就算……站在水里也打不中船……等等。他们就是烂，好吗？\nLydia:哦闭嘴。你知道，今年是重建年。你……哇！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            101,
+            105
+          ],
+          "summary": "唱歌及钱不是打赏",
+          "old_text": "Phoebe:他们又小又肉摸起来感觉很好，不久他们长大后就会开始恨你。然后他们对你大吼大叫，你不知道为什么，你只能哭啊哭啊哭啊。你哭啊哭啊哭啊……谢谢你Ross。",
+          "new_text": "(菲比弹着吉他唱歌，罗斯递给她一美元让她停下来。)\nPhoebe:他们又小又肉摸起来感觉很好，不久他们长大后就会开始恨你。然后他们对你大吼大叫，你不知道为什么，你只能哭啊哭啊哭啊。你哭啊哭啊哭啊……谢谢你Ross。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            121
+          ],
+          "summary": "逃离结婚话题的表演",
+          "old_text": "Chandler:天啊！这个降落伞是个背包！",
+          "new_text": "Chandler:天啊！这个降落伞是个背包！\n(钱德勒从自己坐着的椅背上翻了过去。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            143,
+            144
+          ],
+          "summary": "争球赛是留下帮助的转折",
+          "old_text": "Lydia:哦这不是真的。",
+          "new_text": "(乔伊本已走出病房，过了一会又回头来继续和她争球赛。)\nLydia:哦这不是真的。"
+        },
+        {
+          "kind": "DVD及原播对白",
+          "html_lines": [
+            161
+          ],
+          "summary": "拆开DVD倒数和原播裘帝质问",
+          "old_text": "Susan:你儿子。",
+          "new_text": "(DVD加长片段开始)\nRoss:四、三、二……\n(DVD加长片段结束)\nRoss:裘帝到底是谁？\nSusan:你儿子。"
+        },
+        {
+          "kind": "DVD动作",
+          "html_lines": [
+            192
+          ],
+          "summary": "护士呼吸指令针对乔伊",
+          "old_text": "Joey:我很好，我很好。很恶心。我很好。",
+          "new_text": "(DVD加长片段开始)\n(乔伊按护士的口令一口一口地呼吸，让自己冷静。)\n(DVD加长片段结束)\nJoey:我很好，我很好。很恶心。我很好。"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            204,
+            209
+          ],
+          "summary": "原播独有罗斯插嘴，以及三人被困机制",
+          "old_text": "Phoebe:嘿，嘿，好了，行了，够了！进房间。进去。天啊，我真不敢相信你们。宝宝们即将出生在这栋楼里，他听见的第一个声音不该是你们的吵闹声。所以你们别再吵了，别吵了！别让我再发脾气，我不喜欢我自己这样。好吧，谁想听点讽刺的事？",
+          "new_text": "Phoebe:嘿，嘿，好了，行了，够了！进房间。进去。天啊，我真不敢相信你们。宝宝们即将出生在这栋楼里，他听见的第一个声音不该是你们的吵闹声。所以你们别再吵了，别吵了！\n(原播版对白；DVD加长版未保留)\nRoss:是啊，苏珊。\nPhoebe:别让我再发脾气，我不喜欢我自己这样。\n(菲比把两人带进清洁工具间。她正要离开，却发现门锁住了。)\nPhoebe:好吧，谁想听点讽刺的事？"
+        },
+        {
+          "kind": "原播及DVD动作对白",
+          "html_lines": [
+            228,
+            229
+          ],
+          "summary": "撞门失败及菲比医院笑话",
+          "old_text": "Ross:我的孩子就要在外面出生了！有没有人？所有人后退。噢！",
+          "new_text": "Ross:我的孩子就要在外面出生了！有没有人？所有人后退。噢！\n(罗斯后退，准备撞门，却一脚踩进水桶里摔倒。)\n(DVD加长片段开始)\nPhoebe:好吧，好吧，幸亏我们在医院。\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播动作及DVD剧情",
+          "html_lines": [
+            217,
+            225
+          ],
+          "summary": "卡萝痛时医患被忽视；找人的新增段落",
+          "old_text": "Doctor:是真的。我酒店旁边有一家很棒的点心店。没事，亲爱的。",
+          "new_text": "Doctor:是真的。我酒店旁边有一家很棒的点心店。没事，亲爱的。\n(卡萝痛得坐起来，瑞秋和医生漫不经心地把她按回床上，继续聊天。)\n(DVD加长片段开始)\n(医院休息室，莫妮卡和钱德勒跑进来。)\nMonica:你找到他们了吗？\nChandler:我查过礼品店，也查过餐厅。\nMonica:菲比和乔伊又在哪儿？！\nChandler:我觉得这里有邪恶的事情正在发生。你如果发现了任何人，或者任何人的……身体部分，就大叫。然后再叫一次。\n(两人又跑出去。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            232
+          ],
+          "summary": "吸开门台词的动作前提",
+          "old_text": "Susan:你想干嘛，把门吸开么？",
+          "new_text": "(罗斯举起吸尘器对着门。)\nSusan:你想干嘛，把门吸开么？"
+        },
+        {
+          "kind": "原播表情及语气",
+          "html_lines": [
+            235
+          ],
+          "summary": "不合时宜歌曲被凝视",
+          "old_text": "Phoebe:第二天他们终于发现了尸 体，第二天他们终于发现了……啦啦啦啦啦。",
+          "new_text": "Phoebe:第二天他们终于发现了尸 体，第二天他们终于发现了……啦啦啦啦啦。\n(罗斯和苏珊盯着菲比，她才把死亡歌词改成“啦啦啦”。)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            239
+          ],
+          "summary": "莫妮卡想生孩子和钱德勒替她挡母亲",
+          "old_text": "Chandler:你上哪儿去了？",
+          "new_text": "(莫妮卡看见一个抱婴儿的女人经过，把电话贴在胸口哭起来。钱德勒接过电话，模仿静电干扰声，然后挂断。)\nChandler:你上哪儿去了？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            255
+          ],
+          "summary": "明白妇产科职业类比后不再追求",
+          "old_text": "Rachel:好，很好。",
+          "new_text": "Rachel:好，很好。\n(瑞秋摘下为了吸引医生而戴的耳环。)"
+        },
+        {
+          "kind": "DVD对白",
+          "html_lines": [
+            259
+          ],
+          "summary": "讽刺孩子爸爸问这是不是我们的孩子",
+          "old_text": "Lydia:不，这是个替代品。",
+          "new_text": "Lydia:不，这是个替代品。\n(DVD加长片段开始)\nLydia:我们自己的还在修理呢。天哪，真希望她的脑子随我。\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            267,
+            271
+          ],
+          "summary": "断卡及再次迁怒苏珊",
+          "old_text": "Ross:拜托，拜托。就得用力点儿不然……可恶! 可恶! 可恶! 可恶!都是你的错。这本来应该是我这辈子最快乐的日子，你知道么？我儿子即将出生，我应该在那儿，而不应该跟你被困在储藏室里。",
+          "new_text": "(罗斯试图用信用卡撬门。)\nSusan:我觉得你太用力了。\n(罗斯继续用力，信用卡断了。)\nRoss:拜托，拜托。就得用力点儿不然……可恶! 可恶! 可恶! 可恶!都是你的错。这本来应该是我这辈子最快乐的日子，你知道么？我儿子即将出生，我应该在那儿，而不应该跟你被困在储藏室里。"
+        },
+        {
+          "kind": "最小关键译义纠错",
+          "html_lines": [
+            284
+          ],
+          "summary": "at zero station不是离出生还早",
+          "old_text": "Joey:放轻松。你才开了9公分。离孩子出生还早着呢。",
+          "new_text": "Joey:放轻松。你才开了9公分。宝宝还在零胎位。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            285,
+            287
+          ],
+          "summary": "衬衫被扯，乳头笑话前提",
+          "old_text": "Chandler:嘿你真的吓到我了。谁帮我一下，她要把我心脏掏出来。呃，这下好了。谁看见一个乳 头了么？",
+          "new_text": "(钱德勒被乔伊的专业说法吓到了。卡萝忽然痛得大叫，一把抓住钱德勒的衬衫；大家帮他拉开卡萝的手。)\nChandler:嘿你真的吓到我了。谁帮我一下，她要把我心脏掏出来。呃，这下好了。谁看见一个乳 头了么？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            293
+          ],
+          "summary": "Ben制服及通风口逃生准备",
+          "old_text": "Ross:好了，通风口打开了。",
+          "new_text": "(罗斯用扫帚打开天花板上的通风口，菲比套上清洁工制服，准备爬进去。)\nRoss:好了，通风口打开了。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            301
+          ],
+          "summary": "提醒悬空的菲比门已打开",
+          "old_text": "Janitor:等等！你们忘了腿！",
+          "new_text": "Ross:菲比，门开了！门开了！\nJanitor:等等！你们忘了腿！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            309
+          ],
+          "summary": "医生要拿器械而非搭讪的笑点",
+          "old_text": "Doctor:好了，Carol，你需要持续用力推。我需要，我需要……打扰一下，能把这个给我么？哦抱歉。",
+          "new_text": "(医生伸手要拿器械，但瑞秋的手正放在上面。)\nDoctor:好了，Carol，你需要持续用力推。我需要，我需要……打扰一下，能把这个给我么？哦抱歉。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            326
+          ],
+          "summary": "菲比没在普通产房位置",
+          "old_text": "Phoebe:各位，他真漂亮！",
+          "new_text": "(菲比从产房上方的通风口往下看。)\nPhoebe:各位，他真漂亮！"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            328
+          ],
+          "summary": "从通风口打招呼",
+          "old_text": "Ross:哦谢谢你Pheebs。",
+          "new_text": "Ross:哦谢谢你Pheebs。\n(大家抬头朝通风口里的菲比挥手。)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            331
+          ],
+          "summary": "本名字由罗斯提出",
+          "old_text": "Susan:我喜欢Ben。",
+          "new_text": "Ross:叫本怎么样？\nSusan:我喜欢Ben。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            333
+          ],
+          "summary": "卡萝同意名字及询问缘由",
+          "old_text": "Susan:我喜欢Ben。",
+          "new_text": "Susan:我喜欢Ben。\nCarol:本。本。本很好。你怎么以前从没提过这个名字？"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            342
+          ],
+          "summary": "非生物母亲也获夸的笑话",
+          "old_text": "Susan:谢谢。",
+          "new_text": "Phoebe:苏珊，他长得真像你。\nSusan:谢谢。"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            346,
+            347
+          ],
+          "summary": "姑姑申请抱孩子",
+          "old_text": "Ross:托着头，托着头，你得……",
+          "new_text": "Monica:罗斯，我能抱抱吗？\n(莫妮卡抱起本。)\nRoss:托着头，托着头，你得……"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            354
+          ],
+          "summary": "偷三垒的教导示意",
+          "old_text": "Chandler:有时候，如果我想让你抢三垒，我会这样做。",
+          "new_text": "Chandler:有时候，如果我想让你抢三垒，我会这样做。\n(钱德勒做了一个棒球手势。)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            358
+          ],
+          "summary": "给本叫名没反应",
+          "old_text": "Phoebe:哦快看快看，他闭上眼睛了。哦快看，他张开眼睛了。",
+          "new_text": "Joey:本，本，嘿，本。没反应。我觉得这不是他的名字。\nPhoebe:哦快看快看，他闭上眼睛了。哦快看，他张开眼睛了。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            366
+          ],
+          "summary": "众人舍不得离开",
+          "old_text": "Phoebe:哦快看，他又闭上眼睛了。",
+          "new_text": "(除了罗斯，大家都离开了；但几秒后又都回来，朝婴儿做鬼脸。)\nPhoebe:哦快看，他又闭上眼睛了。"
+        },
+        {
+          "kind": "最小动作时点校准",
+          "html_lines": [
+            142,
+            144
+          ],
+          "summary": "保留旧句字词，将离开又返回动作放在继续球赛争论前",
+          "old_text": "Joey:祝你好运，然后，保重，好么？你知道Celtics有什么问题么？他们让球员经营球队。\n(乔伊本已走出病房，过了一会又回头来继续和她争球赛。)",
+          "new_text": "Joey:祝你好运，然后，保重，好么？\n(乔伊走出病房，过了一会又回头来。)\nJoey:你知道Celtics有什么问题么？他们让球员经营球队。"
+        },
+        {
+          "kind": "最小动作时点校准",
+          "html_lines": [
+            208
+          ],
+          "summary": "带进工具间已发生，删重复动作只保留出不去",
+          "old_text": "(菲比把两人带进清洁工具间。她正要离开，却发现门锁住了。)",
+          "new_text": "(菲比正要离开清洁工具间，却发现门锁住了。)"
+        }
+      ],
+      "unresolved": [
+        "源稿说明部分场景在DVD版调换顺序；中文保留既有段落顺序，本次不搬动求救场景。新增休息室寻找情节在源稿对应位置插入。",
+        "原播独有“Yeah, Susan”依据HTML206明确注记补回，明确标出DVD未保留。"
+      ],
+      "line_ending": "LF",
+      "validation": {
+        "reverse_replay_matches_baseline": true,
+        "dvd_boundaries_balanced": true,
+        "dvd_block_pairs": 5,
+        "added_line_count": 61,
+        "complete_source_html_line_span": [
+          25,
+          369
+        ],
+        "all_removed_baseline_lines_have_full_old_text": true
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E23.txt",
+      "english_file": "references/en/S01/FriendsS01E24.html",
+      "comparison_status": "全文按场景顺序逐段完整对照；非视频核实",
+      "changes": [
+        {
+          "kind": "原播表情及语气",
+          "html_lines": [
+            49,
+            50
+          ],
+          "summary": "把瑞秋亲吻宝宝的话想成亲吻自己",
+          "old_text": "Ross:那感觉一定很好。",
+          "new_text": "(罗斯痴痴地望着瑞秋，压低声音。)\nRoss:那感觉一定很好。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            51
+          ],
+          "summary": "额外空气的声音前提",
+          "old_text": "Rachel:怎么了？",
+          "new_text": "(钱德勒看不下去，发出不屑的“噗”声。)\nRachel:怎么了？"
+        },
+        {
+          "kind": "原播及DVD对白",
+          "html_lines": [
+            65,
+            69
+          ],
+          "summary": "捐精研究揭示时的取笑",
+          "old_text": "Joey:拜托，这没什么大不了的。真的，我只是两天去一趟，对这个项目做点儿贡献。但两周后我就有七百元。",
+          "new_text": "Monica:哦，乔伊，求你告诉我你捐的只是时间。\n(DVD加长片段开始)\nJoey:呃，实际上，稍微比那多一点。\nChandler:哦，感谢上帝！这会给我们带来多少乐趣啊！\n(DVD加长片段结束)\nJoey:拜托，这没什么大不了的。真的，我只是两天去一趟，对这个项目做点儿贡献。但两周后我就有七百元。"
+        },
+        {
+          "kind": "DVD对白及动作",
+          "html_lines": [
+            77,
+            80
+          ],
+          "summary": "众人继续取笑研究项目",
+          "old_text": "Phoebe:哇，你很快就能用手握住一大把钞票了。",
+          "new_text": "Phoebe:哇，你很快就能用手握住一大把钞票了。\n(DVD加长片段开始)\nJoey:真好笑！非常好笑！\nRachel:不，这真的非常棒。我居然认识一个热爱自己工作的人。\nRoss:对，不过辛苦工作一天以后，你要怎么放松呢？\n(乔伊站起来，准备离开。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "DVD对白",
+          "html_lines": [
+            84
+          ],
+          "summary": "回应菲比素食者言论",
+          "old_text": "Phoebe:还有曾经可爱的母牛和火鸡的绞牛肉及火鸡肉。",
+          "new_text": "Phoebe:还有曾经可爱的母牛和火鸡的绞牛肉及火鸡肉。\n(DVD加长片段开始)\nMonica:你知道，我真喜欢跟你一起烧烤。\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            92
+          ],
+          "summary": "女友会来烧烤的交代",
+          "old_text": "Joey:哦，好的。",
+          "new_text": "Monica:哦，乔伊，梅兰妮来过电话，说她会晚点到。\nJoey:哦，好的。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            103,
+            107
+          ],
+          "summary": "烧烤多久才有行李的笑话",
+          "old_text": "Phoebe:你觉得这烧烤要多久？",
+          "new_text": "(罗斯拎着行李进来，菲比看见他的包。)\nPhoebe:你觉得这烧烤要多久？"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            114
+          ],
+          "summary": "莫妮卡答应代替探望儿子",
+          "old_text": "Ross:你能时不时拿照片到Carol家去给Ben看？这样他就不会忘记我了。",
+          "new_text": "Ross:你能时不时拿照片到Carol家去给Ben看？这样他就不会忘记我了。\nMonica:好。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            135
+          ],
+          "summary": "乔伊讽刺回答的前提",
+          "old_text": "Chandler:让我想想，Alvin……Simon……Theodore……不认识。",
+          "new_text": "Chandler:让我想想，Alvin……Simon……Theodore……不认识。\nRoss:瑞秋今晚和他喝酒去了。"
+        },
+        {
+          "kind": "原播剧情",
+          "html_lines": [
+            81
+          ],
+          "summary": "生日聚会的明确目的",
+          "old_text": "Monica:我们有凉拌卷心菜(菜少酱多)，小面包。",
+          "new_text": "(这是瑞秋的生日烧烤聚会。)\nMonica:我们有凉拌卷心菜(菜少酱多)，小面包。"
+        },
+        {
+          "kind": "DVD对白",
+          "html_lines": [
+            151
+          ],
+          "summary": "故意附和式自以为反对",
+          "old_text": "Rachel:噢，不不不，先看礼物。",
+          "new_text": "Rachel:噢，不不不，先看礼物。\n(DVD加长片段开始)\nChandler:我才不管瑞秋说什么，我们先拆礼物。\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播及DVD动作",
+          "html_lines": [
+            163,
+            167
+          ],
+          "summary": "水果篮业务与生日礼物；水果篮动作蓝色",
+          "old_text": "Rachel:谢谢，Melanie。",
+          "new_text": "(梅兰妮笑着示意，瑞秋的第一份礼物是水果篮。)\nRachel:谢谢，Melanie。"
+        },
+        {
+          "kind": "DVD边界校准",
+          "html_lines": [
+            163,
+            166
+          ],
+          "summary": "只包围源稿蓝色礼物揭示及耸肩",
+          "old_text": "(梅兰妮笑着示意，瑞秋的第一份礼物是水果篮。)",
+          "new_text": "(梅兰妮笑着示意。)\n(DVD加长片段开始)\n(瑞秋的第一份礼物是水果篮，乔伊耸肩表示还是没听懂莫妮卡的话。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            169,
+            170
+          ],
+          "summary": "can play on plane后续抱怨前提",
+          "old_text": "Rachel:好轻，还有声音。是……旅游拼字，哦，谢谢你！",
+          "new_text": "Rachel:好轻，还有声音。是……旅游拼字，哦，谢谢你！\n(瑞秋把旅游拼字游戏还给钱德勒，钱德勒显得很失落。)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            178
+          ],
+          "summary": "胸针赠送者明确",
+          "old_text": "Rachel:这是谁送的？",
+          "new_text": "Rachel:这是谁送的？\nChandler:哦，那是罗斯送的。"
+        },
+        {
+          "kind": "DVD对白及动作",
+          "html_lines": [
+            204,
+            206
+          ],
+          "summary": "起飞前追人的时间确认",
+          "old_text": "Joey:那个国家哦。",
+          "new_text": "Joey:那个国家哦。\n(DVD加长片段开始)\n(瑞秋面无表情地看着乔伊。)\nRachel:他的飞机已经起飞了吗？\nChandler:开什么玩笑？他正坐在座位上，看着一个女人做这个。\n(钱德勒挥动手臂，模仿空乘的安全示范。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            213
+          ],
+          "summary": "追去机场前询问表态",
+          "old_text": "Rachel:我，我不知道。",
+          "new_text": "Monica:瑞秋，你准备对他说什么？\nRachel:我，我不知道。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            220
+          ],
+          "summary": "用照片测试心动",
+          "old_text": "Phoebe:看这儿，好吧，这个有帮助吗？",
+          "new_text": "Phoebe:看这儿，好吧，这个有帮助吗？\n(菲比又把罗斯的照片举到自己的脸前。)"
+        },
+        {
+          "kind": "最小道具及剧情纠错",
+          "html_lines": [
+            223
+          ],
+          "summary": "1995剧情不是蓝牙；源稿中文学习磁带",
+          "old_text": "(罗斯带着蓝牙耳机，所以听不见外界声音)",
+          "new_text": "(罗斯戴着耳机，正听着教人说中文的磁带，不时跟着磁带念中文。)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            227,
+            234
+          ],
+          "summary": "登机口拦截完整问答",
+          "old_text": "Flight Attendant:抱歉，除非有登机证，否则不能进入。",
+          "new_text": "(瑞秋赶到登机口。)\nFlight Attendant:你好。\nRachel:你好。\nFlight Attendant:能看一下你的登机牌吗？\nRachel:哦，没有，我没有登机牌。我只是需要和我的朋友说句话。\nFlight Attendant:抱歉，除非有登机证，否则不能进入。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            240
+          ],
+          "summary": "传错人的蓝外套原因",
+          "old_text": "Flight Attendant:先生？先生？抱歉，先生，有人叫我传话给你。",
+          "new_text": "(空乘走过罗斯，来到另一位同样穿蓝色夹克、陪着妻子的年长男人面前。)\nFlight Attendant:先生？先生？抱歉，先生，有人叫我传话给你。"
+        },
+        {
+          "kind": "DVD对白及表情",
+          "html_lines": [
+            257,
+            261
+          ],
+          "summary": "被夸女人后的反应",
+          "old_text": "Melanie:说不上来，大概是我认为，你是只顾自己享受的人，但你是个乐于付出的人。你是我见过最慷慨的人。你简直就是个女人。",
+          "new_text": "Melanie:说不上来，大概是我认为，你是只顾自己享受的人，但你是个乐于付出的人。你是我见过最慷慨的人。你简直就是个女人。\n(DVD加长片段开始)\nJoey:你只是说说罢了！\nMelanie:不是。\n(乔伊笑着拥抱梅兰妮，嘴里无声地重复：“女人？”)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "DVD剧情及对白",
+          "html_lines": [
+            262,
+            286
+          ],
+          "summary": "没赶上飞机后回家，钱德勒偷着高兴",
+          "old_text": "Monica:这包装纸要留下来吗？只破了一点点……你是要跟罗斯一起收拾这个，还是要我丢掉？",
+          "new_text": "(DVD加长片段开始)\n(瑞秋回到公寓，莫妮卡、菲比和钱德勒都在。)\nMonica:怎么样？\nRachel:我没赶上他。\nMonica/Phoebe:哦，真遗憾。\nChandler:太可惜了。\nPhoebe:才怪！\nRachel:你是真心的吗？\nChandler:真的。我也能替自己之外的人着想。好，我去睡了。生日快乐，瑞秋。撑住。\nRachel:谢谢。\n(钱德勒走出门，在走廊欢呼。)\nChandler:耶！\n(他又回来掩饰。)\nChandler:披萨优惠券。\n(钱德勒再度离开，瑞秋坐下。)\nRachel:哦，天哪。好吧，你们要我帮忙收拾这些吗？\nPhoebe:那太好了。\n(瑞秋开始清桌子，莫妮卡和菲比站在她身后，无声地争着让对方先问瑞秋。)\n(DVD加长片段结束)\nMonica:这包装纸要留下来吗？只破了一点点……你是要跟罗斯一起收拾这个，还是要我丢掉？"
+        },
+        {
+          "kind": "原播对白及语气",
+          "html_lines": [
+            310,
+            311
+          ],
+          "summary": "女友还在睡的提醒",
+          "old_text": "Chandler:嗨，大…… 慈善家。",
+          "new_text": "Chandler:嗨，大…… 慈善家。\nJoey:嘘！\n(钱德勒压低声音。)"
+        },
+        {
+          "kind": "DVD对白及动作",
+          "html_lines": [
+            321
+          ],
+          "summary": "切换话题到杂志",
+          "old_text": "Joey:我知道，我自己也不知道！",
+          "new_text": "Joey:我知道，我自己也不知道！\n(DVD加长片段开始)\n(钱德勒拿起杂志。)\nChandler:嘿，O.J.出什么事了吗？\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "最小关键译义纠错",
+          "html_lines": [
+            328
+          ],
+          "summary": "exchanged是换货，不是改衣服",
+          "old_text": "Rachel:你送的，我把你送的衬衫改成的。",
+          "new_text": "Rachel:你送的，我用你送的衬衫换的。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            334
+          ],
+          "summary": "莫妮卡否认so的前问",
+          "old_text": "Monica:我没有那样，开始我也觉得有点奇怪，但我没事的，我保证。",
+          "new_text": "Rachel:莫妮卡，根本都还没发生什么，你已经这么……\nMonica:我没有那样，开始我也觉得有点奇怪，但我没事的，我保证。"
+        },
+        {
+          "kind": "原播对白及动作",
+          "html_lines": [
+            341,
+            342
+          ],
+          "summary": "研究支票到账",
+          "old_text": "Chandler:好样的，你办到了！我们有水果可以吃吗？",
+          "new_text": "(乔伊拿着支票进来。)\nJoey:七百块！\nChandler:好样的，你办到了！我们有水果可以吃吗？"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            346
+          ],
+          "summary": "重见光明比喻的手势",
+          "old_text": "Joey:你疯了不成？瞎子重见光明后会这样走路吗？",
+          "new_text": "Joey:你疯了不成？瞎子重见光明后会这样走路吗？\n(乔伊闭着眼，张开双臂摸索着走路。)"
+        },
+        {
+          "kind": "原播表情及剧情",
+          "html_lines": [
+            349
+          ],
+          "summary": "罗斯是想象不是实际来访",
+          "old_text": "Ross:我难以相信你跟他约会，而不是跟我。",
+          "new_text": "(瑞秋一脸无聊，想象中的罗斯出现在阳台。)\nRoss:我难以相信你跟他约会，而不是跟我。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            353,
+            354
+          ],
+          "summary": "幻想暂时消失再出现",
+          "old_text": "Ross:行，那就别再想我。办不到，对不？",
+          "new_text": "Ross:行，那就别再想我。办不到，对不？\n(瑞秋试着不想他；罗斯消失了一下，又在更靠近她的位置出现。)"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            359,
+            360
+          ],
+          "summary": "幻想中请求机会及拒绝",
+          "old_text": "Ross:为什么？因为大家会感觉不对劲？谁理他们啊。这是我们两人的事，我从九年级开始就爱上你了。",
+          "new_text": "Ross:瑞秋，给我们一个机会。\nRachel:罗斯，这太难了。\nRoss:为什么？因为大家会感觉不对劲？谁理他们啊。这是我们两人的事，我从九年级开始就爱上你了。"
+        },
+        {
+          "kind": "原播对白",
+          "html_lines": [
+            362,
+            363
+          ],
+          "summary": "担心失去友谊的明确前提",
+          "old_text": "Rachel:如果我们分手，我失去你……",
+          "new_text": "Rachel:罗斯，你就像我最好的朋友。\nRoss:我知道。\nRachel:如果我们分手，我失去你……"
+        },
+        {
+          "kind": "原播动作及对白",
+          "html_lines": [
+            370,
+            371
+          ],
+          "summary": "接吻确定心动，促成机场决定",
+          "old_text": "Ross:那就开始看吧。",
+          "new_text": "Ross:那就开始看吧。\n(瑞秋和想象中的罗斯接吻；罗斯走开，随后渐渐消失。)\nRachel:哇。"
+        },
+        {
+          "kind": "DVD剧情及对白",
+          "html_lines": [
+            380,
+            399
+          ],
+          "summary": "瑞秋戴胸针去机场、莫妮卡接手卡尔、钱德勒放心",
+          "old_text": "(瑞秋来到机场，发现罗斯带着新女友出现)",
+          "new_text": "(DVD加长片段开始)\n(公寓里，瑞秋走向自己的房间，莫妮卡坐在客厅。)\nMonica:嘿，你去哪儿？\nRachel:去接罗斯。\nMonica:天哪，太激动人心了！\n(瑞秋走出房间，戴上罗斯送她的胸针。)\nRachel:我知道。莫妮卡，听着，我不想继续这场约会了，你想要剩下的部分就拿去。\nMonica:瑞秋，他又不是个三明治。\nRachel:我知道。他是个投资银行家，而且有歌剧票。\n(莫妮卡向阳台上的卡尔挥手。)\nMonica:你好！\n(走廊里，钱德勒正要进自己公寓，瑞秋从房里出来。)\nChandler:嘿，瑞秋，你要去哪儿？\nRachel:机场！\nChandler:哦，不，不，你不能告诉他。我这辈子还有好多事没做。他们找了雅丝敏·布莉丝以后，我还没看过《海滩救护队》呢。\nRachel:好，钱德勒，放松。这次去机场，是好事。\nChandler:哦，那就飞吧，好姑娘。像风一样飞！\nRachel:我飞了。\nChandler:别忘了告诉他，是我说漏嘴的。\n(钱德勒对自己说。)\nChandler:耶，爱情医生又成功治好了一个病例！\n(DVD加长片段结束)\n(瑞秋来到机场，发现罗斯带着新女友出现)"
+        },
+        {
+          "kind": "原播动作及剧情",
+          "html_lines": [
+            400
+          ],
+          "summary": "欢迎罗斯的花及等待气氛",
+          "old_text": "Rachel:借过，不好意思，抱歉，借过。",
+          "new_text": "(瑞秋拿着花在登机口等待，背景响着麦当娜的《Take A Bow》。)\nRachel:借过，不好意思，抱歉，借过。"
+        },
+        {
+          "kind": "原播动作",
+          "html_lines": [
+            404,
+            406
+          ],
+          "summary": "女友身份通过亲吻显露",
+          "old_text": "Ross:嘿，嘿，我捡到了。谢谢 不客气。我迫不及待，想将你介绍给我朋友。",
+          "new_text": "(一个女人下飞机时掉了一只包，罗斯跟在后面，帮她捡起来，两人接吻。)\nRoss:嘿，嘿，我捡到了。谢谢 不客气。我迫不及待，想将你介绍给我朋友。"
+        },
+        {
+          "kind": "最小说话人拆分",
+          "html_lines": [
+            405,
+            408
+          ],
+          "summary": "朱莉感谢被并入罗斯句子",
+          "old_text": "Ross:嘿，嘿，我捡到了。谢谢 不客气。我迫不及待，想将你介绍给我朋友。",
+          "new_text": "Ross:嘿，嘿，我捡到了。\nJulie:谢谢，亲爱的。\nRoss:不客气。我迫不及待，想将你介绍给我朋友。"
+        },
+        {
+          "kind": "原播剧情及表情",
+          "html_lines": [
+            415
+          ],
+          "summary": "结尾观众与瑞秋信息差",
+          "old_text": "Ross:别担心，他们一定会喜欢你的。",
+          "new_text": "Ross:别担心，他们一定会喜欢你的。\n(镜头切到瑞秋，她还热切地等着罗斯，不知道他正和另一个女人一起下飞机。)"
+        },
+        {
+          "kind": "最小动作时点校准",
+          "html_lines": [
+            352,
+            354
+          ],
+          "summary": "保留旧句字词，将消失再出现放在试着忘记和办不到之间",
+          "old_text": "Ross:行，那就别再想我。办不到，对不？\n(瑞秋试着不想他；罗斯消失了一下，又在更靠近她的位置出现。)",
+          "new_text": "Ross:行，那就别再想我。\n(瑞秋试着不想他；罗斯消失了一下，又在更靠近她的位置出现。)\nRoss:办不到，对不？"
+        }
+      ],
+      "unresolved": [
+        "源稿机场中文仅记“something in Chinese”及不确定拼音，不反译添加无证据中文，原有“再见，我的房间要窗子/你说什么”留待视频或可靠字幕复核。",
+        "新版记录完整对照的是现有爱好者稿，并非视频/DVD实盘核实；已有译文中非关键语气差异不全面重译。"
+      ],
+      "line_ending": "LF",
+      "validation": {
+        "reverse_replay_matches_baseline": true,
+        "dvd_boundaries_balanced": true,
+        "dvd_block_pairs": 10,
+        "added_line_count": 114,
+        "complete_source_html_line_span": [
+          44,
+          416
+        ],
+        "all_removed_baseline_lines_have_full_old_text": true
+      }
+    }
+  ]
+}

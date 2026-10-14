@@ -1,0 +1,775 @@
+Friends 227409 Episode Script | SS
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        @charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h1,h3{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}a{color:#0d6efd;text-decoration:underline}button{border-radius:0}button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}[type=button],button{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-text,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::-webkit-file-upload-button{font:inherit}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}@media (min-width:992px){.col-lg-2{flex:0 0 auto;width:16.66666667%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle::after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-item{display:block;width:100%;padding:.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:.5rem;padding-bottom:.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-brand{padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;text-decoration:none;white-space:nowrap}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;background-repeat:no-repeat;background-position:center;background-size:100%}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand{color:#fff}.navbar-dark .navbar-nav .nav-link{color:rgba(255,255,255,.55)}.navbar-dark .navbar-toggler{color:rgba(255,255,255,.55);border-color:rgba(255,255,255,.1)}.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")}.d-block{display:block!important}.d-flex{display:flex!important}.d-none{display:none!important}.w-100{width:100%!important}.h-100{height:100%!important}.flex-column{flex-direction:column!important}.flex-grow-1{flex-grow:1!important}.flex-shrink-0{flex-shrink:0!important}.flex-nowrap{flex-wrap:nowrap!important}.mt-2{margin-top:.5rem!important}.mb-2{margin-bottom:.5rem!important}.p-3{padding:1rem!important}.px-2{padding-right:.5rem!important;padding-left:.5rem!important}.text-center{text-align:center!important}.text-dark{--bs-text-opacity:1;color:rgba(var(--bs-dark-rgb),var(--bs-text-opacity))!important}.text-white{--bs-text-opacity:1;color:rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important}.bg-dark{--bs-bg-opacity:1;background-color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-none{display:none!important}}@media (min-width:1200px){.d-xl-block{display:block!important}}body{background-color:#fed41e}.navbar-brand{font-size:18px;font-weight:700;color:#fed41e!important}.container{max-width:960px}h1{text-align:center}.scrolling-script-container{height:600px;overflow:scroll;width:99%;border:1px solid #000;padding:4px;margin-top:5px}.breadcrumbs{font-size:12px;margin-bottom:10px}.scrolling-script-container{font-size:14px}a{color:#fff}@media screen and (min-width:800px){.top-row{height:370px}}.topblock{display:none}@media screen and (max-width:480px){.topblock{display:block}}@media screen and (max-width:768px){.topblock{display:block}}
+        
+    
+
+
+
+    
+        window._taboola = window._taboola || [];
+        _taboola.push({category: 'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)) {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/springfield/loader.js',
+            'tb_loader_script');
+        if (window.performance && typeof window.performance.mark == 'function') {
+            window.performance.mark('tbl_ic');
+        }
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+
+    
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+        .top-block-desktop {
+
+            display: block;
+
+        }
+
+    }
+
+    .topblock {
+        display: none;
+    }
+
+    .
+
+
+    @media screen and (max-width: 480px) {
+        .topblock {
+            display: block;
+        }
+
+
+        .top-container {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 812px) and (orientation: landscape) {
+        .topblock {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .topblock {
+            display: block;
+        }
+
+        .top-container {
+            display: none;
+        }
+
+        .top-block-desktop {
+
+            display: none;
+
+        }
+    }
+
+    
+    @font-face {
+        font-family: bootstrap-icons;
+        src: url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"), url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("woff")
+    }
+
+    .bi::before, [class*=" bi-"]::before {
+        display: inline-block;
+        font-family: bootstrap-icons !important;
+        font-style: normal;
+        font-weight: 400 !important;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        vertical-align: -.125em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale
+    }
+
+    .bi-facebook::before {
+        content: "\f344"
+    }
+
+    .bi-twitter-x::before {
+        content: "\f8db"
+    }
+
+
+
+
+
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-406ZB8S3DD');
+
+
+
+
+
+
+
+
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "@id": "https://www.springfieldspringfield.co.uk/#org",
+                "name": "Springfield! Springfield!",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "sameAs": [
+                    "https://twitter.com/springfieldx2",
+                    "https://www.facebook.com/springfieldspringfield/"
+                ]
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://www.springfieldspringfield.co.uk/#website",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "name": "Springfield! Springfield!"
+            }
+        ]
+    }
+Springfield! Springfield!
+Movie Scripts
+                    
+                    TV Show
+                            Episode Scripts
+                    
+                    
+                        The Simpsons
+                        
+                            Characters
+                            Episode Guide
+                            Simpsons
+                                    Episode Scripts
+                            Guest Stars
+                            Springfield
+                            Buddy Icons
+                            Images
+                            iPhone / iPod Wallpaper
+                            PSP Wallpaper
+                            Scenes
+                            Sounds
+                        
+                    
+                    
+                    Contact
+window._taboola = window._taboola || [];
+                        _taboola.push({
+                            mode: 'thumbnails-b',
+                            container: 'taboola-below-category-thumbnailsb',
+                            placement: 'Below Category Thumbnails',
+                            target_type: 'mix'
+                        });
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+TV Show Episode Scripts  >  Friends  >  Season 8  >  The One With Monica's Boots
+Friends s08e10 Episode Script
+227409 - The One With Monica's Boots
+- Hey.
+- Hey.
+So, what do you think? New haircut? Necklace? Dress? Boots? Boots! They're a little more than I usually spend on boots or rent.
+- Oh, my God.
+- I know.
+- I'll miss being able to buy food.
+- They just looked so good.
+The saleswoman was like: - "These are too pricey for you.
+" - She had a point.
+- Hey.
+- Hi.
+Oh, my God.
+- Oh, Monica, those boots are amazing.
+- They're mine! - Too bad we'll have to return them.
+- Return them? They're gonna hear you.
+I'm not returning them.
+I'll wear them all the time.
+I love the compliments.
+Have you ever had something so beautiful, everyone wants it? - I have you.
+- Nice try.
+I'm keeping the boots.
+The One With Monica's Boots mrnch@dh.
+net.
+mk Subtitle Editor (c) Digital Higherground - Igor Janevski, 2004 That's right.
+I love you.
+And I'm gonna play with you all the time.
+How can you let him talk to your crotch like that? - He's talking to the baby.
+- Oh! Okay.
+When he said, "I can't wait for your first words" I thought, "There's a trick.
+" I gotta go, you guys.
+I'll see you later.
+- Okay.
+Bye.
+- Bye.
+Can you do me a favor? My sister knows you work at Ralph Lauren I am not sending more clothes to prison.
+- It is a waste.
+- Not her.
+My youngest sister Dina is interested in fashion.
+She wants to talk to someone successful.
+- I'll talk to my supervisor.
+- She wants to talk to you.
+Really? Oh, my God.
+I'm successful.
+- Would you meet with her? - Have her come by.
+You'll love her.
+She's the smartest of all the Tribbiani children.
+Yeah, you know the SATs? She took them.
+- Doesn't Ben go to Smithfield School? - Yeah.
+Why? - Sting's son goes there.
+- He's in Ben's class.
+You knew and said nothing? With all the stupid dinosaur stuff you tell us? Fine, no more dinosaur stuff.
+Can I talk about fossils? "Sting's son, 7.
+" There's a picture.
+What are you reading, "The Kidnapper's Guide to Manhattan Schools"? It's an article about the city's best schools.
+- So how well do you know Sting? - I haven't met him.
+That's too bad.
+I wanna go to his concert Friday, but it's sold out.
+I know! Why don't you meet him and get tickets.
+If you get two, I'll take you.
+Maybe he'll be there tomorrow.
+There you go.
+You're so lucky.
+You might meet Sting tomorrow.
+That's why you have kids.
+- Hey, guys.
+- Hey.
+Hi, Monica.
+Hi, boots.
+See? I'm getting a lot of use out of them already.
+You can wear them with dresses, skirts Wear them with shorts on the corner and earn money to pay for them.
+- Wow, they're beautiful.
+- They hurt so much.
+- What? - The guy who made these hates feet and wants to see them die.
+Give them to me.
+I haven't felt my feet in years.
+I can't.
+I told Chandler I'd wear them all the time.
+- Then return them.
+- I can't do that either.
+The soles are scuffed up, and the insides are filled with my blood.
+Hey, I just picked up Ben from school.
+I don't think you did a very thorough job.
+I dropped him off at Carol's.
+Anyway, I'm not gonna get those tickets.
+Oh, no.
+Why not? It turns out Ben and Sting's son do not get along.
+- How come? - Sting's son made fun of Ben's moms being "lesbenims.
+" If they don't get along, smooth things over.
+Make them be friends.
+- You can't force kids to be friends.
+- Sure you can.
+Give them some blocks.
+Put them in a playpen.
+- Playpen? Ben's 7.
+- Your kid is 7? He's really small.
+- Please get the tickets.
+- I just can't do it.
+- Yes, you can.
+Sting says so himself.
+- What? Ross can Look, I'm sorry Ross can - Phoebe? - Ross can get me the tickets Ross can get me the tickets Here she is: Future fashion superstar.
+- Oh, Joey, I'm hardly - My little sister Dina.
+Hi, Dina.
+Nice to meet you.
+- Thanks so much for meeting with me.
+- This is so exciting for her.
+Well, I'll let you two "fashists" get down to business.
+Okay.
+All right, Dina.
+Let's talk about the different areas of fashion you could get involved in.
+There's design.
+But you may need another degree for that.
+- Sales is great.
+You get to travel.
+- I don't care about fashion.
+I'm pregnant.
+You are too.
+You gotta help me.
+Then there's marketing.
+- What's wrong? - Nothing.
+I just was yawning.
+Don't forget my office party's tonight.
+We don't have to go, do we? I know that you don't like my parties, but you can wear your new boots.
+See? Every cloud has a supple leather lining.
+- I don't wanna wear the boots tonight.
+- Why not? Your bosses will think they pay you too much money.
+Or your assistant will see them and want a raise.
+Do you think I work at a boot-pricing company? I picked out this outfit the boots don't go with.
+You said those boots go with skirts, dresses and pants.
+Fine, I'll wear the boots.
+In fact, I'll go into my room right now and try the outfit on.
+Christmas party in my boots! I can't go in there.
+I can't tell him.
+It's gonna be okay.
+He's been incredibly supportive of me.
+And if he gets upset, that's what the meatball sub is for.
+- Thank you.
+- Okay.
+Hey! It's my fashion girls.
+- What's wrong? - Why don't you sit down? Dina has something she wants to tell you.
+What's going on? Is it Mom? Is she sick? Is it Dad's heart? Is that a sandwich? - Mom and Dad are fine.
+- Is that a sandwich?! Joey, there's something that you should know.
+Dina? - I'm pregnant.
+- What? Now.
+Give him the sandwich! Obviously, this is a mistake.
+You can't be pregnant.
+You have to have sex to get pregnant.
+Joe, I tried to wait until I was 25, like you did.
+What? Dina I can't believe this.
+You're the good one who went to college! - Both years! Who did this to you? - Bobby Corso.
+He's a real nice guy.
+- I like him a lot.
+He's real funny.
+- You got pregnant for "funny"? Dina, if he's funny, laugh! - I'll be back in a while.
+Stay here! - Why? I can't look at you right now.
+- Wow.
+- I know.
+- Oh, there you are, Ben.
+- Aunt Phoebe, what are you doing here? I heard you have a problem with one of the boys.
+I thought I'd sit you both down and make it all okay.
+Now, the boy's name is Sting's son.
+Jack? I hate him.
+He's a jerk.
+Sometimes people may seem like jerks on the outside but they have famous fathers.
+- My friend Doug is waiting for me.
+- Him, you're friends with.
+- Can I help you with something? - Yes.
+I'm looking for Jack's parents.
+- Are you with a student? - I'm with Ben.
+- Are you one of Ben's mothers? - I am one of Ben's mothers.
+I'm a lesbian.
+It was difficult coming out to my parents.
+Well, hi.
+I'm Jenny Boon.
+I'm a new teacher here.
+- I've only met your partner, Carol.
+- That would make me Susan.
+Are you looking for Jack's parents to discuss his problems with Ben? I think the parents should sit down together.
+Yeah, let's do that! That sounds good.
+We should sit down and talk.
+Me, Carol and the Stings.
+- How will I get in touch with them? - Their number's on the contact sheet.
+Could I get a copy of that? Carol threw it out.
+She lost ours.
+She's such a scatterbrain.
+But, man, what a hot piece of ass.
+- That party wasn't bad.
+- I didn't know there'd be dancing.
+That was a fun surprise.
+- I don't see a cab.
+We should walk.
+- No, we can't walk.
+It's 15 blocks to the subway.
+Let's go.
+Do you think we can get to the subway if we climb through that manhole? - What's going on? - I can't walk, okay? - These boots were a huge mistake.
+- What? You were right.
+I never should've bought them.
+They're killing me.
+So I was right.
+This is what it feels like to be right.
+It's oddly unsettling.
+How will we get home? A piggyback ride? - Hop on.
+- Okay, wait.
+Let me just get my boots off first.
+Oh, God.
+I know you're in pain right now, but I'm a little turned on.
+Do you worry that you'll be walking and your baby will slip out? What college was that, Dina? Oh, my God.
+Bobby? Hi, Dina.
+Good to see you.
+- Joey, what are you doing? - Just what needs to be done.
+- Dearly beloved, we're gathered here - This is crazy.
+Don't interrupt me when I'm talking to God! - Where were we? Do you take this man - No! - You'll take him.
+- I won't! - You don't get a say.
+- I do.
+- I heard "I do.
+" We're halfway there.
+- All right, Joey, that is enough! As moving as this is, this is not legal.
+They don't have a marriage license or witnesses, and the groom has one shoe.
+Yeah, he took the other one off and hit me with it.
+What am I to do? They are adults and can make their own decisions.
+No, they can't.
+They were stupid enough to get knocked up! Contraceptives are not always effective.
+Right? - Yeah.
+We kind of didn't use any.
+- Come on, kids, a little help here! Wow! This place is incredible! Sting's pen that he gave to Phoebe.
+Come on, secret passageway.
+- Hi.
+- Hi.
+I'm Trudie.
+You must be Ben's mum.
+- Why else would I be here? - Why don't you sit down? They haven't been getting along.
+I'm sure there are two sides to this.
+But all I've heard is that Ben's a "poo-poo-head.
+" Won't Jack's father be joining us? I'm sorry.
+Jack's father's not available.
+Then, could we reschedule for Friday night, perhaps at 8:00? Oh, no, my husband's in concert.
+Concert.
+Yeah.
+That just put us in quite a pickle.
+I'm busy before and after the concert, and he's busy during.
+So you and I should talk about Jack and Ben right now.
+Unless Unless Okay, I would be willing to go to the concert all the while thinking about the children.
+- Are you here for tickets? - Thank you.
+Four would be great.
+I'm not giving tickets to someone who'd use their son like this.
+Then you're in luck.
+Ben's not my son.
+I've pressed a button triggering an alarm.
+- Any minute the police will be here.
+- The Police? Here? A reunion? Okay, ten blocks down.
+Five to go.
+- Oh, wait! Stop, stop, stop! - Oh, I'm sorry.
+Do you need a break? My boots in tan! Can I see the price? I can see it from right here.
+It'll cost you one husband.
+I can walk the rest of the way now.
+Just give me my boots.
+- I don't have your boots.
+- Where are they? Why don't you check in one of my saddlebags while I chew on hay? Okay.
+My God, we gotta go back and get them! Are you ever gonna wear the boots again? I'll never wear them again.
+I just didn't get a chance to say goodbye.
+You can say goodbye to the tan ones.
+- Okay.
+All right.
+- Okay.
+Bye, boots.
+Wait! Half off! Just because they're not getting married doesn't mean it's a disaster.
+- Maybe they have a plan.
+- Oh, okay, let's hear their plan.
+What's the future look like for Dina and Bobby? I really have high hopes for my band.
+- You were right.
+He is funny.
+- Now wait a minute.
+I bet when you told people you wanted to be an actor they laughed.
+Tell us a bit about your band.
+It's just me and my pal Rooster.
+The band's name is Numbnuts.
+Really? If you're having a baby, you should be married.
+Even if it is to Bobby.
+Dude, that's not a compliment.
+- I knew you wouldn't be supportive.
+- What are you gonna do? Have the baby and raise it without a husband? You can't be a single mother! You'll ruin your life! - Am I ruining my life? - No, it's different for you.
+You're not some kid who doesn't know what she's doing.
+- Excuse me? - One pregnant woman at a time, please! - I just want you to be okay.
+- By forcing her to marry? Maybe.
+Yeah.
+So, what kind of music does Numbnuts Ah, forget it! I can't! I am scared to death about this.
+But I can do it.
+I just need some help.
+- Bobby's gonna be here the whole time.
+- You bet.
+To answer your earlier question, we're straight up gangster rap.
+Rachel's told me how easy you've made this on her.
+- Why can't you do that for me? - Because you're my baby sister! And you're my big brother, my favorite guy in the whole world.
+I'm not even scared to tell Mom and Dad.
+I was scared of telling you.
+I'd be scared of them, but all right.
+I can't stand having this baby with you mad at me.
+I want him to have his uncle.
+Is my baby gonna have his Uncle Joey? Of course he's gonna have his Uncle Joey.
+We'll be all right.
+Even if we're not married, this baby will be so loved.
+- And not just by us.
+- That's right.
+By his uncle too.
+And by you.
+Bobby, come over here and let them have a little moment, okay? Come here.
+No, seriously, what's wrong with you? You're gonna love me so much.
+I got Sting tickets! Oh, my God, I do love you! How did you do it? Well, let's just say: Ross can - Where are the seats? - Balcony.
+Is that more than 50 yards away from Sting, his wife or a member of his family? - Yeah.
+- Then that's not breaking the law!
+Previous EpisodeNext Episode
+Report an Issue with This Script   |   Friends Episode Scripts   |   More TV Show Episode Scripts
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+Springfield! Springfield!
+About      Terms      Privacy Policy      Contact
+(function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});

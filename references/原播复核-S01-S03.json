@@ -1,0 +1,1600 @@
+{
+  "date": "2026-10-14",
+  "scope": "S01-S03 原播标记稿的关键缺漏候选复核；不是音视频核验，也不是逐句穷尽校对",
+  "baseline": "/tmp/friends-ten-season-review-20261014/",
+  "episodes": [
+    {
+      "file": "S01/FriendsS01E01.txt",
+      "source_html": [
+        "S01/FriendsS01E01.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(罗斯和瑞秋准备拥抱时，罗斯的雨伞突然撑开；罗斯只好沮丧地坐下)",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 77,
+          "source_fragment": "<p align=\"left\"><font size=\"3\">(They go to hug but Ross's umbrella opens. He sits back down defeated again. A moment of silence follows as Rachel sits and the others expect her to explain.)</font></p>\n<p align=\"left\"><font size=\"3\"><b>Monica:</b> So you wanna tell us now, or are we waiting for four wet bridesmaids?</font></p>",
+          "chinese_anchor": "Ross:你好。",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(瑞秋停止留言，重新拨打电话)",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 181,
+          "source_fragment": "<p align=\"left\"><font size=\"3\"><b>Rachel:</b> Barry, I'm sorry... I am so sorry... I know you probably think that this is all about what I said the other day about you making love with your socks on, but it isn't... it isn't, it's about me, and I ju- (She stops talking and dials the phone.) Hi, machine cut me off again... anyway...</font><font color=\"#0000ff\" size=\"3\">look, look, I know that some girl is going to be incredibly lucky to become Mrs. Barry Finkel, but it isn't me, it's not me. And not that I have any idea who me is right now, but you just have to give me a chance too... (The maching cuts her off again and she redials.)</font></p>\n<p align=\"left\"><font size=\"3\">[Scene: Ross's Apartment; Ross is pacing while Joey and Chandler are working on some more furniture.]</font></p>",
+          "chinese_anchor": "Rachel:嗨，机器又断了我的线路。不管怎样，听着，听着......",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Joey:我真不敢相信我听到了什么。",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 360,
+          "source_fragment": "<p><font size=\"3\"><b>Joey:</b> I can't believe what I'm hearing here. </font>\n</p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "direction",
+          "text": "(菲比把乔伊的话唱了出来)",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 362,
+          "source_fragment": "<p><font size=\"3\"><b>Phoebe:</b> (sings) <i>I can't believe what I'm hearing here... </i></font></p>\n<p><font size=\"3\"><b>Monica:</b> What? I-I said you had a- </font></p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Phoebe:我真不敢相信我听到了什么……",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 362,
+          "source_fragment": "<p><font size=\"3\"><b>Phoebe:</b> (sings) <i>I can't believe what I'm hearing here... </i></font></p>\n<p><font size=\"3\"><b>Monica:</b> What? I-I said you had a- </font></p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Monica:什么？我只是说你有个……",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 363,
+          "source_fragment": "<p><font size=\"3\"><b>Monica:</b> What? I-I said you had a- </font></p>\n<p><font size=\"3\"><b>Phoebe:</b> (sings) <i>What I said you had... </i></font>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "direction",
+          "text": "(菲比接着把莫妮卡的话唱出来)",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 364,
+          "source_fragment": "<p><font size=\"3\"><b>Phoebe:</b> (sings) <i>What I said you had... </i></font>\n</p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Phoebe:我只是说你有个……",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 364,
+          "source_fragment": "<p><font size=\"3\"><b>Phoebe:</b> (sings) <i>What I said you had... </i></font>\n</p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Monica:你能停下来吗？",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 366,
+          "source_fragment": "<p><font size=\"3\"><b>Monica:</b> (to Phoebe) Would you stop? </font></p>\n<p><font size=\"3\"><b>Phoebe:</b> Oh, was I doing it again?</font></p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Phoebe:哦，我又这样了吗？",
+          "source_html": "S01/FriendsS01E01.html",
+          "source_line": 367,
+          "source_fragment": "<p><font size=\"3\"><b>Phoebe:</b> Oh, was I doing it again?</font></p>\n<p align=\"left\"><font color=\"#0000ff\" size=\"3\"><b>All:</b> Yes!</font></p>",
+          "chinese_anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E02.txt",
+      "source_html": [
+        "S01/FriendsS01E02.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(罗斯惊得僵住，摆出了展览中穴居人模型的姿势)",
+          "source_html": "S01/FriendsS01E02.html",
+          "source_line": 61,
+          "source_fragment": "<p><b>Ross:</b> Pregnant?! (stands like one of the mannequins)</p>\n<p>[Scene: Monica and Rachel's, Chandler, Joey, Phoebe, and Monica are watching",
+          "chinese_anchor": "Ross:怀孕？！",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Mrs. Geller:瑞秋把自己的生活搞成什么样了……我们在俱乐部碰到她爸妈，他们球打得很不顺。",
+          "source_html": "S01/FriendsS01E02.html",
+          "source_line": 159,
+          "source_fragment": "<p><b>Mrs. Geller:</b> What that Rachel did to her life.... We ran into her parents at the club, they were not playing very well. </p>\n<p><b>Mr. Geller:</b> I'm not gonna tell you what they spent on that wedding... but forty thousand dollars is a lot of money! </p>",
+          "chinese_anchor": "Mr. Geller:我不会告诉你们他们为婚礼花了多少钱，但是4万块真是很多钱啊。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E03.txt",
+      "source_html": [
+        "S01/FriendsS01E03.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(瑞秋离开后，大家把端错的饮料互相换回自己点的那杯)",
+          "source_html": "S01/FriendsS01E03.html",
+          "source_line": 97,
+          "source_fragment": "<p>(The gang swaps all the drinks for what they ordered as Phoebe enters. She sits down without saying hi.)</p>\n<p><b>Joey:</b> Y'okay, Phoebe? </p>",
+          "chinese_anchor": "Rachel:我真行！",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(钱德勒把烟头丢进菲比的咖啡里)",
+          "source_html": "S01/FriendsS01E03.html",
+          "source_line": 128,
+          "source_fragment": "<p><b>Chandler:</b> All right! I'm putting it out, I'm putting it out. (He drops it in Phoebe's coffee.) </p>\n<p><b>Phoebe:</b> Oh, no! I- I can't drink this now! </p>",
+          "chinese_anchor": "Chandler:好吧，我熄掉，我熄掉。",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E04.txt",
+      "source_html": [
+        "S01/FriendsS01E04.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(冰球飞出球场，打中了罗斯的脸)",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 343,
+          "source_fragment": "<p align=\"left\"><font size=\"3\">(The player shoots and the puck flies off the rink and hits Ross in the face. Chandler looks concered until he notices...) </font></p>\n",
+          "chinese_anchor": "Chandler:嗨，看呐，我们上荧幕了！",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(瑞秋坐起身时，原本靠着的坐垫从阳台掉了下去)",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 588,
+          "source_fragment": "<p align=\"left\"><font size=\"3\"><b>Rachel:</b> Okay, okay, okay, I got one! (She sits up and the cushion she was leaning against falls off of the balcony.) Anyway. The valentine Tommy Rollerson left in your locker was really from me. </font></p>\n",
+          "chinese_anchor": "Rachel:好了，好了，好了，我也想到一个！",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(罗斯争抢冰球，球从他手中飞出，打倒了接待员)",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 648,
+          "source_fragment": "<p align=\"left\"><font size=\"3\"><b>Ross:</b> (tries to yank it from the kid) GIVE ME MY PUCK!! (but it files out of his grasp, across the room, and knocks down the receptionist) </font></p>\n",
+          "chinese_anchor": "Ross:把我的冰球还来！",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(有人敲门，默默把瑞秋从阳台掉下去的坐垫还给钱德勒)",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 660,
+          "source_fragment": "<p align=\"left\"><font size=\"3\">(There's a knock on the door, Chandler opens it. A man silently hands him the cushion which Rachel had dropped from the balcony.) </font></p>\n",
+          "chinese_anchor": "Chandler:谢谢。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(乔伊一路数着步子走进来)",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 90,
+          "source_fragment": "<p align=\"left\"><font size=\"3\"><b>Joey:</b> ...Ninety-five, ninety-six, ninety-seven. See, I told you. Less than a hundred steps from our place to here. </font></p>\n",
+          "chinese_anchor": "Chandler:你实在太闲了。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Joey:……九十五、九十六、九十七。看，我说过，从我们家到这里不到一百步。",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 90,
+          "source_fragment": "<p align=\"left\"><font size=\"3\"><b>Joey:</b> ...Ninety-five, ninety-six, ninety-seven. See, I told you. Less than a hundred steps from our place to here. </font></p>\n",
+          "chinese_anchor": "Chandler:你实在太闲了。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Rachel:莫妮卡，这有什么好赞叹的？我几乎放弃了一切，究竟是为了什么？",
+          "source_html": "S01/FriendsS01E04.html",
+          "source_line": 297,
+          "source_fragment": "<p align=\"left\"><font size=\"3\"><b>Rachel:</b> Monica, what is so amazing? I gave up, like, everything. And for what? </font></p>\n",
+          "chinese_anchor": "Phoebe:你就像杰克一样。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E05.txt",
+      "source_html": [
+        "S01/FriendsS01E05.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(瑞秋和女人争抢推车，最后爬进推车里)",
+          "source_html": "S01/FriendsS01E05.html",
+          "source_line": 306,
+          "source_fragment": "<p>(They struggle for the cart. Finally, Rachel climbs inside of it.)</p>\n<p><b>Rachel:</b> All right, listen, missy. If you want this cart, you're gonna have to take me with it! </p>",
+          "chinese_anchor": "Rachel:好吧，好吧，听着，女士。如果你想要这辆推车，就必须把我一起推走！",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(瑞秋吻了罗斯；罗斯随后转身时，头撞上开着的干衣机门)",
+          "source_html": "S01/FriendsS01E05.html",
+          "source_line": 312,
+          "source_fragment": "<p>(Rachel stands up and kisses Ross. He is stunned. A moment of silence follows.)</p>\n<p><b>Ross:</b> Ok, um, uh, more clothes in the dryer? (Ross turns and bangs his head on an open dryer door.) I'm fine, I'm fine.</p>",
+          "chinese_anchor": "Ross:好，恩，呃，干衣机里还有衣服吗？我没事，我没事。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Rachel:钱德勒呢？",
+          "source_html": "S01/FriendsS01E05.html",
+          "source_line": 330,
+          "source_fragment": "<p><b>Rachel:</b> Where's Chandler?</p>\n<p><b>Phoebe:</b> Oh, he needed some time to grieve.</p>",
+          "chinese_anchor": "Phoebe:他需要一点时间哀伤一下。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E06.txt",
+      "source_html": [
+        "S01/FriendsS01E06.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(以下是莫妮卡躺在床上时的内心独白)",
+          "source_html": "S01/FriendsS01E06.html",
+          "source_line": 357,
+          "source_fragment": "<p><b>Monica:</b> (hums for a while, then gives up, and in her head) <i>If it bothers you that much, just go out and get the shoes. No. Don't do this. This is stupid! I don't have to prove anything, I'm gonna go get them...But then everyone will know. Unless I get them, and then wake up really early and put them back! ...I need help! </i>(She buries her head in her pillow.) </p>\n<p> <O:P></O:P></p>",
+          "chinese_anchor": "Monica:既然这么困扰，只要出去把鞋收起来就行了啊。不，不要这样。这太蠢了！我没必要证明什么，我要出去把鞋收起来……但是那样的话大家会知道的。除非我先去收起来，然后很早就起床把鞋放回去！谁来帮我一把！",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Chandler:乔伊呢？他妈妈打电话来了。",
+          "source_html": "S01/FriendsS01E06.html",
+          "source_line": 257,
+          "source_fragment": "<p><b>Chandler:</b> Where's Joey? His mom's on the phone.</p>\n<p><b>Monica:</b> He's in the bathroom. I don't think you wanna go in there!</p>",
+          "chinese_anchor": "Monica:他在浴室。我想你最好别去！",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E07.txt",
+      "source_html": [
+        "S01/FriendsS01E07.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(钱德勒想吹泡泡，却把口香糖吐到了墙上)",
+          "source_html": "S01/FriendsS01E07.html",
+          "source_line": 260,
+          "source_fragment": "<p><font size=\"3\">(Chandler waits until Jill is looking, then starts to blow a bubble. But instead of blow one, he accidentally spits the gum out of his mouth and hits the wall.)</font></p>\n<p><font size=\"3\"><b>Chandler:</b> <i>Nice going, imp. OK, it's OK. All I need to do is reach over and put it back in my mouth.</i> (Chandler slyly grabs the gum from the wall and slides it back in his mouth.)</font></p>",
+          "chinese_anchor": "Chandler:干得漂亮，小淘气。好的，好的。现在我要做的就是把手伸过去，然后把它再放回我的嘴里。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(钱德勒偷偷从墙上捡起口香糖，又放回嘴里)",
+          "source_html": "S01/FriendsS01E07.html",
+          "source_line": 261,
+          "source_fragment": "<p><font size=\"3\"><b>Chandler:</b> <i>Nice going, imp. OK, it's OK. All I need to do is reach over and put it back in my mouth.</i> (Chandler slyly grabs the gum from the wall and slides it back in his mouth.)</font></p>\n<p><font size=\"3\"><b>Chandler:</b> <i>Good save! We're back on track, and I'm...</i> (grimacing) <i>..chewing someone else's gum. </i><b><i>This is not my gum</i></b><i>. Oh my God! Oh my God! And now you're choking.</i> </font></p>",
+          "chinese_anchor": "Chandler:干得好，我们又回到了轨道上。而且我在嚼着别人的口香糖。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Jill:钱德勒，我们这样玩了一个小时了！看着，很简单。",
+          "source_html": "S01/FriendsS01E07.html",
+          "source_line": 306,
+          "source_fragment": "<p><font size=\"3\"><b>Jill:</b> Chandler, we've been here for an hour doing this! Now watch, it's easy.</font></p>\n<p><font size=\"3\"><b>Chandler:</b> OK.</font></p>",
+          "chinese_anchor": "(钱德勒和吉尔做游戏)",
+          "position": "after",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E08.txt",
+      "source_html": [
+        "S01/FriendsS01E08.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色；S01E08保留绿色原播内容，S01E14/S02E01/S03E09保留红色原播内容",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(菲比说母亲就在身边时，手在右肩旁画圈；坐在她右边的钱德勒紧张地往后躲)",
+          "source_html": "S01/FriendsS01E08.html",
+          "source_line": 129,
+          "source_fragment": "<p><b>Phoebe:</b> Hm, I mean maybe no-one ever really goes. Ever since my mom died, every now and then, I get the feeling that she's like right here, you know? (She circles her hand around her right shoulder. Chandler, sitting on her right, draws back nervously) Oh! And Debbie, my best friend from junior high- got struck by lightning on a miniature golf course- I always get this really strong Debbie vibe whenever I use one of those little yellow pencils, you know? ...I miss her.</p>\n<p><b>Rachel:</b> Aw. Hey, Pheebs, want this? (Gives her a pencil)</p>",
+          "chinese_anchor": "Phoebe:额，我的意思是也许没有人曾真正离去，你知道吗？自从我妈死后，我时常还是会感到她好像就在这儿，你知道吗！还有Debbie，我初中时最好的朋友，在打迷你高尔夫球时被闪电击中。每次用那只小小的黄色铅笔时都能强烈感应到 Debbie，知道吗？",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Rachel:莫妮卡，你爸爸插进来了，你能说快点吗？我在和罗马通话。",
+          "source_html": "S01/FriendsS01E08.html",
+          "source_line": 67,
+          "source_fragment": "<p><b>Rachel:</b> Monica, your dad just beeped in, but can you make it quick? Talking to Rome. (Showing off to Phoebe and Chandler) I'm talking to Rome.</p>\n<p><b>Monica:</b> Hey dad, what's up? (Listens) Oh God. Ross, it's Nana.</p>",
+          "chinese_anchor": "Monica:嗨，爸，怎么样？天哪。Ross，是外婆。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E09.txt",
+      "source_html": [
+        "S01/FriendsS01E09.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(瑞秋准备离开时，背着的滑雪板碰到了大家)",
+          "source_html": "S01/FriendsS01E09.html",
+          "source_line": 187,
+          "source_fragment": "<p><b>Rachel:</b> Ok, good-bye you guys. Thanks for everything. (she starts to leave, and hits everyone with her skis) Oh, sorry! Oh, sorry!</p>\n<p>(Chandler enters, running.)</p>",
+          "chinese_anchor": "Rachel:好了，大伙，再见。 感谢你们。哦，抱歉！ 噢，抱歉！",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Rachel:特里，我知道我在这里工作没多久，不过我想问，能不能预支一百美元工资？",
+          "source_html": "S01/FriendsS01E09.html",
+          "source_line": 25,
+          "source_fragment": "<p><b>Rachel:</b> Terry, I, I, I know that I haven't worked here very long, but I was wondering, do you think it would be possible if I got a $100 advance in my salary?</p>\n<p><b>Terry:</b> An advance?</p>",
+          "chinese_anchor": "Terry:预支？",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E10.txt",
+      "source_html": [
+        "S01/FriendsS01E10.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E11.txt",
+      "source_html": [
+        "S01/FriendsS01E11.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(罗斯从写着“女”的洗手间出来，随后装作自己刚从另一间出来)",
+          "source_html": "S01/FriendsS01E11.html",
+          "source_line": 158,
+          "source_fragment": "<p>(Ross emerges from a toilet marked 'Chicas')</p>\n<p><b>Mrs. Bing:</b> You okay there, slugger?</p>",
+          "chinese_anchor": "Ross:哦，我还好，还好。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(钱德勒抓住罗斯指向自己的手指并扭转它，罗斯疼得单膝跪下)",
+          "source_html": "S01/FriendsS01E11.html",
+          "source_line": 303,
+          "source_fragment": "<p><b>Ross:</b> Okay, 'you' can't, or (Points to Chandler) you can't? (Chandler grabs his finger) Okay, that's my finger. (Chandler twists it and Ross goes down on one knee) That's, that's my knee. (To Central Perk) Still doing the play. Aaah!</p>\n<p>[Scene: The Coma Guy's Room, Monica bursts in, closely followed by Phoebe. There is no sign of Coma Guy. His bed is empty.]</p>",
+          "chinese_anchor": "Ross:好吧，是\"你\"不能，还是你\"不能\"？哦，我的手指......呃，我的膝盖......我们还在排练。啊~啊~啊~",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Ross:瑞秋和保罗的事让我很难受，我大概喝了太多龙舌酒，而诺拉，呃，妈妈女士，你的宾……只是对我很好。不过没发生别的，真的。你问乔伊，乔伊当时进来了……",
+          "source_html": "S01/FriendsS01E11.html",
+          "source_line": 243,
+          "source_fragment": "<p><b>Ross:</b> I was really upset about Rachel and Paolo, and I think I had too much tequila, and Nora- um, Mrs. Mom- your Bing- was just being nice, you know, and- But nothing happened, nothing- Ask Joey, Joey, uh, came in-</p>\n<p><b>Chandler:</b> (To Joey) You knew about this?</p>",
+          "chinese_anchor": "Chandler:你知道这件事？",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Ross:钱德勒，我能说句话吗？我知道你还在生我的气，我只是想说，那天晚上在场的是两个人，明白吗？两张嘴。",
+          "source_html": "S01/FriendsS01E11.html",
+          "source_line": 294,
+          "source_fragment": "<p><b>Ross:</b> Chandler, can I just say something? I-I know you're still mad at me, I just wanna say that there were two people there that night. Okay? Two sets of lips.</p>\n<p><b>Chandler:</b> Yes, well, I expect this from her. Okay? She's always been a Freudian nightmare. </p>",
+          "chinese_anchor": "Chandler:是，好吧，我早想到她会这样。她一直都是个佛洛依德式噩梦。",
+          "position": "before",
+          "judgment": "黑色原播对白；已核对前后英文与中文语意和段落位置，现中文无对应译句，也不是既有合并台词；角色源标签明确，仅新增"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E12.txt",
+      "source_html": [
+        "S01/FriendsS01E12.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已人工读角色序列差异候选，过滤已有合并译句及错标导致的假阳性，仅补确认缺失对白",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(乔伊把钥匙扔在厨房桌上，桌子塌了)",
+          "source_html": "S01/FriendsS01E12.html",
+          "source_line": 66,
+          "source_fragment": "<p>(Joey opens door, throws keys on kitchen table, table falls over)</p>\n<p><b>Joey:</b> Need a new table.</p>",
+          "chinese_anchor": "Joey:我们需要新桌子了。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(他们买回来的新桌子是桌上足球台)",
+          "source_html": "S01/FriendsS01E12.html",
+          "source_line": 238,
+          "source_fragment": "<p>(The camera pans back to reveal Joey and Chandler's new foosball table.)</p>\n<p><b>Monica:</b> So how does this work, you going to balance the plates on these little guys' heads?</p>",
+          "chinese_anchor": "Ross:我想这是我见过的最漂亮的桌子。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E13.txt",
+      "source_html": [
+        "S01/FriendsS01E13.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(瑞秋拉开浴帘，却看到正在洗澡的乔伊；两人都尖叫起来)",
+          "source_html": "S01/FriendsS01E13.html",
+          "source_line": 236,
+          "source_fragment": "<p>(She opens the door and whips back the curtain. It's Joey. They both scream)</p>\n<p><b>Joey:</b> (Runs out in a towel) What's the matter with you?!</p>",
+          "chinese_anchor": "Joey:你是怎么搞的？",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Mr. Tribbiani:乔，你曾经爱过谁吗？",
+          "source_html": "S01/FriendsS01E13.html",
+          "source_line": 100,
+          "source_fragment": "<p><b>Mr. Tribianni: </b>Joe. You ever been in love?</p>\n<p><b>Joey:</b> ...I don't know.</p>",
+          "chinese_anchor": "Joey:我不知道。",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Chandler:乔伊，要是我先走，我希望被摆成正在找钥匙的样子。",
+          "source_html": "S01/FriendsS01E13.html",
+          "source_line": 167,
+          "source_fragment": "<p><b>Chandler:</b> Joey, if I go first, I want to be looking for my keys.</p>\n<p><b>Ronni:</b> (laughing) That's a good one!</p>",
+          "chinese_anchor": "Ronni:这姿势不错。",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E14.txt",
+      "source_html": [
+        "S01/FriendsS01E14.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色；S01E08保留绿色原播内容，S01E14/S02E01/S03E09保留红色原播内容",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(罗斯把头趴在烤盘上，又因烫而抬起；额头粘了一块蘑菇，卡萝替他拿掉)",
+          "source_html": "S01/FriendsS01E14.html",
+          "source_line": 262,
+          "source_fragment": "<p><font size=\"3\"><b>Ross:</b> Oh, god. (He puts his head down on the grill) You know, this is still pretty hot. (He picks his head up, and a mushroom sticks to his head. Carol picks it off)</font></p>\n<p><font size=\"3\"><b>Carol:</b> Mushroom. Smile. They won't all be like this. Some women might even stay through dinner. Sorry, that's not funny</font></p>",
+          "chinese_anchor": "Carol:蘑菇。笑一下。并不是所有人都像这样的，有些女人可能会把晚餐吃完的。对不起，这并不好笑。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E15.txt",
+      "source_html": [
+        "S01/FriendsS01E15.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(瑞秋从耳后找到真正的肉桂棒，又从莫妮卡杯里取出铅笔)",
+          "source_html": "S01/FriendsS01E15.html",
+          "source_line": 33,
+          "source_fragment": "<p><b>Rachel:</b> Oh! That's why. (Rachel checks behind her ear, and finds a cinnamon stick.) I'm sorry!</p>\n<p>(She takes the pencil out of Monica's coffee and Monica puts her cup down in disgust.)</p>",
+          "chinese_anchor": "Rachel:哦，找到了，原来你在这儿。",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(瑞秋做吸大麻的手势提醒莫妮卡，莫妮卡起初把它当成“好”的手势，随后仍不相信)",
+          "source_html": "S01/FriendsS01E15.html",
+          "source_line": 258,
+          "source_fragment": "<p>(Rachel tries to get Monica's attention to tell her Steve is stoned. She pretends to drag on a joint, and Monica thinks she's giving her the 'OK' signal. Then Rachel does it again, inhaling deeply this time. Monica waves it off as though she doesn't believe it.)</p>\n<p><b>Steve:</b> (from kitchen) Ah, cool! Taco shells! (Rachel motions, \"You see!\") You know, these are... they're like a little corn envelope.</p>",
+          "chinese_anchor": "Rachel:请问需要任何帮忙吗？",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E16.txt",
+      "source_html": [
+        "S01/FriendsS01E16.html",
+        "S01/FriendsS01E17.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "dialogue",
+          "text": "Rachel:菲比，你生日想要什么？",
+          "source_html": "S01/FriendsS01E16.html",
+          "source_line": 200,
+          "source_fragment": "<p><b>Rachel</b>: So Pheebs, what do you want for your birthday?</p>\n<p><b>Phoebe</b>: Well, what I really want is for my mom to be alive and enjoy it with me.</p>",
+          "chinese_anchor": "Phoebe:嗯，我真正想要的是我妈妈能复活和我一起庆祝生日。",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Joey:菲比，帮我个忙，试穿一下这件好吗？我想确定尺寸合不合适。",
+          "source_html": "S01/FriendsS01E16.html",
+          "source_line": 255,
+          "source_fragment": "<p><b>Joey</b>: Phoebe, could you do me a favour? Could you try this on? I just wanna make sure it fits.</p>\n<p><b>Phoebe</b>: Ooh, my first birthday present... (delightedly examining the cardigan in her lap) ..oh, this is really...</p>",
+          "chinese_anchor": "Phoebe:哦，我的第一件生日礼物！哦，这衣服真……",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        },
+        {
+          "kind": "direction",
+          "text": "(罗斯把练习用的婴儿娃娃倒拿成橄榄球，拍了拍它)",
+          "source_html": "S01/FriendsS01E16.html",
+          "source_line": 292,
+          "source_fragment": "<p>(People start getting up. Ross grabs Carol's doll to hold it upside down like a football, slapping it with his other hand.)</p>\n<p><b>Ross</b>: Susan, go deep.</p>",
+          "chinese_anchor": "Carol:这太离谱了。这根本不可能。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Ross:苏珊，跑远点接球。",
+          "source_html": "S01/FriendsS01E16.html",
+          "source_line": 293,
+          "source_fragment": "<p><b>Ross</b>: Susan, go deep.</p>\n<p>(Susan just glares back, as Ross's inappropriate joke falls flat. Meanwhile, a bubble is about to burst...)</p>",
+          "chinese_anchor": "Carol:这太离谱了。这根本不可能。",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        },
+        {
+          "kind": "scene_with_dialogue",
+          "text": "…………………………\n(片尾：莫妮卡和瑞秋的公寓；画面角落显示 SAP 标记，以下对话用西班牙语)\nRoss:给你。\nMonica:谁点了左宗棠鸡？\nChandler:可能是左宗棠点的！\n(瑞秋指着窗外)\nRachel:快看，丑陋裸男在转呼啦圈！\nAll:恶！\n(乔伊进来)\nAll:嗨，乔伊！\nJoey:嗨，各位！\n(马塞尔拿起遥控器)\nMonica:看，罗斯，马塞尔拿走了遥控器。\nRoss:问题是它不喜欢这个节目！\n(大家笑起来)",
+          "source_html": "S01/FriendsS01E17.html",
+          "source_line": 434,
+          "source_fragment": "<p>[Scene: Monica and Rachel's, everyone except Joey is there. Rachel is looking out of the window and Ross is handing out some Chinese takeout. There's a small SAP in the corner of the screen.]</p>\n<p><b>Ross</b>: Aqui está. (Here it is!)</p>",
+          "chinese_anchor": "Ross:老兄？感觉如何？",
+          "position": "after",
+          "judgment": "原播黑色片尾完整段落；中文合并集终止在医院，未保留此遥控器/SAP笑点；译字幕不增删原有医院结尾",
+          "source_end_line": 448
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿",
+        "中文合并英文S01E16/E17；自动角色对齐跨下半集有大范围假阳性，仅人工确认候选与片尾，未完成整集逐句对齐"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E17.txt",
+      "source_html": [
+        "S01/FriendsS01E18.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E18.txt",
+      "source_html": [
+        "S01/FriendsS01E19.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(罗斯偷偷关掉主灯，又装作对灯灭了很惊讶)",
+          "source_html": "S01/FriendsS01E19.html",
+          "source_line": 304,
+          "source_fragment": "<p><b>Ross:</b> All right. (He goes to get the glasses. Then he hesitates and turns off the main light. Rachel looks round and he acts surprised) The, uh, the neighbors must be vacuuming. (He sits down and starts to pour the wine) Well, so long as we're here and, uh, not on the subject, I was thinking about, uh, how mad we got at each other before, and, um, I was thinking maybe it was partially because of how we, um...</p>\n<p>(Barry bursts in)</p>",
+          "chinese_anchor": "Ross:好的。隔壁一定在用吸尘器。只要我们在这儿……不谈那个话题……我在想……刚才我们对彼此太凶了……大概是因为我们……",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E19.txt",
+      "source_html": [
+        "S01/FriendsS01E20.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(钱德勒照着写好的稿子留言，并故意弄响餐具)",
+          "source_html": "S01/FriendsS01E20.html",
+          "source_line": 87,
+          "source_fragment": "<p><b><span style=\"color: windowtext\">Chandler:</span></b><span style=\"color: blue\"> Ok fine all right. </span>(on phone, reading from a script) Oh, Danielle! I wasn't expecting the machine... Give me a call when you get a chance. (Rattles some dishes) Bye-bye. (Hangs up.) Oh God!</p>\n<p><b>Monica:</b> That's what you've been working on for the past two hours?!</p>",
+          "chinese_anchor": "Chandler:好的，好的。哦，丹妮尔，没想到是答录机接的，有空请回电……再见。哦，天呐，天呐！",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E20.txt",
+      "source_html": [
+        "S01/FriendsS01E21.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E21.txt",
+      "source_html": [
+        "S01/FriendsS01E22.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(菲比起身后头晕，坐下后又站起来，想再体验一次)",
+          "source_html": "S01/FriendsS01E22.html",
+          "source_line": 260,
+          "source_fragment": "<p><b>Phoebe:</b> Ooh, oh, I've gotta go. (raises) Whoa, oh, head rush. One more, and then I have to go. (sits down, and then raises again) Cool!</p>\n<p><b>Rachel:</b> Where are you going?</p>",
+          "chinese_anchor": "Phoebe:噢，我得走了哇。哦，我的头晕了。再坐下一次，我就得走了。酷。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E22.txt",
+      "source_html": [
+        "S01/FriendsS01E23.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(菲比读着清洁工制服上写有“Ben”的姓名牌)",
+          "source_html": "S01/FriendsS01E23.html",
+          "source_line": 295,
+          "source_fragment": "<p><b>Phoebe:</b> (reading the nametag on the uniform) Hi, I'm Ben. I'm hospital worker Ben. It's Ben... to the rescue!</p>\n<p><b>Ross:</b> Ben, you ready? All right, gimme your foot. Ok, on three, Ben. One, two, three. Ok, That's it, Ben.</p>",
+          "chinese_anchor": "Phoebe:嗨，我是Ben。我是医院工人Ben。Ben来救你们了！",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(罗斯说到“离开”和“回来”时，分别离开和回到本的视野中)",
+          "source_html": "S01/FriendsS01E23.html",
+          "source_line": 352,
+          "source_fragment": "<p><b>Ross:</b> Ben, I want you to know that there may be some times when I may not be around, like this. (walks out of the picture) But I'll still always come back, like this. (returns) And sometimes I may be away longer, like this. (walks away) But I'll still always come back, like this. (returns) </p>\n<p>(Chandler comes into the picture.)</p>",
+          "chinese_anchor": "Chandler:有时候，如果我想让你抢三垒，我会这样做。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "dialogue",
+          "text": "Ross:本，我想让你知道，有时我可能不在你身边，像这样。但我总会回来，像这样。有时我会离开久一点，像这样，但我总会回来，像这样。",
+          "source_html": "S01/FriendsS01E23.html",
+          "source_line": 352,
+          "source_fragment": "<p><b>Ross:</b> Ben, I want you to know that there may be some times when I may not be around, like this. (walks out of the picture) But I'll still always come back, like this. (returns) And sometimes I may be away longer, like this. (walks away) But I'll still always come back, like this. (returns) </p>\n<p>(Chandler comes into the picture.)</p>",
+          "chinese_anchor": "Chandler:有时候，如果我想让你抢三垒，我会这样做。",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S01/FriendsS01E23.txt",
+      "source_html": [
+        "S01/FriendsS01E24.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；角色序列差异候选已阅读，已有合并译句与错标假阳性不补；大范围不可靠对齐记录为limited",
+      "additions": [
+        {
+          "kind": "dialogue",
+          "text": "Ross:瑞秋在这里吗？我想在离开前祝她生日快乐。",
+          "source_html": "S01/FriendsS01E24.html",
+          "source_line": 117,
+          "source_fragment": "<p><b>Ross:</b> Hey, is Rachel here? Um, I wanted to wish her a happy birthday before I left.</p>\n<p><b>Monica:</b> Oh no, she's out having drinks with Carl.</p>",
+          "chinese_anchor": "Monica:不在，她正在和Carl在外面喝酒。",
+          "position": "before",
+          "judgment": "黑色原播对白；逐项确认中文前后台词对应且未在合并译句中保留，不改已有内容"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E01.txt",
+      "source_html": [
+        "S02/FriendsS02E01.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色；S01E08保留绿色原播内容，S01E14/S02E01/S03E09保留红色原播内容",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [
+        {
+          "kind": "scene_with_dialogue",
+          "text": "(片头前回顾：中央公园咖啡馆；菲比叙述时，插播罗斯和瑞秋上一季的画面)\nPhoebe:好，到目前为止大概是这样。罗斯一直爱着瑞秋，可是每次想告诉她，都会有东西挡在中间，比如猫，还有意大利男人。最后钱德勒劝他“忘了她吧”。可是罗斯在中国挖掘的时候，钱德勒说漏了嘴，告诉瑞秋罗斯爱她。她就说：“天啊。”所以他回来时，她去了机场接他，却不知道罗斯正和另一个女人一起下飞机。糟了！基本上，这就是你们需要知道的事。不过，别光聊我们了。你们最近怎么样？\n…………………………",
+          "source_html": "S02/FriendsS02E01.html",
+          "source_line": 27,
+          "source_fragment": "<p>[Scene: Central Perk, Phoebe is recapping last season, and as she talks we see a montage of scenes from Ross and Rachel.]</p>\n",
+          "chinese_anchor": "(候机室)",
+          "position": "before",
+          "judgment": "原播黑色开场回顾完整保留于参考；现中文从机场开始，无对应；本轮授权补对白/剧情，故补回但不改变机场既有段落"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E02.txt",
+      "source_html": [
+        "S02/FriendsS02E02.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E03.txt",
+      "source_html": [
+        "S02/FriendsS02E03.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E04.txt",
+      "source_html": [
+        "S02/FriendsS02E04.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E05.txt",
+      "source_html": [
+        "S02/FriendsS02E05.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [
+        {
+          "kind": "dialogue",
+          "text": "Chandler:我要卡津风味鲶鱼。",
+          "source_html": "S02/FriendsS02E05.html",
+          "source_line": 282,
+          "source_fragment": "<p><b>Chandler:</b> I will have the uh, Cajun catfish.</p>\n",
+          "chinese_anchor": "Waiter:就这样吗？",
+          "position": "before",
+          "judgment": "黑色原播对白；前后双向语义确认中文未保留，不属于译文压缩/错标，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E06.txt",
+      "source_html": [
+        "S02/FriendsS02E06.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E07.txt",
+      "source_html": [
+        "S02/FriendsS02E07.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [
+        {
+          "kind": "direction_with_transition",
+          "text": "…………………………\n(街上；跑步时钱德勒落在后面，钻进出租车离开，把莫妮卡留在后面)",
+          "source_html": "S02/FriendsS02E07.html",
+          "source_line": 43,
+          "source_fragment": "<br> [Cut to the city street. Monica and Chandler are jogging. Chandler is lagging behind so he hops in a cab and takes off, leaving Monica behind]<br>\n<br> [Scene: Back in Monica and Rachel's apartment. Chandler is doing situps.]<br>",
+          "chinese_anchor": "Chandler:我去换衣服。",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(瑞秋挂断电话，把借来的手机扔进了冰桶)",
+          "source_html": "S02/FriendsS02E07.html",
+          "source_line": 150,
+          "source_fragment": "<br> RACHEL: [on phone] Ross, hi, it's Rachel. I'm just calling to say that um, everything's fine and I'm really happy for you and your cat who, by the way, I think you should name Michael:. And, you know, ya see there I'm thinking of names so obviously, I am over you. I am over you and that, my friend, is what they call closure. [hangs up and tosses phone in the ice bucket]</font></p>\n",
+          "chinese_anchor": "Rachel:你瞧，我在想名字…所以显然我不在乎你了。我不在乎你了。这就是我那位朋友，所谓的“了结”。",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        },
+        {
+          "kind": "direction",
+          "text": "(瑞秋跳过沙发，扑到罗斯背上，终于抢到了电话)",
+          "source_html": "S02/FriendsS02E07.html",
+          "source_line": 177,
+          "source_fragment": "<p><font size=\"3\">Rachel: Oh my God. Oh my God Ross, no, hang up the phone, give me the phone Ross, give me the phone, give me the phone, give me the. . . [jumps the couch and lands on Ross's back, finally getting the phone from him. Ross has a confused expression on his face.]<br>\n<br> Ross: You're over me?<br>",
+          "chinese_anchor": "Rachel:天啊！天啊，罗斯，把电话挂掉，电话给我…",
+          "position": "after",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E08.txt",
+      "source_html": [
+        "S02/FriendsS02E08.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "已读原播关键动作/语气候选，结合中文已有括注和对应前后对白人工核对选中候选；未逐句穷尽核对全对白；已读全部角色序列差异候选；多为已有译文/人名别名导致的假阳性，未机械补",
+      "additions": [
+        {
+          "kind": "direction",
+          "text": "(瑞秋跑到水槽，把刚尝的假巧克力食物吐掉)",
+          "source_html": "S02/FriendsS02E08.html",
+          "source_line": 292,
+          "source_fragment": "<p>(Rachel runs to the sink to spit it out.)</p>\n",
+          "chinese_anchor": "Phoebe:噢，上帝啊！这一定是恶魔的味道。",
+          "position": "before",
+          "judgment": "原播非蓝色内容；对应中文前后台词含义一致，原中文未说明此动作/语气；只新增，不改原台词"
+        }
+      ],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E09.txt",
+      "source_html": [
+        "S02/FriendsS02E09.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E10.txt",
+      "source_html": [
+        "S02/FriendsS02E10.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E11.txt",
+      "source_html": [
+        "S02/FriendsS02E11.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E12.txt",
+      "source_html": [
+        "S02/FriendsS02E12-E13.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E13.txt",
+      "source_html": [
+        "S02/FriendsS02E12-E13.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E14.txt",
+      "source_html": [
+        "S02/FriendsS02E14.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E15.txt",
+      "source_html": [
+        "S02/FriendsS02E15.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E16.txt",
+      "source_html": [
+        "S02/FriendsS02E16.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E17.txt",
+      "source_html": [
+        "S02/FriendsS02E17.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E18.txt",
+      "source_html": [
+        "S02/FriendsS02E18.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E19.txt",
+      "source_html": [
+        "S02/FriendsS02E19.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E20.txt",
+      "source_html": [
+        "S02/FriendsS02E20.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E21.txt",
+      "source_html": [
+        "S02/FriendsS02E21.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E22.txt",
+      "source_html": [
+        "S02/FriendsS02E22.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E23.txt",
+      "source_html": [
+        "S02/FriendsS02E23.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S02/FriendsS02E24.txt",
+      "source_html": [
+        "S02/FriendsS02E24.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E01.txt",
+      "source_html": [
+        "S03/FriendsS03E01.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E02.txt",
+      "source_html": [
+        "S03/FriendsS03E02.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E03.txt",
+      "source_html": [
+        "S03/FriendsS03E03.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E04.txt",
+      "source_html": [
+        "S03/FriendsS03E04.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E05.txt",
+      "source_html": [
+        "S03/FriendsS03E05.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E06.txt",
+      "source_html": [
+        "S03/FriendsS03E06.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E07.txt",
+      "source_html": [
+        "S03/FriendsS03E07.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E08.txt",
+      "source_html": [
+        "S03/FriendsS03E08.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E09.txt",
+      "source_html": [
+        "S03/FriendsS03E09.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色；S01E08保留绿色原播内容，S01E14/S02E01/S03E09保留红色原播内容",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E10.txt",
+      "source_html": [
+        "S03/FriendsS03E10.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E11.txt",
+      "source_html": [
+        "S03/FriendsS03E11.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E12.txt",
+      "source_html": [
+        "S03/FriendsS03E12.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E13.txt",
+      "source_html": [
+        "S03/FriendsS03E13.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E14.txt",
+      "source_html": [
+        "S03/FriendsS03E14.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E15.txt",
+      "source_html": [
+        "S03/FriendsS03E15.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E16.txt",
+      "source_html": [
+        "S03/FriendsS03E16.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E17.txt",
+      "source_html": [
+        "S03/FriendsS03E17.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E18.txt",
+      "source_html": [
+        "S03/FriendsS03E18.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E19.txt",
+      "source_html": [
+        "S03/FriendsS03E19.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E20.txt",
+      "source_html": [
+        "S03/FriendsS03E20.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E21.txt",
+      "source_html": [
+        "S03/FriendsS03E21.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E22.txt",
+      "source_html": [
+        "S03/FriendsS03E22.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E23.txt",
+      "source_html": [
+        "S03/FriendsS03E23.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E24.txt",
+      "source_html": [
+        "S03/FriendsS03E24.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    },
+    {
+      "file": "S03/FriendsS03E25.txt",
+      "source_html": [
+        "S03/FriendsS03E25.html"
+      ],
+      "status": "limited",
+      "version_rule": "已读各页页首颜色说明，蓝色为DVD新增，排除蓝色",
+      "coverage": "页首版本说明已检查；尚未完成人物动作候选人工阅读",
+      "additions": [],
+      "unresolved": [
+        "未完成全部对白的双向语义对齐，不宣称无其他缺漏；粉丝转录稿不是官方原稿"
+      ]
+    }
+  ]
+}

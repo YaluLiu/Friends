@@ -1,0 +1,752 @@
+Friends 227410 Episode Script | SS
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        @charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h1,h3{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}a{color:#0d6efd;text-decoration:underline}button{border-radius:0}button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}[type=button],button{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-text,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::-webkit-file-upload-button{font:inherit}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}@media (min-width:992px){.col-lg-2{flex:0 0 auto;width:16.66666667%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle::after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-item{display:block;width:100%;padding:.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:.5rem;padding-bottom:.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-brand{padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;text-decoration:none;white-space:nowrap}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;background-repeat:no-repeat;background-position:center;background-size:100%}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand{color:#fff}.navbar-dark .navbar-nav .nav-link{color:rgba(255,255,255,.55)}.navbar-dark .navbar-toggler{color:rgba(255,255,255,.55);border-color:rgba(255,255,255,.1)}.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")}.d-block{display:block!important}.d-flex{display:flex!important}.d-none{display:none!important}.w-100{width:100%!important}.h-100{height:100%!important}.flex-column{flex-direction:column!important}.flex-grow-1{flex-grow:1!important}.flex-shrink-0{flex-shrink:0!important}.flex-nowrap{flex-wrap:nowrap!important}.mt-2{margin-top:.5rem!important}.mb-2{margin-bottom:.5rem!important}.p-3{padding:1rem!important}.px-2{padding-right:.5rem!important;padding-left:.5rem!important}.text-center{text-align:center!important}.text-dark{--bs-text-opacity:1;color:rgba(var(--bs-dark-rgb),var(--bs-text-opacity))!important}.text-white{--bs-text-opacity:1;color:rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important}.bg-dark{--bs-bg-opacity:1;background-color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-none{display:none!important}}@media (min-width:1200px){.d-xl-block{display:block!important}}body{background-color:#fed41e}.navbar-brand{font-size:18px;font-weight:700;color:#fed41e!important}.container{max-width:960px}h1{text-align:center}.scrolling-script-container{height:600px;overflow:scroll;width:99%;border:1px solid #000;padding:4px;margin-top:5px}.breadcrumbs{font-size:12px;margin-bottom:10px}.scrolling-script-container{font-size:14px}a{color:#fff}@media screen and (min-width:800px){.top-row{height:370px}}.topblock{display:none}@media screen and (max-width:480px){.topblock{display:block}}@media screen and (max-width:768px){.topblock{display:block}}
+        
+    
+
+
+
+    
+        window._taboola = window._taboola || [];
+        _taboola.push({category: 'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)) {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/springfield/loader.js',
+            'tb_loader_script');
+        if (window.performance && typeof window.performance.mark == 'function') {
+            window.performance.mark('tbl_ic');
+        }
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+
+    
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+        .top-block-desktop {
+
+            display: block;
+
+        }
+
+    }
+
+    .topblock {
+        display: none;
+    }
+
+    .
+
+
+    @media screen and (max-width: 480px) {
+        .topblock {
+            display: block;
+        }
+
+
+        .top-container {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 812px) and (orientation: landscape) {
+        .topblock {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .topblock {
+            display: block;
+        }
+
+        .top-container {
+            display: none;
+        }
+
+        .top-block-desktop {
+
+            display: none;
+
+        }
+    }
+
+    
+    @font-face {
+        font-family: bootstrap-icons;
+        src: url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"), url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("woff")
+    }
+
+    .bi::before, [class*=" bi-"]::before {
+        display: inline-block;
+        font-family: bootstrap-icons !important;
+        font-style: normal;
+        font-weight: 400 !important;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        vertical-align: -.125em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale
+    }
+
+    .bi-facebook::before {
+        content: "\f344"
+    }
+
+    .bi-twitter-x::before {
+        content: "\f8db"
+    }
+
+
+
+
+
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-406ZB8S3DD');
+
+
+
+
+
+
+
+
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "@id": "https://www.springfieldspringfield.co.uk/#org",
+                "name": "Springfield! Springfield!",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "sameAs": [
+                    "https://twitter.com/springfieldx2",
+                    "https://www.facebook.com/springfieldspringfield/"
+                ]
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://www.springfieldspringfield.co.uk/#website",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "name": "Springfield! Springfield!"
+            }
+        ]
+    }
+Springfield! Springfield!
+Movie Scripts
+                    
+                    TV Show
+                            Episode Scripts
+                    
+                    
+                        The Simpsons
+                        
+                            Characters
+                            Episode Guide
+                            Simpsons
+                                    Episode Scripts
+                            Guest Stars
+                            Springfield
+                            Buddy Icons
+                            Images
+                            iPhone / iPod Wallpaper
+                            PSP Wallpaper
+                            Scenes
+                            Sounds
+                        
+                    
+                    
+                    Contact
+window._taboola = window._taboola || [];
+                        _taboola.push({
+                            mode: 'thumbnails-b',
+                            container: 'taboola-below-category-thumbnailsb',
+                            placement: 'Below Category Thumbnails',
+                            target_type: 'mix'
+                        });
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+TV Show Episode Scripts  >  Friends  >  Season 8  >  The One With the Rumor
+Friends s08e09 Episode Script
+227410 - The One With the Rumor
+Did you know that during pregnancy your fingers swell up to twice their size and never go back? Oh, my God! Let me see that.
+You fall for it every time.
+Hey! I brought you my old maternity clothes.
+Oh, Pheebs, that's so sweet.
+Oh, those are so cute! Look.
+See how they expand as the baby grows? And after the baby's born they're great for shoplifting melons.
+Good, you're all here.
+Thanksgiving, 4:00.
+Guess who I invited? Remember Will Culvert from high school? - No.
+- He was in Ross' class.
+Marching band, was kind of overweight.
+Really overweight.
+I was his thin friend.
+I don't remember.
+Are you talking about your imaginary boyfriend? No, that was Jared.
+Wow.
+Haven't thought about him in a long time.
+Will's here on business so I invited him here.
+- That's nice.
+- Oh, he's lost a bunch of weight.
+He looks good.
+Okay, I mean really gorgeous.
+- I still love Chandler.
+- Wouldn't hurt you to say it.
+Just so you know, I'm not gonna make a turkey.
+- What? - Phoebe doesn't eat turkey.
+- Phoebe! - Turkeys are intelligent animals.
+No, they're not! They're ugly and stupid and delicious! It's not just Phoebe.
+Chandler doesn't eat Thanksgiving food and Rachel has her poultry aversion.
+I had to leave when you had that chicken.
+I thought that was because I put it on my hand and made it walk.
+It's not worth it to make a whole turkey.
+It's a lot of work.
+But you gotta have turkey! Thanksgiving with no turkey is like Fourth of July with no pie.
+Or Friday with no two pizzas.
+Fine.
+But there's gonna be a ton left over.
+No, I will finish that turkey.
+You can eat almost an entire turkey in one sitting? That's right.
+Because I'm a Tribbiani! This is what we do.
+We may not be great thinkers or world leaders we don't read a lot or run fast, but damn it, we can eat! The One With the Rumor mrnch@dh.
+net.
+mk Subtitle Editor (c) Digital Higherground - Igor Janevski, 2004 Four wide receivers.
+On third and 18.
+Isn't it weird how next year there will be a baby at the table? Rachel's.
+But good to know where you're at.
+- Hey! - Hey! - Happy Thanksgiving.
+- You too! - Can I help? - Yes.
+Chandler usually helps but he's into the game.
+Could you fold these napkins? I'm gonna go check on the yams.
+No, sweetie.
+No, not like that.
+We're not at a barn dance.
+Fold them like swans.
+I showed you at Christmas.
+Yeah, it all just came screaming back to me.
+- So how's the game? - I have no idea.
+- What? - I'm pretending to watch so I don't have to help out.
+I don't believe you! That is brilliant! - And Monica has no idea? - No.
+I just yell stuff at the TV.
+'Ey! What? 'Ey! - Your team winning? - Anderson just scored again.
+There is no Anderson.
+I wanna get in on this.
+Hey, Mon? I can't help you.
+I didn't realize this game was on.
+- You like football? - Normally, I don't.
+But, you know, Green Bay is playing.
+- You like Green Bay? - It's only my favorite bay.
+- Happy Thanksgiving.
+- Will, I'm so glad that you came.
+You must've lost Subway commercials.
+- A pie! - It's no fat, no sugar, no dairy.
+- It's no good.
+Throw it out.
+- Meet some people.
+This is my husband, Chandler.
+This is Will.
+Oh, hey.
+I'd shake your hand but I'm really into the game.
+Plus, it'd be better for my ego if we didn't stand together.
+- This is Phoebe.
+- Hi.
+Hey.
+Wow! Well done.
+- Wanna give me a hand? - I can't get over how great you look.
+- You too.
+You're so fit.
+- I'm watching but I'm not deaf.
+- I meant to tell you, Ross is coming.
+- Great, I love Ross.
+Good.
+And Rachel Greene too.
+- Is there a problem? - No.
+It's okay.
+It's just God, I hated her.
+- What? - I hated her.
+She was horrible to me in high school.
+But hey, that was a long time ago.
+Might be fun to see her again.
+Got any cakes or cookies or something? No, Will! No! It's been a while since we screamed.
+- Oh, okay.
+No! - Come on! Damn you, ref! You burn in hell! What are you doing? You've got an entire turkey to eat.
+Let me explain to you how the human body works.
+I have to warm up my stomach first.
+- Eating chips is like stretching.
+- Okay.
+- Tribbianis never get full.
+- I'm here to tell you something.
+You can eat and eat, but nothing will ever fill that void.
+- Who the hell is this guy? - This is Will, from high school.
+- Will! - Ross! Hey, you came! Man, you look incredible! Hot stuff! - Hot stuff? - It's good to see you, man.
+Yeah.
+You too.
+So, what are you up to? - I'm a commodities broker.
+- That sounds interesting.
+- Yeah, it's not.
+- Oh.
+- But I'm rich and thin.
+- Oh.
+I haven't seen you since Lance Davis' graduation party.
+That was such a fun night.
+Would've been good if we had gotten in, but still fun.
+We were lame.
+Do you remember how into dinosaurs we were? - Yeah.
+- So, what do you do now? So how long are you in town? - Hi.
+- Hey, sweetie.
+Oh, good.
+Rachel Greene.
+Oh, that's right.
+Are you gonna be okay? Oh, I'll be fine.
+It's just God, I hate her, Ross! I hate her! High school was a long time ago.
+Look at her standing there with those yams.
+My two greatest enemies: Rachel Greene and complex carbohydrates.
+Oh, my God.
+Who is that? - That's Will, from high school.
+- Oh! I do not remember him.
+Wow, really got that sexy smoldering thing going on.
+Oh, my God.
+Look at the way he's just staring at me.
+He's trying to mouth something to me.
+I hate you! - Okay, dinner's ready! - Okay! - Solid effort.
+Solid effort.
+- Oh, so who won? - Green Bay.
+- Detroit.
+- What? - The Lions technically won.
+But it was a moral victory for the Green Bay Mermen.
+Hi! Will, right? Right, hi.
+I'm Rachel Greene.
+- Oh, I remember you.
+- Really? Aren't you sweet? I gotta tell you, I'm having the hardest time placing you.
+Hang on! I think I remember you.
+Did we fool around at Lance Davis' graduation party? - You are unbelievable.
+- Thank you.
+Rachel? Why don't you sit here? And Will, you sit way over there.
+That's it? I can eat that, no problem.
+- At least give me a challenge.
+- This is Chandler's chicken.
+This is the turkey.
+Oh.
+How big is that? - About 19 pounds.
+- It's like me when I was born.
+- Who would like some yams? Will? - You'd like that, wouldn't you? What? Oh, can we please keep the chicken and the turkey on the other side? - The smell is just - Typical.
+- What? - I said it was typical.
+Typical of you.
+Queen Rachel does whatever she wants in Rachel-land.
+Seriously, who is this guy? Sorry, do you have a problem with me? - I don't know.
+Do I? Do I? - I think you do.
+You were mean to him in high school.
+- You made my life miserable.
+- I had no idea.
+I'm sorry.
+Well, you should be.
+Screw it.
+Bring on the yams.
+But you worked so hard.
+- Yams! - Okay.
+I'm real sorry for whatever I did to you in high school.
+It wasn't just me.
+We had a club.
+- You had a club? - The "I Hate Rachel Greene Club"! So you all just joined together to hate me? - Who else was in this club? - Me and Ross.
+No need to point.
+She knows who Ross is.
+- You were in an "I Hate Rachel" club? - Yes, he was.
+No, no.
+- So who else was in this club? - That exchange student from Thailand.
+But I don't think he knew what it was.
+We went out for two years and you never told me? You went out with her? We had a pact.
+- It's not like it was binding forever.
+- It had the word "eternity" in it.
+Monica? Did you know about this? I didn't.
+Is that why you used to lock the bedroom door? - Yeah.
+- A little relieved, I gotta say.
+Look, Rach, I'm sorry, okay? I was a stupid kid, okay? - The only reason I joined - Cofounded.
+Cofounded the club, was that I was in love with you.
+If you think about it, the "I Hate Rachel Club" was really the "I Love Rachel Club.
+" But it was really the "I Hate Rachel Club.
+" So you'd get together and say mean things about me? - We did a little more than that.
+- No, no, no.
+What else did you do? - We started a rumor.
+- What rumor? Come on, Will.
+Take off your shirt and tell us.
+- Ross? - It was no big deal.
+We said that The rumor was that you had both male and female reproductive parts.
+- What? - That's right.
+We said your parents decided to raise you as a girl, but you still had a hint of a penis.
+- Oh, my God! - You started that? - You heard that? - Everyone at our school heard it! You were the hermaphrodite cheerleader? Oh, no! It makes sense.
+This is why Adam Carter wouldn't go out with me.
+Why Billy would just stay in this region.
+Billy's gay now, so that one's not really our fault.
+- Why didn't you tell me? - I thought it might be true.
+I was afraid that you were gonna cry and then show it to me.
+Stop staring! There's nothing there! It's not true! I'm afraid I'm gonna need proof.
+You are my Everest.
+- You don't have to finish.
+- I do.
+Otherwise, what's next? Today I can't finish a turkey, but tomorrow I eat half a Power Bar wrap it up and put it in the fridge? No! I gotta change my pants.
+What was I thinking? Jeans have no give.
+Listen to what Sean McMahon wrote in my yearbook senior year.
+"Dear Rach, you're such a great person.
+" Not girl, "person.
+" I think you're reading a little too much into it.
+"You're a great person.
+Sorry about your weenie.
+" You want me to call everyone and tell them it wasn't true? - Yes.
+- Also, tell them I'm skinny now.
+Oh! Me too! I won't call anybody.
+It was a million years ago.
+I don't care.
+You told people that I was half and half! I never did anything to hurt you in high school.
+That's not totally true.
+- What? - What? You did start that rumor about Ross making out with Mrs.
+Altmann, our 50-year-old librarian.
+How did you know that? - It's true? - No.
+I saw you going at it behind the card catalog.
+Mrs.
+Altmann? She also made out with Ta-Taka-Ki-Kek before he went back to Thailand.
+In high school you made out with a 50-year-old woman? - Hey, she didn't look 50! - Did she look 16? There's a picture of her in the yearbook actually.
+- Wow.
+- She didn't photograph well! She wasn't familiar with the process, having sat for oil paintings.
+How did this happen? Did she lure you to an early-bird dinner? I was working late in the library.
+It was just the two of us.
+She needed some help with her word jumble.
+And one thing led to another.
+If you must know, Anita was very gentle and tender.
+May she rest in peace.
+- Didn't she walk with a cane? - Only when it was damp! I can't believe you told people about this.
+Everybody knew? - You know what? I'm back in the club! - Yeah! - I wanna join! - Phoebe? I never got to be in a club.
+I didn't go to high school.
+But three of us would meet behind a dumpster to learn French.
+Fine, you can have your stupid, little club.
+But what you did to me is way worse than what I did to you.
+- You gave me a teeny weenie.
+- Yeah! You're silly.
+Even with that rumor you were one of the most popular girls.
+Everyone wanted to be like you.
+One girl stuffed her pants with a Tootsie Roll.
+Wow.
+If it weren't for her rumor, no one would've known who you were.
+- She put you on the map.
+- As a romancer of the elderly.
+Mrs.
+Altmann used to be pretty.
+The eyes did still sparkle.
+This stuff is so way in the past.
+You've been through so much.
+You got so much more important stuff going on.
+Can't you just let this go? - She's right.
+- We are having a baby together.
+Hold on.
+- You got her pregnant? - Yeah.
+- Are you getting married? - No.
+So you knocked her up but you're not gonna marry her.
+Dude.
+- Anybody? - Okay.
+It's exactly how I imagined it would be.
+All right, where's that turkey? - Those are my maternity pants! - No, these are my Thanksgiving pants! Well, that's it.
+I'm done.
+Here come the meat sweats.
+Well, Joey, we're all very proud of you.
+I believe we can expect a call from the president any moment now.
+- Anything we can do? - Just nobody press on my stomach.
+You can keep those pants, by the way.
+What you got there? What is that, pie? - You want some? - Just cut me a little sliver.
+Little bigger.
+Little bigger.
+What are you afraid of? Cut me a real piece!
+Previous EpisodeNext Episode
+Report an Issue with This Script   |   Friends Episode Scripts   |   More TV Show Episode Scripts
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+Springfield! Springfield!
+About      Terms      Privacy Policy      Contact
+(function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});

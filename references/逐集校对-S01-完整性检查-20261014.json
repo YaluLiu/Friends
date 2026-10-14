@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-14",
+  "scope": "S01 中文23集/英文24集",
+  "baseline": "本轮起点工作区",
+  "checks": {
+    "newline_preserved": true,
+    "unknown_count_preserved": 5,
+    "dvd_markers_balanced": true,
+    "changed_baseline_lines_documented": true,
+    "english_reference_hashes_unchanged": 230
+  },
+  "files": [
+    {
+      "file": "S01/FriendsS01E01.txt",
+      "net_added_lines": 54,
+      "changed_baseline_lines": 3,
+      "before_sha256": "0539ea01ddbf262983f264b18088647b0d95c4236f062d391dacaa7466438328",
+      "after_sha256": "eae403f69f693470c5c5bcfd0ac647c27a15d251fc6e9c5392bd96545bafa9cb"
+    },
+    {
+      "file": "S01/FriendsS01E02.txt",
+      "net_added_lines": 34,
+      "changed_baseline_lines": 1,
+      "before_sha256": "2a678eb51fd75851f8754dc23d5c019e771dea0d9c9e87e69e44529492e1a199",
+      "after_sha256": "9df3faa25f5f087de29858c42f0a86a4db7c385ea4aef89f8f4bcb21816df580"
+    },
+    {
+      "file": "S01/FriendsS01E03.txt",
+      "net_added_lines": 42,
+      "changed_baseline_lines": 0,
+      "before_sha256": "bd30f8726a08443ff60fa42843510f1698565aba7d3994885168c371e43ceafa",
+      "after_sha256": "f3eefb7d64906fba53740c181eb56864045a96d25b333fc90280ac57772de5da"
+    },
+    {
+      "file": "S01/FriendsS01E04.txt",
+      "net_added_lines": 66,
+      "changed_baseline_lines": 0,
+      "before_sha256": "efaa668354b29ca875eafb210b486369b4abf7f7250159245cd0b69139c690c8",
+      "after_sha256": "adba8cdf6085fdce5554512cc9ce24e8ce2139cd5218bbb0d437341a8e2e07f7"
+    },
+    {
+      "file": "S01/FriendsS01E05.txt",
+      "net_added_lines": 25,
+      "changed_baseline_lines": 2,
+      "before_sha256": "c0e591aa2930dc98dbe05414d39ead7f8f835094ee9f88bb07ad2b88983afbbe",
+      "after_sha256": "efd62afe11cf339314522a0103a3302a5740f7e9960d1f4cfb8c6751c5d01823"
+    },
+    {
+      "file": "S01/FriendsS01E06.txt",
+      "net_added_lines": 43,
+      "changed_baseline_lines": 1,
+      "before_sha256": "19bef778f291e8bf3b4468b109c2fa3e59c147aec4ac6dcd5c1243864c103a2d",
+      "after_sha256": "9a746683877020e5e69a4c82b61ae7bcad63c81cd35626c02fbb125635a6c84a"
+    },
+    {
+      "file": "S01/FriendsS01E07.txt",
+      "net_added_lines": 44,
+      "changed_baseline_lines": 8,
+      "before_sha256": "d94bd3128d96bcead89819484ba59d99620742ffc7c1b1780b453c013c7ca32a",
+      "after_sha256": "3e82e384153ab9bf30ba998e10ce4fa89ace7b4ac3f4be6782292c9bdd6a50b2"
+    },
+    {
+      "file": "S01/FriendsS01E08.txt",
+      "net_added_lines": 37,
+      "changed_baseline_lines": 4,
+      "before_sha256": "fd49dc41924e4978905d159701c22bd81e1bbca2ada58d0a301fed43de86af88",
+      "after_sha256": "183e0ef09b35d4c934e11ddfa05ce03015bab8f36bd1cbaf24f0704be1e5ed64"
+    },
+    {
+      "file": "S01/FriendsS01E09.txt",
+      "net_added_lines": 30,
+      "changed_baseline_lines": 1,
+      "before_sha256": "15f28a7426ef09e101db0d0ae06f3f16646bd62ddd2377a273b8ebd387384dae",
+      "after_sha256": "cbe1efd7500aed06193bd8f64a73072374c3f8e29cdad65189a3e3ecd64d91cc"
+    },
+    {
+      "file": "S01/FriendsS01E10.txt",
+      "net_added_lines": 21,
+      "changed_baseline_lines": 2,
+      "before_sha256": "b285943e9030e29085482fa318b060352b132f255ae2a6d4ba0fa575faaa7a25",
+      "after_sha256": "a1fcb79e14613d4444b438a7bbb2bf9896ebfdfec9ded554c1a94d934d5743c5"
+    },
+    {
+      "file": "S01/FriendsS01E11.txt",
+      "net_added_lines": 18,
+      "changed_baseline_lines": 2,
+      "before_sha256": "b643edbd18ed7141adce89f955bce13cd9fa4f458ae3cfb31cbba62638eb5a7a",
+      "after_sha256": "ec04a1c23eb4e500a5020b8a5ea02133b1d0d48abddcf5fb12f87d28e45d3932"
+    },
+    {
+      "file": "S01/FriendsS01E12.txt",
+      "net_added_lines": 42,
+      "changed_baseline_lines": 3,
+      "before_sha256": "9ff9d427d7ce130b5450a599b6d0e98e00178ec3935b9c0f3c37da6080610094",
+      "after_sha256": "439b399687d84cd5fd409988090267f3bdb0a2c081f368c282968655fac7ce74"
+    },
+    {
+      "file": "S01/FriendsS01E13.txt",
+      "net_added_lines": 26,
+      "changed_baseline_lines": 2,
+      "before_sha256": "d1361de83df054590311e4b64f67207f24aad2e5f607e74c4b60a231be1db15b",
+      "after_sha256": "493d6ba8398a9179100d0b588c89e3a33c26c2572ffba2641e92cb5f0ad8178b"
+    },
+    {
+      "file": "S01/FriendsS01E14.txt",
+      "net_added_lines": 31,
+      "changed_baseline_lines": 1,
+      "before_sha256": "2b6b9806361310f66605dc27291cbbc7dae1a768dea6e5093ab67892233b71cb",
+      "after_sha256": "91837277ab8020d622c158fb3a579ffdc3efb5d3219e6708896ff90d0d453d6d"
+    },
+    {
+      "file": "S01/FriendsS01E15.txt",
+      "net_added_lines": 41,
+      "changed_baseline_lines": 3,
+      "before_sha256": "6f73401748200763592b77e3521dd39c9c5c63880c8afda87ae07cdbee3cf62d",
+      "after_sha256": "5cbbc7f2774551b339fbf0c482473d9cc22919b618ae23fafc8ea7751d74f884"
+    },
+    {
+      "file": "S01/FriendsS01E16.txt",
+      "net_added_lines": 48,
+      "changed_baseline_lines": 2,
+      "before_sha256": "997cfa9e063af42f97762141d2688c194299e8f43445221fa7894e65de76ac04",
+      "after_sha256": "850594d79e2c7bc3c59c59522bfaa0c6d1c84bdf107bab66c48c2a20f5587735"
+    },
+    {
+      "file": "S01/FriendsS01E17.txt",
+      "net_added_lines": 33,
+      "changed_baseline_lines": 4,
+      "before_sha256": "9b9a1012b01c5c8eb017c878c922373a09d77c4735a8a8909e8773b9877eceda",
+      "after_sha256": "014fdc863cf173a18cc5be33c397f1d5c0cab7e7521ba4b28de83d4dd04fae37"
+    },
+    {
+      "file": "S01/FriendsS01E18.txt",
+      "net_added_lines": 57,
+      "changed_baseline_lines": 11,
+      "before_sha256": "b6f74008bcf6c07e434e1e2a1c1499286b36ac91b83444156279c4246298e306",
+      "after_sha256": "d291e777ddea5cc175afa28f7fc99b791090b95c1b48b006bf2efa2258faf95c"
+    },
+    {
+      "file": "S01/FriendsS01E19.txt",
+      "net_added_lines": 24,
+      "changed_baseline_lines": 1,
+      "before_sha256": "27a90e4d09cdb243ad87d6314434e4ce0a8cf884929eb2ba653e3a52f1465dce",
+      "after_sha256": "977ac24f9114a02b7faaedef78870cb2ff2f17fc8ad3c0a1fd52ed6ba7bb4778"
+    },
+    {
+      "file": "S01/FriendsS01E20.txt",
+      "net_added_lines": 25,
+      "changed_baseline_lines": 5,
+      "before_sha256": "5303ea55a06da5ba0025a8d29120016518985a1b3ee796a445296b65f260641a",
+      "after_sha256": "aae598dea4b20e18a07353237c76c2bd18cee316596f707075970de43a361cfe"
+    },
+    {
+      "file": "S01/FriendsS01E21.txt",
+      "net_added_lines": 40,
+      "changed_baseline_lines": 3,
+      "before_sha256": "e54fba1120b294b7b039e52a29bc65b3ff8398a7587f0da38b7ff214568e0e0a",
+      "after_sha256": "a6fbf5a26c27aa4c009d22b1a41e1fdff0524afd00a7032b83165b90b6f8a8dc"
+    },
+    {
+      "file": "S01/FriendsS01E22.txt",
+      "net_added_lines": 61,
+      "changed_baseline_lines": 4,
+      "before_sha256": "3626b6537e46c17a8a3dbcca32951a7e84b8e8efba3ff58b67c1cc72d03ea975",
+      "after_sha256": "de9cd0cc03890db823b0f7d11f2d05eb53b2155cb53dcb190b94d66fff766454"
+    },
+    {
+      "file": "S01/FriendsS01E23.txt",
+      "net_added_lines": 114,
+      "changed_baseline_lines": 4,
+      "before_sha256": "4c9a601ffd4227b787f86fc046ebe9948e2450b33c4866054dd9852facf693dc",
+      "after_sha256": "b35d5aca4be15dfd434befd13d977231bab03bcbc0de0f69948f891425c69305"
+    }
+  ]
+}

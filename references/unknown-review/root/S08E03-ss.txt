@@ -1,0 +1,722 @@
+Friends 227403 Episode Script | SS
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        @charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h1,h3{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}a{color:#0d6efd;text-decoration:underline}button{border-radius:0}button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}[type=button],button{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-text,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::-webkit-file-upload-button{font:inherit}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}@media (min-width:992px){.col-lg-2{flex:0 0 auto;width:16.66666667%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle::after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-item{display:block;width:100%;padding:.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:.5rem;padding-bottom:.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-brand{padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;text-decoration:none;white-space:nowrap}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;background-repeat:no-repeat;background-position:center;background-size:100%}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand{color:#fff}.navbar-dark .navbar-nav .nav-link{color:rgba(255,255,255,.55)}.navbar-dark .navbar-toggler{color:rgba(255,255,255,.55);border-color:rgba(255,255,255,.1)}.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")}.d-block{display:block!important}.d-flex{display:flex!important}.d-none{display:none!important}.w-100{width:100%!important}.h-100{height:100%!important}.flex-column{flex-direction:column!important}.flex-grow-1{flex-grow:1!important}.flex-shrink-0{flex-shrink:0!important}.flex-nowrap{flex-wrap:nowrap!important}.mt-2{margin-top:.5rem!important}.mb-2{margin-bottom:.5rem!important}.p-3{padding:1rem!important}.px-2{padding-right:.5rem!important;padding-left:.5rem!important}.text-center{text-align:center!important}.text-dark{--bs-text-opacity:1;color:rgba(var(--bs-dark-rgb),var(--bs-text-opacity))!important}.text-white{--bs-text-opacity:1;color:rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important}.bg-dark{--bs-bg-opacity:1;background-color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-none{display:none!important}}@media (min-width:1200px){.d-xl-block{display:block!important}}body{background-color:#fed41e}.navbar-brand{font-size:18px;font-weight:700;color:#fed41e!important}.container{max-width:960px}h1{text-align:center}.scrolling-script-container{height:600px;overflow:scroll;width:99%;border:1px solid #000;padding:4px;margin-top:5px}.breadcrumbs{font-size:12px;margin-bottom:10px}.scrolling-script-container{font-size:14px}a{color:#fff}@media screen and (min-width:800px){.top-row{height:370px}}.topblock{display:none}@media screen and (max-width:480px){.topblock{display:block}}@media screen and (max-width:768px){.topblock{display:block}}
+        
+    
+
+
+
+    
+        window._taboola = window._taboola || [];
+        _taboola.push({category: 'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)) {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/springfield/loader.js',
+            'tb_loader_script');
+        if (window.performance && typeof window.performance.mark == 'function') {
+            window.performance.mark('tbl_ic');
+        }
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+
+    
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+        .top-block-desktop {
+
+            display: block;
+
+        }
+
+    }
+
+    .topblock {
+        display: none;
+    }
+
+    .
+
+
+    @media screen and (max-width: 480px) {
+        .topblock {
+            display: block;
+        }
+
+
+        .top-container {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 812px) and (orientation: landscape) {
+        .topblock {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .topblock {
+            display: block;
+        }
+
+        .top-container {
+            display: none;
+        }
+
+        .top-block-desktop {
+
+            display: none;
+
+        }
+    }
+
+    
+    @font-face {
+        font-family: bootstrap-icons;
+        src: url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"), url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("woff")
+    }
+
+    .bi::before, [class*=" bi-"]::before {
+        display: inline-block;
+        font-family: bootstrap-icons !important;
+        font-style: normal;
+        font-weight: 400 !important;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        vertical-align: -.125em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale
+    }
+
+    .bi-facebook::before {
+        content: "\f344"
+    }
+
+    .bi-twitter-x::before {
+        content: "\f8db"
+    }
+
+
+
+
+
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-406ZB8S3DD');
+
+
+
+
+
+
+
+
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "@id": "https://www.springfieldspringfield.co.uk/#org",
+                "name": "Springfield! Springfield!",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "sameAs": [
+                    "https://twitter.com/springfieldx2",
+                    "https://www.facebook.com/springfieldspringfield/"
+                ]
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://www.springfieldspringfield.co.uk/#website",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "name": "Springfield! Springfield!"
+            }
+        ]
+    }
+Springfield! Springfield!
+Movie Scripts
+                    
+                    TV Show
+                            Episode Scripts
+                    
+                    
+                        The Simpsons
+                        
+                            Characters
+                            Episode Guide
+                            Simpsons
+                                    Episode Scripts
+                            Guest Stars
+                            Springfield
+                            Buddy Icons
+                            Images
+                            iPhone / iPod Wallpaper
+                            PSP Wallpaper
+                            Scenes
+                            Sounds
+                        
+                    
+                    
+                    Contact
+window._taboola = window._taboola || [];
+                        _taboola.push({
+                            mode: 'thumbnails-b',
+                            container: 'taboola-below-category-thumbnailsb',
+                            placement: 'Below Category Thumbnails',
+                            target_type: 'mix'
+                        });
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+TV Show Episode Scripts  >  Friends  >  Season 8  >  The One Where Rachel Tells...
+Friends s08e03 Episode Script
+227403 - The One Where Rachel Tells...
+- Are you excited about our honeymoon? - Yeah, I am.
+Get it out of your system while we're alone.
+- We came to say goodbye.
+- Have a great honeymoon.
+- Thanks.
+- I'll go pack.
+I already packed.
+But I couldn't find your Speedo.
+Speedo? I don't have a Speedo.
+I'm gonna go pack my regular, long bathing suit.
+Good, you're still here! Have a good honeymoon.
+Oh, thank you! And I wanted you guys to know I am telling the father today.
+What? What? What? - We know it's Ross.
+- How? How do you know? It was his sweater.
+But, oh, my God! I wanted Ross to know first.
+But I'm relieved! - I'm gonna be your baby's aunt! - I know.
+- Me too! - I'm gonna be an uncle! Come here.
+- You'll all be aunts and uncles.
+- But I'm the only one related by blood.
+Now that you all know, you can give me advice on how to tell Ross.
+What'll you say? That I'm having it.
+And he can be as involved as he wants.
+That sounds good.
+Yeah, but how do I start? What's the first thing that I say? - Okay, great.
+Thanks.
+- Hey, good luck.
+Yeah, bye.
+What was that about? No harm in telling you now.
+Rachel and Ross are having a baby.
+What? I didn't even know! Why didn't you tell me? Why am I talking like this? I didn't think you could keep it a secret.
+I'm an excellent secret-keeper.
+I've kept all our secrets.
+- What secrets? - No, no, Joey.
+I'm not gonna tell you because I am an excellent secret-keeper.
+- You'll tell me later? - You already know.
+The One Where Rachel Tells Ross mrnch@dh.
+net.
+mk Subtitle Editor (c) Digital Higherground - Igor Janevski, 2004 It's so romantic to send people off on their honeymoon.
+You know, they're married.
+Ross and Rachel are having a baby.
+- Maybe you and I should do something.
+- All in good time, my love.
+I left my guitar in their apartment.
+You can let me in, right? They took my key to give to you.
+- What? They took mine to give to you.
+- Why would they take our keys? - Maybe they don't trust us.
+- They let me keep my key last time.
+When you broke the ketchup bottle and cleaned it with Monica's towels? - I washed those.
+- No, you didn't.
+Yeah, that didn't sound like me.
+- I really need my guitar.
+- I have stuff in there too.
+- What stuff? - Monica's chicken parm.
+I'll fix it.
+Mr.
+Treeger? I need to get into Monica's apartment.
+It's an emergency! Gas leak.
+Oh, and bring garlic bread.
+- Did Rachel find you? - No, why? - She was looking for you.
+- I guess I'll catch up with her later.
+- She really wanted to talk to you now.
+- Yeah, it seemed pretty important.
+- Oh, no.
+- What? I think I might know what this is about.
+Really? Yeah.
+We promised we weren't gonna tell anybody this but a month ago, Rachel and I slept together.
+And? - Wow, I thought you'd be more shocked.
+- Oh, sorry.
+And?! Well, we said we'd just do it that one time but now I think she may wanna start things up again.
+Yeah, I don't think that's what it is.
+- Why? What else could it be? - Oh, wow, I don't feel well.
+I'm telling you, that's what it is.
+No wonder she was looking at me funny at the wedding.
+She didn't say anything to you? Maybe it's something you ate.
+- Please, just go and talk to Rachel.
+- Yeah, I guess I should.
+You know what I have to realize? I'm not the type of guy women can have just one night with.
+They always seem to want a little bit more.
+I should remember that.
+Next.
+- They're kissing, let's go around.
+- They're in love.
+I'm in love too.
+But in an orderly fashion.
+- Next.
+- Hi.
+Can you do that and walk? Sorry, we didn't hear you.
+We're on our honeymoon.
+Let me see what I can do.
+There are some first class seats.
+They bumped them up to first class! Let's act like we're on our honeymoon.
+We are on our honeymoon.
+- Grab my ass.
+- Next.
+Sorry, I almost didn't hear you.
+I'm so in love with my new husband.
+- We're on our honeymoon.
+- Congratulations.
+Mr.
+Bing, you'll be in 25J, and Mrs.
+Bing, you're in 25K.
+We're on our honeymoon, so can you bump us up to first class? I'm sorry, that couple got the last two seats.
+If we'd gone around them like I said, she'd have given us those tickets! those aren't together? They took my key.
+You trust me with yours.
+Of course, and I'll give it back when they're done at the key shining place.
+What the hell is that? - What are you doing? - You said there was a gas leak.
+- Why don't you use your key? - I won't find it before it explodes.
+If that happens at another building I manage, people will ask questions.
+We could have done that.
+They're going into the first class lounge.
+- You know what's in there? - No.
+Me neither.
+We have to get in! - Just act like you belong.
+- Oh, my God! Oranges! - Nice to see you again.
+- May I see your tickets, please? Yes, of course.
+I can't see the seat number.
+That's all right.
+I have it memorized.
+It's 1 A.
+- This isn't first class, sorry.
+- Apology accepted.
+Sir, I'm afraid I'm going to have to ask you to leave.
+Fine.
+Go, go, go! I think there's something that we really need to talk about.
+I think we do.
+Why don't we go inside? - Look, I know why you're here.
+- You do? Yeah, and to save you from any embarrassment, I should talk first.
+Ross and Rachel.
+Rachel and Ross.
+It's been one heck of a seesaw, hasn't it? What? I mean, look, that one night we had was fun and certainly passionate.
+But don't you think it's better if we just stay friends? Seriously, what? Okay, okay.
+You know what? If you want to, we can do it one more time.
+I'd be okay with that.
+In fact, I have some time right now.
+- You know what? Can I talk now? - Oh, sure.
+I'm pregnant.
+Ross? Ross? Okay, whenever you're ready.
+And you're the father, by the way.
+- Can I get you some water? - I'm good, I'm good.
+Ross, there is no pressure on you.
+You can be as involved as you want.
+Yeah, I I'm just, I don't know.
+I don't understand how this happened.
+- We used a condom.
+- I know.
+But you know, condoms only work, like, 97%"%" of the time.
+What? What? What?! Well, they should put that on the box! - They do.
+- No, they don't! Well, they should put it in huge block letters! - Let's just forget about the condoms.
+- Well, I may as well have! - I was really freaked out too when - Freaked out? I'm not freaked out.
+I'm indignant as a consumer! - You know what? Let's talk later.
+- No, I wanna talk now.
+In fact, I wanna talk to the president of the condom company.
+Okay, maybe I should come back Yeah, I'll press one! - I looked everywhere.
+No gas leak.
+- So now I can heat this up? I'll get moving on that door.
+Great.
+Could you not tell Chandler and Monica about this? They don't have any kids of their own and this door was like a child to them.
+I have to put in a new lock.
+They'll find out anyway.
+This looks like an all-day job.
+I'll have to cancel my yoga class.
+Could you tell Jasmine I can't make it to yoga? - Sure.
+- Namaste.
+- What happened to the door? - So it's noticeable? - Is Rachel here? - Didn't you two already talk? Yeah, but You guys know Rachel and I slept together, but there's something else.
+Rachel's pregnant.
+- Holy mother of God! - I can't believe it! - With my child.
+- That is brand-new information! - You already know, don't you? - A little bit.
+- How you doing? - Okay.
+I mean, I'll be okay.
+I didn't handle it well.
+- What'd you say? - Nothing.
+But the complaint department at the condom company got an earful.
+Then when I turned around, she was gone.
+But in my defense, I found out that condoms are only 97%"%" effective.
+- What? - I gotta go find her.
+Hold on! Are you serious? So, like, They should put that on the box! - Evidently, they do.
+- What?! - I can't believe we're here.
+- You've gotta be kidding.
+What? As a wedding gift, we're giving you the Honeymoon Suite.
+No! You have been screwing us all day! - Who are you? - We're you.
+Just 10 seconds later! You got first class, the lounge.
+We need free stuff! You're not the only ones on your honeymoon! You can have the suite.
+We don't care where we stay.
+We're here to celebrate our love.
+We just want to be together.
+We need the stuff.
+Hey, it's Joey.
+We smell gas from your apartment.
+- Are you serious? Joey smells gas.
+- What else is new? - We'd check it, but you took our keys.
+- Do something.
+Get in! - How? I could break down your door.
+"- Yeah", "do that.
+" - You won't blame us for any damage? - No.
+- Are you doing it? I can't hear.
+- Okay, I'll break it down.
+He's doing it, he's breaking down the door.
+Okay, we're in.
+- Rachel, are you comfortable? - Lf I said I was, would you judge me? The doctor'll be here in a minute to do your sonogram.
+Oh, man, I swear, if they sold these at Pottery Barn We need to talk.
+Right now? I kind of got an alfresco situation going on over here.
+I want to apologize for the way I acted earlier.
+- Can you stay up near my head? - Yeah, sorry.
+I went crazy.
+I was thinking about me, and I should've thought of you - Head, Ross! Head! - Right.
+I want you to know that I'll be there through this whole thing.
+Doctor's appointments, Lamaze classes, baby-proofing the apartment.
+- We can do that after we get married.
+- Married? We should get married.
+Because that's your answer to everything? No, it's the right thing to do.
+Yeah, maybe, if you're in love.
+But we are not in love, are we? No, but still, I mean, you can't possibly do this alone.
+Excuse me? Come on, you can't even eat alone in a restaurant.
+- What? - How can you have a baby by yourself? - I can too eat by myself! - When have you ever? When certain people leave the table and I am not finished! Certain others take two hours to eat soup! Please, you inhale your food.
+I grew up with Monica.
+If you didn't eat fast, you didn't eat! Am I interrupting? No, Dr.
+Long, come in.
+This is Ross, the father.
+But not the husband, because she can do this alone.
+Nice to meet you.
+I'll get started on this.
+- Why can't you admit you need me? - I need you to stay near my head! Okay.
+Everything looks good.
+Here it is on the screen.
+There's your uterus and right here is your baby.
+Oh, my God.
+Wow! There it is, I see it.
+Congratulations.
+I'll give you two a minute.
+Thank you.
+Pretty amazing, huh? I don't see it! - What? What? - I can't see it.
+- You just said you did.
+- I know, I lied.
+I didn't want her to think I was a terrible mother.
+Come here.
+Sure you can.
+Come here.
+Look, it's right there.
+Oh, it's beautiful.
+I see it now.
+- Do you really? - No, I don't see it! Come on.
+All right.
+Okay.
+Okay.
+You see this tiny thing that looks like a peanut? Sweetie, that's it.
+That's it? Well, I saw that.
+- Thank you.
+- You're welcome.
+Wow, I can't believe that's our baby.
+Yeah, that's our baby.
+- So how was the doctor? - It went great.
+- Good.
+- Show them the picture of your uterus.
+I don't see the baby.
+I couldn't see it either at first.
+But it's right Ross, I lost it again.
+Previous EpisodeNext Episode
+Report an Issue with This Script   |   Friends Episode Scripts   |   More TV Show Episode Scripts
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+Springfield! Springfield!
+About      Terms      Privacy Policy      Contact
+(function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});

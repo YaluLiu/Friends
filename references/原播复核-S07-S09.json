@@ -1,0 +1,1911 @@
+{
+  "review_date": "2026-10-14",
+  "scope": "S07–S09",
+  "baseline": "/tmp/friends-ten-season-review-20261014",
+  "method": "先逐页解释版本颜色；对白结合角色、上下文语义定位；只新增，不修改原有行。关键动作选取，不逐镜头穷举。",
+  "episodes": {
+    "S07E13": {
+      "status": "reviewed",
+      "insertions": [
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:我刚刚看到这个，房地产部分...",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            69,
+            77
+          ],
+          "source_excerpt": "After you guys get married ... brother-in-law Ross. / Couldn't I just say, \"This is Ross?\"",
+          "added_lines": [
+            "Ross:你知道有什么很奇怪吗？等你们结婚以后，你介绍我就得说“这是我的内兄罗斯”，而不是“我的朋友罗斯”。“内兄罗斯”，很奇怪吧？",
+            "Chandler:我不能就说“这是罗斯”吗？",
+            "(罗斯有些失望。)",
+            "Ross:当然，随你便。",
+            "(菲比坐到罗斯和钱德勒中间，莫妮卡拿着报纸进来。)"
+          ],
+          "judgment": "页首说明蓝色属于原 NBC 超长版，不是 DVD 独有；咖啡馆开场对话在中文未保留。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Phoebe:我无法相信，我现在都不知道阁楼的窗子有什么问题！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            93,
+            97
+          ],
+          "source_excerpt": "Who did you leave a message with? / Sorry!",
+          "added_lines": [
+            "(罗斯用手机给父母打电话。)",
+            "Ross:喂，爸爸！我和莫妮卡刚在报纸上看到房子！是啊，我们很吃惊！你让谁转告我们了？",
+            "(钱德勒在咖啡馆外敲了敲窗。)",
+            "Chandler:对不起！",
+            "(钱德勒跑开。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Rachel:好吧，拜托？乔伊，我给你买个新的！好吗？我们现在就去商店，我们给你弄个新椅子。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            99,
+            103
+          ],
+          "source_excerpt": "how would you feel ... move your mom ... her head fell off?",
+          "added_lines": [
+            "(乔伊检查罗西塔的损坏。)",
+            "Rachel:乔伊，乔伊，真的很对不起。",
+            "Joey:我跟你说了别挪她！瑞秋，假如我想搬动你妈妈，你说别动，我还是动了，结果她的头掉下来了，你会怎么想？"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Joey:那倒是真的。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            113,
+            117
+          ],
+          "source_excerpt": "I don't want Stevie to see her like this.",
+          "added_lines": [
+            "(瑞秋转身往门口走，做出口型说“哇”。她拿起外套。)",
+            "Rachel:好了？准备好了吗？",
+            "Joey:嗯，我……",
+            "(乔伊关掉电视。)",
+            "Joey:我不想让斯蒂维看见她这个样子。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Phoebe:对啊，这次应该比我上次做有关电话的工作强。我大概不必常常说\"打我屁股吧\"。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            153,
+            153
+          ],
+          "source_excerpt": "You're really good on the phone.",
+          "added_lines": [
+            "Monica:这主意真好，你很擅长打电话。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Jack Geller:哎呦。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            231,
+            235
+          ],
+          "source_excerpt": "It's a clown kit! ... Mr. Geller moves a tarp and makes a discovery",
+          "added_lines": [
+            "Jack Geller:看，这是你以前的化妆盒！",
+            "Ross:是小丑化妆盒！小丑化妆盒！",
+            "Jack Geller:白色的好像没怎么用过。",
+            "(杰克把化妆盒扔回箱子，掀开防水布，发现莫妮卡的箱子被水浸坏了。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Earl:我就在个小格子里工作四周都是人。我已经跟你谈了五分钟，我要自杀的问题，都没有人抬头来看我一眼，等一下。嘿，大伙们！我要自杀了。没人理我。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            297,
+            297
+          ],
+          "source_excerpt": "Mimes putting a gun to his head ... Marge watches this, then goes back to work.",
+          "added_lines": [
+            "Earl:等一下。",
+            "(厄尔放下电话，叫住玛姬。)",
+            "Earl:嘿，玛姬！",
+            "(厄尔用手比出枪顶着自己的头、扣扳机的动作，再指向自己。玛姬看过后又继续工作。厄尔重新拿起电话。)",
+            "Earl:还是没有。什么反应也没有。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Chandler:好样的，椅子。如果有人问起，你就叫罗西塔。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            299,
+            325
+          ],
+          "source_excerpt": "Chandler has replaced Rosita ... Rachel: You will like it! ... We could name her Francette.",
+          "added_lines": [
+            "(钱德勒拿自己的椅子换掉罗西塔，往外搬坏掉的椅背时听到乔伊和瑞秋上楼。)",
+            "Rachel:你会喜欢的！",
+            "Joey:我不会。",
+            "(钱德勒跑去查看他们的位置。)",
+            "Rachel:你都还不知道！",
+            "Joey:我知道自己喜欢什么、不喜欢什么！这不是一回事！",
+            "(钱德勒把罗西塔的椅背扔进自己公寓，赶紧把椅座推进去。)",
+            "Rachel:乔伊，你连坐都没坐过。我跟你说，那真是一张好椅子。",
+            "Joey:这么快就坐新椅子，我觉得过意不去。",
+            "(他们走到楼梯平台时，钱德勒刚好关上门。)",
+            "Rachel:拜托，乔伊，我刚给你买了张新椅子！是店里最贵的！我还想，我们可以给她起名叫弗朗塞特。",
+            "Joey:弗朗塞特？她是沙发吗？",
+            "(两人进入自己的公寓。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Joey:她痊愈了！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            331,
+            331
+          ],
+          "source_excerpt": "Maybe I'll take her down to the incinerator ... She's healed!",
+          "added_lines": [
+            "Joey:也许我该把她送到焚化炉去。一定会很伤感，也有点酷。",
+            "(乔伊想拆下椅背却拆不下来，便坐下伸起脚踏，再站起来查看椅子。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Joey:对了，就是这样！如果你诚心诚意的想，奇迹就会发生！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            341,
+            355
+          ],
+          "source_excerpt": "Someone like an angel? ... chair angel ... Get your non-believer ass outta my chair!",
+          "added_lines": [
+            "Rachel:乔伊，我真的不……",
+            "(乔伊打断她。)",
+            "Joey:那你能解释这是怎么回事吗？",
+            "Rachel:解释不了。",
+            "Joey:就是奇迹！",
+            "Rachel:也许有人进来把她修好了！什么人！",
+            "Joey:比如天使？",
+            "Rachel:没错，乔伊，椅子天使进来治好了你的椅子。",
+            "(瑞秋坐到椅子上。)",
+            "Joey:把你这不信奇迹的屁股从我的椅子上挪开！",
+            "(瑞秋起身回房。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Jack Geller:这个也可能是她的！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            379,
+            383
+          ],
+          "source_excerpt": "And this! ... She could have won this!",
+          "added_lines": [
+            "Jack Geller:当然！",
+            "Ross:对吧？还有这个！",
+            "(罗斯拿起一座奖杯。)",
+            "Ross:这也可能是她赢的！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Jack Geller:这个也可能是她的！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            383,
+            389
+          ],
+          "source_excerpt": "Your make-up kit? I'd feel better.",
+          "added_lines": [
+            "(杰克拿起一只手套。)",
+            "Ross:当然！哦，这个怎么样？",
+            "Jack Geller:你的化妆盒？我倒是会觉得好些。",
+            "(罗斯气呼呼地把化妆盒扔进给莫妮卡准备的新箱子。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Rachel:喔！你知道吗？这个椅子在头枕两侧有扬声器！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            395,
+            401
+          ],
+          "source_excerpt": "How's the miracle chair? / Fine.",
+          "added_lines": [
+            "(瑞秋从新椅子的小冰箱里拿出啤酒；乔伊失望地拨弄旧椅子的扶手。)",
+            "Rachel:那张奇迹椅子怎么样？",
+            "Joey:很好。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Phoebe:好吧，我们别提办公室的同事了，一定有人值得你留恋。你的家人跟朋友呢？女朋友呢？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            413,
+            419
+          ],
+          "source_excerpt": "Everybody hates the people they work with! ... Hey Guy guy ... I'd like to take him with me!",
+          "added_lines": [
+            "Phoebe:厄尔，你没听我说！你不是孤独一人！谁都讨厌自己的同事！",
+            "(一个同事听见了，菲比比划着表示不是在说他。)",
+            "Guy:嘿，伙计！",
+            "Phoebe:等一下，刚才怎么了？听起来像是有人友善地跟你打招呼。",
+            "Earl:不是！那只是那个“嘿，伙计”男。他见谁都这么说！他最讨厌了！我真想带他一起走！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Phoebe:抱歉，那就是男朋友！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            427,
+            433
+          ],
+          "source_excerpt": "No, whatever! Anything! ... Yeah, he's gotta go.",
+          "added_lines": [
+            "Earl:呃，没有。",
+            "Phoebe:都可以，随便什么人！",
+            "The \"Hey Guy\" Guy:嘿，伙计！",
+            "Phoebe:没错，他得走。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:好吧，那么，哪些盒子是我的？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            447,
+            451
+          ],
+          "source_excerpt": "Easy-Bake treats ... ready in about three days ... great memory.",
+          "added_lines": [
+            "Monica:嘿，我用简易烤箱给大家烤了点东西，应该再过三天就好了。",
+            "(杰克和罗斯笑得很夸张。)",
+            "Jack Geller:这笑话真好！罗斯，你听到了吗？三天！",
+            "Ross:是啊！哈哈，这会成为一个美好的回忆。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:看这个。我不敢相信以前我穿得下这件T恤。这是你的。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            465,
+            467
+          ],
+          "source_excerpt": "Oh, an old glove? ... You took it every place you went.",
+          "added_lines": [
+            "(莫妮卡举起一只旧手套。)",
+            "Monica:哦，一只旧手套？",
+            "Jack Geller:哦，你可喜欢这只手套了！你去哪儿都带着它，没有它哪儿都不去。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:这些不是我的东西。罗斯，这些是你的箱子。我的箱子在哪里？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            473,
+            473
+          ],
+          "source_excerpt": "holding up a small cowboy hat ... This isn't mine.",
+          "added_lines": [
+            "(莫妮卡拿起一顶小牛仔帽。)",
+            "Monica:这不是我的。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:这些不是我的东西。罗斯，这些是你的箱子。我的箱子在哪里？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            475,
+            479
+          ],
+          "source_excerpt": "your boxes are ... / What? / Dad?",
+          "added_lines": [
+            "Ross:嗯，你的箱子在……",
+            "Monica:什么？",
+            "Ross:爸爸？"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:为什么罗斯的东西都没坏？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            487,
+            487
+          ],
+          "source_excerpt": "if you say the words medical marvel I'm going to Easy-Bake your head!",
+          "added_lines": [
+            "Monica:你要是再说“医学奇迹”这几个字，我就拿简易烤箱把你的头烤了！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Joey:这真的是太糟糕了！我的信念被击垮了。我很高兴这张新椅子能陪我走过这一切。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            551,
+            583
+          ],
+          "source_excerpt": "You can sit on my lap! ... We're the Cobras!",
+          "added_lines": [
+            "(瑞秋不吃他这一套。)",
+            "Rachel:想得美，但你拿不到这张椅子！现在是我的了！你可以坐我的大腿！",
+            "(乔伊想起身。)",
+            "Rachel:不，我收回刚才的话！",
+            "Chandler:我觉得椅子应该归我！",
+            "(瑞秋和乔伊都笑了。)",
+            "Joey:凭什么？",
+            "Chandler:因为你弄坏了一张椅子，你也弄坏了一张！这里只有我没弄坏椅子！",
+            "Rachel:不，这张椅子哪儿也不去。",
+            "Chandler:这算哪门子逻辑？！",
+            "Rachel:逻辑就是，我们有两个人，而且都能把椅子掰成两半！",
+            "Chandler:所以乔伊弄坏我的椅子，我什么也得不到！",
+            "(乔伊凑到瑞秋耳边确认了一下。)",
+            "Joey:没错！",
+            "Chandler:你们是什么？帮派吗？！",
+            "(两人又商量了一下。)",
+            "Joey:是啊！我们就是！",
+            "(瑞秋凑到乔伊耳边低语。)",
+            "Rachel:我们是眼镜蛇帮！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Earl:你们听到了吗？！我不需要你们这些家伙在乎我！因为宇宙在乎！整个宇宙！真的希望他们能在乎我一下。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            649,
+            651
+          ],
+          "source_excerpt": "Everyone looks up ... Oh no, it's you.",
+          "added_lines": [
+            "Phoebe:我想不是你的问题，是这个地方太古怪了。",
+            "(菲比向其他人喊。)",
+            "Phoebe:嘿！各位！",
+            "(大家全都抬起头。)",
+            "Phoebe:哦，不，是你的问题。",
+            "Earl:是啊。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Jack Geller:你怎么样，亲爱的？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            659,
+            659
+          ],
+          "source_excerpt": "Monica screams, throws the mouse down, and rubs her hands on Ross's sweater",
+          "added_lines": [
+            "(莫妮卡尖叫着扔下死老鼠，在罗斯的毛衣上擦手。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E13.txt",
+          "anchor": "Monica:嘿，你们都在。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E13.html",
+          "source_html_lines": [
+            691,
+            699
+          ],
+          "source_excerpt": "Rachel is sitting in Joey's lap on Francette, and they're both groaning.",
+          "added_lines": [
+            "(瑞秋坐在乔伊大腿上，两人一起享受新椅子的按摩。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        }
+      ],
+      "notes": [
+        "全页版本说明与原播段落结合中文所有现有场景核对；补回黑色及蓝色原播内容；保留原稿已有红色短版内容，不删除不改写。",
+        "普通问候、语气词的压缩不一律视作缺句；关键动作有选择补注，不宣称逐镜头完整。"
+      ],
+      "unresolved": [
+        "原中文个别译文与原播语义不完全相同（例如已存在红色短版医学奇迹对白），本轮不改原句。"
+      ]
+    },
+    "S07E14": {
+      "status": "limited",
+      "insertions": [
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Rachel:你们说说看，是不是只有我才反应过激？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            92,
+            96
+          ],
+          "source_excerpt": "I'm still 29 in Guam ... how old the Earth is? / Late thirties?",
+          "added_lines": [
+            "Rachel:你知道，我在关岛还是二十九岁呢。",
+            "Ross:嘿，三十岁没那么老！你知道地球有多大年纪了吗？",
+            "Rachel:三十多岁快四十了？"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Tag:别这样，来做点有趣的事吧，你想做什么？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            132,
+            132
+          ],
+          "source_excerpt": "mean, old Mrs. Kreeger ... She was thirty!",
+          "added_lines": [
+            "Rachel:三十岁！我是说，三十岁！莫妮卡，你还记得五年级时那个又凶又老的克里格太太吗？她当时就三十岁！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Phoebe:至少你们都不行。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            184,
+            186
+          ],
+          "source_excerpt": "Why? What'd you do? / Weren't you asked to leave, sonny?",
+          "added_lines": [
+            "Tag:为什么？你当时做了什么？",
+            "Monica:小朋友，不是已经让你离开了吗？"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Jack Geller:还不止呢，怀上罗斯那次，就有这件礼服作见证。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            200,
+            204
+          ],
+          "source_excerpt": "He quickly removes his hand and looks at it.",
+          "added_lines": [
+            "(钱德勒听了赶紧把搭在杰克肩上的手收回来，看看自己的手。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Chandler:大家蹲下！大家蹲下！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            208,
+            210
+          ],
+          "source_excerpt": "a ripping noise ... Mr. Geller: Crap.",
+          "added_lines": [
+            "(瑞秋关灯，大家蹲下时传来一声衣服撕裂的响声。)",
+            "Jack Geller:该死。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Chandler:好了吗？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            250,
+            250
+          ],
+          "source_excerpt": "Okay. I can do that.",
+          "added_lines": [
+            "Monica:好，我能做到。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Ross:好，前进，前进。停！好，退后，停！好，前停，停，停！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            266,
+            276
+          ],
+          "source_excerpt": "Is this yours? / It's mine! ... Dude, you so need this car.",
+          "added_lines": [
+            "Monica:罗斯，算了吧。那家伙把你的车堵得死死的。",
+            "(一个漂亮女人走过来，问乔伊。)",
+            "Woman:这是你的车吗？",
+            "Joey:其实……",
+            "Ross:不，不，是我的！是我的。",
+            "(女人走开。)",
+            "Joey:老兄，你真需要这辆车。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Phoebe:好，我们这么做。我打开这台体旅车车门，将它放在空档。你们把它向前推，罗斯就能开出来了。好？来吧。快闪！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            278,
+            280
+          ],
+          "source_excerpt": "the alarm goes off ... Ross ... puts the top up",
+          "added_lines": [
+            "(菲比用开锁工具打开旁边的车，警报随即响起，大家逃跑；罗斯被堵在自己的跑车里，只好把车顶升起躲藏。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Chandler:往下看，我们成功地穿过了客厅，你做的很好。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            338,
+            356
+          ],
+          "source_excerpt": "Monica has to ... party dress ... safety pins ... Phil ... catches her",
+          "added_lines": [
+            "Chandler:庆祝开始之前，莫妮卡得先换上派对礼服。",
+            "Monica:太好了！",
+            "Chandler:看吧？走吧。",
+            "(钱德勒扶着莫妮卡往卧室走，经过父母身边。)",
+            "Jack Geller:生日快乐，宝贝！抱一抱！",
+            "Judy Geller:杰克，别站起来！别针快撑开了。",
+            "Monica:保罗！",
+            "Chandler:是菲尔。",
+            "Monica:菲尔！",
+            "Chandler:床上已经放好礼服了。",
+            "(莫妮卡在台阶上绊了一下，钱德勒扶住她。)"
+          ],
+          "judgment": "紫色明确属于原 NBC 独有。原句混有短版橙色措辞，原样保留；新增紫色前段有明确“换衣服”场景锚点。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Chandler:她不想让她的父母知道她醉了。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            366,
+            370
+          ],
+          "source_excerpt": "Monica ... Giggles ... Go change!",
+          "added_lines": [
+            "(莫妮卡傻笑，钱德勒叫她去换衣服。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Rachel:怎么了？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            380,
+            380
+          ],
+          "source_excerpt": "Phil's really pissed!",
+          "added_lines": [
+            "Rachel:菲尔很生气！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Rachel:照顾醉裸女，不是一向都由乔伊出马？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            390,
+            390
+          ],
+          "source_excerpt": "Starts for Monica's room, but Chandler stops him.",
+          "added_lines": [
+            "Joey:没错。",
+            "(乔伊往莫妮卡卧室走，钱德勒把他拦住。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Rachel:你知道吗？为没有先生和小孩就不高兴，是很蠢的。我只需要一个计划。我想生三个小孩。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            430,
+            434
+          ],
+          "source_excerpt": "How's the birthday girl feeling? ... bumming out the rest of the kids.",
+          "added_lines": [
+            "Ross:嘿！看看谁回来了！是寿星！寿星现在感觉怎么样？",
+            "Rachel:我感觉很好，不过其他小朋友都快被你弄烦了。",
+            "Ross:什么？",
+            "(罗斯看看其他人，坐回去。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Joey:该我了！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            460,
+            460
+          ],
+          "source_excerpt": "Tag ... on the scooter ... with Joey following breathlessly behind.",
+          "added_lines": [
+            "(泰格骑着滑板车从走廊门前经过，朝大家竖起大拇指，乔伊气喘吁吁地追着他。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Joey:嘿！那是蟹饼吗？我不是告诉你，蟹饼好了直接端给我？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            472,
+            472
+          ],
+          "source_excerpt": "Can we get some of that over here please?",
+          "added_lines": [
+            "Chandler:哦，真好！就放那儿！能给这边端些过来吗？",
+            "(服务生走过来。)",
+            "Chandler:好，就这样。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Monica:知道我真想说什么吗？我醉了！爸妈，我不再是乖乖女！而且！猜猜怎么着，我以前也喝醉过。我抽过烟。你知道！你知道！没关系！没关系！因为我今天满30岁了。我想做什么就做什么！因为我是成年人了。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            508,
+            508
+          ],
+          "source_excerpt": "Mrs. Geller pulls the camera down ... Ross ... filming ... Falls over sideways",
+          "added_lines": [
+            "(莫妮卡讲话时，朱迪把摄像机按下来；罗斯从爸爸手里抢过摄像机继续拍摄。莫妮卡最后向旁边倒下，罗斯也把这一幕拍了下来。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Phoebe:好，快，替我脱掉！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            516,
+            516
+          ],
+          "source_excerpt": "Ross pans the camera over to Phoebe.",
+          "added_lines": [
+            "(罗斯把镜头转向菲比。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Tag:什么事？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            600,
+            600
+          ],
+          "source_excerpt": "They sit on the step.",
+          "added_lines": [
+            "(瑞秋和泰格坐在台阶上谈话。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Rachel:说得很好。我们那么开心，有吻为证。不过我已经过了开心就好的阶段了。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            606,
+            606
+          ],
+          "source_excerpt": "Kisses her.",
+          "added_lines": [
+            "(泰格吻了瑞秋。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Joey:我厌倦这玩意儿了。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            632,
+            632
+          ],
+          "source_excerpt": "entering, limping, and holding his arm",
+          "added_lines": [
+            "(乔伊一瘸一拐地进来，扶着自己的胳膊，痛苦地坐下。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "anchor": "Ross:你要买车吗？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            656,
+            658
+          ],
+          "source_excerpt": "Joey: No. / Ross shuts the car off and they get out.",
+          "added_lines": [
+            "Joey:不。",
+            "(罗斯关掉发动机，两人下车。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            154,
+            158
+          ],
+          "source_excerpt": "I know it's really shallow, but a part of me wants him again. / get in line",
+          "anchor": "Monica:真不敢相信你居然买了。帅哥，载我一程吧？",
+          "position": "within_original_line",
+          "added_lines": [
+            "Rachel:真的！罗斯，你当时到底在想什么？",
+            "(瑞秋悄悄对菲比说。)",
+            "Rachel:我知道这很肤浅，但我又有一点想跟他在一起了。",
+            "Phoebe:那就排队吧，小姐。"
+          ],
+          "split_original_line": "Monica:真不敢相信你居然买了。帅哥，载我一程吧？",
+          "split_result_original_segments": [
+            "Monica:真不敢相信你居然买了。",
+            "Monica:帅哥，载我一程吧？"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            508,
+            508
+          ],
+          "source_excerpt": "a box of Ding-Dongs hidden in my underwear drawer",
+          "anchor": "Monica:知道我真想说什么吗？我醉了！爸妈，我不再是乖乖女！而且！猜猜怎么着，我以前也喝醉过。我抽过烟。你知道！你知道！没关系！没关系！因为我今天满30岁了。我想做什么就做什么！因为我是成年人了。",
+          "position": "within_original_line",
+          "added_lines": [
+            "Monica:我还在内裤抽屉里藏过一盒巧克力点心！"
+          ],
+          "split_original_line": "Monica:知道我真想说什么吗？我醉了！爸妈，我不再是乖乖女！而且！猜猜怎么着，我以前也喝醉过。我抽过烟。你知道！你知道！没关系！没关系！因为我今天满30岁了。我想做什么就做什么！因为我是成年人了。",
+          "split_result_original_segments": [
+            "Monica:知道我真想说什么吗？我醉了！爸妈，我不再是乖乖女！而且！猜猜怎么着，我以前也喝醉过。我抽过烟。",
+            "Monica:你知道！你知道！没关系！没关系！因为我今天满30岁了。我想做什么就做什么！因为我是成年人了。"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E14.txt",
+          "source_html": "references/en/S07/FriendsS07E14.html",
+          "source_html_lines": [
+            440,
+            446
+          ],
+          "source_excerpt": "I wanna marry this plan! / I'd marry the hippity-hop.",
+          "anchor": "Rachel:就是说，我应该在35岁以前生第一个。这样我还有五年。如果我35时要生孩子，34岁前一定要怀孕。普拉达还四年时间帮我准备孕妇装！但是，我希望在怀孕时至少已结婚一年。",
+          "position": "within_original_line",
+          "added_lines": [
+            "(瑞秋一边计算生孩子的时间，一边对自己的计划越来越满意。)",
+            "Rachel:我太爱这个计划了！我要嫁给这个计划！",
+            "Phoebe:如果能这样，我就要嫁给那个弹力球。"
+          ],
+          "split_original_line": "Rachel:就是说，我应该在35岁以前生第一个。这样我还有五年。如果我35时要生孩子，34岁前一定要怀孕。普拉达还四年时间帮我准备孕妇装！但是，我希望在怀孕时至少已结婚一年。",
+          "split_result_original_segments": [
+            "Rachel:就是说，我应该在35岁以前生第一个。这样我还有五年。",
+            "Rachel:如果我35时要生孩子，34岁前一定要怀孕。普拉达还四年时间帮我准备孕妇装！但是，我希望在怀孕时至少已结婚一年。"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        }
+      ],
+      "notes": [
+        "读取全中文稿，逐场景核对原播主要对白与动作；蓝/紫/棕按该页 legend 属于原 NBC；保留中文已有红/橙短版内容。",
+        "合句内原播缺片后经主代理明确授权按确切标点拆分，旧句措辞和标签不改。"
+      ],
+      "unresolved": [
+        "部分普通问候/重复语气压缩保留；不等同逐句穷尽核验。"
+      ]
+    },
+    "S07E15": {
+      "status": "limited",
+      "insertions": [
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Ross:有什么问题吗？你还好吗？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            38,
+            44
+          ],
+          "source_excerpt": "Rachel: starting to cry ... Monica said wedding.",
+          "added_lines": [
+            "(瑞秋听到“婚礼”就开始掉眼泪。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Ross:好的，我猜我也能做。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            48,
+            56
+          ],
+          "source_excerpt": "I would love to read a poem ... Ross will be doing the reading.",
+          "added_lines": [
+            "Rachel:哦！我很想读一首诗。",
+            "Chandler:你觉得自己能把一首诗读完吗？",
+            "(瑞秋哭着说。)",
+            "Rachel:就读一首短的。",
+            "Monica:好，那还是由罗斯来读。",
+            "Rachel:哦……"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Chandler:不管你是指哪个，我希望会有眨眼睛。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            66,
+            66
+          ],
+          "source_excerpt": "Ross tries to wink, but blinks both eyes.",
+          "added_lines": [
+            "(罗斯想眨一只眼，却把两只眼睛都闭上了。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Rachel:她真的非常擅长泼别人一脸饮料。我都没见她喝完过任何一杯饮料。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            108,
+            110
+          ],
+          "source_excerpt": "She's my favorite character on DOOL.",
+          "added_lines": [
+            "Monica:她是我最喜欢的《我们的日子》角色。",
+            "Joey:不错。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Joey:她一直都在这部剧集中。很难接她的班呀。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            122,
+            122
+          ],
+          "source_excerpt": "Cecilia Monroe ... what a great actress.",
+          "added_lines": [
+            "Rachel:塞西莉亚·梦露，真是一位了不起的演员。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Phoebe:瑞秋，那边那个男的，直还是弯？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            136,
+            142
+          ],
+          "source_excerpt": "he's kissing that other guy ... not that guy ... attractive man",
+          "added_lines": [
+            "Rachel:我觉得是弯的。",
+            "Phoebe:为什么？",
+            "Rachel:主要是因为他在吻另一个男人。",
+            "Phoebe:不，不是那个！是那边那个。",
+            "(菲比指向后方桌边的另一个帅哥。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Phoebe:波霸小姐会帮我们搞清楚的。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            146,
+            146
+          ],
+          "source_excerpt": "A woman ... checks her out.",
+          "added_lines": [
+            "(一个胸部丰满的女人进门，从那男人身边经过，他打量了她一番。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Jessica Lockhart:哦，我的宝贝。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            196,
+            198
+          ],
+          "source_excerpt": "That was an accident! And so were you ... Jessica slaps her.",
+          "added_lines": [
+            "Jessica Lockhart:那是意外！你也一样。",
+            "Dina:至少我不是杀人犯！",
+            "(杰西卡扇了迪娜一巴掌。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Jessica Lockhart:哦，我的宝贝。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            200,
+            200
+          ],
+          "source_excerpt": "moves Dina's head to her other shoulder ... only one in the picture.",
+          "added_lines": [
+            "(杰西卡拥抱迪娜，却把她的头移到另一侧肩膀，好让镜头里只拍到自己。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:你该不会是哪个快死的影迷吧？",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            216,
+            218
+          ],
+          "source_excerpt": "meet and hug a fan who's dying ... until later.",
+          "added_lines": [
+            "Joey:什么？",
+            "Cecilia:我今天要见一位快去世的影迷，和他拥抱，不过应该是晚些时候。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Rachel:好吧，我有个主意。为什么我们不看看他手机的快捷键有什么号码，谁和他有更多共同点的得到手机。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            248,
+            248
+          ],
+          "source_excerpt": "You cannot get the phone that way; that's not fair!",
+          "added_lines": [
+            "Rachel:不，菲比，你不能这么抢手机，这不公平！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Phoebe:好吧。好吧。第一个快捷键的名字是\"妈妈\"。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            250,
+            254
+          ],
+          "source_excerpt": "whose ever name is closer ... phone / fighting over a ratchet",
+          "added_lines": [
+            "Phoebe:或者看谁的名字更接近 phone，手机就归谁。",
+            "Rachel:我不同意。",
+            "(菲比把手机交给瑞秋。)",
+            "Phoebe:好吧，不过我们要是争一把 ratchet 棘轮扳手，你准会换个说法。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Rachel:我赢了！他的快捷联系人里有巴尼百货。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            264,
+            270
+          ],
+          "source_excerpt": "Joe ... Carlos ... Peter ... Peter Luger ... Meat eater ... one for you.",
+          "added_lines": [
+            "Rachel:这些名字还说明不了什么。乔……卡洛斯……彼得……哦，彼得·卢格！那是一家牛排馆！",
+            "Phoebe:好，吃肉的，这给你算一分。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Monica:不，不可能。那不可能是罗斯。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            294,
+            296
+          ],
+          "source_excerpt": "Monica: No! / Chandler: Yes!!",
+          "added_lines": [
+            "Monica:不会吧！",
+            "Chandler:就是！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:你是对的。他们要让我离开这部戏。他们不知道具体的时间，但是很快就会到来。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            388,
+            396
+          ],
+          "source_excerpt": "I'm 16. / See you in 2003.",
+          "added_lines": [
+            "(乔伊走到餐饮桌旁的迪娜身边。)",
+            "Joey:你喜欢玉米片？我比较喜欢……",
+            "Dina:我十六岁。",
+            "Joey:那二〇〇三年见。",
+            "(迪娜走开，塞西莉亚走来。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:乔伊，你的安慰太贴心了。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            408,
+            412
+          ],
+          "source_excerpt": "throws her drink on a passing writer ... It wasn't my decision!",
+          "added_lines": [
+            "Cecilia:不好意思。",
+            "(塞西莉亚把饮料泼到经过的编剧身上。)",
+            "The Writer:又不是我的决定！",
+            "Cecilia:我在这儿和人说话呢！你刚才说到哪里了？"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:杰西卡不是英国腔啊。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            424,
+            426
+          ],
+          "source_excerpt": "Is that supposed to be me? / Yeah.",
+          "added_lines": [
+            "Cecilia:这是在学我吗？",
+            "Joey:是啊。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Rachel:你刚刚说了。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            380,
+            386
+          ],
+          "source_excerpt": "think about my mom and her suicide ... first time today!",
+          "added_lines": [
+            "Phoebe:哦，好吧，我本来希望能一个人静静，想想我妈妈和她自杀的事。",
+            "Rachel:哦，菲比！",
+            "Phoebe:怎么了？今天这才第一次！",
+            "(瑞秋叹气离开。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:他也没有对这个房间生气。再试一次，他掌握！掌握着房里的一切事物！这是他的，他掌握这个房间！他掌握！好吧，它这有点奇怪，但已经好多了。我一定会想念这个女人。我不知道我该怎么办。这是我生命中的20年呀。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            476,
+            480
+          ],
+          "source_excerpt": "He's not finding it out for the first time ... glaring at everything",
+          "added_lines": [
+            "(乔伊跑出门，再进来时露出刚发现房间很棒的表情。)",
+            "Cecilia:不是，他早就知道自己掌握整个房间！不是第一次发现！再试一次。",
+            "Joey:好，好。",
+            "(乔伊出去，再进来时瞪着房间里的一切。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:或许我几年前，在有传言的时候就该离开，那时候很多人要我演戏，但我在这里过得太舒服！我拒绝了一些大好机会！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            486,
+            488
+          ],
+          "source_excerpt": "An actor of a certain age ... Angela Lansb ... Angelina Jolie!",
+          "added_lines": [
+            "Cecilia:我有天赋，可是到了这个年纪，演员的机会就没那么容易找了。",
+            "Joey:谁说的！你看安吉拉·兰斯……安吉丽娜·朱莉！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Cecilia:太棒了。真的很不错。但我想你的手可能，应该稍微放下来点，它们应该……",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            514,
+            514
+          ],
+          "source_excerpt": "grabs the back of his neck ... fall onto the couch.",
+          "added_lines": [
+            "(塞西莉亚抱住乔伊的后颈，热情地吻他，两人一起倒在沙发上。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Chandler:当我们整个家族被维京海盗赶出苏格兰之后。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            444,
+            444
+          ],
+          "source_excerpt": "lots of bad memories.",
+          "added_lines": [
+            "Chandler:总之，都是不愉快的回忆。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Monica:你不能在婚礼上吹风笛！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            448,
+            450
+          ],
+          "source_excerpt": "half-Swedish ... Sitting down and being quiet.",
+          "added_lines": [
+            "Monica:不，他们还很生气呢！不过钱德勒也有一半瑞典血统。你知道瑞典人最擅长什么吗？坐下，保持安静。",
+            "Ross:是啊，不过苏格兰的历史要更……"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Ross:给我个机会在你们面前表演一下，再由你们决定。我不会告诉你们我要演奏什么。当演奏完之后，我们肯定会小小庆祝一番。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            466,
+            470
+          ],
+          "source_excerpt": "you haven't even heard me play ... you've heard me practice",
+          "added_lines": [
+            "Ross:这不公平！你们都没听过我吹！",
+            "Chandler:我们听过。",
+            "Ross:不，你们听的是我练习。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Phoebe:瑞秋，听我说如果你能把他让给我，我真的欠你一个大人情。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            574,
+            576
+          ],
+          "source_excerpt": "they just don't make 'em like that anymore / you just have to wait",
+          "added_lines": [
+            "Phoebe:唉，现在都找不到这样的男人了！",
+            "Rachel:不，还是找得到，就是得等他们变老。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Rachel:好。好吧。我把他让给你。但你欠我一个大人情！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            582,
+            582
+          ],
+          "source_excerpt": "You're such a great friend!",
+          "added_lines": [
+            "Phoebe:是啊！你真是个好朋友！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Joey:好，走吧。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            628,
+            628
+          ],
+          "source_excerpt": "You seem really, really nice.",
+          "added_lines": [
+            "Rachel:你看起来人真的很好。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Joey:好，走吧。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            632,
+            634
+          ],
+          "source_excerpt": "not fake at all ... pulls them out",
+          "added_lines": [
+            "Rachel:一点也不像大多数名人那样虚伪。",
+            "(乔伊开始把她们往门外拉。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Monica:天呀，你是这么棒！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            642,
+            644
+          ],
+          "source_excerpt": "walks away disappointed / You are so beautiful.",
+          "added_lines": [
+            "(莫妮卡失望地走开。)",
+            "Rachel:你真漂亮。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Ross:请记住我还在学习当中。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            674,
+            680
+          ],
+          "source_excerpt": "imagine me in a kilt ... start telling secrets?",
+          "added_lines": [
+            "Ross:记住，要想象我穿着苏格兰短裙。",
+            "(瑞秋咯咯地笑。)",
+            "Rachel:我能想象你穿着格子短裙和及膝袜。",
+            "Ross:你想开始揭秘密吗？",
+            "Rachel:不。"
+          ],
+          "judgment": "原 NBC 风笛片尾被短版移至此处。保留中文原场景次序，只在现有演奏段落内部补对白。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Ross:你们都知道这首歌，一起唱吧。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            688,
+            692
+          ],
+          "source_excerpt": "Ross starts playing ... Phoebe starts to screech ... bagpipes",
+          "added_lines": [
+            "(罗斯吹奏风笛，菲比也跟着发出风笛般的尖叫声，其他人忍不住笑起来。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "anchor": "Joey:祝你好运。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            744,
+            744
+          ],
+          "source_excerpt": "made a very difficult time ... a little less painful.",
+          "added_lines": [
+            "Cecilia:乔伊，真的谢谢你。是你让这个艰难的时刻没那么痛苦了。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            92,
+            98
+          ],
+          "source_excerpt": "Yes, it's a highly controversial procedure.",
+          "anchor": "Ross:什么？大脑移植？太荒谬了。你三个月里没有性生活才荒谬呢。",
+          "position": "within_original_line",
+          "added_lines": [
+            "Joey:是啊，这是个争议很大的手术。"
+          ],
+          "split_original_line": "Ross:什么？大脑移植？太荒谬了。你三个月里没有性生活才荒谬呢。",
+          "split_result_original_segments": [
+            "Ross:什么？大脑移植？",
+            "Ross:太荒谬了。你三个月里没有性生活才荒谬呢。"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E15.txt",
+          "source_html": "references/en/S07/FriendsS07E15.html",
+          "source_html_lines": [
+            366,
+            366
+          ],
+          "source_excerpt": "I wonder how I should be? ... Hello? ... Hi! ... knocks the phone",
+          "anchor": "Rachel:哦，天呀！我想是他。我的数字童话就要开始了。你能不能不要老是这样做？！",
+          "position": "within_original_line",
+          "added_lines": [
+            "Rachel:我该怎么接？",
+            "(瑞秋先用娇媚的声音，再换活泼的声音练习。)",
+            "Rachel:喂？嗨！是瑞秋……",
+            "(菲比把手机从瑞秋手里敲出去，接住后自己接听。)"
+          ],
+          "split_original_line": "Rachel:哦，天呀！我想是他。我的数字童话就要开始了。你能不能不要老是这样做？！",
+          "split_result_original_segments": [
+            "Rachel:哦，天呀！我想是他。我的数字童话就要开始了。",
+            "Rachel:你能不能不要老是这样做？！"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        }
+      ],
+      "notes": [
+        "中文各场景与原播编号场景按剧情语义对应，不搬动中文既有场景次序；补蓝/紫/棕，排除绿/红。",
+        "主要原播缺失对白与关键动作已核查。",
+        "授权后按原标点拆大脑移植合句，新增争议手术句；旧错标Ross不改。"
+      ],
+      "unresolved": [
+        "原中文Phoebe一行合并递手机与下一角色查“妈妈”，有既存错标；新增只恢复缺失问答，不改标签。",
+        "原播/短版场景次序不同，现有中文顺序保留，非复原原NBC完整剪辑次序。"
+      ]
+    },
+    "S07E16": {
+      "status": "limited",
+      "insertions": [
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Rachel:本。我是瑞秋。不过随便啦。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            58,
+            62
+          ],
+          "source_excerpt": "Don't talk to me now! / just like his daddy.",
+          "added_lines": [
+            "Ross:里面一切还好吗？",
+            "Ben:现在别跟我说话！",
+            "Rachel:哦，跟他爸爸一模一样。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Ross:我又不是问你。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            94,
+            116
+          ],
+          "source_excerpt": "virgin margarita ... What's a virgin? / Water it is.",
+          "added_lines": [
+            "Ben:我会没事的。",
+            "Ross:好，回头见，宝贝。一个小时后回来。",
+            "(罗斯拥抱亲吻本，离开。)",
+            "Ben:爸爸再见。",
+            "Rachel:再见。",
+            "(两人沉默了一会儿。)",
+            "Rachel:这样很好玩，对吧？",
+            "Ben:不太好玩。",
+            "Rachel:想喝点什么吗？",
+            "Ben:好。",
+            "Rachel:健怡可乐怎么样？",
+            "Ben:我不能喝汽水。",
+            "Rachel:这里差不多只有汽水。哦，你喝过 virgin 无酒精玛格丽塔吗？",
+            "(瑞秋拿起玛格丽塔调酒液。)",
+            "Ben:virgin 是什么？",
+            "Rachel:那就喝水吧。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:我报名！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            154,
+            156
+          ],
+          "source_excerpt": "Are you serious? / totally legal!",
+          "added_lines": [
+            "Monica:你说真的？",
+            "Phoebe:真的！我有个朋友就这样做过，完全合法！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Ben:我爸爸什么时候回来？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            186,
+            186
+          ],
+          "source_excerpt": "tell you that entire story over a pitcher of real margaritas",
+          "added_lines": [
+            "Rachel:好吧，你知道吗，本？等你长大很多，我会跟你喝一壶真正的玛格丽塔，把整个故事讲给你听。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Monica:还挺带劲的。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            235,
+            235
+          ],
+          "source_excerpt": "we haven't found anybody else.",
+          "added_lines": [
+            "Chandler:反正我们也没找到别的人。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Chandler:是的。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            247,
+            271
+          ],
+          "source_excerpt": "Phoebe ... headache ... Hexadrin ... Monica ... rub your feet",
+          "added_lines": [
+            "Joey:真好。",
+            "(菲比慢慢走进来。)",
+            "Monica:嘿，菲比，怎么样？",
+            "Phoebe:我头痛，痛得厉害！",
+            "Monica:哦，真难受。要给你拿些什么吗？",
+            "Phoebe:天啊，你别再说个不停了！",
+            "Monica:来，吃两片这个。",
+            "(莫妮卡拿来药片。)",
+            "Phoebe:这是什么？",
+            "Monica:Hexadrin。",
+            "Phoebe:我不相信西药。只要按这里的穴位……",
+            "(菲比按住右手虎口。)",
+            "Phoebe:手就开始痛了，可头还是痛。所以，谢谢。",
+            "(菲比吃下药片。)",
+            "Monica:等药起效前，我扶你坐沙发，头下面垫些软枕头，打开电视，你想看什么都行。我再泡茶，给你揉脚。",
+            "Phoebe:哦。",
+            "Joey:哦！我的头！哦！",
+            "(乔伊躺回椅子，把脚伸起来，也想让莫妮卡替他揉。)"
+          ],
+          "judgment": "该页蓝色明确为原 NBC 超长版；中文整条菲比头痛副线未保留，首段在乔伊获得主婚许可之后。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:向乔伊·崔比安尼牧师问好吧！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            305,
+            329
+          ],
+          "source_excerpt": "headache ... gone ... side effects ... extra strength death capsules!",
+          "added_lines": [
+            "Phoebe:太神奇了！我一点也不头痛了！那药叫什么？",
+            "Monica:Hexadrin。",
+            "(莫妮卡从包里拿出药盒，菲比亲了药盒一下，又抽出说明书。)",
+            "Phoebe:哦，我爱你，Hexadrin！看，还有个故事！",
+            "Monica:不，那是副作用之类的说明。",
+            "Phoebe:什么？",
+            "Monica:可能出现的副作用。",
+            "Phoebe:天啊！头晕、紧张、嗜睡、面部肿胀、恶心、头痛……头痛！呕吐、胃出血、肝损伤！你给我这些死亡胶囊时可没说过！哦，是加强型死亡胶囊！",
+            "Monica:菲比，放轻松。这些都不会发生，写上去只是法律上的需要。",
+            "Phoebe:为什么？",
+            "Monica:万一发生了呢。",
+            "(乔伊进来。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:我准备好了婚典上说的话，想听吗？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            341,
+            345
+          ],
+          "source_excerpt": "liver damage ... left side ... right side ... disoriented.",
+          "added_lines": [
+            "Phoebe:我的肝受损了。哦！",
+            "(菲比捂着身体左侧。)",
+            "Monica:菲比，肝在这里。",
+            "(莫妮卡指向身体右侧。)",
+            "Phoebe:那我一定是方向感失常了。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:好，我又写了几句词。要听吗？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            417,
+            421
+          ],
+          "source_excerpt": "my face is swelling ... baby ... never have one.",
+          "added_lines": [
+            "Phoebe:我觉得脸在肿。我的脸肿了吗？",
+            "Monica:你的脸好好的！这些事都不会发生，别像个小孩一样！",
+            "Phoebe:你居然叫我小孩，有意思，我现在可能再也生不出小孩了。",
+            "(菲比举起药品警告说明。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:噢。好的要不说说伦敦吧！在那儿你们俩儿搞上了！只是，只是我不会说搞上了。我会说，\"他们展开的美好旅程…\"",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            435,
+            447
+          ],
+          "source_excerpt": "Atlantic City ... steak ... romantic stories.",
+          "added_lines": [
+            "Joey:比如你和我去大西洋城，我逗得你把整块牛排都吐出来那次？",
+            "Chandler:不是我们俩，是我和莫妮卡。",
+            "Phoebe:你喂过他会让眼睛流血的毒胶囊吗？",
+            "Monica:说明里可没写这个！",
+            "Phoebe:哦，突然又有人很了解副作用了！",
+            "Chandler:乔伊，我们要你讲浪漫、温馨的故事。"
+          ],
+          "judgment": "439行角色标签写Monica却标“To Monica”，存在内部冲突，未猜说话人，该一句单独记录待核实；其余明确原播对白补出。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Monica:睡衣小可爱！你还真像在伦敦住家呢，哈？",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            483,
+            483
+          ],
+          "source_excerpt": "getting ready for bed ... One push-up ... knock",
+          "added_lines": [
+            "(伦敦回忆中，钱德勒睡前只做了一个俯卧撑，刚钻进被子就听见敲门。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:好吧，给你，老兄。好好快活吧。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            583,
+            585
+          ],
+          "source_excerpt": "come downstairs ... nice girls ... I'm fine.",
+          "added_lines": [
+            "Joey:干嘛不跟我下楼？下面有些很漂亮的女孩。",
+            "Chandler:不，我挺好的。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:能想象要是当时没留一个套子给你？你们两个也许永远也不会在一起。能想象假如当时，我像想的那样，叫个妓女去你房间？！这就像是全靠运气呢！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            591,
+            593
+          ],
+          "source_excerpt": "other thing ... did nothing for me / change the topic",
+          "added_lines": [
+            "Joey:我还以为你当时另有所图，不过我试了，对我一点用都没有。",
+            "Monica:我们能换个话题吗？这对我也一点好处都没有。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Monica:不对！你知道，我现在有多庆幸那晚乔伊不在吗？！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            621,
+            625
+          ],
+          "source_excerpt": "It is you that I fell in love with! ... runner up.",
+          "added_lines": [
+            "Monica:重点是，那晚在那儿的是你！我要嫁的是你！我爱上的也是你！",
+            "Joey:而这份爱是建立在拥有、付出和接受……",
+            "(莫妮卡瞪了乔伊一眼，他闭嘴了。)",
+            "Chandler:我不敢相信。我人生最浪漫的一晚，居然只是第二选择。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Rachel:好吧，我很抱歉没有告诉你。",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            681,
+            710
+          ],
+          "source_excerpt": "catcher's mitt ... I will be revenged! / I will be!",
+          "added_lines": [
+            "Rachel:你当时已经很生气了！",
+            "Ross:当然生气！我告诉过你我讨厌这些！一点也不好笑！",
+            "(卡罗尔从厨房出来。)",
+            "Carol:嘿，罗斯！什么不好笑？",
+            "Ross:恶作剧。",
+            "Carol:哦，我觉得很好笑。",
+            "Ross:你脸上也有一道线。",
+            "Carol:什么？",
+            "(卡罗尔去检查自己的脸。)",
+            "Rachel:对你来说可能不好笑……",
+            "Carol:我的天啊！",
+            "Rachel:对卡罗尔也不好笑！但孩子们觉得有趣，又伤害谁了？",
+            "Ross:伤害的是体育课上衣服全被偷走，只能拿着捕手手套遮身子、走进校长办公室的孩子！",
+            "Rachel:那个人就是你？！我们初中就听过你的事！你真挥着拳头大喊“我会报仇的”吗？",
+            "Ross:我会的！"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Ross:你们两个亲密愉快、我很高兴，但…",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            712,
+            714
+          ],
+          "source_excerpt": "Boring and Uncomfortable Aunt Rachel ... not what I want.",
+          "added_lines": [
+            "Rachel:但你要这样，我也可以变回那个无聊、让人不自在的瑞秋阿姨！",
+            "Ross:不，我不是这个意思。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Joey:别这样，明明什么都没发生！我只是不想惹你生气。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            730,
+            732
+          ],
+          "source_excerpt": "if you don't want me to do it, I accept that.",
+          "added_lines": [
+            "Chandler:乔伊，我知道你想主持婚礼……",
+            "Joey:不，你不想让我主持，我接受。那不重要。"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Rachel:哦，好的。本，我不能这么做。",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            768,
+            770
+          ],
+          "source_excerpt": "Ross has a sign on his back that reads 'Poop.'",
+          "added_lines": [
+            "(罗斯转身要走，背上贴着一张写着“便便”的纸条。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Ross:本，过来！我没跟你开玩笑！",
+          "position": "before",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            782,
+            788
+          ],
+          "source_excerpt": "Ben ... runs upstairs with Ross in pursuit.",
+          "added_lines": [
+            "(本冲出门往楼上跑，罗斯追在后面。)"
+          ],
+          "judgment": "英文原播内容缺失；前后中文语义锚点明确。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "anchor": "Rachel:你不能再…我的天啊！",
+          "position": "after",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            792,
+            844
+          ],
+          "source_excerpt": "dummy ... Phoebe ... six-hour pill ... temporary euphoria",
+          "added_lines": [
+            "(瑞秋走到走廊，看见“罗斯”尖叫着从楼梯上滚下来，落在自己面前；她冲过去才发现这是个假人，自己被两人捉弄了。)",
+            "…………………………",
+            "(中央公园咖啡馆，乔伊端来咖啡，菲比仍在读药品说明)",
+            "Joey:给你。",
+            "Phoebe:天啊！这药的作用时间只有六小时！",
+            "(菲比看看手表。)",
+            "Phoebe:好了，我脱离危险了！真是松了一口气！",
+            "Joey:替你高兴！",
+            "Phoebe:像放下了一副沉重的担子！你看，没脱发、没皮疹、没荨麻疹，我太高兴了！也没呼吸困难、没短暂的欣快感……哦。"
+          ],
+          "judgment": "补末尾假人恶作剧结果和原 NBC 蓝色片尾头痛药副线；保留中文既有末两场顺序，不将短版排列改回原播排列。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            190,
+            194
+          ],
+          "source_excerpt": "no brothers or sisters ... don't have to share stuff ... sharing is good",
+          "anchor": "Rachel:52分钟后。你没有兄弟姐妹是吧？！我有两个姐妹，我们会互相捉弄。",
+          "position": "within_original_line",
+          "added_lines": [
+            "Rachel:那一定很好，不用分享东西。",
+            "Ben:分享是好事。",
+            "Rachel:哦，你是这么想的。"
+          ],
+          "split_original_line": "Rachel:52分钟后。你没有兄弟姐妹是吧？！我有两个姐妹，我们会互相捉弄。",
+          "split_result_original_segments": [
+            "Rachel:52分钟后。你没有兄弟姐妹是吧？！",
+            "Rachel:我有两个姐妹，我们会互相捉弄。"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        },
+        {
+          "chinese_file": "S07/FriendsS07E16.txt",
+          "source_html": "references/en/S07/FriendsS07E16.html",
+          "source_html_lines": [
+            736,
+            736
+          ],
+          "source_excerpt": "You're so lucky! ... you guys are perfect for each other",
+          "anchor": "Joey:钱德勒，她想和你共度一生。我们看着你们，相知相爱在一起，就是好般配，你知道吗？我们知道你们一定会相伴到老。",
+          "position": "within_original_line",
+          "added_lines": [
+            "Joey:你真幸运！看看我那晚不在，错过了什么！不过我和她肯定不可能像你们这样，你们才是天生一对。"
+          ],
+          "split_original_line": "Joey:钱德勒，她想和你共度一生。我们看着你们，相知相爱在一起，就是好般配，你知道吗？我们知道你们一定会相伴到老。",
+          "split_result_original_segments": [
+            "Joey:钱德勒，她想和你共度一生。",
+            "Joey:我们看着你们，相知相爱在一起，就是好般配，你知道吗？我们知道你们一定会相伴到老。"
+          ],
+          "judgment": "主代理明确授权必要拆分合句；旧措辞标点顺序完全保留，沿用原角色前缀，不校改原错标。"
+        }
+      ],
+      "notes": [
+        "全中文剧情场景与英文原播段落对照；补回头痛药副线和其他蓝/紫原播内容，保留既有短版对白与次序。",
+        "授权后按确切标点拆分Sharing和Joey支持主婚合句，缺句恢复源位置。"
+      ],
+      "unresolved": [
+        "英文439角色写Monica却标“To Monica”，逻辑像其他人物发言但来源标签冲突，未补该句，不猜说话人。",
+        "原播场景A/B顺序与短版不同；本轮不改现有中文原行顺序。"
+      ]
+    }
+  }
+}

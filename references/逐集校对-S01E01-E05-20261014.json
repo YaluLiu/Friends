@@ -1,0 +1,1589 @@
+{
+  "date": "2026-10-14",
+  "source_scope": "本地references/en；页首说明+HTML颜色；未音视频核实",
+  "episodes": [
+    {
+      "chinese_file": "S01/FriendsS01E01.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E01.html"
+      ],
+      "status": "全文逐段对照完成（文本转录稿，未核验音视频）",
+      "edits": [
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            26
+          ],
+          "source_anchor": "They all stare, bemused",
+          "operation": "before",
+          "anchor": "Monica:好吧，大家淡定。淡定。这甚至都不算是约会。完全不算。只不过是两个人出去吃晚餐，也不做爱。",
+          "text": "(大家不解地盯着菲比)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            37
+          ],
+          "source_anchor": "<b>Phoebe:</b> No.",
+          "operation": "after",
+          "anchor": "Joey:从没做过那样的梦。",
+          "text": "Phoebe:我也没有。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            42
+          ],
+          "source_anchor": "mortified",
+          "operation": "before",
+          "anchor": "Ross:嗨。",
+          "text": "(罗斯一脸窘迫)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            48
+          ],
+          "source_anchor": "<b>Joey:</b> Ohh.",
+          "operation": "after",
+          "anchor": "Monica:卡箩今天搬走了她的东西。",
+          "text": "Joey:哦。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            61
+          ],
+          "source_anchor": "They all stare at him",
+          "operation": "before",
+          "anchor": "Chandler:有时候我希望我是女同性恋。我大声说出来啦？",
+          "text": "(钱德勒说希望自己是女同性恋后，大家都盯着他)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            70
+          ],
+          "source_anchor": "extends his hand hopefully",
+          "operation": "before",
+          "anchor": "Chandler:而我只想要100万美金！",
+          "text": "(钱德勒满怀期待地伸出手，仿佛自己的愿望也能立刻实现)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            87
+          ],
+          "source_anchor": "The scene on TV has changed",
+          "operation": "before",
+          "anchor": "Phoebe:“如果我松开我的头发，我的头会掉下来的。”",
+          "text": "(电视里换成两个女人，其中一个抓着自己的头发)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            92
+          ],
+          "source_anchor": "She is pushed down the stairs",
+          "operation": "before",
+          "anchor": "Rachel:爸爸，听我说！就好像，就好像在我一生中，每个人都告诉我，“你是鞋子！你是鞋子，你是鞋子，你是鞋子！”",
+          "text": "(电视里的人真的被推下楼梯，大家欢呼)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            125
+          ],
+          "source_anchor": "Chandler shrugs",
+          "operation": "before",
+          "anchor": "Monica:嗨，进来，保罗，这是......大家。各位，这是保罗。",
+          "text": "(钱德勒对“酒男”的含义也不清楚，只能耸耸肩)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            135
+          ],
+          "source_anchor": "Monica goes to change",
+          "operation": "before",
+          "anchor": "Joey:你好，保罗！告诉你个小贴士，她很喜欢你在她脖子上同一个地方不停地揉来揉去，直到变红为止。",
+          "text": "(莫妮卡去卧室换衣服)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            139
+          ],
+          "source_anchor": "yelling from the bedroom",
+          "operation": "before",
+          "anchor": "Monica:闭嘴，乔伊！",
+          "text": "(莫妮卡在卧室里大喊)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            137
+          ],
+          "source_anchor": "<b>Paul:</b> Yeah?",
+          "operation": "before",
+          "anchor": "Joey:你好，保罗！告诉你个小贴士，她很喜欢你在她脖子上同一个地方不停地揉来揉去，直到变红为止。",
+          "text": "Paul:怎么了？"
+        },
+        {
+          "kind": "dialogue_and_scene",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            149
+          ],
+          "source_anchor": "Love is sweet as summer showers",
+          "operation": "before",
+          "anchor": "(罗斯的公寓)\nRoss:我应该用这些像小虫一样的东西把一个支架样的东西固定在侧面。",
+          "text": "…………………………\n(地铁里，菲比唱歌赚零钱)\nPhoebe:爱情甜得像夏日的阵雨，爱情是奇妙的艺术品，可你的爱，你的爱……就像一只大鸽子……在我心上拉屎。啦啦啦……\n(有人给菲比零钱，她向那人道谢)\nPhoebe:谢谢。\nPhoebe:啦啦啦……哦！"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            185
+          ],
+          "source_anchor": "it collapses",
+          "operation": "before",
+          "anchor": "Ross:那只花了我一个小时。",
+          "text": "(钱德勒用锤子敲正在组装的家具，家具一下子散架了)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            181
+          ],
+          "source_anchor": "cuts her off again",
+          "operation": "after",
+          "anchor": "Rachel:而且我现在也不知道我到底是谁，但你得给我机会去......",
+          "text": "(留言机再次切断留言，瑞秋又重新拨号)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            214
+          ],
+          "source_anchor": "Angela's the screamer",
+          "operation": "before",
+          "anchor": "Joey:对，谢啦。是Julie，我走了。",
+          "text": "Chandler:安吉拉爱尖叫，安德里亚养着猫。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            232
+          ],
+          "source_anchor": "move Monica",
+          "operation": "before",
+          "anchor": "Paul:谢谢你！太感谢你了！",
+          "text": "(莫妮卡和保罗在门边低声说话，其他人把桌子搬近，好偷听他们的谈话)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            240
+          ],
+          "source_anchor": "Okayyy",
+          "operation": "after",
+          "anchor": "Monica:闭嘴，把我的桌子移回去。",
+          "text": "All:好吧！\n(大家把桌子搬回原位)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            319
+          ],
+          "source_anchor": "now dead plant",
+          "operation": "after",
+          "anchor": "Ross:来吧，你都会自己泡咖啡！你什么都可以！",
+          "text": "(钱德勒偷偷藏起早上被他和乔伊倒了咖啡的盆栽；植物已经枯死)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            337
+          ],
+          "source_anchor": "last cookie",
+          "operation": "before",
+          "anchor": "Ross:哦不，哦不不，你拿去吧。",
+          "text": "(罗斯和瑞秋同时伸手拿最后一块饼干)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            368
+          ],
+          "source_anchor": "<b>All:</b> Yes!",
+          "operation": "before",
+          "anchor": "Monica:我只是说你有个不错的臀部，但不是个很棒的臀部。",
+          "text": "All:是！"
+        },
+        {
+          "kind": "correction",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            251
+          ],
+          "source_anchor": "I will not take this abuse",
+          "operation": "replace",
+          "anchor": "Joey:我不会把这样的羞辱放在心上。",
+          "text": "Joey:我不会忍受这样的羞辱。"
+        },
+        {
+          "kind": "correction",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            136,
+            137,
+            138
+          ],
+          "operation": "replace",
+          "anchor": "(DVD加长片段开始)\nPaul:怎么了？\n(DVD加长片段结束)\nJoey:你好，保罗！告诉你个小贴士，她很喜欢你在她脖子上同一个地方不停地揉来揉去，直到变红为止。",
+          "text": "Joey:你好，保罗！\n(DVD加长片段开始)\nPaul:怎么了？\n(DVD加长片段结束)\nJoey:告诉你个小贴士，她很喜欢你在她脖子上同一个地方不停地揉来揉去，直到变红为止。",
+          "note": "拆开旧合并行，把新补Paul应答放在问候和小贴士之间；原中文字符不删改。"
+        },
+        {
+          "kind": "layout",
+          "operation": "after",
+          "anchor": "Phoebe:啦啦啦……哦！\n(DVD加长片段结束)",
+          "text": "…………………………",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_anchor": "Ross's Apartment"
+        },
+        {
+          "kind": "correction",
+          "version": "original",
+          "operation": "replace",
+          "anchor": "Ross:他终于约你出去啦？是的！",
+          "text": "Ross:他终于约你出去啦？\nMonica:是的！",
+          "source_html": "references/en/S01/FriendsS01E01.html",
+          "source_lines": [
+            117
+          ],
+          "source_anchor": "<b>Monica:</b> Yes!"
+        }
+      ],
+      "issues": [
+        "现有中文逃婚后感谢莫妮卡/菲比推论等若干句在主参考中未单列，保留，不据此认定原播/DVD。",
+        "DVD标记仅覆盖本轮新增；原中文已有加长对白未全面追溯标记。"
+      ],
+      "before_sha256": "0539ea01ddbf262983f264b18088647b0d95c4236f062d391dacaa7466438328",
+      "after_sha256": "eae403f69f693470c5c5bcfd0ac647c27a15d251fc6e9c5392bd96545bafa9cb"
+    },
+    {
+      "chinese_file": "S01/FriendsS01E02.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E02.html"
+      ],
+      "status": "全文逐段对照完成（文本转录稿，未核验音视频）",
+      "edits": [
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            50
+          ],
+          "source_anchor": "Hugs Carol",
+          "operation": "before",
+          "anchor": "Carol:时间不巧？",
+          "text": "(罗斯拿着穴居人模型的一只手臂拥抱卡萝)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            72
+          ],
+          "source_anchor": "Monica glares at her",
+          "operation": "before",
+          "anchor": "Phoebe:她已经拍松过那个枕头。摩妮卡，你已经拍过了枕头了？可以了。",
+          "text": "(莫妮卡反复拍松枕头，又瞪着菲比)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            75
+          ],
+          "source_anchor": "slaps his hands",
+          "operation": "before",
+          "anchor": "Joey:你这里有意大利烤面，这看起来足够好。。。以至于不许碰。",
+          "text": "(乔伊伸手想碰千层面，莫妮卡拍掉他的手)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            79
+          ],
+          "source_anchor": "Ew, ew, ew",
+          "operation": "before",
+          "anchor": "Monica:怎么了？",
+          "text": "Chandler:呃！呃！呃！"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            82
+          ],
+          "source_anchor": "Eeaagh",
+          "operation": "after",
+          "anchor": "Chandler:丑陋裸男有个“美腿器”。",
+          "text": "All:呃！"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            104
+          ],
+          "source_anchor": "bottom of the glass pan",
+          "operation": "before",
+          "anchor": "Chandler:摩妮卡，现在你该知道在千层面中找订婚戒指不是那样找的。",
+          "text": "(莫妮卡隔着玻璃烤盘底部查看千层面，不愿破坏它)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            113
+          ],
+          "source_anchor": "everyone else is stunned",
+          "operation": "before",
+          "anchor": "Phoebe:我找到了！",
+          "text": "(大家都被怀孕的消息震住，只有菲比还在找戒指)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            127
+          ],
+          "source_anchor": "<span style=\"color: blue\"> Wow!",
+          "operation": "before",
+          "anchor": "Ross:记得以前生活那么简单，她也只是个女同性恋。",
+          "text": "Rachel:哇！"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            147
+          ],
+          "source_anchor": "help me with the spaghetti",
+          "operation": "before",
+          "anchor": "Mrs. Geller:我们吃意大利面呀？这。。。太简单了。",
+          "text": "(朱迪又去拍松莫妮卡先前反复整理的那个枕头)\nMonica:罗斯，来帮我弄一下意大利面好吗？\nRoss:好。\n(两人走进厨房)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            178
+          ],
+          "source_anchor": "dustbuster",
+          "operation": "before",
+          "anchor": "Monica:罗斯，最近你怎么样？",
+          "text": "(朱迪打开手持吸尘器，莫妮卡和罗斯难以置信地看着她)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            179
+          ],
+          "source_anchor": "Digs her elbow",
+          "operation": "before",
+          "anchor": "Monica:最近有什么八卦、新闻、轶事之类可以和爸妈分享的吗？",
+          "text": "(莫妮卡拼命转移话题，用手肘顶罗斯的手催他开口)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            180
+          ],
+          "source_anchor": "Okay! Okay.",
+          "operation": "before",
+          "anchor": "Ross:听着，我，呃，我知道你们想了解我和卡萝之间倒底怎么了。事情是这样的，卡箩是个女同志。",
+          "text": "Ross:好啦！好啦！"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            235
+          ],
+          "source_anchor": "Quack, quack",
+          "operation": "before",
+          "anchor": "Carol:罗斯，那是用来打开我的子宫颈的。",
+          "text": "Ross:嘎，嘎。\n(罗斯拿着器械模仿鸭子)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            236
+          ],
+          "source_anchor": "drops it in horror",
+          "operation": "after",
+          "anchor": "Carol:罗斯，那是用来打开我的子宫颈的。",
+          "text": "(罗斯吓得把器械丢了下来)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            243
+          ],
+          "source_anchor": "<b>Robbie:</b> Huh?!",
+          "operation": "after",
+          "anchor": "Barry:是的，没事的，没关系的。罗比得待在这儿好几个小时。",
+          "text": "Robbie:啊？！"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            247
+          ],
+          "source_anchor": "Jason Greenstein",
+          "operation": "before",
+          "anchor": "Barry:马上到，我马上回来。",
+          "text": "Bernice:法伯医生，杰森·格林斯坦要吐了。"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            252
+          ],
+          "source_anchor": "Ross sees a model",
+          "operation": "before",
+          "anchor": "Ross:这个如何，呃，如何处理此事？",
+          "text": "(罗斯碰了桌上的子宫模型，婴儿模型掉了出来；他赶紧接住，轻轻放回去)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            288
+          ],
+          "source_anchor": "<b>Rachel:</b> Wow.",
+          "operation": "after",
+          "anchor": "Barry:一个月前我想伤害你，我这辈子从未如此想伤害一个人。而且我是个整牙医师。",
+          "text": "Rachel:哇。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            323
+          ],
+          "source_anchor": "sound of the sonogram",
+          "operation": "before",
+          "anchor": "Ross:我的天呐。(看到了婴儿成像)",
+          "text": "(罗斯转身准备离开，听到超声波仪的声音后折返回来，盯住屏幕)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            334
+          ],
+          "source_anchor": "<b>Phoebe:</b> Okay!",
+          "operation": "after",
+          "anchor": "Ross:那么就不要那么干，好吗？",
+          "text": "Phoebe:好吧！"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            343
+          ],
+          "source_anchor": "pushes him and starts to cry",
+          "operation": "before",
+          "anchor": "Monica:喔，闭嘴。",
+          "text": "(莫妮卡推了罗斯一下，终于哭了出来)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            344
+          ],
+          "source_anchor": "Slams the phone down",
+          "operation": "before",
+          "anchor": "Rachel:我知道这招很贱，但我现在感觉好多了。",
+          "text": "(瑞秋用力挂断电话，转向大家)"
+        },
+        {
+          "kind": "correction",
+          "version": "original",
+          "operation": "replace",
+          "anchor": "Monica:嗨！",
+          "text": "Phoebe:嗨！",
+          "source_html": "references/en/S01/FriendsS01E02.html",
+          "source_lines": [
+            76
+          ],
+          "source_anchor": "scaring me"
+        }
+      ],
+      "issues": [
+        "现有“或许可以换成下面这样”的三句为旧稿作者拟写，非主参考对白；本轮保留并记录，不将其认定为原播或DVD。",
+        "DVD标记只覆盖本轮新增。"
+      ],
+      "before_sha256": "2a678eb51fd75851f8754dc23d5c019e771dea0d9c9e87e69e44529492e1a199",
+      "after_sha256": "9df3faa25f5f087de29858c42f0a86a4db7c385ea4aef89f8f4bcb21816df580"
+    },
+    {
+      "chinese_file": "S01/FriendsS01E03.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E03.html"
+      ],
+      "status": "全文逐段对照完成（文本转录稿，未核验音视频）",
+      "edits": [
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            53
+          ],
+          "source_anchor": "drops the lighter",
+          "operation": "before",
+          "anchor": "Chandler:我想这就是迪默自己一个在牢房里抽烟的原因。",
+          "text": "(乔伊手忙脚乱地掉了打火机；点着烟后吸了一口，立刻咳嗽)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            57
+          ],
+          "source_anchor": "wrist go limp",
+          "operation": "before",
+          "anchor": "Chandler:别太过火！",
+          "text": "(乔伊把手腕彻底垂软)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            63
+          ],
+          "source_anchor": "visibly winces",
+          "operation": "before",
+          "anchor": "Chandler:好了，不是这样。把烟给我。",
+          "text": "(乔伊又试着吸烟，痛苦地皱起脸)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            70
+          ],
+          "source_anchor": "continues to smoke",
+          "operation": "before",
+          "anchor": "Joey:钱德勒，把它给我。",
+          "text": "(钱德勒吸了一口后忍不住继续抽)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            86
+          ],
+          "source_anchor": "Joey does do",
+          "operation": "before",
+          "anchor": "Chandler:就这样，你继续练习，我去扑灭着火的沙发。",
+          "text": "(乔伊照着钱德勒的话弹掉烟头)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            90
+          ],
+          "source_anchor": "guys stretch out their fingers",
+          "operation": "before",
+          "anchor": "Joey:这太荒谬了。",
+          "text": "(男生们伸开拇指和食指，测量两指尖的距离)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            116
+          ],
+          "source_anchor": "mouthful of smoke",
+          "operation": "before",
+          "anchor": "All:噢，噢，真恶心！",
+          "text": "(钱德勒装作若无其事地耸肩，最终忍不住吐出满口烟)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            141
+          ],
+          "source_anchor": "Joey is still thinking",
+          "operation": "before",
+          "anchor": "(餐厅)\nMonica:为什么我要让他们认识他？",
+          "text": "(乔伊还在想两指之间的距离)\nRoss:乔伊，乔伊，别想了。"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            150
+          ],
+          "source_anchor": "fake short whimper",
+          "operation": "before",
+          "anchor": "Monica:好，哭完了。",
+          "text": "(莫妮卡假装小声呜咽一下)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            157
+          ],
+          "source_anchor": "Cross my heart",
+          "operation": "before",
+          "anchor": "Joey:你可以进来了，但是你的烟头小朋友得呆在外面。",
+          "text": "(钱德勒在阳台抽烟，做出发誓的手势；下雨后，他敲窗想进屋)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            159
+          ],
+          "source_anchor": "garbage can lid",
+          "operation": "after",
+          "anchor": "Joey:你可以进来了，但是你的烟头小朋友得呆在外面。",
+          "text": "(钱德勒闷闷不乐地举起垃圾桶盖挡雨)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            173
+          ],
+          "source_anchor": "starts to unbutton",
+          "operation": "before",
+          "anchor": "Ross:我是说扣上！扣上怎么样？",
+          "text": "(莫妮卡误解罗斯的意思，开始解开衣扣)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            177
+          ],
+          "source_anchor": "buttons back up",
+          "operation": "after",
+          "anchor": "Ross:我是说扣上！扣上怎么样？",
+          "text": "(莫妮卡重新扣好衣扣)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            184
+          ],
+          "source_anchor": "schho much",
+          "operation": "before",
+          "anchor": "Alan:各位的大名如雷贯耳啊！",
+          "text": "(艾伦模仿大家先前嘲笑史蒂夫时含混的发音，惹得众人发笑)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            196
+          ],
+          "source_anchor": "spreads her thumb",
+          "operation": "before",
+          "anchor": "Ross/Chandler/Joey:是的。",
+          "text": "(瑞秋伸开拇指和食指，示意艾伦的尺寸)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            210
+          ],
+          "source_anchor": "<b>All:</b> Yeah...",
+          "operation": "after",
+          "anchor": "Ross:他让我重拾自信。",
+          "text": "All:是啊……"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            255
+          ],
+          "source_anchor": "Phoebe opens the can",
+          "operation": "after",
+          "anchor": "Lizzie:再见。",
+          "text": "(菲比打开汽水罐，被里面的东西吓了一跳)\nPhoebe:啊！"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            250
+          ],
+          "source_anchor": "While not paying attention",
+          "operation": "after",
+          "anchor": "钱德勒偷摸抽烟画面，默剧，搞笑，夸张+独出心裁的抽烟手法，害怕被发现，风扇+香水",
+          "text": "(钱德勒把烟藏在抽屉里，每吸一口就喷空气清新剂和口气清新剂掩饰；最后把两瓶弄反，向屋里喷口气清新剂、往嘴里喷空气清新剂，呛得干呕)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            277
+          ],
+          "source_anchor": "spits out her hair",
+          "operation": "before",
+          "anchor": "Ross:别听他的，Pheebs，我觉得很可爱。",
+          "text": "(菲比赶紧把嘴里嚼着的头发吐出来)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            281
+          ],
+          "source_anchor": "laughs and snorts",
+          "operation": "before",
+          "anchor": "Ross:你知道，咬字清楚没什么不对。",
+          "text": "(莫妮卡笑着发出猪哼声；乔伊和瑞秋故意模仿罗斯咬字清楚的说话方式)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            287
+          ],
+          "source_anchor": "undisturbed",
+          "operation": "after",
+          "anchor": "Rachel:哦哦哦，豁出去了。",
+          "text": "(大家互相争执起来，钱德勒趁机又点上烟，没人再管他)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            312
+          ],
+          "source_anchor": "Where's Joey?",
+          "operation": "before",
+          "anchor": "Chandler:乔伊吃了我最后一片口香糖，所以我就把他杀了，你认为这样不对吗？",
+          "text": "Monica:嘿，乔伊在哪儿？"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            317
+          ],
+          "source_anchor": "deadpan",
+          "operation": "before",
+          "anchor": "Chandler:噢，我又重拾快乐的生活了。",
+          "text": "(罗斯给钱德勒换上新的尼古丁贴片；钱德勒面无表情地回应)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            328
+          ],
+          "source_anchor": "wear their underwear",
+          "operation": "before",
+          "anchor": "Rachel:哦，乔伊。",
+          "text": "(乔伊刚洗完澡，被莫妮卡拉来，穿着内裤坐到沙发上)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            330
+          ],
+          "source_anchor": "closes his legs",
+          "operation": "before",
+          "anchor": "Joey:噢，天啊！",
+          "text": "(瑞秋提醒后，乔伊赶紧合拢双腿)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            343
+          ],
+          "source_anchor": "gasp and clutch",
+          "operation": "before",
+          "anchor": "Ross:有第三者？",
+          "text": "(大家倒吸一口气，互相抱住)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            348
+          ],
+          "source_anchor": "starts chewing her hair",
+          "operation": "before",
+          "anchor": "Monica:要不，我可以继续装下去。",
+          "text": "(菲比伤心地又开始嚼头发)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            354
+          ],
+          "source_anchor": "sarcastic",
+          "operation": "before",
+          "anchor": "Chandler:噢，她说抱歉！我感觉好多了！",
+          "text": "(钱德勒讽刺地说)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E03.html",
+          "source_lines": [
+            373
+          ],
+          "source_anchor": "<b>Monica:</b> (entering) Hi.",
+          "operation": "before",
+          "anchor": "Ross:情况如何？",
+          "text": "Monica:嗨。\nAll:嗯。"
+        }
+      ],
+      "issues": [
+        "旧稿把买汽水场景放在钱德勒办公室默剧之前，而英文相反；保留原段落顺序，补动作但不声称顺序一致。",
+        "旧默剧概括含“风扇+香水”，英文只写两种清新喷剂；新增准确动作说明，保留旧概括。",
+        "DVD标记只覆盖本轮新增。"
+      ],
+      "before_sha256": "bd30f8726a08443ff60fa42843510f1698565aba7d3994885168c371e43ceafa",
+      "after_sha256": "f3eefb7d64906fba53740c181eb56864045a96d25b333fc90280ac57772de5da"
+    },
+    {
+      "chinese_file": "S01/FriendsS01E04.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E04.html"
+      ],
+      "status": "全文逐段对照完成（文本转录稿，未核验音视频）",
+      "edits": [
+        {
+          "kind": "dialogue",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            51
+          ],
+          "source_anchor": "theoretical question",
+          "operation": "after",
+          "anchor": "Joey:你吗？罗斯，我真是遗憾。",
+          "text": "Joey:我之前都不知道，我还以为那只是个假设性问题。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            127
+          ],
+          "source_anchor": "punch him in the gut",
+          "operation": "before",
+          "anchor": "Ross:你在做什么？",
+          "text": "(钱德勒假装用拳头捶罗斯的肚子，鼓动他出门)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            137
+          ],
+          "source_anchor": "You got it",
+          "operation": "after",
+          "anchor": "Ross:好吧，好吧，也许这可以让我不去想它。那你们要答应给我买个大拇指(手套)哦？",
+          "text": "Chandler:没问题。"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            149
+          ],
+          "source_anchor": "Who's FICA",
+          "operation": "before",
+          "anchor": "Rachel:这是什么，钱德勒，你看看。",
+          "text": "Rachel:FICA是谁？为什么他把我的钱全拿走了？"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            163
+          ],
+          "source_anchor": "generous tips",
+          "operation": "before",
+          "anchor": "Ross/Chandler/Joey:冰球！冰球！冰球。",
+          "text": "(大家看出瑞秋的薪水很少，纷纷掏出钱包，给她丰厚的小费)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            184
+          ],
+          "source_anchor": "Kiki, you look phenomenal",
+          "operation": "before",
+          "anchor": "Rachel:那你怎么样？",
+          "text": "Rachel:琪琪，你看起来太棒了，好像瘦了一大圈。\n(乔安妮偷偷示意琪琪是靠催吐减肥)\nRachel:不过你真的、真的该停了。你已经很完美了。总之……"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            188
+          ],
+          "source_anchor": "engagement ring",
+          "operation": "after",
+          "anchor": "Kiki:还有，说到新闻话题。。。",
+          "text": "(琪琪亮出手指上的订婚戒指，几个女孩又一起尖叫)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            194
+          ],
+          "source_anchor": "Russ Bolen",
+          "operation": "replace",
+          "anchor": "(街上)\nRoss:那天晚上卡萝就是穿的这种靴子，我们的第一次，你知道，实际上，她，呃，她一直没脱靴，因为我们，我们。。。对不起，对不起。",
+          "text": "(街上)\n(钱德勒和乔伊在街上互相踢一个空罐，假装解说冰球比赛)\nChandler:拉斯·博伦传给利奇！\nJoey:利奇看到门前的梅西耶，传球！\n(乔伊把罐子踢给罗斯，罗斯却盯着橱窗)\nChandler:暂停一下，梅西耶停下来欣赏女鞋了。\nRoss:那天晚上卡萝就是穿的这种靴子，我们的第一次，你知道，实际上，她，呃，她一直没脱靴，因为我们，我们。。。对不起，对不起。",
+          "note": "保留原街上标记并把新增解说放在其后；原街上对白不变。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            241
+          ],
+          "source_anchor": "Then realizes",
+          "operation": "before",
+          "anchor": "Rachel:这就是我现在做的。",
+          "text": "(琪琪先笑了出来，发现瑞秋是认真的才收住笑)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            260
+          ],
+          "source_anchor": "Grabs the blender",
+          "operation": "before",
+          "anchor": "Monica:我们想既然菲比今天晚上在这儿过夜，我们最好开个睡衣派对什么的。现在我们有无聊杂志，曲奇面团，还能玩“扭扭乐”。。。",
+          "text": "(瑞秋直接抱起搅拌机的容器喝鸡尾酒)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            325
+          ],
+          "source_anchor": "<b>Monica:</b> Pheebs?",
+          "operation": "before",
+          "anchor": "Phoebe:哦，恩……因为……你只要……我不喜欢这个问题。",
+          "text": "Monica:菲比？"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            350
+          ],
+          "source_anchor": "We got it",
+          "operation": "after",
+          "anchor": "Chandler:嗨，看呐，我们上荧幕了！",
+          "text": "(钱德勒和乔伊拿着打中罗斯的冰球，兴奋地朝镜头挥手)\nJoey/Chandler:哦！嘿，我们拿到了！拿到了！"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            359
+          ],
+          "source_anchor": "Holds up her hand",
+          "operation": "before",
+          "anchor": "Receptionist:说是如果对这些糖棒不满意可以打这个电话，嗯，我就不太满意。好吧，标签上承诺坚果品质优良。",
+          "text": "(接待员正在为巧克力棒打投诉电话，举手制止钱德勒插话)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            384
+          ],
+          "source_anchor": "Thank God",
+          "operation": "after",
+          "anchor": "Pizza Guy:送披萨的！",
+          "text": "Monica:谢天谢地。\nRachel:吃的！\n(瑞秋去开门)\nMonica:菲比？"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            407
+          ],
+          "source_anchor": "hitting yourself",
+          "operation": "before",
+          "anchor": "Phoebe:你知道这么做只是在伤害自己。",
+          "text": "(送披萨的人一边骂自己笨蛋，一边打自己的头)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            430
+          ],
+          "source_anchor": "I see pizza",
+          "operation": "before",
+          "anchor": "Phoebe:哦，我要看！让我看看！让我看看！",
+          "text": "(瑞秋付钱，莫妮卡拿起望远镜跑到窗边)\nMonica:我看到披萨了！"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            455,
+            465
+          ],
+          "source_anchor": "wheel chair",
+          "operation": "before",
+          "anchor": "Joey:快点，推推我。\nRoss:不。",
+          "text": "(乔伊坐进一辆轮椅，催罗斯推他)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            465
+          ],
+          "source_anchor": "Joey rolls away and crashes",
+          "operation": "before",
+          "anchor": "Ross:现在你要在轮椅上度过你的一生了，伙计。",
+          "text": "(罗斯猛推轮椅后松手，乔伊一路滑出去，撞到了东西)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            465
+          ],
+          "source_anchor": "multiple casts",
+          "operation": "before",
+          "anchor": "Ross:非常对不起，我能给你签名吗？",
+          "text": "(罗斯转身看见另一辆轮椅上坐着全身多处打石膏的重伤者，尴尬地道歉)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            506
+          ],
+          "source_anchor": "hospital vending machine",
+          "operation": "before",
+          "anchor": "Joey:快出来...好了！",
+          "text": "…………………………\n(切到医院，乔伊在自动售货机前越来越快地扳动拉杆，终于弄出糖果)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            510
+          ],
+          "source_anchor": "Cut back to the girls",
+          "operation": "after",
+          "anchor": "Joey:快出来...好了！",
+          "text": "…………………………\n(回到公寓阳台，女孩们继续聊天)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            516
+          ],
+          "source_anchor": "scraps of hospital supplies",
+          "operation": "before",
+          "anchor": "Phoebe:你知道谁有一点性感？",
+          "text": "…………………………\n(切到医院，钱德勒用医疗用品碎片装扮自己，敲接待窗口；接待员打开玻璃，他一声不吭)\n…………………………\n(回到女孩们的谈话)"
+        },
+        {
+          "kind": "action",
+          "version": "dvd",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            528
+          ],
+          "source_anchor": "whole contents into his own face",
+          "operation": "before",
+          "anchor": "Rachel:你能想像他在床上的情景吗？",
+          "text": "…………………………\n(切到医院，罗斯想用杯里的冰水敷鼻子却做不到，只好把整杯水泼到自己脸上)\n…………………………\n(回到女孩们的谈话)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            622
+          ],
+          "source_anchor": "piece of steel bandaged",
+          "operation": "before",
+          "anchor": "Receptionist:哦，真好看。",
+          "text": "(罗斯治疗后回来，鼻子上包着一块金属夹板)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            664
+          ],
+          "source_anchor": "sexual position",
+          "operation": "before",
+          "anchor": "Joey:罗斯，和我换一下，菲比可以是你第二个女人。",
+          "text": "(菲比弯腰在乔伊面前，姿势使他联想到性爱)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            682
+          ],
+          "source_anchor": "Chandler takes her place",
+          "operation": "before",
+          "anchor": "Rachel:喂？哦，对，不，我知道，我我没怎么用它。",
+          "text": "(瑞秋抢过电话，钱德勒接替她在扭扭乐垫上的位置)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E04.html",
+          "source_lines": [
+            688
+          ],
+          "source_anchor": "They all collapse",
+          "operation": "before",
+          "anchor": "Rachel:哦……我很好。",
+          "text": "(玩扭扭乐的几个人一起倒在地上；瑞秋挂断电话，心满意足地叹口气)"
+        }
+      ],
+      "issues": [
+        "英文HTML包含跨段落font蓝色作用域，新增版本分类按原始HTML复查，不依纯文本转换。",
+        "FICA只补原句，不外加当前税法说明。",
+        "DVD标记只覆盖本轮新增。"
+      ],
+      "before_sha256": "efaa668354b29ca875eafb210b486369b4abf7f7250159245cd0b69139c690c8",
+      "after_sha256": "adba8cdf6085fdce5554512cc9ce24e8ce2139cd5218bbb0d437341a8e2e07f7"
+    },
+    {
+      "chinese_file": "S01/FriendsS01E05.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E05.html"
+      ],
+      "status": "全文逐段对照完成（文本转录稿，未核验音视频）",
+      "edits": [
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            33
+          ],
+          "source_anchor": "Long pause",
+          "operation": "before",
+          "anchor": "Ross:多重高潮。",
+          "text": "(菲比谈到男人做坏事后毫不在乎，大家沉默了很久；罗斯突然岔开话题)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            123,
+            228
+          ],
+          "source_anchor": "There you go",
+          "operation": "after",
+          "anchor": "Ross:好，好，我的斯耐格柔顺剂又怎么了？怎么了，这表示我是一个敏感、体贴的人，你懂的，就像一只毛绒绒的小熊。好吧，我可以顺路买点其他的用。",
+          "text": "Chandler:这就对了。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            148
+          ],
+          "source_anchor": "Chandler sees Phoebe",
+          "operation": "before",
+          "anchor": "Chandler:什么？\nJanice:什么？",
+          "text": "(钱德勒看见菲比只和托尼说了几句话、抱了一下，托尼就离开了；他惊讶于分手竟然这么容易)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            156
+          ],
+          "source_anchor": "downs his espresso",
+          "operation": "before",
+          "anchor": "Chandler:好吧，我想再要一杯浓缩咖啡，你要再来点拿铁吗？",
+          "text": "Chandler:太好了。\n(咖啡端来，钱德勒一口喝光了浓缩咖啡)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            168,
+            298
+          ],
+          "source_anchor": "takes Rachel",
+          "operation": "before",
+          "anchor": "Rachel:哦，抱歉。我要用这台机器。",
+          "text": "(女人把瑞秋的衣篮拿下洗衣机，往里面放自己的衣服)"
+        },
+        {
+          "kind": "action_and_split",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            185,
+            186,
+            187
+          ],
+          "source_anchor": "woman and Ross stare",
+          "operation": "replace",
+          "anchor": "Ross:嗨，嗨，嗨，没这规矩而且你也知道的。好了，演出结束。没什么好看的。好了，我们开始洗衣服吧。",
+          "text": "Ross:嗨，嗨，嗨，没这规矩而且你也知道的。\n(罗斯和女人对峙，女人最后拿出自己的衣服，走开了)\nRoss:好了，演出结束。没什么好看的。好了，我们开始洗衣服吧。",
+          "note": "旧合并行按动作发生处拆行，不删改中文对白字符。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            190
+          ],
+          "source_anchor": "huge box of laundry detergent",
+          "operation": "before",
+          "anchor": "Rachel:那是什么？",
+          "text": "(罗斯拿出一大盒洗衣粉)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            200
+          ],
+          "source_anchor": "visibly nervous",
+          "operation": "before",
+          "anchor": "Ross:呃，这个，这个，这个你自己决定。",
+          "text": "(瑞秋在罗斯面前举起一条内裤，罗斯明显紧张起来)"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            244
+          ],
+          "source_anchor": "<b>Rachel:</b> Ross, what's the matter?",
+          "operation": "before",
+          "anchor": "Ross:没事，没事。哩咯，衣服洗好咯。",
+          "text": "Rachel:罗斯，怎么了？"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            246
+          ],
+          "source_anchor": "Come on, show me",
+          "operation": "after",
+          "anchor": "Ross:没事，没事。哩咯，衣服洗好咯。",
+          "text": "Rachel:别这样，让我看看。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            251
+          ],
+          "source_anchor": "woman who had tried",
+          "operation": "after",
+          "anchor": "Rachel:才不是呢，就我才会发生这种事。天呐， 我穿这些看来会像只巨大的复活节糖果！我在做什么啊？我在做什么啊？我爸说得对，我无法独立生活。我连洗衣服都不会。",
+          "text": "(刚才抢洗衣机的女人路过，笑话瑞秋)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            252
+          ],
+          "source_anchor": "Angela has her hand",
+          "operation": "before",
+          "anchor": "Monica:超人狗气球出了点问题，它的头没办法充气鼓起来。所以......嗯......它的头好像快掉到百老汇大街上一样，然后我心想......实在太不像话了。恩，我眼睛进东西了，哦，乔伊，我们到灯光下看一下，好吗？我的天呀！",
+          "text": "(安吉拉把手伸进鲍勃的衬衣，莫妮卡以为他们是兄妹，十分不自在)"
+        },
+        {
+          "kind": "dialogue_and_action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            265
+          ],
+          "source_anchor": "hits him lightly",
+          "operation": "before",
+          "anchor": "Monica:我要走了。",
+          "text": "(莫妮卡轻轻打了乔伊一下)\nJoey:哎哟！"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            271
+          ],
+          "source_anchor": "spilled her drink",
+          "operation": "before",
+          "anchor": "Monica:真是抱歉，没想到我会这样。你那个诺曼·梅勒的故事让我都笑喷了。",
+          "text": "(莫妮卡不小心把酒洒在鲍勃衬衫上，正替他擦拭；乔伊向安吉拉眉目传情)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            273
+          ],
+          "source_anchor": "weasel-like noise",
+          "operation": "before",
+          "anchor": "Joey:呃，服务生，这边再来一盘鸡翅。",
+          "text": "(安吉拉吃鸡翅，发出乔伊先前向鲍勃形容过的鼬鼠般咀嚼声)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            275
+          ],
+          "source_anchor": "about a dozen empty",
+          "operation": "before",
+          "anchor": "Chandler:事情是这样的，珍妮丝。要知道，我的意思是，好像我们不是一类人。你懂的，我就像乒，乒，乒，你就像乓、乓、乓。天呐，太对不起了，你没事吧？",
+          "text": "(钱德勒面前已经堆了十来个空浓缩咖啡杯；他兴奋过头，挥手说“乓”时误打珍妮丝的眼睛)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            301
+          ],
+          "source_anchor": "motions to her to get the cart back",
+          "operation": "before",
+          "anchor": "Rachel:抱歉，可能我说得不够清楚。呃，这是我们的推车。",
+          "text": "(瑞秋看向罗斯，罗斯示意她把推车要回来)"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            308
+          ],
+          "source_anchor": "She thinks it over",
+          "operation": "before",
+          "anchor": "Rachel:太好了，你看见没？",
+          "text": "(女人考虑了一下，只好走开)"
+        },
+        {
+          "kind": "correction",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            311
+          ],
+          "source_anchor": "I could not have done this without you",
+          "operation": "replace",
+          "anchor": "Ross:你太棒了！女士们先生们，一位脱胎换骨的新女性诞生了。没有你我做不到。",
+          "text": "Ross:你太棒了！女士们先生们，一位脱胎换骨的新女性诞生了。\nRachel:没有你我做不到。"
+        },
+        {
+          "kind": "dialogue",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            315
+          ],
+          "source_anchor": "<b>Ross:</b> No.",
+          "operation": "after",
+          "anchor": "Ross:好，恩，呃，干衣机里还有衣服吗？我没事，我没事。",
+          "text": "Rachel:你确定？\nRoss:不确定。"
+        },
+        {
+          "kind": "action",
+          "version": "original",
+          "source_html": "references/en/S01/FriendsS01E05.html",
+          "source_lines": [
+            332
+          ],
+          "source_anchor": "joyous",
+          "operation": "before",
+          "anchor": "Chandler:我自由了！我自由了！",
+          "text": "(钱德勒欢天喜地地从咖啡馆窗外跑过)"
+        }
+      ],
+      "issues": [
+        "Joey“snowflake”段英文I wanna be kind疑似转录残缺，与旧中文“她是很特别的一种”不一致；保留，不据损坏句重译。",
+        "DVD独有对白已在旧中文中基本覆盖，本轮主要补原播漏句与动作。",
+        "DVD标记只覆盖本轮新增。"
+      ],
+      "before_sha256": "c0e591aa2930dc98dbe05414d39ead7f8f835094ee9f88bb07ad2b88983afbbe",
+      "after_sha256": "efd62afe11cf339314522a0103a3302a5740f7e9960d1f4cfb8c6751c5d01823"
+    }
+  ]
+}

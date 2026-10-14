@@ -1,0 +1,169 @@
+[
+  {
+    "season": 8,
+    "episode": 6,
+    "line": 172,
+    "role": "Mona",
+    "body": "嗨。",
+    "files": [
+      "references/en/S08/FriendsS08E06.html",
+      "references/unknown-review/root/S08E06-vo.txt",
+      "references/unknown-review/root/S08E06-vf.txt"
+    ],
+    "source_quote": "Mona: (entering) Hi!",
+    "explanation": "Mona入场问候在Rachel HeyMona之前，后三句是额外Chandler/Mona招呼，没有改变首句身份。原记录将首句一起视为问候错位而漏标，实际上首句明确。",
+    "accessed_at": "2026-10-14T13:30:37.841763+08:00",
+    "source_limitations": "爱好者转录，不是官方原稿，未直接听原音；同源VO/VF/双语稿不算互相独立佐证。采用明确新增标签或修复原有标签漏解析，不依靠邻句猜测。",
+    "file_hashes": {
+      "references/en/S08/FriendsS08E06.html": "7eb39e36bd08b6f8093af5fa5ec08bff3b2df23101829c43cb8b601da982488c",
+      "references/unknown-review/root/S08E06-vo.txt": "b86e9f2aae8f71ad5df7dc65c0a5f308ce2d83d933ee8b7ebc06910f8841fb73",
+      "references/unknown-review/root/S08E06-vf.txt": "f2c9e4bcbfaa5e94a0c300a8b3c5bd7e63fe75b85ffe7610870023c23e4f8434"
+    },
+    "source_metadata": [
+      {
+        "season": 8,
+        "episode": 6,
+        "variant": "vo",
+        "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=806&nav=script&version=vo",
+        "path": "references/unknown-review/root/S08E06-vo.html",
+        "downloaded_at": "2026-10-14T13:14:30.111688+08:00",
+        "bytes": 40048,
+        "sha256": "384381fcfc6bfc988c5c99ddccb5211f0052151414e6c2b4bf364f5c1fd760f4"
+      },
+      {
+        "season": 8,
+        "episode": 6,
+        "variant": "vf",
+        "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=806&nav=script&version=vf",
+        "path": "references/unknown-review/root/S08E06-vf.html",
+        "downloaded_at": "2026-10-14T13:14:29.412192+08:00",
+        "bytes": 43895,
+        "sha256": "f0dc98aa0a9cf284b29a602d541753d7bae17ac93c8cc61cb64d51c4f2bfea1a"
+      }
+    ]
+  },
+  {
+    "season": 8,
+    "episode": 15,
+    "line": 227,
+    "role": "Monica",
+    "body": "好。",
+    "files": [
+      "references/en/S08/FriendsS08E15.html",
+      "references/unknown-review/root/S08E15-vf.txt"
+    ],
+    "source_quote": "Monica: Okay.",
+    "explanation": "EN581行明确独立Monica Okay，位于Chandler I can do that后、录像带塞椅子动作前；Chandler后续Okay属丢掉椅子的下一句。VF同位置Monica Moi aussi。同场景逐句无冲突。",
+    "accessed_at": "2026-10-14T13:30:37.841763+08:00",
+    "source_limitations": "爱好者转录，不是官方原稿，未直接听原音；同源VO/VF/双语稿不算互相独立佐证。采用明确新增标签或修复原有标签漏解析，不依靠邻句猜测。",
+    "file_hashes": {
+      "references/en/S08/FriendsS08E15.html": "4a332dcd3998fb5fc9649704d5165550eb5eab15bd5edf218e7fc44c7d019f61",
+      "references/unknown-review/root/S08E15-vf.txt": "085ea70cec9dc3f96416edd33b15d4751590e3ce4a597873c7a76a75fc6663ef"
+    },
+    "source_metadata": [
+      {
+        "season": 8,
+        "episode": 15,
+        "variant": "vo",
+        "url": "https://www.fanfr.com/scripts/saison8/friendsgeneration2.php?episodescript=815&nav=script&version=vo",
+        "path": "references/unknown-review/root/S08E15-vo.html",
+        "downloaded_at": "2026-10-14T13:14:43.970382+08:00",
+        "bytes": 37293,
+        "sha256": "eaa34df3ad234348882c383b384d3560eae51c0f68e0e6d1373b3a73d0033ec1"
+      },
+      {
+        "season": 8,
+        "episode": 15,
+        "variant": "vf",
+        "url": "https://www.fanfr.com/scripts/saison8vf/friendsgeneration2.php?episodescript=815&nav=script&version=vf",
+        "path": "references/unknown-review/root/S08E15-vf.html",
+        "downloaded_at": "2026-10-14T13:14:43.481846+08:00",
+        "bytes": 38747,
+        "sha256": "decb796d519f06d78e15d63d815a7474ff2341799056687ec9349f0a999b991b"
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "episode": 5,
+    "line": 56,
+    "role": "Monica",
+    "body": "嗯……",
+    "files": [
+      "references/unknown-review/root/S09E05-vo.txt",
+      "references/unknown-review/root/S09E05-vf.txt"
+    ],
+    "url": "https://www.jubenz.com/friends/345/",
+    "source_quote": "Monica: Hmmm.",
+    "explanation": "jubenz缓存154行明确Monica Hmmm；FanfrVO165行Monica Hmhmm ties up、VF170行Monica Euh refermepeignoir，同在Phoebe露胸玩笑后、换衣服话题前。旧本地英文漏句。缓存证据是本轮摘录，不是已下载原始页面。",
+    "accessed_at": "2026-10-14T13:30:37.841763+08:00",
+    "source_limitations": "爱好者转录，不是官方原稿，未直接听原音；同源VO/VF/双语稿不算互相独立佐证。采用明确新增标签或修复原有标签漏解析，不依靠邻句猜测。",
+    "file_hashes": {
+      "references/unknown-review/root/S09E05-vo.txt": "e2eeda56322129ecb56d2fe2b6d67fdd7530efcc832c8fc1606955f60c751964",
+      "references/unknown-review/root/S09E05-vf.txt": "68469f903dd5c0595df3041d342b2ce6e528afe5193735424f5fdf782a96f99a"
+    },
+    "source_metadata": [
+      {
+        "season": 9,
+        "episode": 5,
+        "variant": "vo",
+        "url": "https://www.fanfr.com/scripts/saison9/friendsgeneration2.php?episodescript=905&nav=script&version=vo",
+        "path": "references/unknown-review/root/S09E05-vo.html",
+        "downloaded_at": "2026-10-14T13:14:52.513210+08:00",
+        "bytes": 36464,
+        "sha256": "4e16a9ee1491e385483d281ca4a735b22090a293c5029a6d6e49f03ce7490c8e"
+      },
+      {
+        "season": 9,
+        "episode": 5,
+        "variant": "vf",
+        "url": "https://www.fanfr.com/scripts/saison9vf/friendsgeneration2.php?episodescript=905&nav=script&version=vf",
+        "path": "references/unknown-review/root/S09E05-vf.html",
+        "downloaded_at": "2026-10-14T13:14:52.714907+08:00",
+        "bytes": 40974,
+        "sha256": "2c3d260c65eb6267ba68c3525e9543ead295b642d86c25a332d66c8a1f2a1fee"
+      }
+    ]
+  },
+  {
+    "season": 9,
+    "episode": 8,
+    "line": 42,
+    "role": "Rachel",
+    "body": "啊。",
+    "files": [
+      "references/unknown-review/root/S09E08-vo.txt",
+      "references/unknown-review/root/S09E08-vf.txt"
+    ],
+    "source_quote": "Rachel : Aw.",
+    "explanation": "FanfrVO161行Rachel Aw夹在Amy ohhi和Amy HairStraightener?之间，VF同位置Rachel hola并说明Amy拥抱；旧英文把Amy招呼与问直发器合并，省Rachel反应。新版明确角色，场景顺序吻合。",
+    "accessed_at": "2026-10-14T13:30:37.841763+08:00",
+    "source_limitations": "爱好者转录，不是官方原稿，未直接听原音；同源VO/VF/双语稿不算互相独立佐证。采用明确新增标签或修复原有标签漏解析，不依靠邻句猜测。",
+    "file_hashes": {
+      "references/unknown-review/root/S09E08-vo.txt": "3311f9f52e8aabcb0deef477b28b64f8b451f1d82d1ddb7fd26bdb90b4130ec6",
+      "references/unknown-review/root/S09E08-vf.txt": "26a62b5772d8cac29ec3eaa1947adbf498f3a2e1f569512958fa522dcb69ac10"
+    },
+    "source_metadata": [
+      {
+        "season": 9,
+        "episode": 8,
+        "variant": "vo",
+        "url": "https://www.fanfr.com/scripts/saison9/friendsgeneration2.php?episodescript=908&nav=script&version=vo",
+        "path": "references/unknown-review/root/S09E08-vo.html",
+        "downloaded_at": "2026-10-14T13:14:53.757320+08:00",
+        "bytes": 42455,
+        "sha256": "fdbd666ff54069e6abe1a4eab095ab0d663c28a4f57167e59fab6f552aeee7a9"
+      },
+      {
+        "season": 9,
+        "episode": 8,
+        "variant": "vf",
+        "url": "https://www.fanfr.com/scripts/saison9vf/friendsgeneration2.php?episodescript=908&nav=script&version=vf",
+        "path": "references/unknown-review/root/S09E08-vf.html",
+        "downloaded_at": "2026-10-14T13:14:53.804739+08:00",
+        "bytes": 43525,
+        "sha256": "654efc781c71ba41929f30fd2df3806e498d5b46644c58b676e13f1c74270572"
+      }
+    ]
+  }
+]

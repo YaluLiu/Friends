@@ -1,0 +1,685 @@
+The One With All The Rugby | S04E15 (https://screenscripts.com/friends/s04e15_the_one_with_all_the_rugby/)
+citeturn114view0 [wordlim: 200] Crawled: 3 months ago; Content type: text/html; Source: open({"ref_id":"https://screenscripts.com/friends/s04e15_the_one_with_all_the_rugby/","lineno":null}); Total lines: 1228
+L0: * cite0†Screen Scripts L1: * / cite1†Friends / S04E15 The One With All The Rugby
+L2: 
+L3: cite2†S 1 cite3†S 2 cite4†S 3 cite5†S 4 cite6†S 5 cite7†S 6 cite8†S 7 cite9†S 8 cite10†S 9 cite11†S 10 cite12†S 11 cite13†S 12 cite14†S 13 cite15†S 14 L4: 
+L5: S04E15
+L6: 
+L7: # The One With All The Rugby
+L8: 
+L9: Chandler finds Janice insufferable upon reuniting. Ross plays rugby to impress Emily. Monica fixates on a mysterious light switch.
+L10: 
+L11: 14 Scenes 270 Lines
+L12: 
+L13: ## Scene 1
+L14: 
+L15: 8 lines
+L16: ### A beauty parlour, Rachel is getting a manicure while Chandler, yes Chandler, is getting a petticure (Does that scare you that I know those terms? Well, it scares me.).
+L17: 
+L18:   * cite16†Image: chandler L19:   * Chandler:
+L20: 
+L21: Y'know, I can't believe I'm getting my nails done! And you said it was gonna be fun! (pause) Which it kinda is. Also, you said there would be other guys here. There are no other guys here!
+L22: 
+L23:   * cite17†Image: rachel L24:   * Rachel:
+L25: 
+L26: Chandler, there's a guy right over there. (Points to the counter)
+L27:   * cite18†Image: chandler L28:   * Chandler:
+L29: 
+L30: That's a mailman! That's our mailman! (Waves to the mailman) (Sarcastic) Hi. How are ya?
+L31: 
+L32:   * cite19†Image: rachel L33:   * Rachel:
+L34: 
+L35: Chandler, don't worry! This doesn't make you any less of a guy! (Chandler starts blowing on his fingernails like women do.) That does! (Chandler stops blowing.) What am I sitting on? (She looks and finds a huge nail.) I hate to think what this woman was scratching when this broke off.
+L36: 
+L37:   * cite20†Image: chandler L38:   * Chandler:
+L39: Hey, you know who used to have nails like that?
+L40: 
+L41:   * cite21†Image: rachel L42:   * Rachel:
+L43: 
+L44: Hmm.
+L45: 
+L46:   *   * Woman:
+L47: 
+L48: OH...MY...GAWD!! (Yep, you guessed it. It's Janice.)
+L49: 
+L50:   *   * OPENING CREDITS
+L51: ## Scene 2
+L52: 
+L53: 36 lines
+L54: ### Chandler and Joey's erm, Monica and Rachel's, Rachel and Joey are standing at the counter. Monica is flipping a light switch on and off next to the door.
+L55: 
+L56:   * cite22†Image: monica L57:   * Monica:
+L58: 
+L59: Joey let me ask you a question. What does this light switch do?
+L60: 
+L61:   * cite23†Image: joey L62:   * Joey:
+L63: 
+L64: Ohh, Nothing.
+L65: 
+L66:   * cite24†Image: monica L67:   * Monica:
+L68: 
+L69: Didn't it drive you crazy to have a switch and not know what it did?
+L70: 
+L71:   * cite25†Image: joey L72:   * Joey:
+L73: 
+L74: I know what it did! Nothing.
+L75: 
+L76:   * cite26†Image: monica L77:   * Monica:
+L78: They wouldn't have put it there if it didn't do something! How can you not care?
+L79: 
+L80:   * cite27†Image: joey L81:   * Joey:
+L82: 
+L83: Like this. (Shrugs)
+L84: 
+L85:   * cite28†Image: rachel L86:   * Rachel:
+L87: 
+L88: Well, here's another question for ya. Uhh, do you know what that silver knob on the toilet does?
+L89: 
+L90:   * cite29†Image: joey L91:   * Joey:
+L92: 
+L93: Sure! It flushes it.
+L94: 
+L95:   * cite30†Image: rachel L96:   * Rachel:
+L97: 
+L98: Okay, good. Now that since you know, when you come over would you mind actually using it?
+L99: 
+L100:   * cite31†Image: chandler L101:   * Chandler:
+L102: (entering, with Janice in tow) Hello!
+L103: 
+L104:   * cite32†Image: joey L105:   * Joey:
+L106: 
+L107: Hey! (Sees Janice.) Ah!! (Janice screams in surprise.)
+L108: 
+L109:   * cite33†Image: rachel L110:   * Rachel:
+L111: 
+L112: Guess who we ran into today?!
+L113: 
+L114:   * cite34†Image: monica L115:   * Monica:
+L116: 
+L117: Janice?!
+L118: 
+L119:   * cite35†Image: chandler L120:   * Chandler:
+L121: 
+L122: Isn't this amazing?
+L123: 
+L124:   * cite36†Image: monica L125:   * Monica:
+L126: 
+L127: How have you been?
+L128: 
+L129:   *   * Janice:
+L130: 
+L131: Oh well, I'm divorced.
+L132: 
+L133:   * cite37†Image: phoebe L134:   * Phoebe:
+L135: 
+L136: Ohhh, wow.
+L137: 
+L138:   *   * Janice:
+L139: Yeah, I'm riding the alimony pony. (Does the now famous laugh.)
+L140: 
+L141:   * cite38†Image: joey L142:   * Joey:
+L143: 
+L144: And there it is.
+L145: 
+L146:   *   * Janice:
+L147: 
+L148: I just came up to say, "Hi!" Hi! (to Chandler) And you, sweetie, I'll see you tonight.
+L149: 
+L150:   * cite39†Image: chandler L151:   * Chandler:
+L152: 
+L153: Okay. Bye.
+L154: 
+L155:   *   * Janice:
+L156: 
+L157: Bye.
+L158: 
+L159:   * cite40†Image: chandler L160:   * Chandler:
+L161: 
+L162: Bye.
+L163: 
+L164:   *   * Janice:
+L165: 
+L166: Bye.
+L167: 
+L168:   * cite41†Image: chandler L169:   * Chandler:
+L170: 
+L171: Bye.
+L172: 
+L173:   *   * Janice:
+L174: 
+L175: Bye.
+L176: 
+L177:   * cite42†Image: chandler L178:   * Chandler:
+L179: 
+L180: B-bye!
+L181: 
+L182:   *   * Janice:
+L183: 
+L184: Bye-bye.
+L185:   * cite43†Image: chandler L186:   * Chandler:
+L187: 
+L188: Bye. (Finally closes the door on her.) (After it's closed) I can't stand the woman! (Phoebe is shocked, Joey is relieved.)
+L189: 
+L190:   * cite44†Image: phoebe L191:   * Phoebe:
+L192: 
+L193: What?! I thought you were crazy about her!
+L194: 
+L195:   * cite45†Image: chandler L196:   * Chandler:
+L197: 
+L198: Yeah, I know, but all of those little annoying things she did before we fell in love? Like her voice, her laugh, her personality-Well, they're all back! Y'know? And she's picked up like nine new ones!
+L199:   * cite46†Image: joey L200:   * Joey:
+L201: 
+L202: So what are you doing bringing her here?! There's people here!
+L203: 
+L204:   * cite47†Image: chandler L205:   * Chandler:
+L206: 
+L207: Don't worry about it. I'm taking care of it tonight. (Chandler opens the fridge and grabs something to drink.)
+L208: 
+L209:   * cite48†Image: rachel L210:   * Rachel:
+L211: 
+L212: You are not. You have never been able to break up with her.
+L213: 
+L214:   * cite49†Image: chandler L215:   * Chandler:
+L216: (standing in the door of the fridge) Well, I don't have to break up with her this time. We're not involved! I'm going to do a pre-emptive strike! I'm going to end it with her before it starts. My ass is like frozen! (Closes the fridge.)
+L217: 
+L218:   * cite50†Image: joey L219:   * Joey:
+L220: 
+L221: Yeah, try sticking it in the freezer for 20 minutes. (They all look around and then back at Joey.) I'm tellin' ya!
+L222: ## Scene 3
+L223: 
+L224: 24 lines
+L225: ### A street, Ross and Emily are walking home from a date.
+L226: 
+L227:   *   * Emily:
+L228: 
+L229: I can't believe you really walk alone here! I mean, you hear such stories about New York.
+L230: 
+L231:   * cite51†Image: ross L232:   * Ross:
+L233: 
+L234: No, it's really not that bad. I mean, I-I for one, feel perfectly safe.
+L235: 
+L236:   *   * (At that moment two very large men start screaming and running towards Emily and picking her up.)
+L237: 
+L238:   * cite52†Image: ross L239:   * Ross:
+L240: 
+L241: Help! Help!! Help! Help!!
+L242: 
+L243:   *   * Emily:
+L244: No, no, no Ross! Ross, these are friends of mine from home. (Introducing them) Liam, Devon, this is Ross.
+L245: 
+L246:   *   * Devon:
+L247: 
+L248: Hey, mate.
+L249: 
+L250:   *   * Liam:
+L251: 
+L252: How are ya man?
+L253: 
+L254:   * cite53†Image: ross L255:   * Ross:
+L256: 
+L257: Oh hey, that was a good one, huh? (Imitating himself) Help! Help!
+L258: 
+L259:   *   * Emily:
+L260: 
+L261: So how are you? I've been meaning to ring you ever since I arrived but umm, well, I've been rather busy.
+L262: 
+L263:   *   * Devon:
+L264: 
+L265: Do you realise that we have not seen each other since the night of that U2 concert?
+L266: 
+L267:   *   * Emily:
+L268: Oh my God. I think you're right.
+L269: 
+L270:   *   * Liam:
+L271: 
+L272: (puts his arm around her) Well, actually the last time you and I saw each other was that morning.
+L273: 
+L274:   *   * Emily:
+L275: 
+L276: Oh, Liam. (Ross laughs and takes her back.)
+L277: 
+L278:   * cite54†Image: ross L279:   * Ross:
+L280: 
+L281: Oh, Liam. So uh, what, were you guys playing soccer or something-or should I call it (In an English accent) football?
+L282: 
+L283:   *   * Devon:
+L284: 
+L285: We were playing rugby.
+L286: 
+L287:   *   * Liam:
+L288: 
+L289: In fact we're playing a game at the park tomorrow. You're welcome to play too if you want.
+L290:   *   * Emily:
+L291: 
+L292: (laughs) Ross play rugby? I don't think so.
+L293: 
+L294:   * cite55†Image: ross L295:   * Ross:
+L296: 
+L297: What's ah, what's so funny about that?
+L298: 
+L299:   *   * Emily:
+L300: 
+L301: Well I mean, you're American to start with. You don't even have rugby here.
+L302: 
+L303:   * cite56†Image: ross L304:   * Ross:
+L305: 
+L306: Well, we didn't have freedom here until 1776, either so...
+L307: 
+L308:   *   * Devon:
+L309: 
+L310: So good then! We'll see you at Riverside Park at 2:00! Cheers!
+L311: 
+L312:   *   * Liam:
+L313: 
+L314: Cheers!
+L315: 
+L316:   * cite57†Image: ross L317:   * Ross:
+L318: 
+L319: Cheers!
+L320:   *   * (Liam and Devon both take a swig of their beers, while Ross takes a swig of his coffee. The Brits both crush their cans, and not to be out done, Ross crushes his coffee cup, spilling its contents.)
+L321: ## Scene 4
+L322: 
+L323: 16 lines
+L324: ### Central Perk, Chandler is attempting his pre-emptive strike.
+L325: 
+L326:   *   * Janice:
+L327: 
+L328: Oh boy, I just love to sing!
+L329: 
+L330:   * cite58†Image: chandler L331:   * Chandler:
+L332: 
+L333: Yes, I-I know that you do, but I think one of the reasons people were complaining though, was that they paid to hear the actor sing Old Man River.
+L334: 
+L335:   *   * Janice:
+L336: 
+L337: Oh, look at us! Who would've thought that Cupid had a station at 14th Street Nails. (Does the laugh)
+L338: 
+L339:   * cite59†Image: chandler L340:   * Chandler:
+L341: (laughs) Okay, we have to talk. I'm just getting out of a very serious relationship...
+L342: 
+L343:   *   * Janice:
+L344: 
+L345: I know! And I'm just getting out of a marriage, I mean talk about meant to be!
+L346: 
+L347:   * cite60†Image: chandler L348:   * Chandler:
+L349: 
+L350: Right! I just think that this is happening too soon.
+L351: 
+L352:   *   * Janice:
+L353: 
+L354: Oh, too soon, too schmoon. Face it honey, I am not letting you get away this time.
+L355: 
+L356:   * cite61†Image: chandler L357:   * Chandler:
+L358: 
+L359: I hear ya. (Pause) But! Unfortunately, my company is transferring me overseas!
+L360:   *   * Janice:
+L361: 
+L362: Oh no! Where to? (Gasps) Too Paris?
+L363: 
+L364:   * cite62†Image: chandler L365:   * Chandler:
+L366: 
+L367: No! No! Not, Paris.
+L368: 
+L369:   *   * Janice:
+L370: 
+L371: Too London? No-no, Rome? Vienna? Ooh-ooh, Barcelona?
+L372: 
+L373:   * cite63†Image: chandler L374:   * Chandler:
+L375: 
+L376: Okay, could you just stop talking for a second? (Thinks) Yemen. That's right, yes, I'm being transferred to Yemen!
+L377: 
+L378:   *   * Janice:
+L379: 
+L380: When?
+L381: 
+L382:   * cite64†Image: chandler L383:   * Chandler:
+L384: 
+L385: I don't know exactly.
+L386: 
+L387:   *   * Janice:
+L388: Ugh, well I will just have to soak up every once of Chandler Bing until that moment comes.
+L389: 
+L390:   * cite65†Image: chandler L391:   * Chandler:
+L392: 
+L393: But I do know that it's some time tomorrow.
+L394: ## Scene 5
+L395: 
+L396: 10 lines
+L397: ### Chandler and Joey's erm, Monica and Rachel's, Phoebe and Monica are plugging in a bunch of electronics.
+L398: 
+L399:   * cite66†Image: monica L400:   * Monica:
+L401: 
+L402: Done?
+L403: 
+L404:   * cite67†Image: phoebe L405:   * Phoebe:
+L406: 
+L407: Yep!
+L408: 
+L409:   * cite68†Image: rachel L410:   * Rachel:
+L411: 
+L412: (entering, with Joey) Hey!
+L413: 
+L414:   * cite69†Image: joey L415:   * Joey:
+L416: 
+L417: Hey! What's up?
+L418: 
+L419:   * cite70†Image: monica L420:   * Monica:
+L421: This switch thing has been driving me crazy. So I turned it off and checked every outlet. Now, four of them don't work. Which means, one of them has to be controlled by the switch. So, I plugged in things in all four of the outlets that-that make noise, so that way, when I turn it on I just follow the noise and find out which one it is.
+L422: 
+L423:   * cite71†Image: joey L424:   * Joey:
+L425: 
+L426: (to Rachel) I bet I stopped listening before you did.
+L427: 
+L428:   * cite72†Image: rachel L429:   * Rachel:
+L430: Y'know, you-you also could've used uh, lamps and then followed the light.
+L431: 
+L432:   * cite73†Image: monica L433:   * Monica:
+L434: 
+L435: Yeah, well, I'm using noise. Okay. All right! So, is everybody ready? Here we go. (She flips on the switch and a hum starts.) I hear something! I hear something! Where is it? (They all start looking until Rachel realises it's Joey.)
+L436: 
+L437:   * cite74†Image: rachel L438:   * Rachel:
+L439: 
+L440: It's coming from Joey!
+L441: 
+L442:   * cite75†Image: phoebe L443:   * Phoebe:
+L444: 
+L445: Oh my God, that's so freaky! Turn him off!!
+L446: ## Scene 6
+L447: 
+L448: 38 lines
+L449: ### Monica and Rachel's erm, Chandler and Joey's, Ross, Joey, and Rachel are watching rugby on TV as Phoebe enters.
+L450: 
+L451:   * cite76†Image: phoebe L452:   * Phoebe:
+L453: 
+L454: Ooh, hey, could we put on the news? I think it might be raining.
+L455: 
+L456:   * cite77†Image: ross L457:   * Ross:
+L458: 
+L459: Oh, just hold on a second. I'm watching this rugby thing on ESPN. I don't know what the big deal is. I'm man enough to play this sport.
+L460: 
+L461:   * cite78†Image: joey L462:   * Joey:
+L463: 
+L464: Dude, you're not even man enough to order the channel that carries the sport.
+L465:   *   * Janice:
+L466: 
+L467: (entering) Hey there Ross!
+L468: 
+L469:   * cite79†Image: ross L470:   * Ross:
+L471: 
+L472: (shocked) Hey!
+L473: 
+L474:   * cite80†Image: phoebe L475:   * Phoebe:
+L476: 
+L477: (whispering to Ross) Janice.
+L478: 
+L479:   * cite81†Image: chandler L480:   * Chandler:
+L481: 
+L482: Y'know uh, you didn't really have to help me pack.
+L483: 
+L484:   *   * Janice:
+L485: 
+L486: Ohh, well when you said all you were going to be doing between now and the time you leave is packing, you didn't really leave me much choice. Did you?
+L487: 
+L488:   * cite82†Image: chandler L489:   * Chandler:
+L490: 
+L491: Well, I-I thought I did but, I-I guess I did not!
+L492:   * cite83†Image: joey L493:   * Joey:
+L494: 
+L495: Hey-hey, what's going on?
+L496: 
+L497:   * cite84†Image: chandler L498:   * Chandler:
+L499: 
+L500: Oh, I'm packing. Y'know I'm-I'm packing 'cause I'm moving to Yemen tomorrow.
+L501: 
+L502:   * cite85†Image: joey L503:   * Joey:
+L504: 
+L505: Thanks for telling me!
+L506: 
+L507:   *   * (Janice runs into the bedroom.)
+L508: 
+L509:   * cite86†Image: chandler L510:   * Chandler:
+L511: 
+L512: I'm only going to pretend I'm moving to Yemen, it's the only way I can get rid off her.
+L513: 
+L514:   * cite87†Image: joey L515:   * Joey:
+L516: 
+L517: Ohhhh, good one! And Yemen that actually sounds like a real country.
+L518:   *   * Janice:
+L519: 
+L520: (leaning in from the bedroom) Chandler! Come on, I'm gonna show how to roll up your underwear and stuff it in your shoes. It's a real space saver.
+L521: 
+L522:   * cite88†Image: phoebe L523:   * Phoebe:
+L524: 
+L525: Yeah, I know, I do that 'cause it makes me look taller.
+L526: 
+L527:   *   * Janice:
+L528: 
+L529: Okay, Chandler, come on!
+L530: 
+L531:   * cite89†Image: chandler L532:   * Chandler:
+L533: 
+L534: (to Janice) Okay. (to Joey) Joey, trade lives with me!
+L535: 
+L536:   * cite90†Image: joey L537:   * Joey:
+L538: Nope. (To Ross) Man look at this! Ross, I can't believe you said you'd play rugby. I mean look how brutal this is!
+L539: 
+L540:   * cite91†Image: ross L541:   * Ross:
+L542: 
+L543: Hey, I can handle it! All right?
+L544: 
+L545:   * cite92†Image: rachel L546:   * Rachel:
+L547: 
+L548: Please, Ross, you-you got hurt playing badminton with my dad.
+L549: 
+L550:   * cite93†Image: ross L551:   * Ross:
+L552: 
+L553: That's 'cause-'cause you're mom's dog kept-kept looking at me.
+L554: 
+L555:   * cite94†Image: joey L556:   * Joey:
+L557: (pointing to the TV) Okay, Ross, look-look-look-look, look right here. That's called a scrum, okay? It's kinda like a huddle.
+L558: 
+L559:   * cite95†Image: ross L560:   * Ross:
+L561: 
+L562: And is a hum, kinda like a scruddle?
+L563: 
+L564:   * cite96†Image: joey L565:   * Joey:
+L566: 
+L567: Ross! (Laughs) They're gonna kill you!
+L568: 
+L569:   * cite97†Image: phoebe L570:   * Phoebe:
+L571: 
+L572: Well, why are you doing this anyway?
+L573: 
+L574:   * cite98†Image: ross L575:   * Ross:
+L576: 
+L577: Well, you should've seen the guy that she used to go out with. I mean, he's like Joe Rugby.
+L578: 
+L579:   * cite99†Image: phoebe L580:   * Phoebe:
+L581: You're kidding! And he plays rugby?! That's so funny. (Realises) Ohh! I see how you did that. All right.
+L582: 
+L583:   * cite100†Image: ross L584:   * Ross:
+L585: 
+L586: Anyway, she thought the very idea of me playing rugby with him was like hilarious. So I'm gonna show her how tough I really am!
+L587: 
+L588:   * cite101†Image: rachel L589:   * Rachel:
+L590: 
+L591: (starts laughing, Ross stares at her) I'm sorry. I'm sorry. You're right, you are a tough guy. You're the toughest palaeontologist I know.
+L592: 
+L593:   * cite102†Image: joey L594:   * Joey:
+L595: All right, come on look, Ross can take care of himself! It's not like he's...Chandler!
+L596: 
+L597:   * cite103†Image: chandler L598:   * Chandler:
+L599: 
+L600: (from his bedroom) Thanks!
+L601: 
+L602:   * cite104†Image: ross L603:   * Ross:
+L604: 
+L605: Look, don't worry about me. Okay? I'll just stay real energetic and stay away from the ball. I'll uh, I'll be that guy right out of the circle. (He points to a player who starts running and then gets viscously tackled from behind.)
+L606: 
+L607:   *   * Everyone:
+L608: 
+L609: Oh!
+L610: 
+L611:   * cite105†Image: rachel L612:   * Rachel:
+L613: Oh, well maybe there was a dog lookin' at him.
+L614: 
+L615:   *   * (Ross turns and wants to attack Rachel, but Joey stops him.)
+L616: 
+L617:   *   * COMMERCIAL BREAK
+L618: ## Scene 7
+L619: 
+L620: 26 lines
+L621: ### The park, everyone is warming up for the rugby game. Only Joey and Phoebe came to support Ross.
+L622: 
+L623:   * cite106†Image: joey L624:   * Joey:
+L625: 
+L626: Ross-Ross-Ross-Ross! Stay away from that guy (Points), and that guy (Points). And that one-Dude! They're all huge!
+L627: 
+L628:   * cite107†Image: ross L629:   * Ross:
+L630: 
+L631: They don't look any bigger than me!
+L632: 
+L633:   * cite108†Image: joey L634:   * Joey:
+L635: 
+L636: Well, maybe that's because you're closer to you. So you look bigger to you from where you are.
+L637: 
+L638:   *   * Emily:
+L639: I'm just going to say hi to the lads. All right?
+L640: 
+L641:   * cite109†Image: ross L642:   * Ross:
+L643: 
+L644: All right.
+L645: 
+L646:   *   * Emily:
+L647: 
+L648: Okay. (Goes to say hi to the lads.)
+L649: 
+L650:   *   * (A player comes over and picks up a ball in front of Phoebe.)
+L651: 
+L652:   * cite110†Image: phoebe L653:   * Phoebe:
+L654: 
+L655: (to the player) Hi.
+L656: 
+L657:   *   * (The player stands up and smiles. Showing that he has no front teeth.)
+L658: 
+L659:   * cite111†Image: phoebe L660:   * Phoebe:
+L661: 
+L662: Whoa! (The player leaves and to Joey) I kinda liked it.
+L663:   *   * (The referee blows the whistle and the players gather to start the game.)
+L664: 
+L665:   * cite112†Image: ross L666:   * Ross:
+L667: 
+L668: Okay, I know what I have to do. I've got to go Red Ross. (Joey and Phoebe don't know what he's talking about.) Y'know, Red Ross!
+L669: 
+L670:   * cite113†Image: joey L671:   * Joey:
+L672: 
+L673: I totally don't know what you're talking about.
+L674: 
+L675:   * cite114†Image: ross L676:   * Ross:
+L677: Come on! The time we were all waiting in line for Dances With Wolves and that one guy cut in line in front of us and I just lost it?! Screamed at him! Turned all red! Red Ross!!
+L678: 
+L679:   * cite115†Image: joey L680:   * Joey:
+L681: 
+L682: No.
+L683: 
+L684:   * cite116†Image: ross L685:   * Ross:
+L686: 
+L687: You'll see.
+L688: 
+L689:   *   * [Cut to Emily, Devon, and Liam]
+L690: 
+L691:   *   * Emily:
+L692: 
+L693: Liam, do me a favour. Tell the lads to go easy on Ross, it's his first time.
+L694: 
+L695:   *   * Liam:
+L696: 
+L697: You don't say! (We see Ross who is hopping about with the ball and spikes it in his face.)
+L698:   *   * Emily:
+L699: 
+L700: (to Ross) Good luck, babe.
+L701: 
+L702:   *   * (The scrum forms and the game is underway.)
+L703: 
+L704:   *   * Liam:
+L705: 
+L706: Ross! Ross! Come on! Get in here! (Ross gets pumped up.) Ross! Come on!
+L707: 
+L708:   *   * (Ross walks over to the scrum, walks around a bit looking for a way to get into the scrum.)
+L709: 
+L710:   *   * Liam:
+L711: 
+L712: Ross, come on! Get in the bloody scrum! Ross, get in!
+L713: 
+L714:   *   * (Ross, urged on by his team-mates, jumps on top of the scrum and falls headfirst into the middle, leaving his feet sticking straight up.)
+L715:   * cite117†Image: ross L716:   * Ross:
+L717: 
+L718: JOEY!!!!!!
+L719: ## Scene 8
+L720: 
+L721: 9 lines
+L722: ### Chandler and Joey's erm, Monica and Rachel's, Monica is going over some plans as Rachel enters.
+L723: 
+L724:   * cite118†Image: rachel L725:   * Rachel:
+L726: 
+L727: You...are...not going to believe it! Joshua came into work today, and guess what happened?
+L728: 
+L729:   * cite119†Image: monica L730:   * Monica:
+L731: 
+L732: He asked you out?!
+L733: 
+L734:   * cite120†Image: rachel L735:   * Rachel:
+L736: 
+L737: No. But I was showing him some cufflinks and I felt his pulse.
+L738: 
+L739:   * cite121†Image: monica L740:   * Monica:
+L741: 
+L742: Saucy!
+L743: 
+L744:   * cite122†Image: rachel L745:   * Rachel:
+L746: 
+L747: (refers to the table) What are these?
+L748:   * cite123†Image: monica L749:   * Monica:
+L750: 
+L751: Electrical plans for the building.
+L752: 
+L753:   * cite124†Image: rachel L754:   * Rachel:
+L755: 
+L756: Okay, okay, okay should I be scared?
+L757: 
+L758:   * cite125†Image: monica L759:   * Monica:
+L760: 
+L761: I know that switch does something, okay? So-so I went down to city hall and got these. All I had to do was pay $25 and wait in line for three hours.
+L762: 
+L763:   * cite126†Image: rachel L764:   * Rachel:
+L765: 
+L766: Wow! If only more people knew.
+L767: ## Scene 9
+L768: 
+L769: 14 lines
+L770: ### The airport, the Yemen Express counter, Chandler is still trying to get rid of Janice.
+L771: 
+L772:   * cite127†Image: chandler L773:   * Chandler:
+L774: 
+L775: Y'know you, really didn't have to take me to the airport.
+L776: 
+L777:   *   * Janice:
+L778: 
+L779: Oh please. Every moment is precious. Y'know? Besides, somebody had to ride in that other taxi with the rest of your luggage, and your friends don't really seem to care too much that you're leaving.
+L780: 
+L781:   * cite128†Image: chandler L782:   * Chandler:
+L783: Well, we're really not that close. (Pause) Okay, so I guess this is uh, good-bye then.
+L784: 
+L785:   *   * Janice:
+L786: 
+L787: On no! No! It's not good-bye, I'm not leaving until you get on that plane.
+L788: 
+L789:   * cite129†Image: chandler L790:   * Chandler:
+L791: 
+L792: Okay. Then I guess it's just, wait here then. (Hands her the sign that says, Wait Here.") (To the ticket agent) Hi. I need one fake ticket to Yemen.
+L793: 
+L794:   *   * Ticket Counter Attendant:
+L795: 
+L796: One ticket to Yemen?
+L797: 
+

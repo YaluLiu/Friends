@@ -1,0 +1,1088 @@
+Friends 227422 Episode Script | SS
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+        @charset "UTF-8";:root{--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#ced4da;--bs-gray-500:#adb5bd;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#343a40;--bs-gray-900:#212529;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-primary-rgb:13,110,253;--bs-secondary-rgb:108,117,125;--bs-success-rgb:25,135,84;--bs-info-rgb:13,202,240;--bs-warning-rgb:255,193,7;--bs-danger-rgb:220,53,69;--bs-light-rgb:248,249,250;--bs-dark-rgb:33,37,41;--bs-white-rgb:255,255,255;--bs-black-rgb:0,0,0;--bs-body-color-rgb:33,37,41;--bs-body-bg-rgb:255,255,255;--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;--bs-gradient:linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));--bs-body-font-family:var(--bs-font-sans-serif);--bs-body-font-size:1rem;--bs-body-font-weight:400;--bs-body-line-height:1.5;--bs-body-color:#212529;--bs-body-bg:#fff}*,::after,::before{box-sizing:border-box}@media (prefers-reduced-motion:no-preference){:root{scroll-behavior:smooth}}body{margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%}h1,h3{margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2}h1{font-size:calc(1.375rem + 1.5vw)}@media (min-width:1200px){h1{font-size:2.5rem}}h3{font-size:calc(1.3rem + .6vw)}@media (min-width:1200px){h3{font-size:1.75rem}}ul{padding-left:2rem}ul{margin-top:0;margin-bottom:1rem}ul ul{margin-bottom:0}a{color:#0d6efd;text-decoration:underline}button{border-radius:0}button{margin:0;font-family:inherit;font-size:inherit;line-height:inherit}button{text-transform:none}[type=button],button{-webkit-appearance:button}::-moz-focus-inner{padding:0;border-style:none}::-webkit-datetime-edit-day-field,::-webkit-datetime-edit-fields-wrapper,::-webkit-datetime-edit-hour-field,::-webkit-datetime-edit-minute,::-webkit-datetime-edit-month-field,::-webkit-datetime-edit-text,::-webkit-datetime-edit-year-field{padding:0}::-webkit-inner-spin-button{height:auto}::-webkit-search-decoration{-webkit-appearance:none}::-webkit-color-swatch-wrapper{padding:0}::-webkit-file-upload-button{font:inherit}::file-selector-button{font:inherit}::-webkit-file-upload-button{font:inherit;-webkit-appearance:button}.container{width:100%;padding-right:var(--bs-gutter-x,.75rem);padding-left:var(--bs-gutter-x,.75rem);margin-right:auto;margin-left:auto}@media (min-width:576px){.container{max-width:540px}}@media (min-width:768px){.container{max-width:720px}}@media (min-width:992px){.container{max-width:960px}}@media (min-width:1200px){.container{max-width:1140px}}.row{--bs-gutter-x:1.5rem;--bs-gutter-y:0;display:flex;flex-wrap:wrap;margin-top:calc(-1 * var(--bs-gutter-y));margin-right:calc(-.5 * var(--bs-gutter-x));margin-left:calc(-.5 * var(--bs-gutter-x))}.row>*{flex-shrink:0;width:100%;max-width:100%;padding-right:calc(var(--bs-gutter-x) * .5);padding-left:calc(var(--bs-gutter-x) * .5);margin-top:var(--bs-gutter-y)}@media (min-width:992px){.col-lg-2{flex:0 0 auto;width:16.66666667%}.col-lg-8{flex:0 0 auto;width:66.66666667%}.col-lg-12{flex:0 0 auto;width:100%}}.collapse:not(.show){display:none}.dropdown{position:relative}.dropdown-toggle{white-space:nowrap}.dropdown-toggle::after{display:inline-block;margin-left:.255em;vertical-align:.255em;content:"";border-top:.3em solid;border-right:.3em solid transparent;border-bottom:0;border-left:.3em solid transparent}.dropdown-menu{position:absolute;z-index:1000;display:none;min-width:10rem;padding:.5rem 0;margin:0;font-size:1rem;color:#212529;text-align:left;list-style:none;background-color:#fff;background-clip:padding-box;border:1px solid rgba(0,0,0,.15);border-radius:.25rem}.dropdown-item{display:block;width:100%;padding:.25rem 1rem;clear:both;font-weight:400;color:#212529;text-align:inherit;text-decoration:none;white-space:nowrap;background-color:transparent;border:0}.nav-link{display:block;padding:.5rem 1rem;color:#0d6efd;text-decoration:none}.navbar{position:relative;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;padding-top:.5rem;padding-bottom:.5rem}.navbar>.container{display:flex;flex-wrap:inherit;align-items:center;justify-content:space-between}.navbar-brand{padding-top:.3125rem;padding-bottom:.3125rem;margin-right:1rem;font-size:1.25rem;text-decoration:none;white-space:nowrap}.navbar-nav{display:flex;flex-direction:column;padding-left:0;margin-bottom:0;list-style:none}.navbar-nav .nav-link{padding-right:0;padding-left:0}.navbar-nav .dropdown-menu{position:static}.navbar-collapse{flex-basis:100%;flex-grow:1;align-items:center}.navbar-toggler{padding:.25rem .75rem;font-size:1.25rem;line-height:1;background-color:transparent;border:1px solid transparent;border-radius:.25rem}.navbar-toggler-icon{display:inline-block;width:1.5em;height:1.5em;vertical-align:middle;background-repeat:no-repeat;background-position:center;background-size:100%}@media (min-width:992px){.navbar-expand-lg{flex-wrap:nowrap;justify-content:flex-start}.navbar-expand-lg .navbar-nav{flex-direction:row}.navbar-expand-lg .navbar-nav .dropdown-menu{position:absolute}.navbar-expand-lg .navbar-nav .nav-link{padding-right:.5rem;padding-left:.5rem}.navbar-expand-lg .navbar-collapse{display:flex!important;flex-basis:auto}.navbar-expand-lg .navbar-toggler{display:none}}.navbar-dark .navbar-brand{color:#fff}.navbar-dark .navbar-nav .nav-link{color:rgba(255,255,255,.55)}.navbar-dark .navbar-toggler{color:rgba(255,255,255,.55);border-color:rgba(255,255,255,.1)}.navbar-dark .navbar-toggler-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.55%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e")}.d-block{display:block!important}.d-flex{display:flex!important}.d-none{display:none!important}.w-100{width:100%!important}.h-100{height:100%!important}.flex-column{flex-direction:column!important}.flex-grow-1{flex-grow:1!important}.flex-shrink-0{flex-shrink:0!important}.flex-nowrap{flex-wrap:nowrap!important}.mt-2{margin-top:.5rem!important}.mb-2{margin-bottom:.5rem!important}.p-3{padding:1rem!important}.px-2{padding-right:.5rem!important;padding-left:.5rem!important}.text-center{text-align:center!important}.text-dark{--bs-text-opacity:1;color:rgba(var(--bs-dark-rgb),var(--bs-text-opacity))!important}.text-white{--bs-text-opacity:1;color:rgba(var(--bs-white-rgb),var(--bs-text-opacity))!important}.bg-dark{--bs-bg-opacity:1;background-color:rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important}@media (min-width:992px){.d-lg-block{display:block!important}.d-lg-none{display:none!important}}@media (min-width:1200px){.d-xl-block{display:block!important}}body{background-color:#fed41e}.navbar-brand{font-size:18px;font-weight:700;color:#fed41e!important}.container{max-width:960px}h1{text-align:center}.scrolling-script-container{height:600px;overflow:scroll;width:99%;border:1px solid #000;padding:4px;margin-top:5px}.breadcrumbs{font-size:12px;margin-bottom:10px}.scrolling-script-container{font-size:14px}a{color:#fff}@media screen and (min-width:800px){.top-row{height:370px}}.topblock{display:none}@media screen and (max-width:480px){.topblock{display:block}}@media screen and (max-width:768px){.topblock{display:block}}
+        
+    
+
+
+
+    
+        window._taboola = window._taboola || [];
+        _taboola.push({category: 'auto'});
+        !function (e, f, u, i) {
+            if (!document.getElementById(i)) {
+                e.async = 1;
+                e.src = u;
+                e.id = i;
+                f.parentNode.insertBefore(e, f);
+            }
+        }(document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            '//cdn.taboola.com/libtrc/springfield/loader.js',
+            'tb_loader_script');
+        if (window.performance && typeof window.performance.mark == 'function') {
+            window.performance.mark('tbl_ic');
+        }
+    
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    body {
+        background-color: #fed41e;
+    }
+
+    .navbar-brand {
+        font-size: 18px;
+        font-weight: bold;
+        color: #fed41e !important;
+    }
+
+    .container {
+        max-width: 960px;
+    }
+
+    h1 {
+
+        text-align: center;
+    }
+
+    table {
+        font-size: 14px;
+
+    }
+
+    .pagination2 .active {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700
+    }
+
+    .pagination2 .active, .pagination2 a {
+        padding: 6px 12px;
+        border: 1px solid #333
+    }
+
+    .pagination2 {
+        margin-bottom: 20px
+    }
+
+    .pagination2 .active {
+        background-color: #333;
+        color: #fff
+    }
+
+    .pagination2 .dotted, .pagination2 a {
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 700;
+        color: #333
+    }
+
+    .pagination2 a:hover {
+        background-color: #333;
+        color: #fff;
+        border: 1px solid #333
+    }
+
+    .script-count {
+        margin: 20px auto;
+        text-align: center
+    }
+
+    .scrolling-script-container {
+        height: 600px;
+        overflow: scroll;
+        width: 99%;
+        border: 1px solid #000;
+        padding: 4px;
+        margin-top: 5px;
+    }
+
+    .breadcrumbs {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links {
+        text-align: center;
+        padding: 5px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .script-season-links a {
+        font-size: 12px;
+        text-decoration: none;
+        color: #333
+    }
+
+
+    .script-season-links .active, .script-season-links a {
+        width: 29px;
+        /*height: 15px;*/
+        /*line-height: 15px;*/
+        padding: 6px;
+        text-decoration: none;
+        font-weight: 700;
+        display: inline-block
+    }
+
+    .script-season-links a {
+        margin: 1px;
+        color: #333;
+        border: 1px solid #333
+    }
+
+    .script-season-links .active, .script-season-links a:hover {
+        color: #fff;
+        border: 1px solid #333;
+        background-color: #333
+    }
+
+    .season-episode-title {
+        font-size: 12px
+    }
+
+    .related-links {
+        text-align: center;
+        font-size: 13px
+    }
+
+    .scrolling-script-container {
+        font-size: 14px;
+
+    }
+
+    .script-list-item {
+        font-size: 14px;
+        background: #333;
+        color: #fff;
+        margin: 5px auto;
+        border-radius: 10px;
+        padding: 5px;
+        font-weight: 700;
+        display: block;
+        text-decoration: none;
+        width: 100%
+    }
+
+    .hidden {
+        display: none
+    }
+
+    a, a:hover {
+
+        color: #fff;
+    }
+
+
+    
+    @media screen and (min-width: 800px) {
+
+        .top-row {
+
+            height: 370px;
+        }
+
+        .top-block-desktop {
+
+            display: block;
+
+        }
+
+    }
+
+    .topblock {
+        display: none;
+    }
+
+    .
+
+
+    @media screen and (max-width: 480px) {
+        .topblock {
+            display: block;
+        }
+
+
+        .top-container {
+            display: none;
+        }
+    }
+
+    @media screen and (max-width: 812px) and (orientation: landscape) {
+        .topblock {
+            display: block;
+        }
+    }
+
+    @media screen and (max-width: 768px) {
+        .topblock {
+            display: block;
+        }
+
+        .top-container {
+            display: none;
+        }
+
+        .top-block-desktop {
+
+            display: none;
+
+        }
+    }
+
+    
+    @font-face {
+        font-family: bootstrap-icons;
+        src: url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff2?30af91bf14e37666a085fb8a161ff36d") format("woff2"), url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("woff")
+    }
+
+    .bi::before, [class*=" bi-"]::before {
+        display: inline-block;
+        font-family: bootstrap-icons !important;
+        font-style: normal;
+        font-weight: 400 !important;
+        font-variant: normal;
+        text-transform: none;
+        line-height: 1;
+        vertical-align: -.125em;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale
+    }
+
+    .bi-facebook::before {
+        content: "\f344"
+    }
+
+    .bi-twitter-x::before {
+        content: "\f8db"
+    }
+
+
+
+
+
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-406ZB8S3DD');
+
+
+
+
+
+
+
+
+    {
+        "@context": "https://schema.org",
+        "@graph": [
+            {
+                "@type": "Organization",
+                "@id": "https://www.springfieldspringfield.co.uk/#org",
+                "name": "Springfield! Springfield!",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "sameAs": [
+                    "https://twitter.com/springfieldx2",
+                    "https://www.facebook.com/springfieldspringfield/"
+                ]
+            },
+            {
+                "@type": "WebSite",
+                "@id": "https://www.springfieldspringfield.co.uk/#website",
+                "url": "https://www.springfieldspringfield.co.uk/",
+                "name": "Springfield! Springfield!"
+            }
+        ]
+    }
+Springfield! Springfield!
+Movie Scripts
+                    
+                    TV Show
+                            Episode Scripts
+                    
+                    
+                        The Simpsons
+                        
+                            Characters
+                            Episode Guide
+                            Simpsons
+                                    Episode Scripts
+                            Guest Stars
+                            Springfield
+                            Buddy Icons
+                            Images
+                            iPhone / iPod Wallpaper
+                            PSP Wallpaper
+                            Scenes
+                            Sounds
+                        
+                    
+                    
+                    Contact
+window._taboola = window._taboola || [];
+                        _taboola.push({
+                            mode: 'thumbnails-b',
+                            container: 'taboola-below-category-thumbnailsb',
+                            placement: 'Below Category Thumbnails',
+                            target_type: 'mix'
+                        });
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-lra',
+            container: 'taboola-left-rail-category-thumbnails',
+            placement: 'Left Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+TV Show Episode Scripts  >  Friends  >  Season 8  >  The One Where Rachel Has a Baby (1)
+Friends s08e23 Episode Script
+227422 - The One Where Rachel Has a Baby (1)
+All right! Yes! From home to the hospital in seven minutes! Yes.
+The hard part is truly over.
+We're off to a great start, aren't we? I knew I'd get here fast, but this has to be a record! - Oh, you made it! - Hi.
+- How the hell did you beat us here? - We took a cab.
+Did you walk? No, we took a cab too.
+But I did test runs Hey, you made it! Okay, is there some kind of magic tunnel to this hospital? Ross, you stay here and talk.
+I'm gonna go have a baby.
+Okay.
+Hi, this is Rachel Greene.
+I'm Ross Geller.
+We called from the car.
+We have a semi-private labor room waiting Oh, whoa! I'm sorry.
+Semi-private? We asked for a private room.
+Yes, I see that here.
+We can't guarantee a private room.
+- Currently, they're all unavailable.
+- Man, if only you'd gotten here sooner.
+I'm sorry.
+Semi-private rooms are all we have.
+Okay.
+Just give us a second.
+Ross? - Give her some money.
+- I really think they're out of rooms.
+They're saving them for important people! What if I was the president? We'd be in a lot of trouble.
+You don't know where any countries are.
+Okay.
+Say, would you mind checking again? See if any private rooms may have opened up? This is a hospital.
+You know what? I don't really care for your tone.
+This is not the only hospital in the city.
+We have no problem Oh, gosh! - What, what? - Contraction! Oh! - Like to see a semi-private room? - Yeah, it couldn't hurt to look.
+The One Where Rachel Has A Baby - Part I mrnch@dh.
+net.
+mk Subtitle Editor (c) Digital Higherground - Igor Janevski, 2004 You're 2 centimeters dilated.
+We need to get to 10.
+- It will be a while.
+- Oh, okay.
+- I'll be back in an hour to check on you.
+- Thank you.
+- I guess we have some time to kill.
+- Yeah, guess so.
+Oh, check these out.
+Never done this before.
+Yeah, well, it looks great.
+Thank you very much.
+I think we're ready to Hi, I'm Ross.
+I'm here to ruin this magical day for you.
+Not at all.
+Marc Horger.
+This is my wife, Julie.
+- Hi, Julie.
+This is Rachel.
+- Oh, hi, Rachel.
+- Is this your first? - It is.
+Well, little Jamie here is our third.
+So if you have any questions, just holler.
+- That's so sweet.
+- Yeah.
+- Let me give you guys some privacy.
+- Nonsense.
+We're all in this together.
+We are gonna share every moment of this with you.
+- I think we're gonna have some fun.
+- Yeah.
+- Oh, okay, I guess.
+- Hey, smile! - No.
+- I really don't want any Oh, thank you.
+Oh, Ross! Here comes another contraction.
+Okay, just breathe - Oh, honey, I think I'm having one too! - Oh, my God! - Hey, look at this.
+Here you go! - Oh, no! Oh, wow.
+Three hours and still no baby.
+The miracle of birth sure is a snooze-fest.
+- Hey, you wanna see something? - Sure.
+What? This will be fun.
+Watch me freak out Chandler.
+- Honey? - Yeah? Listen, I've been doing some thinking and I don't know whether it's because we're here or Rachel's giving birth but I think we should try to have a baby.
+Okay.
+What's that now? Okay.
+I've been thinking about it too.
+I think we're ready.
+Are you kidding? You think we're ready to have a baby? Oh, this is fun.
+You're ready to have a baby? My boy's all grown up! You said you were ready.
+I was screwing with you to get your voice high and weird like mine is now! Yes, but haven't you wanted a kid forever? Okay, just back off, mister! Because I am ready to have a baby.
+I just want Joey to be the father.
+- What? Are you crazy? - Right there! That's all I wanted! I'm sorry.
+The doctor insisted on closing the curtain for the exam.
+Oh, that's very Really, very, very okay.
+Julie's cervix is dilated seven centimeters.
+That's about four fingers! - Doctor let me feel it.
+- Have you felt Rachel's? - No, I don't - We won't be doing that.
+Well, you could feel Rachel's, then feel mine to compare.
+- Am I interrupting? - Yes! Thank you! Later.
+- You can't leave me with them.
+- Sorry.
+No, Ross, Ross? Ross? My child has no father! I'm so glad you're here, but it's gonna be a while.
+I wish you'd called first.
+I'm coming back later with your father.
+- I need to talk to you before the birth.
+- Okay.
+What's up? I brought something that I want to give you.
+Assuming, of course, that you want it.
+Ma, you're asking me to marry you? Your grandma's engagement ring, I want you to give it to Rachel.
+- Mom, no.
+Come on.
+Thank you - Just hear me out No! Okay? We're not getting married because she's pregnant.
+Honestly, this isn't just some girl you picked up in a bar and humped.
+A child should have a family.
+I can't deal with this now.
+I'm sorry.
+Think about it.
+If you don't, I'll talk more about humping.
+Give me that.
+- Hi, dear.
+- Hi.
+Thank you so much for coming.
+Ross, get in here! She dragged me out of the labor room to ask me why I'm not with Rachel.
+- Why aren't you with Rachel? - Are you kidding? We're not gonna be together because we're having a baby! It seems you belong together.
+I can't deal with this right now.
+I have to go have a baby.
+Right.
+And with who again? He's crazy.
+Why doesn't he wanna be with Rachel? I know.
+She's like the perfect woman.
+I know she turned me down but if she wanted to be with me, I would take her in my arms and I haven't bummed you guys out like this in a while.
+- Hey.
+- Hey.
+- Who's that? - New people.
+What happened to the Disgustingtons? They're having their baby.
+It's not fair, Ross.
+I got here first! After you left, they wheeled her off.
+Not before she gave me a nice, juicy shot of little Jamie, crowning away.
+Wow.
+Sorry.
+So how are the new people? Well, they have some unusual pet names for each other.
+Including "Evil Bitch" and "Sick Bastard.
+" - Oh, gosh, a contraction.
+- Yeah? Okay, okay.
+Just breathe.
+- Are you looking at her? - No! - Don't look at her, you sick bastard! - I swear I wasn't looking at her! She's in labor.
+You like that, you sick son of a bitch? I'm just gonna See? It's because you were looking, you fat pervert.
+No, no.
+I'm sure no one was looking.
+Just want some privacy.
+You miss your girlfriend? Just ignore them.
+- You okay? - Yeah.
+- Ross! - What? - He's looking at me.
+- Hey! Wanna live to see your baby? Don't you talk to my husband like that, you stupid bastard! Oh, good God! If you want a baby so bad, just go steal it! Since when are you so crazy about babies? I'm not crazy about babies.
+I'm crazy about us.
+What? We talk about having babies someday, not now but I'm starting to think that we can handle it.
+We're good.
+We're really good.
+We are pretty good.
+But nothing has to happen until you're ready.
+Well, maybe I'm ready now.
+I mean, it's a little scary, but maybe it's right.
+It's not right! We're not ready for a kid! - What? - I'm kidding.
+This is gonna be fun.
+So we're gonna try? I mean, we're trying? We're trying to get pregnant.
+I'm not comfortable doing this in front of the babies.
+- So when do you want to start trying? - All right, hold on a sec.
+- Period math? - Yeah.
+Well, we could start trying now.
+- Right here? - No, not here.
+Maybe here.
+We got time to kill.
+We're in a building that's full of beds! And it's so clean! Come on, you stupid machine! Come on! - It ate your money? - No.
+- I'll see you downstairs then.
+- All right.
+Hey, I got one! I got one! - Hi.
+- Hi.
+- Oh, up or down? - Oh.
+Down, please.
+I hate to be a ball-buster, but can I just do it? - Could you press up too? - Sure.
+- I feel bad.
+I broke my leg once too.
+- How did yours happen? It's a long, embarrassing story.
+Let's just say, there was a typographical error with a sex manual.
+- How about you? - Car accident.
+- Idiot on a cell not paying attention? - Yeah.
+Me.
+Oh, hey, that's me.
+Hey, I take it you're just visiting someone.
+Well, if you have some time, and you wanna visit someone else Yeah.
+I would like that.
+- Great.
+I'm in room - Wait! What? No! Elevator! No! You gotta press the button.
+They're bringing in another woman.
+Oh.
+Is she pregnant yet? She doesn't need to be.
+She'll still have the baby before I do.
+- Oh, Ross! Another contraction.
+- Oh, okay.
+Here, here.
+That's it.
+- Oh, that sounded like a bad one.
+- Yeah, it was.
+Mine haven't been so bad.
+Oh, here comes one now.
+Oh, that was a big one.
+Could you help me? The patient I'm looking for has a broken leg.
+He's in a wheelchair.
+He's early to mid-30s, very attractive.
+- I know who you're talking about.
+- Great! What room is he in? Sorry.
+That information is restricted.
+- She's with me.
+Dr.
+Drake Ramoray.
+- Dr.
+Drake who? Ramoray.
+It's Portuguese.
+We need that information.
+I'm a doctor.
+- At this hospital? - Damn it! We're losing precious time.
+You want this man's blood on your head Hands! It is essential that you tell me what room he is staying in.
+He's a patient of mine.
+- He's in room 816.
+- 816.
+Thank you.
+- And what is his name? - No.
+- I think we found a place.
+- Okay.
+- Wait.
+Wanna set the mood a little? - Okay.
+- We'll dim the lights.
+- Okay.
+Or turn them out altogether.
+No scented candles.
+Okay, here.
+There we go.
+Okay, okay.
+Making me sterile, but okay.
+Okay.
+I'm sorry.
+Oh, wait.
+Do we have a condom? Oh, right! Yes, 98.
+6.
+You're gonna be fine.
+This is it! - That's him! - Great.
+Go get him! Wait a second.
+Or maybe you could go in first.
+He's not really my type.
+Not you.
+Dr.
+Ramoray.
+Ask him questions and see what he's like.
+- People tell doctors everything.
+- You said he's great.
+Guys I meet seem nice at first, then turn out to be big jerks.
+- You do attract some stinkers.
+- I know.
+Dr.
+Long, I've been at this for 17 hours.
+Three women have had their babies.
+Give me good news.
+How many centimeters am I dilated? Eight? Nine? - Three.
+- Just 3? I'm dilated 3! We are moving along slowly.
+Don't worry, you're doing great.
+- I'll be back soon.
+- Thank you.
+I'm not waiting.
+I'm gonna push this baby out.
+I'm doing it.
+Three centimeters.
+That's gotta be like this, right? - Actually, it's more like this.
+- Oh, stupid metric system.
+Oh! Oh! Oh! We'll take you straight to the delivery room.
+Oh, for the love of God! I'm Dr.
+Drake Ramoray.
+I have a few routine questions I need to ask you.
+I've been dealing with Dr.
+Wells.
+I know.
+I'm a neurologist.
+To be safe Dr.
+Wells wanted a more comprehensive overview.
+So he sent me.
+Dr.
+Wells is a woman! That was a test.
+Good response.
+- All right.
+Full name? - Clifford Burnett.
+- Date of birth? - November 16, 1968.
+Age? - Can't you figure that out? - I'm a doctor, not a mathematician.
+- I'm 33.
+- Okay.
+- And are you married? - No.
+Oh, really? So 33 and single? Would you say you have commitment issues? Are all the questions this personal? Yes.
+Well, if you must know, I'm a widower.
+- Oh, that's terrible.
+I'm really sorry.
+- Yeah.
+Do you sleep with women and never call them again? - No.
+- Excellent.
+Excellent.
+And finally, are you into any weird stuff, you know, sexually? - No! - Wrong answer.
+- What else? What else? - He's 33.
+- A widower.
+- Oh! He seemed like a standup guy.
+And he's not into anything weird sexually.
+Enter Pheebs! - This room's available.
+- Okay! Wait, listen to me! Since I've been waiting, four women one higher than the centimeters I'm dilated have come and gone with their babies.
+I'm next.
+My turn.
+It's only fair.
+If you bring in one more woman who has her baby before me, I will sue you.
+Not this hospital.
+I'm gonna sue you.
+My husband is a lawyer.
+- Rach? - You get back on that case, honey! I don't think the next patient is far along.
+Okay.
+Well, then bring her in.
+Oh, my God! I can't believe this! And yet, somehow, it's true.
+I mean, this is so great.
+We're gonna be baby buddies! Squeeze your legs together, cover the baby's ears.
+- Hi, sweetie! - Hi, sweetheart.
+This is my husband, Sid.
+I don't think you've met him.
+I nabbed him at the dermatologist's.
+Thank God for adult acne! I can't believe it.
+I'm the luckiest guy in the world.
+Really? What did he say? You have to speak loudly, he's almost completely deaf.
+- Oh, there you go.
+- Of course he is.
+Congratulations! I didn't even know you got married.
+- Oh, no.
+We didn't.
+- What? We're just having this baby together, but that's all.
+You know? Why? We're just not in that place, you know? But we're very excited about this.
+Oh.
+Well, then shut me up.
+Just tell me how.
+Oh, I feel another one coming.
+"Previously on" Friends: I've been at this for 17 hours.
+- How many centimeters am I dilated? - Three.
+Just three? I'm dilated three! - We talk about having babies someday.
+- We're gonna try? - Right here? - No, not here.
+Maybe here.
+Your grandma's engagement ring, I want you to give it to Rachel.
+- Mom, no.
+- This isn't some girl you picked up in a bar and humped.
+I take it you're just visiting someone? - Wanna visit someone else? - I would like that.
+- That's him.
+- Great.
+Go get him! Maybe you could go in first.
+I'm Dr.
+Drake Ramoray.
+I have a few routine questions.
+Do you sleep with women and never call them again? Oh, my God! Should we tell Rachel there's an empty room right next to hers? We could.
+Or we could have sex in it.
+Well, let me think about that.
+While I remove my pants! Okay, mister! Fertilize me! Does that sound like Janice? If it's not, then there's two of them.
+And that would mean it's the end of the world! The One Where Rachel has a Baby - Part II Hey.
+- Hey.
+- Hi.
+I can't believe this is taking so long.
+How are you? Not bad.
+You know that feeling, trying to blow a Saint Bernard out your ass? Weirdest thing.
+Did I hear? Mother of God, it's true! Chandler Bing! Janice.
+Not just Janice.
+Janice in labor.
+Contracting and everything.
+Oh, this should be easy.
+I have a very wide pelvis.
+You remember, Chandler.
+I didn't know you were pregnant.
+Who's the unwitting human whose essence you've stolen? It's you.
+This is yours.
+What? Look how nervous he gets! We haven't slept together in years! That's funny.
+Does it hurt? Does the labor hurt? Okay, I have one.
+If you had to, which would you eat? A Seeing Eye dog or a talking gorilla? I'd have to say the talking gorilla.
+'Cause at least I could explain to him that you're making me eat him.
+- Oh.
+Somebody went to college.
+- Yeah.
+Wow.
+What is it? I'm sorry.
+I'm sorry.
+My foot itches like crazy.
+Oh.
+I'll get it.
+I usually get to know a girl better before I let her spoon me.
+Relax.
+It's not like we're forking.
+Oh, that's five, Ross.
+Five women have had five babies and I have had no babies.
+Why doesn't she want to come out? I think you made such a nice home for her the last nine months, that she just doesn't want to leave.
+Oh, look at you making up crap for me.
+- Oh, God.
+- Okay.
+Okay.
+Twenty-one hours.
+You're a hero.
+Do something! Get me drugs or you light a fire up in there and just smoke it out! I think you're ready to go to the delivery room.
+What? Ten centimeters.
+You're about to become a mom.
+Oh, my God.
+Okay.
+Beat you, sucker! Oh, baby.
+Oh, my God! That's the doctor who was in my room before.
+Oh.
+Okay, Mr.
+Percocet.
+I'm telling you, the guy from that show was here asking me all these weird questions.
+Do you really believe that a character from a TV show was here? Rachel's having her baby! That's him! You know him? Okay.
+Okay.
+L Okay.
+I sent my friend, Joey, in here to find out stuff about you.
+If it, you know, if it helps, you came off great.
+A lot better than I'm coming off right now.
+I don't believe this.
+You had him pretend he was a fake doctor? Fake? Excuse me? Hello? - You tried making me think I was crazy? - That was wrong.
+I'm so sorry.
+It's just that I liked you so much.
+Can we just start over? I don't think so.
+If I may? You told me a lot of personal stuff about you, right? Now, maybe it would help if you knew some personal stuff about her.
+She was married to a gay ice dancer.
+She gave birth to her brother's triplets.
+Her twin sister used to do porn.
+- We're trying to dial down the crazy.
+- Right.
+We don't know each other, so it'd be easy to forget this but there's something between us.
+I don't know about you but that doesn't happen to me a lot.
+- It doesn't happen to me, either.
+- Me, neither! Push.
+Push.
+We're gonna push for five more seconds.
+Five, four Three, two, one! Oh! The next contraction will be in 20 seconds.
+- I can't push anymore! - You're doing great.
+Oh, God! Twenty seconds, my ass! Here we go.
+Okay, keep pushing.
+- Come on.
+- Push.
+Wait.
+- I see something.
+- What, you do? You do? Oh, my God! - Don't say "Oh, my God!" What?! - What is that? The baby's buttocks.
+She's breech.
+- I thought she had two heads.
+- Oh, God! Will she be okay? - She'll be fine.
+- Yeah.
+She's in a difficult position, so push hard.
+- Okay.
+- Go.
+Come on.
+Go! Go! You'll have to push harder.
+- I'm sorry, I can't! I can't! - Yes, you can.
+I know you can do this.
+I can't do it.
+Please, you do it for me! Let's go.
+One more time.
+One final push.
+Ready? One, two, three.
+Good.
+Keep pushing! Are you okay? You have no idea how much this hurts.
+Keep going! Keep going! Here we go! She's upside down, but she's coming! - Oh, God! - Oh! Oh, my God! Oh, my God, she's here.
+Oh, she's perfect.
+Oh, wow! Oh, she's so tiny.
+- Where'd she go? - They're just wrapping her up.
+Okay.
+Well, be careful with her, she's really tiny.
+Here she is.
+Oh, thanks for coming out of me.
+I know.
+Oh.
+She's looking at me.
+Hi.
+I know you.
+- Do we have a name yet? - No, not yet.
+Fine.
+For now we'll just call her Baby Girl Greene.
+Oh, no.
+Baby Girl Geller-Greene.
+Hello, Baby Girl.
+- Can we come in? - Oh, come on in.
+- Oh, there she is.
+- Oh, she's so beautiful.
+Here.
+Oh, my God.
+She's amazing.
+Oh, I'm so glad you guys got drunk and had sex.
+It's incredible.
+I mean, one minute she's inside you and then 47 hours later, here she is.
+She looks so real.
+You know what I mean.
+- Okay, my turn.
+My turn.
+- Aunt Phoebe.
+Oh, baby.
+Oh, you're so cute! Oh, I could squeeze your little head.
+I won't.
+- Honey, what's the matter? - Nothing.
+I just can't stop crying.
+The doctor said it's normal, plus you're sleep-deprived.
+You guys are all sleep-deprived.
+I don't see you weeping because you put your slippers on the wrong feet.
+Oh, God.
+- What's the matter now? - I was reliving it.
+Do you know what you're gonna call her yet? Wait, it's not gonna be Baby Girl? I thought that was so original.
+Actually, we've narrowed it down to two.
+And you know what? I love them both.
+So just pick one, and that'll be it.
+Wow, okay.
+Everyone? This is Isabella.
+- Hi, Isabella! - Hi.
+What? That's not her name.
+I'm sorry, she just doesn't feel like an Isabella.
+- What was the other one? - Delilah.
+Oh, great! At least she sounds like a biblical whore.
+So, I guess we're back to Baby Girl.
+What will we do? - You'll find a name.
+- Easy for you to say.
+You know what your kids' names will be.
+- You do? - I had them picked out since I was 14.
+Oh, no, it's gonna be named after some snack or baked good, isn't it? - Well, tell us, what are they? - Okay.
+If it's a boy, it's Daniel.
+- And if it's a girl? - I don't want to say.
+Oh, stop.
+Tell us.
+We're not gonna want it.
+Okay.
+It's Emma.
+Emma.
+See, I don't want it.
+- Take it.
+- What? She's clearly an Emma.
+Oh, honey, but you love that name.
+Yeah.
+But I love you more.
+Besides, nothing goes with Bing.
+So I'm screwed.
+Aaron Lipman-Guralnick would like to say hello to his future bride.
+Oh.
+Wow, he kind of takes your breath away, doesn't he? He's a keeper.
+- How are you feeling? - Oh, I'm fine.
+I really admire what you're doing.
+Just raising her all alone.
+I'm not doing it alone.
+I have Ross.
+Sure.
+Now.
+But what happens when he meets somebody else and gets married? Well, then he gets a divorce.
+It's Ross.
+I'm telling you.
+Listen to Janice.
+They all say they're gonna be there, until they start their real family.
+- That's never gonna happen with Ross.
+- That's what I thought.
+I'm lucky if my kid gets to spend a weekend with her father and little Miss New Boobs.
+Really? I hate to be the one to say it but, honey, you two are on your own.
+Well, that's, you know, that's We've been alone for the last Maybe we won't be alone.
+Because lately things have been happening between me and Ross.
+And right before I went into labor, we had this kiss.
+You know? So it might be the beginning of something.
+- Hey, Janice.
+- Oh, hi.
+Who's this little guy? - Aaron, your future son-in-law.
+- Oh, no, no.
+- I'm gonna leave you three alone.
+- Okay.
+Man, you see the kid on that nose? You know what I was thinking about? That kiss before we left the apartment.
+That was something, huh? Yeah.
+Yeah, it really was.
+But we, we gotta be careful.
+We You know, we can't let that happen again, you know? Right.
+- We don't want to go down that road.
+- No.
+That's why I brought it up.
+- They didn't have any sodas? - Oh, my God.
+I'm sorry.
+I was talking to this nurse.
+Completely forgot.
+And so it begins.
+She in there? Yeah.
+She's putting her down now.
+That's her.
+- Look at Emma.
+- I can't decide who she looks like.
+Oh, what, are you kidding? She's gorgeous! It's all Rachel.
+I'm sorry.
+For the last time, why aren't you two together again? No, I know.
+Because you're not in that place.
+Which would be fine, except you totally are.
+It's complicated, okay? You love her, you always have, you have a child together.
+There's no right answer.
+Look, we've been together.
+Then apart.
+Then together, then apart.
+And now we have a baby.
+It's just, if we got together again and it didn't work out? I could never do that to Emma.
+I mean, she came into this world thinking everything Now me.
+What, do they put something in the water here? It's just, Rachel and I, we're doing really well now.
+I know.
+If you try to make it more, you might wreck it.
+- Yeah, exactly.
+- Right.
+Or you might get everything you've wanted since you were 15.
+Hey.
+I saw a woman breastfeeding twins at the same time.
+It is like a freak show up here.
+- What's the matter? - Nothing.
+What is it? Hey? - Really, it's nothing.
+I'm - Rach, come on.
+What? I've just been thinking about how my baby and I are gonna be all alone.
+What are you talking about? What about Ross? Please.
+He'll be with his real family.
+The twins and little Miss New Boobs.
+Okay, how long was I watching that woman? I'm just saying that, you know someday Ross is gonna meet somebody and he's gonna have his own life.
+Right? Yeah, I guess so.
+I just never thought I'd be raising this baby all by myself.
+That's pretty dumb, huh? Hey, you listen to me.
+Listen to me.
+You are never, ever gonna be alone.
+Okay? I promise I won't let that happen.
+Joey.
+Oh, sweetie, what would I do without you? You don't have to worry about that, okay? Could you grab me my other box of tissues? - They're under Ross' coat.
+- Sure.
+Oh, my God! Joey? Oh, my God.
+Okay.
+- That was amazing.
+- I know.
+Hey, do you realize that we may have just changed our lives forever? We may have started our family.
+In nine months we could be here having our own baby.
+And if not, we got to do it on a bucket.
+Previous EpisodeNext Episode
+Report an Issue with This Script   |   Friends Episode Scripts   |   More TV Show Episode Scripts
+window._taboola = window._taboola || [];
+        _taboola.push({
+            mode: 'thumbnails-rra',
+            container: 'taboola-right-rail-category-thumbnails',
+            placement: 'Right Rail Category Thumbnails',
+            target_type: 'mix'
+        });
+window._taboola = window._taboola || [];
+            _taboola.push({
+                mode: 'thumbnails-b',
+                container: 'taboola-below-category-thumbnails',
+                placement: 'Below Category Thumbnails',
+                target_type: 'mix'
+            });
+Springfield! Springfield!
+About      Terms      Privacy Policy      Contact
+(function () {
+
+        var tryMessage = function () {
+            setTimeout(function () {
+                if (!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'), ad = ads[ads.length - 1];
+
+                if (!ad || ad.innerHTML.length == 0 || ad.clientHeight === 0) {
+//                    console.log('1');
+                    $('.additional-content2').show();
+                    $('.bottom-section').show();
+                    $('.main-content-left').css('margin-left', '-160px');
+                    $('.main-content-right').css('width', '320px');
+
+                } else {
+//                    console.log('2');
+                    ad.style.display = 'none';
+                    $('.bottom-section').hide();
+
+                }
+
+            }, 750);
+        }
+
+        /* Attach a listener for page load ... then show the message */
+        if (window.addEventListener) {
+            window.addEventListener('load', tryMessage, false);
+        } else {
+            window.attachEvent('onload', tryMessage); //IE
+        }
+    })();
+
+
+
+
+    window._taboola = window._taboola || [];
+    _taboola.push({flush: true});

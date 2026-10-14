@@ -1,0 +1,440 @@
+{
+  "note": "Downloaded for unresolved-speaker review. Tripod/fanfr VO may share Eric Aasen/Josh Hodge transcripts; mirrors are not independent evidence. VF credits must be checked per episode before calling it an independent transcription. Additional script provenance is not verified.",
+  "sources": [
+    {
+      "path": "fanfr-vf-201.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=201&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:54.403119+08:00",
+      "sha256": "7af3a04357a3f6da18bc3cc52b26f49149f4b423e380a7472d1c098290084dc2",
+      "bytes": 33832,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-201.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=201&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:54.395411+08:00",
+      "sha256": "661084f25013c9aab599483a56b856ae17208d711b7edf7faf78afdf574cc0dd",
+      "bytes": 28290,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-201.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/201uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/201uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2dc7e2a0>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-202.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=202&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:54.494085+08:00",
+      "sha256": "dc42717ad1b71eee19e8e9ed7ad7fc68f1e67efb4fbf4165672527303f0e1404",
+      "bytes": 25796,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-202.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=202&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:54.256559+08:00",
+      "sha256": "3e2163e3ff2704c8d2fb0d30bbff2b4a336352224cb3e828549f73c21bfb928b",
+      "bytes": 27100,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-202.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/202uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/202uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c24c290>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-203.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=203&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:54.263347+08:00",
+      "sha256": "b431febfb3c40e4f4b10aa774f2197a2931c9e5408a2fabe6f937da746d300a8",
+      "bytes": 28739,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-203.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=203&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:54.370982+08:00",
+      "sha256": "de5a1b1aa6c41f48e851fb20c3cdf00ddfdaef8c3a7f8c38b572aa97d9828c2e",
+      "bytes": 29984,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-203.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/203uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/203uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c24f9b0>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-204.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=204&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:54.322756+08:00",
+      "sha256": "d740076cea0c0f88a877ba72819dd96fe45115aa5fb5e875e171764c746482ba",
+      "bytes": 30107,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-204.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=204&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:54.488105+08:00",
+      "sha256": "3b0425f609f57f83e1710779de7a9c8bf0a69e435f787707aac18712b8caa097",
+      "bytes": 32087,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-204.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/204uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/204uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c26a6f0>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-205.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=205&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:55.044605+08:00",
+      "sha256": "773d96c9c9902c57069d63ac3ae853998d9048e147a08c3ec720c79e756f10f5",
+      "bytes": 31110,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-205.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=205&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:55.266265+08:00",
+      "sha256": "53d62e30acba7616b8d0c4f039efaee751206049eb600b3ee44bf0e2db029482",
+      "bytes": 33024,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-205.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/205uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/205uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c2681a0>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-206.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=206&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:55.273890+08:00",
+      "sha256": "263e1a8d98d96b60be1ccc7dfec2080f09bceb074ef53eed188eed1cfa5bf1b6",
+      "bytes": 33369,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-206.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=206&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:55.153759+08:00",
+      "sha256": "5d4578cc0221cfabac8b6821d4515d722f765c6bd7d78886175fb40a6c4a2c56",
+      "bytes": 30905,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-206.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/206uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/206uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2dc7d190>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-207.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=207&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:55.330809+08:00",
+      "sha256": "7e6a38585511ab5aeb10de0b1eecef25fc567cc9123860c0e9dfc388c10f1e05",
+      "bytes": 34379,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-207.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=207&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:55.427800+08:00",
+      "sha256": "43617af19b18ddbabee2cab1e27a4746249b8d24ae5c3ce777b4e04158d1cef2",
+      "bytes": 33042,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-207.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/207uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/207uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c26a300>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-208.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=208&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:55.381413+08:00",
+      "sha256": "b7501210aae165792d62edf0f09a33b4fea2a4b86908bfde5aa2663c7223d26d",
+      "bytes": 39036,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-208.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=208&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:55.568900+08:00",
+      "sha256": "c7209ff03a0e7dfce3ca1c6e3ea7e7a78f5c84a762cbd0b49f6f368863d81990",
+      "bytes": 34421,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-208.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/208uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/208uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c24ee70>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-209.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=209&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:56.379973+08:00",
+      "sha256": "703f134c33ac31a46c41db5b5dd154efd5b321167147ea74cfd48f75b54a1570",
+      "bytes": 40585,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-209.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=209&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:56.061349+08:00",
+      "sha256": "1bd22991b327f504cb91c292aaa22a766592b137fd6379dc156fce3a5a5eaae4",
+      "bytes": 34748,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-209.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/209uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/209uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c24f9e0>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-210.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=210&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:56.142109+08:00",
+      "sha256": "2eb06bf99dfe8b3aed98c01d44bdfe334a796cd9a312bf5ecc7f171d593dd072",
+      "bytes": 41583,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-210.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=210&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:56.238539+08:00",
+      "sha256": "7080147da62ad93f7451d86a9e8caaf5d98d80727d70c1173095627a85c815a1",
+      "bytes": 37748,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-210.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/210uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/210uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2dc7f620>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-211.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=211&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:56.336299+08:00",
+      "sha256": "cba81f98202ec9728832b26665887935a24bd8d542b99514034d9aa297dbc43a",
+      "bytes": 31783,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-211.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=211&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:56.366585+08:00",
+      "sha256": "a7d44d2236463efba035c8d204dae538702d147747969f61dccd1eee6fc1b9fd",
+      "bytes": 33246,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-211.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/211uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/211uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2dc7d430>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-212.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=212&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:56.805090+08:00",
+      "sha256": "4542cc217a161bdf76c01c6007d18d3b55a2795997f6c973a512e022a831b589",
+      "bytes": 32775,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-212.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=212&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:56.689531+08:00",
+      "sha256": "ae6cccb3454a6f773c60c48ce6cce0de3abfb02f55d1d055458062aded9be9f5",
+      "bytes": 31584,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-212.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/212uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/212uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c24c620>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "fanfr-vf-213.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2vf/friendsgeneration2.php?episodescript=213&nav=script&version=vf",
+      "retrieved_at": "2026-10-14T13:12:57.074474+08:00",
+      "sha256": "68af9a0663ae48e01b1ad2e4f26a71168f51470a158456165d1da35e947a7c7a",
+      "bytes": 34094,
+      "kind": "fanfr-vf",
+      "http_status": 200
+    },
+    {
+      "path": "fanfr-vo-213.html",
+      "source_url": "https://www.fanfr.com/scripts/saison2/friendsgeneration2.php?episodescript=213&nav=script&version=vo",
+      "retrieved_at": "2026-10-14T13:12:57.043567+08:00",
+      "sha256": "f6e72fed4ba20841dae923238b28535e62b7153bedfc4835d2cc452a80e0e4f6",
+      "bytes": 35493,
+      "kind": "fanfr-vo",
+      "http_status": 200
+    },
+    {
+      "path": "tripod-213.html",
+      "source_url": "https://uncutfriendsepisodes.tripod.com/season2/213uncut.htm",
+      "error": "HTTPSConnectionPool(host='uncutfriendsepisodes.tripod.com', port=443): Max retries exceeded with url: /season2/213uncut.htm (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7d3c2c24f800>: Failed to resolve 'uncutfriendsepisodes.tripod.com' ([Errno -2] Name or service not known)\"))",
+      "kind": "tripod"
+    },
+    {
+      "path": "polaris-season2.pdf",
+      "source_url": "https://data.polarishare.com/data/202208/0d9/85d9d7c7-23f6-4c6d-882a-8e4a21d48868.pdf",
+      "retrieved_at": "2026-10-14T13:13:01.017238+08:00",
+      "sha256": "fcce78d4dea14140fa4b5791d484caed6a052fb595a44dcec3bb6fded5201f5f",
+      "bytes": 926254,
+      "kind": "additional-script",
+      "http_status": 200
+    },
+    {
+      "path": "scriptsavant-206-final-draft.pdf",
+      "source_url": "https://thescriptsavant.com/tv/Friends_2x06_-_The_One_With_the_Baby_on_the_Bus.pdf",
+      "retrieved_at": "2026-10-14T13:14:13.704534+08:00",
+      "sha256": "fb2d9f058c2010c57f86a05ae33d282f33e3825290c66b8b120cd177416c6bdf",
+      "bytes": 326,
+      "kind": "production-draft-not-broadcast-verification",
+      "http_status": 503
+    },
+    {
+      "path": "jubenz-web-73-and-errors.txt",
+      "source_urls": [
+        "https://www.jubenz.com/friends/73/",
+        "https://www.jubenz.com/friends/74/",
+        "https://www.jubenz.com/friends/75/",
+        "https://www.jubenz.com/friends/77/"
+      ],
+      "retrieved_at": "2026-10-14T13:18:04.406886+08:00",
+      "sha256": "f6580da33742eecb59f316e13bc924941a12ef5ccf23c05065292cfec59e2550",
+      "bytes": 14249,
+      "kind": "web-tool-rendered-cache-extraction-not-original-html",
+      "note": "Raw HTTP retrieval failed DNS; saved accessible web-tool extracted text including failure notices. Site appears same propagation chain as older Chinese source, not independent evidence."
+    },
+    {
+      "path": "jubenz-web-79-and-errors.txt",
+      "source_urls": [
+        "https://www.jubenz.com/friends/78/",
+        "https://www.jubenz.com/friends/79/",
+        "https://www.jubenz.com/friends/80/",
+        "https://www.jubenz.com/friends/81/"
+      ],
+      "retrieved_at": "2026-10-14T13:18:04.569040+08:00",
+      "sha256": "b1b1b1010fd66a244a335ee39c255e34b0664219dfd0059c6b9425ae73ec15c3",
+      "bytes": 14897,
+      "kind": "web-tool-rendered-cache-extraction-not-original-html",
+      "note": "Raw HTTP retrieval failed DNS; saved accessible web-tool extracted text including failure notices. Site appears same propagation chain as older Chinese source, not independent evidence."
+    },
+    {
+      "path": "s02-new-source-search-rendered.txt",
+      "retrieved_at": "2026-10-14T13:25:36.466405+08:00",
+      "sha256": "2c79d310e26e8cc9ec805b38df1fcfa44a1131960534e54752c4fc5917d76953",
+      "bytes": 32212,
+      "kind": "web-tool-rendered-extract-not-raw-html",
+      "note": "Source URLs and page/reference line locations are embedded in saved extract. Same-source mirrors are not independent evidence; Scribd preview is a production draft, not filmed audio verification.",
+      "source_urls": [
+        "https://www.imdb.com/title/tt0583624/goofs/",
+        "https://www.watchmojo.com/articles/top-10-times-the-friends-cast-couldnt-keep-a-straight-face"
+      ]
+    },
+    {
+      "path": "jubenz-85-86-rendered.txt",
+      "retrieved_at": "2026-10-14T13:25:36.466459+08:00",
+      "sha256": "fc2b9e6de423fa6b939eb903b6faa8a860f9689e406a7026b80f88a88d575fd5",
+      "bytes": 26908,
+      "kind": "web-tool-rendered-extract-not-raw-html",
+      "note": "Source URLs and page/reference line locations are embedded in saved extract. Same-source mirrors are not independent evidence; Scribd preview is a production draft, not filmed audio verification.",
+      "source_urls": [
+        "https://www.jubenz.com/friends/85/",
+        "https://www.jubenz.com/friends/86/"
+      ]
+    },
+    {
+      "path": "jubenz-76-search-rendered.txt",
+      "retrieved_at": "2026-10-14T13:25:36.466493+08:00",
+      "sha256": "9a2774ba90f5fe3af3832627d9f18d5345defc6ff26db3bebfd149bda948f36e",
+      "bytes": 28273,
+      "kind": "web-tool-rendered-extract-not-raw-html",
+      "note": "Source URLs and page/reference line locations are embedded in saved extract. Same-source mirrors are not independent evidence; Scribd preview is a production draft, not filmed audio verification.",
+      "source_urls": [
+        "https://www.jubenz.com/friends/76/"
+      ]
+    },
+    {
+      "path": "jubenz-90-search-rendered.txt",
+      "retrieved_at": "2026-10-14T13:25:36.466527+08:00",
+      "sha256": "68787e1a17eb195fe9174e5db24c2e8a17f800eb156542067b3faf5ce22353eb",
+      "bytes": 19004,
+      "kind": "web-tool-rendered-extract-not-raw-html",
+      "note": "Source URLs and page/reference line locations are embedded in saved extract. Same-source mirrors are not independent evidence; Scribd preview is a production draft, not filmed audio verification.",
+      "source_urls": [
+        "https://www.jubenz.com/friends/90/"
+      ]
+    },
+    {
+      "path": "scribd-213-draft-rendered.txt",
+      "retrieved_at": "2026-10-14T13:25:36.466552+08:00",
+      "sha256": "24a35b8ce1db1f7e784040626cd170d8ca5e581e926ae1e5dba3c4c9d0d29b9c",
+      "bytes": 25579,
+      "kind": "web-tool-rendered-extract-not-raw-html",
+      "note": "Source URLs and page/reference line locations are embedded in saved extract. Same-source mirrors are not independent evidence; Scribd preview is a production draft, not filmed audio verification.",
+      "source_urls": [
+        "https://www.scribd.com/document/325174560/Friends-2x13-The-One-After-the-Superbowl-Pt-1"
+      ]
+    },
+    {
+      "path": "jubenz-91-search-rendered.txt",
+      "retrieved_at": "2026-10-14T13:25:36.466578+08:00",
+      "sha256": "99096526afb7379088e14b6c6762fd1b9538daa6c235d333648730fc1bbb62fe",
+      "bytes": 26916,
+      "kind": "web-tool-rendered-extract-not-raw-html",
+      "note": "Source URLs and page/reference line locations are embedded in saved extract. Same-source mirrors are not independent evidence; Scribd preview is a production draft, not filmed audio verification.",
+      "source_urls": [
+        "https://www.jubenz.com/friends/91/"
+      ]
+    },
+    {
+      "path": "jubenz-96-evidence-extract.txt",
+      "source_url": "https://www.jubenz.com/friends/96/",
+      "retrieved_at": "2026-10-14T13:25:36.466609+08:00",
+      "sha256": "3c8dfe1a58c2a417109f77d7261d56cb673e63dedbfe4c756b6ae65072c0c58f",
+      "bytes": 409,
+      "kind": "manual-evidence-extract-from-web-rendered-page",
+      "note": "Not raw HTML, not independent of the Chinese-source lineage."
+    }
+  ]
+}

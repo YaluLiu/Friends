@@ -1,0 +1,1743 @@
+{
+  "date": "2026-10-14",
+  "method": "全文阅读逐集比对本地英文爱好者稿；仅补明确缺失，无视频确认。保留既有译文，少数直接影响动作或剧情理解的明确错误逐项记录旧新。",
+  "episodes": [
+    {
+      "chinese_file": "S01/FriendsS01E12.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E12.html"
+      ],
+      "complete_comparison": true,
+      "comparison_scope": "逐行全文对照爱好者英文稿；未核对视频或官方制作剧本。蓝色依参考稿页首定义为 DVD 加长内容；原播及版本归属不作独立视频确认。",
+      "changes": [
+        {
+          "kind": "原播动作",
+          "summary": "补开场集体哼歌与钱德勒制止的缘由",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            24
+          ],
+          "old": "Chandler:不不，够了。",
+          "new": "(大家都在；罗斯一边填纵横字谜，一边哼起《单身公寓》的主题曲。钱德勒先加入，随后莫妮卡、菲比和其他人也跟着哼。罗斯又开始哼《太空仙女恋》的主题曲。)\nChandler:不不，够了。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补胎盘话题使大家倒胃口的反应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            32,
+            33,
+            34
+          ],
+          "old": "Phoebe:对不起。",
+          "new": "Phoebe:对不起。\n(钱德勒放下酸奶；菲比压低声音道歉。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补模拟胎儿的尺寸和语气",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            37
+          ],
+          "old": "Joey:嗨，罗斯，知道吗，你的宝贝现在就这么大？\"这就是你的孩子，“你好，爸爸！”。",
+          "new": "Joey:嗨，罗斯，知道吗，你的宝贝现在就这么大？\"这就是你的孩子，“你好，爸爸！”。\n(乔伊用拇指和食指比出约两英寸的大小，随后用婴儿的声音说话。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补鼻子双关的动作及三人的模仿",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            41,
+            42,
+            43
+          ],
+          "old": "Paolo:啊，挖鼻孔(英文中与波可诺斯同音)。",
+          "new": "Paolo:啊，挖鼻孔(英文中与波可诺斯同音)。\n(瑞秋每说一个音节就点一下保罗的鼻子；保罗也点她的鼻子，两人蹭鼻子并接吻。)\nJoey/Chandler/Ross:么，么，么！\n(三人在客厅模仿保罗接吻的声音。)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补皮影戏片段的起因，不将已有原播话框入",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            57,
+            58
+          ],
+          "old": "Rachel:怎么了？",
+          "new": "(DVD加长片段开始)\n(保罗望向窗外，招手示意大家过来；瑞秋、莫妮卡和菲比走到窗边。)\n(DVD加长片段结束)\nRachel:怎么了？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补误认卡萝朋友时的反应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            81
+          ],
+          "old": "Carol:那是我们的朋友塔尼亚。",
+          "new": "Carol:那是我们的朋友塔尼亚。\n(罗斯紧张地笑了笑，随后露出惊恐的神情。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补卡萝肯定回答及罗斯被排除在外的反应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            97
+          ],
+          "old": "Susan:那么，是我们之前想的那样吗？",
+          "new": "Susan:那么，是我们之前想的那样吗？\nCarol:嗯。\n(卡萝和苏珊抱在一起咯咯笑；罗斯退在一旁，伸手轻拍苏珊的肩。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补卡萝苏珊将要说性别时被罗斯打断的对白",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            98,
+            99,
+            100
+          ],
+          "old": "Ross:什么，好吧，什么...... 我们想着将会是什么？不，不要， 我不想知道，不想。好吧，我应该回去了。",
+          "new": "Ross:什么，好吧，什么...... 我们想着将会是什么？\nCarol/Susan:是个……\nRoss:不，不要， 我不想知道，不想。好吧，我应该回去了。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯离开时的动作",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            102
+          ],
+          "old": "Ross:不客气。 好吧，苏珊。",
+          "new": "Ross:不客气。 好吧，苏珊。\n(罗斯吻卡萝，又吻她的肚子，随后拍了苏珊的肩，离开公寓。)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "英文明确为门禁对讲器，罗斯从楼下又反悔不问性别",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            103,
+            104,
+            105
+          ],
+          "old": "(电话响了，卡萝去接电话)",
+          "new": "(门禁对讲器响了，卡萝接听。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补两人买桌子争论时没有桌子可用的动作",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            106
+          ],
+          "old": "Chandler:就因为这是我的桌子，我就得去买个新的？",
+          "new": "(桌子塌了，乔伊和钱德勒只能把千层面放在膝上。)\nChandler:就因为这是我的桌子，我就得去买个新的？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补按摩开始前菲比听不懂意大利语的对白",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            135,
+            136,
+            137
+          ],
+          "old": "Paolo:嗯， 拉盖勒......告诉我......你会按摩。",
+          "new": "Paolo:嗯， 拉盖勒......告诉我......你会按摩。\nPhoebe:嗯，拉盖勒说得没错。\n(保罗说了一句意大利语。)\nPhoebe:好吧，我不知道你刚才说了什么，我们开始吧。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补乔伊知道性别的原因",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            145
+          ],
+          "old": "Joey:那么孩子的性别是？",
+          "new": "Joey:那么孩子的性别是？\n(莫妮卡在乔伊耳边低声告诉他；罗斯起身挥舞双臂抗议。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋向菲比打招呼",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            152
+          ],
+          "old": "Ross:嗨，菲比。",
+          "new": "Ross:嗨，菲比。\nRachel:菲比！"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补帐篷比喻对应的关键动作",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            178
+          ],
+          "old": "Phoebe:是的， 我确定。后来突然间，他的手不再是关键的了。",
+          "new": "Phoebe:是的， 我确定。后来突然间，他的手不再是关键的了。\n(回忆中保罗翻过身；菲比低头看了一眼，马上抬头，咬住嘴唇并摇头。)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补菲比如何专业处理骚扰的 DVD 动作；众人的惊叹为随后原播反应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            186,
+            187
+          ],
+          "old": "Phoebe:我很专业的处理了这件事。",
+          "new": "Phoebe:我很专业的处理了这件事。\n(DVD加长片段开始)\n(回忆画面：菲比猛拉床单，把保罗从按摩床上滚到地板上。)\n(DVD加长片段结束)\nGuys:喔……"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补揭露骚扰后瑞秋的反应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            232,
+            233
+          ],
+          "old": "Phoebe:保罗摸了我的屁股。",
+          "new": "Phoebe:保罗摸了我的屁股。\n(瑞秋愣住了。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补牛奶笑点的动作",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            246
+          ],
+          "old": "Phoebe:好的， 我有牛奶。给你......",
+          "new": "Phoebe:好的， 我有牛奶。给你......\n(菲比从包里拿出保温瓶，本想倒一杯牛奶，瑞秋却直接拿过瓶子喝光了。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补好友安慰的关键动作",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            268
+          ],
+          "old": "Rachel:只是我更喜欢以前那样，更美好的时候。",
+          "new": "Rachel:只是我更喜欢以前那样，更美好的时候。\n(菲比把椅子挪到瑞秋身旁，抱住她。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补莫妮卡送面及保罗感谢",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            288,
+            289
+          ],
+          "old": "Monica:保罗，我非常厌恶你对瑞秋做的事，但我还有五份千层面，在烤箱里烤到375度奶酪冒泡就行了。",
+          "new": "Monica:保罗，我非常厌恶你对瑞秋做的事，但我还有五份千层面，在烤箱里烤到375度奶酪冒泡就行了。\n(莫妮卡递给保罗一份千层面。)\nPaolo:谢谢。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗斯拦住莫妮卡抢着安慰瑞秋的动作",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            293,
+            294
+          ],
+          "old": "Ross:伙计们， 我认为最好只派我们中的一个过去， 这样她就不会感到太不知所措......",
+          "new": "Ross:伙计们， 我认为最好只派我们中的一个过去， 这样她就不会感到太不知所措......\nMonica:哦，你说得对。\n(罗斯把莫妮卡拉住。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补阳台会面的开头",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            295,
+            296,
+            297
+          ],
+          "old": "Ross:你还好吧？",
+          "new": "(罗斯从窗户爬到阳台上。)\nRoss:嗨。\nRachel:嗨。\nRoss:你还好吧？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋对安慰的回应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            302,
+            303
+          ],
+          "old": "Ross:我的意思是，你应该找一个能明白拥有你是多么幸福的人。",
+          "new": "Ross:我的意思是，你应该找一个能明白拥有你是多么幸福的人。\n(罗斯抱住瑞秋。)\nRachel:哦，罗斯……"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯听到瑞秋不想接近男人后的失落反应",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            305,
+            306
+          ],
+          "old": "Rachel:我都不想看见男人， 我也不想考虑别的男人。我甚至不想靠近任何一个男人。",
+          "new": "Rachel:我都不想看见男人， 我也不想考虑别的男人。我甚至不想靠近任何一个男人。\n(罗斯抱起双臂。)\nRoss:嗯。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯被当作朋友后的叹气",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            308
+          ],
+          "old": "Rachel:哦， 罗斯， 你真好。",
+          "new": "Rachel:哦， 罗斯， 你真好。\n(罗斯又抱住她，叹了口气。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补即将当父亲的反应转变",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            334,
+            335
+          ],
+          "old": "Ross:我要有儿子了......",
+          "new": "Ross:我要有儿子了......\n(罗斯忽然露出害怕的神情。)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "原文 Shut-out 是纠正比赛术语，不是 Shut up；恢复片尾笑点",
+          "source_file": "references/en/S01/FriendsS01E12.html",
+          "source_html_lines": [
+            338,
+            339
+          ],
+          "old": "Joey/Chandler:闭嘴吧！！",
+          "new": "Joey/Chandler:是“完封”！！"
+        }
+      ],
+      "unresolved": [
+        "参考稿 181 行把 Wow 标为 Monica，现中文并在 Phoebe 台词末尾；未依单一爱好者稿更改已有标签。微小重叠感叹未逐字重排。"
+      ],
+      "counts": {
+        "change_groups": 27,
+        "added_lines": 42,
+        "original_broadcast_dialogue_groups": 9,
+        "dvd_groups": 2,
+        "action_groups": 14,
+        "minimal_corrections": 2
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E13.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E13.html"
+      ],
+      "complete_comparison": true,
+      "comparison_scope": "逐行全文对照爱好者英文稿；未核对视频或官方制作剧本。蓝色依参考稿页首定义为 DVD 加长内容；原播及版本归属不作独立视频确认。",
+      "changes": [
+        {
+          "kind": "最小纠错",
+          "summary": "原稿明确为浴巾和毯子而非胸罩，恢复钱德勒后一句编织松的指代",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            24
+          ],
+          "old": "(钱德勒进客厅找东西，瑞秋穿着胸罩就走进了客厅)",
+          "new": "(钱德勒进来翻冰箱；瑞秋刚洗完澡，腰间围着浴巾，用另一条毛巾擦身。两人被彼此吓了一跳，瑞秋一时掉落遮胸的毛巾，连忙抓起沙发上的毯子挡住胸口。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补钱德勒想解释的插话",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            28
+          ],
+          "old": "Rachel:你就不能尊重下别人的隐私？",
+          "new": "Rachel:你就不能尊重下别人的隐私？\nChandler:瑞秋，等等，等等。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋对换汤不换药的回应",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            58
+          ],
+          "old": "Phoebe:可以，这块儿不是她的胸脯，而是她的胸部。",
+          "new": "Phoebe:可以，这块儿不是她的胸脯，而是她的胸部。\nRachel:好吧，菲比，我希望你换得更彻底一点。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补爸爸失言和钱德勒被分析后不再开玩笑的反应",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            82,
+            83
+          ],
+          "old": "Mr. Tribbiani:连中两个？Chandler，快！说点好笑的！",
+          "new": "Mr. Tribbiani:连中两个？Chandler，快！说点好笑的！\n(罗斯把头靠在钱德勒肩上；钱德勒板着脸，一言不发。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补爸爸爱上两个女人，为乔伊下一句提供上下文",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            104
+          ],
+          "old": "Joey:哼，别想转移话题。",
+          "new": "Joey:哼，别想转移话题。\nMr. Tribbiani:乔，你爸爸真的陷入爱情了。最糟的是，我爱的是两个不同的女人。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补菲比和罗杰通过对讲器到来的场景",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            121,
+            122,
+            123,
+            124
+          ],
+          "old": "Monica:是Phoebe",
+          "new": "(门禁对讲器响起。莫妮卡接听。)\nMonica:是Phoebe"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补引出钱德勒讨厌罗杰的询问",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            126,
+            127,
+            128
+          ],
+          "old": "Chandler:太好了，Roge 也来了。",
+          "new": "Chandler:太好了，Roge 也来了。\n(钱德勒带着讽刺的语气。)\nJoey:罗杰有什么问题？\nRoss:是啊。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗杰到场后分析罗斯的时间跳转",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            131
+          ],
+          "old": "Ross:这就是你错误的地方，如果当初我感觉到她是女同性恋者我何必和她结婚呢？",
+          "new": "(稍后，钱德勒、罗斯和罗杰坐在桌边，罗斯已经很不高兴。)\nRoss:这就是你错误的地方，如果当初我感觉到她是女同性恋者我何必和她结婚呢？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补场景转到稍后瑞秋已被罗杰分析得哭泣的原播动作",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            144,
+            145
+          ],
+          "old": "Rachel:你说得对，你说得太对了，那不只是“威宝娃娃”的问题，还有“威宝玩乐宫”、“威宝巡航艇”。",
+          "new": "(瑞秋已经被说得哭了起来。)\nRachel:你说得对，你说得太对了，那不只是“威宝娃娃”的问题，还有“威宝玩乐宫”、“威宝巡航艇”。"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "go the distance 指维持长期关系，与原译保持距离含义相反",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            210
+          ],
+          "old": "Joey:懂我意思吗？我和这些女人约会，我想当对的人出现时，我能成为一个可靠的男人，并且保持距离。",
+          "new": "Joey:懂我意思吗？我和这些女人约会，我想当对的人出现时，我能成为一个可靠的男人，并且一直走下去。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补钱德勒喊滚开所针对的动作",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            216
+          ],
+          "old": "Joey:谢谢你，Chandler.",
+          "new": "Joey:谢谢你，Chandler.\n(乔伊往钱德勒身上依偎。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗妮敲门开场",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            219
+          ],
+          "old": "Monica:你好，有什么事吗？",
+          "new": "Ronni:嗨。\nMonica:你好，有什么事吗？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗妮借浴室及瑞秋误认洗澡者的关键原因",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            221
+          ],
+          "old": "Monica:你好，有什么事吗？",
+          "new": "Monica:你好，有什么事吗？\nRonni:嗯，乔伊说我可以借用你们的浴室，因为钱德勒正在我们那边洗澡。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋报复前的押韵对白",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            235
+          ],
+          "old": "(瑞秋拉开浴帘，却看到正在洗澡的乔伊；两人都尖叫起来)",
+          "new": "Rachel:钱德勒·宾，该看看你的“小弟弟”了。\n(瑞秋拉开浴帘，却看到正在洗澡的乔伊；两人都尖叫起来)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补乔伊被偷看后的反应",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            237
+          ],
+          "old": "Joey:你是怎么搞的？",
+          "new": "Joey:你是怎么搞的？\n(乔伊围着浴巾冲出浴室。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补床铺机关笑点的前置动作",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            258
+          ],
+          "old": "Joey:嗨，妈妈，你怎么来了？",
+          "new": "(乔伊正试着把沙发床收回沙发，门响时床却弹向他。)\nJoey:嗨，妈妈，你怎么来了？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补戒指打疼乔伊的原因",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            260
+          ],
+          "old": "Mrs. Tribbiani:我拿这个来给你，还有这个。",
+          "new": "Mrs. Tribbiani:我拿这个来给你，还有这个。\n(妈妈先把装有食品的袋子交给乔伊，又在他耳边打了一下。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补妈妈轻易收好乔伊搞不定的沙发床",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            262
+          ],
+          "old": "Mrs. Tribbiani:你为何要往你爸爸脑袋里灌输一堆“改正错误”的垃圾思想？一切原本就很好。里面有鸡肉，拿去放着，拜托，乔依，真的。",
+          "new": "Mrs. Tribbiani:你为何要往你爸爸脑袋里灌输一堆“改正错误”的垃圾思想？一切原本就很好。里面有鸡肉，拿去放着，拜托，乔依，真的。\n(她轻轻推了一下沙发床，床就折回去了。)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补菲比不要这么做所指的突然接近动作",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            276,
+            277
+          ],
+          "old": "Phoebe:噢，不，永远不要这么做。",
+          "new": "(DVD加长片段开始)\n(罗杰走进咖啡馆，悄悄来到菲比身后，伸手搂住她；菲比吓了一跳。)\n(DVD加长片段结束)\nPhoebe:噢，不，永远不要这么做。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补分析朋友之前两人的亲密姿势",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            282
+          ],
+          "old": "Roger:到底怎么了？快说嘛。",
+          "new": "Roger:到底怎么了？快说嘛。\n(罗杰拍了拍自己的腿，菲比躺下，把头枕在他腿上。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗斯关心乔伊的询问",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            298
+          ],
+          "old": "Chandler:沃尔顿山这儿的事发生了很多变化。",
+          "new": "Chandler:沃尔顿山这儿的事发生了很多变化。\nRoss:那么乔伊，你还好吗？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补莫妮卡被偷看后追出和质问",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            314,
+            315
+          ],
+          "old": "Joey:对不起，看错胸部了。",
+          "new": "(乔伊冲进浴室，里面传出尖叫；他出来时，莫妮卡围着浴巾跟在后面。)\nMonica:乔伊！你到底在干什么？！\nJoey:对不起，看错胸部了。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补看到乔伊爸爸而非乔伊后的反应",
+          "source_file": "references/en/S01/FriendsS01E13.html",
+          "source_html_lines": [
+            319,
+            320
+          ],
+          "old": "Mr. Tribbiani:哦，你好啊，亲爱的！",
+          "new": "Mr. Tribbiani:哦，你好啊，亲爱的！\n(莫妮卡惊恐地迅速拉回浴帘。)"
+        }
+      ],
+      "unresolved": [
+        "中文对讲器台词“Monica:是Phoebe”与英文明确 Phoebe 标签不符；已有标签未在本轮扩写时重排。",
+        "罗杰部分关于亲密、自尊等诊断为角色台词，不作为事实或心理学结论。"
+      ],
+      "counts": {
+        "change_groups": 23,
+        "added_lines": 26,
+        "original_broadcast_dialogue_groups": 9,
+        "dvd_groups": 1,
+        "action_groups": 11,
+        "minimal_corrections": 2
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E14.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E14.html"
+      ],
+      "complete_comparison": true,
+      "comparison_scope": "逐行全文对照爱好者英文稿；未核对视频或官方制作剧本。蓝色依参考稿页首定义为 DVD 加长内容；原播及版本归属不作独立视频确认。",
+      "changes": [
+        {
+          "kind": "原播对白",
+          "summary": "补菲比准备与罗杰重约的关键信息",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            46
+          ],
+          "old": "Rachel:什么？做什么？",
+          "new": "Rachel:什么？做什么？\nMonica:罗杰想明晚约她出去。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补乔伊说谢谢所指的面包",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            56
+          ],
+          "old": "Joey:可怜虫，我知道，但是......拜托，老兄，她黏人又脆弱。我想你可以...谢谢！你和珍妮丝之后就没约过会，你一定要去。",
+          "new": "Joey:可怜虫，我知道，但是......拜托，老兄，她黏人又脆弱。我想你可以...谢谢！你和珍妮丝之后就没约过会，你一定要去。\n(乔伊说到有机会占便宜时，瑞秋向他扔了个面包卷；他捡起来吃了。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补拥抱时蛋碎的笑点",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            58
+          ],
+          "old": "Chandler:干得好，老兄！(两人拥抱在一起)如果我没猜错的话，蛋还在？",
+          "new": "Chandler:干得好，老兄！(两人拥抱在一起)如果我没猜错的话，蛋还在？\n(罗斯衬衫口袋里的鸡蛋被拥抱挤碎，发出咔嚓声。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋怀疑仪式建议的回应",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            90
+          ],
+          "old": "Phoebe:好吧，我有个剃光头的朋友Abby。她说如果你想要停止与挫男交往的恶性循环，你可以举行一个清理仪式。",
+          "new": "Phoebe:好吧，我有个剃光头的朋友Abby。她说如果你想要停止与挫男交往的恶性循环，你可以举行一个清理仪式。\nRachel:菲比，这个女人是自己主动剃光头的。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋要烧前男友物品的回应",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            97
+          ],
+          "old": "Rachel:烧东西就不错。",
+          "new": "Rachel:烧东西就不错。\nRachel:是啊，我有东西可以烧。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补乔伊突然要离场的前因",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            104
+          ],
+          "old": "Joey:我们不能那样做。",
+          "new": "(萝拉妮在乔伊耳边低语。)\nJoey:我们不能那样做。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补钱德勒决定刷乔伊卡报复的完整对白",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            126
+          ],
+          "old": "Janice:我再来一杯吧。",
+          "new": "Chandler:乔伊才不是朋友。他是……把信用卡留给我们的傻瓜。再来杯酒？吃点甜品？买台大屏幕电视？\nJanice:我再来一杯吧。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补好女人一词的错认笑点",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            128
+          ],
+          "old": "Chandler:没问题。好女人！能给我们来一瓶你们最贵的香槟吗？",
+          "new": "Chandler:没问题。好女人！能给我们来一瓶你们最贵的香槟吗？\n(应声转过来的服务员是个男人。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补莫妮卡叫瑞秋来看珍妮丝",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            143
+          ],
+          "old": "Chandler:好吧，这真是太特别了。",
+          "new": "Chandler:好吧，这真是太特别了。\nMonica:瑞秋，快来看看门口是谁！"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补钱德勒试图送客",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            146
+          ],
+          "old": "Rachel:哦，我的天哪，Janice，嗨！",
+          "new": "Rachel:哦，我的天哪，Janice，嗨！\nChandler:珍妮丝现在该走了。"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补走廊团圆后钱德勒的 DVD 手势笑点",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            155,
+            156,
+            157
+          ],
+          "old": "Janice:嗨，Ross。没错，是我。你怎么知道的？",
+          "new": "Janice:嗨，Ross。没错，是我。你怎么知道的？\n(DVD加长片段开始)\n(珍妮丝走开和罗斯通话；莫妮卡、瑞秋、乔伊悄悄围住钱德勒，露出“你竟然和她上床”的神情。钱德勒用手指比成枪，对着自己的头假装开枪。珍妮丝回头时，他马上改成向她打招呼的手势；她再次转回去，他又把“枪”对准她。)\n(钱德勒模仿枪响。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "拆出误并在罗斯行末的克莉丝汀问句，并补看到前妻后用菜单藏脸的动作",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            164,
+            165,
+            166
+          ],
+          "old": "Ross:他们应该马上就做饭了。他们是谁？",
+          "new": "Ross:他们应该马上就做饭了。\n(卡萝和苏珊走进餐厅；罗斯盯着她们，随后把脸藏在菜单后。)\nKristin:怎么了？他们是谁？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补被烧物品和仪式说明的动作",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            181,
+            182
+          ],
+          "old": "Phoebe:恩，可以。好的，哦，好了。",
+          "new": "Phoebe:恩，可以。好的，哦，好了。\n(菲比把仪式说明也扔进火里。)\nRachel:好吧，巴里的信，还有亚当·里特的平角短裤。\n(瑞秋把这些东西丢进火中。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补裸照体毛笑点的反应",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            187
+          ],
+          "old": "Monica:没有。",
+          "new": "Monica:没有。\nRachel/Phoebe:恶！"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补餐厅第二场开头接虾烫嘴的动作",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            204,
+            205
+          ],
+          "old": "Ross:你真的从纽约来的？",
+          "new": "(厨师把虾抛到空中，罗斯用嘴接住，马上被烫得在嘴前扇手；厨师离开时，大家鼓掌。)\nRoss:你真的从纽约来的？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补原播有而 DVD 删去的罗斯职业问话（英文红色）及寻呼机触发剧情",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            207,
+            208,
+            209,
+            210
+          ],
+          "old": "Carol:哦，不是吧，我以为你说他们没有你可以解决的。",
+          "new": "(苏珊的寻呼机响了，罗斯转头看过去。)\nRoss:那你是做什么工作的？\nKristin:嗯，这几年我一直在工作……\nSusan:哦，天哪！\nCarol:哦，不是吧，我以为你说他们没有你可以解决的。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯忽视约会对象的关键态度",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            212,
+            217,
+            219
+          ],
+          "old": "Kristin:但我大部分时间都在教科学，真好笑，因为那根本不是我的专业。",
+          "new": "Kristin:但我大部分时间都在教科学，真好笑，因为那根本不是我的专业。\n(罗斯一直盯着卡萝，没有认真听克莉丝汀说话；意识到她在等他笑，他才突然笑起来。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补消防员三项建议及第三项反差笑点",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            236,
+            237
+          ],
+          "old": "Fireman No. 1:哦，当然，情人节之夜是我们一年里最忙的时候。",
+          "new": "Fireman No. 1:哦，当然，情人节之夜是我们一年里最忙的时候。\nFireman No. 1:女士们，以后烧前男友的东西时，第一，要保证地方通风良好。第二，如果烧衣服，要避开合成纤维。\nFireman No. 2:第三，试着放下愤怒，学会爱自己。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补钱德勒分手后立刻改口的缘由",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            252,
+            253
+          ],
+          "old": "Chandler:给我打电话！",
+          "new": "(珍妮丝热烈地吻了钱德勒，随后离开。)\nChandler:给我打电话！"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补谈复合时的关键剧情动作",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            271
+          ],
+          "old": "Carol:哦，我也爱你，但是......",
+          "new": "(罗斯和卡萝接吻。)\nCarol:哦，我也爱你，但是......"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补先前玩消防帽后的归还动作",
+          "source_file": "references/en/S01/FriendsS01E14.html",
+          "source_html_lines": [
+            291
+          ],
+          "old": "Rachel:那么，呃，你们会开着消防车来吗？",
+          "new": "(姑娘们把戴着的消防帽还给消防员。)\nRachel:那么，呃，你们会开着消防车来吗？"
+        }
+      ],
+      "unresolved": [
+        "参考稿 165–166 行标签和正文跨行，正文为黑色；克莉丝汀问话按原播补齐。",
+        "参考稿自行更改消防员编号（225 行有说明）；中文现有消防员标签数处不同，不据此判定具体演员。"
+      ],
+      "counts": {
+        "change_groups": 21,
+        "added_lines": 31,
+        "original_broadcast_dialogue_groups": 10,
+        "dvd_groups": 1,
+        "action_groups": 9,
+        "minimal_corrections": 1
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E15.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E15.html"
+      ],
+      "complete_comparison": true,
+      "comparison_scope": "逐行全文对照爱好者英文稿；未核对视频或官方制作剧本。蓝色依参考稿页首定义为 DVD 加长内容；原播及版本归属不作独立视频确认。",
+      "changes": [
+        {
+          "kind": "原播对白",
+          "summary": "补莫妮卡饮品与肉桂棒的前置对白",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            29
+          ],
+          "old": "Monica:噢，谢谢。瑞秋？！",
+          "new": "Rachel:还给莫妮卡一杯热腾腾的苹果酒。\nMonica:噢，谢谢。瑞秋？！"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补钱德勒奉承同事的对白",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            38
+          ],
+          "old": "Woman:钱德勒？",
+          "new": "Woman:钱德勒？\nChandler:泰德洛克太太。您今天真漂亮。不得不说，这个袖子的长度很衬您。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补临时工作已做五年的反差",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            54
+          ],
+          "old": "Chandler:为什么？这个工作本该只是个临时工作！",
+          "new": "Chandler:为什么？这个工作本该只是个临时工作！\nMonica:可是钱德勒，你已经在那里干了五年了。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补菲比介绍厨师工作却忽略莫妮卡的动作",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            67,
+            68
+          ],
+          "old": "Monica:你好。",
+          "new": "Monica:你好。\n(莫妮卡拍菲比的肩，提醒她自己才是厨师；菲比却转回去看钱德勒。)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补电视比赛 DVD 开场",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            77,
+            78,
+            79
+          ],
+          "old": "Chandler:你能透过衬衫看见我的乳 头吗？",
+          "new": "(DVD加长片段开始)\n(除钱德勒外，大家正在看电视上的苏格兰投掷树干比赛。)\nAnnouncer on TV:大步助跑，扔出去了！漂亮的一掷！\nRoss:看这种比赛，你就明白为什么进化论还只是个理论。\n(DVD加长片段结束)\nChandler:你能透过衬衫看见我的乳 头吗？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补昆虫女笑点的语气",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            107
+          ],
+          "old": "Rachel:\"我爱你，罗斯\"。",
+          "new": "Rachel:\"我爱你，罗斯\"。\n(瑞秋模仿昆虫嗡嗡的声音。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补含蓄对话的手势指代",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            112,
+            113
+          ],
+          "old": "Joey:回你的住处？你想……",
+          "new": "Joey:回你的住处？你想……\n(乔伊来回比划两只手，暗示是否打算发生性关系；罗斯也用同样的手势回答。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补求职测试后疲惫的外观",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            126
+          ],
+          "old": "Rachel:天啊，你怎么了？",
+          "new": "(钱德勒踢门进来，衣服凌乱，看起来筋疲力尽。)\nRachel:天啊，你怎么了？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补色话教学时的声音和反应",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            171,
+            172,
+            174
+          ],
+          "old": "Ross:我看还是算了吧。",
+          "new": "Ross:我看还是算了吧。\n(乔伊压低声音示范，罗斯听得有些佩服。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补复职电话反复来电的背景",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            198
+          ],
+          "old": "Chandler:又打来？",
+          "new": "Joey:钱德勒，你刚睡着时，你以前公司那个人又打电话来了。\nChandler:又打来？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补钱德勒复职电话缺失的中段及加薪铺垫",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            200,
+            201
+          ],
+          "old": "All:你的梦想…",
+          "new": "(乔伊接起电话，随即把话筒交给钱德勒。)\nChandler:嘿，科斯特利克先生！十五楼的生活怎么样？嗯，我也想你们。从自己家偷笔，确实没有那么过瘾。您真慷慨，但这不是钱的问题。我需要的不只是一份工作，我需要真正能够关心的东西。等等，这是在您刚才说的年度奖金之外，再加的吗？\nAll:你的梦想…"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补秘书听见背后评论的 DVD 笑点",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            216,
+            217,
+            218
+          ],
+          "old": "Chandler:这是最后一次了，我保证。",
+          "new": "Chandler:这是最后一次了，我保证。\n(DVD加长片段开始)\nPhoebe:她看起来不太热情。\nChandler:我知道，她简直一点个性都没有。\nHelen:咳。\n(声音从对讲器传来；钱德勒发现海伦离开后，对讲器一直没关，她全听见了。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋拒绝每小时十元后再提价的对白",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            226,
+            227,
+            228
+          ],
+          "old": "Monica:一小时十元！一小时十二元！",
+          "new": "Monica:一小时十元！\nRachel:不。\nMonica:一小时十二元！"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补史帝夫狼吞虎咽导致莫妮卡介绍被打断的动作",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            250,
+            251
+          ],
+          "old": "Steve:打我屁 股叫我朱蒂。真是太好吃了！",
+          "new": "Steve:打我屁 股叫我朱蒂。真是太好吃了！\n(史帝夫刚才把盘里的虾饺一只接一只飞快吃光，莫妮卡介绍菜名时都还没说完。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补下一段用来救小熊的麦片从何而来",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            261
+          ],
+          "old": "Monica:如果你再等6分钟半……",
+          "new": "Steve:嘿！Sugar-O 麦片！\n(他拿起柜子里的麦片盒。)\nMonica:如果你再等6分钟半……"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补小熊落水与麦片救生圈的 DVD 关键动作",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            272
+          ],
+          "old": "(两个人开始争抢小熊软糖)",
+          "new": "(两个人开始争抢小熊软糖)\n(DVD加长片段开始)\n(包装袋被扯破，小熊软糖飞得到处都是，有几颗掉进桌上的潘趣酒碗。史帝夫又往碗里扔了一些环状麦片，当作救生圈。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补史帝夫吃磁铁被送急诊的 DVD 后续；乔伊评价为随后原播对白",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            281,
+            282,
+            283
+          ],
+          "old": "Rachel:你做的很对。",
+          "new": "(DVD加长片段开始)\nMonica:我告诉他：“对不起，我就是这样想的。”他说我破坏了他的兴致。接着我说：“别吃那个，那是厨房里的磁铁。”可他根本不听，所以我们把他留在急诊室了。\nRoss:哦，莫妮卡，真遗憾。\n(DVD加长片段结束)\nJoey:真是个蠢货！\nRachel:你做的很对。"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "恢复他已经成为自己先前不愿成为的 WENUS 主管的领悟，而非仅舒服呻吟",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            303
+          ],
+          "old": "(对着下属大喊大叫一通之后，发出舒服的呻吟声)",
+          "new": "(钱德勒挂断电话，向后靠在椅子上，忽然意识到自己刚才真的开始关心这份工作。)\nChandler:哇……"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补菲比为莫妮卡报复的按摩动作",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            305,
+            306,
+            308,
+            310,
+            312,
+            314
+          ],
+          "old": "(菲比给老板按摩)",
+          "new": "(菲比给老板按摩)\n(菲比下手格外重，连续用力按史帝夫的背，随后改用肘部，史帝夫痛得不断惨叫。)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "痛叫及 DVD 我要吐了均是史帝夫，不是按摩者菲比；仅拆分错误合并的末行",
+          "source_file": "references/en/S01/FriendsS01E15.html",
+          "source_html_lines": [
+            314,
+            315
+          ],
+          "old": "Phoebe:爽啦！啊！！！啊！！！我要吐了。",
+          "new": "Phoebe:这就对了！\nSteve:啊！！！啊！！！\n(DVD加长片段开始)\nSteve:哦，好痛！哦，我快吐了。\n(DVD加长片段结束)"
+        }
+      ],
+      "unresolved": [
+        "参考稿把 114 行猴子是 chick magnet 的话标为 Joey，中文已有 Ross 标签；本轮保留已有标签待视频确认。",
+        "135 行 amouz/amusing 的食物双关与现译差异未重写；仅补缺失剧情。"
+      ],
+      "counts": {
+        "change_groups": 20,
+        "added_lines": 41,
+        "original_broadcast_dialogue_groups": 7,
+        "dvd_groups": 4,
+        "action_groups": 7,
+        "minimal_corrections": 2
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E16.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E16.html",
+        "references/en/S01/FriendsS01E17.html"
+      ],
+      "complete_comparison": true,
+      "comparison_scope": "逐行全文对照爱好者英文稿；未核对视频或官方制作剧本。蓝色依参考稿页首定义为 DVD 加长内容；原播及版本归属不作独立视频确认。",
+      "changes": [
+        {
+          "kind": "原播对白",
+          "summary": "补猜嘉宾名字的第二个答案；放到第二次否定前",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            61
+          ],
+          "old": "Phoebe:给我剪头发的女人！",
+          "new": "Phoebe:莫利·塞弗？\nPhoebe:给我剪头发的女人！"
+        },
+        {
+          "kind": "插入位置整理",
+          "summary": "将刚补入的第二个猜测移至两次否定之间，不改变已有行",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            60,
+            61,
+            62
+          ],
+          "old": "Joey:不是。\nJoey:不是。\nPhoebe:莫利·塞弗？",
+          "new": "Joey:不是。\nPhoebe:莫利·塞弗？\nJoey:不是。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补菲比本来知道姐姐的工作地点",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            68
+          ],
+          "old": "Chandler:是的，她在那儿工作，呃……",
+          "new": "Chandler:是的，她在那儿工作，呃……\nPhoebe:瑞夫餐厅。对，我知道。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗斯口称坦然后却穿错外套的笑点",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            81
+          ],
+          "old": "Ross:我知道。",
+          "new": "Monica:罗斯，那是我的外套。\nRoss:我知道。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补穿错衣服的慌张动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            80,
+            83
+          ],
+          "old": "Ross:我知道。",
+          "new": "Ross:我知道。\n(罗斯脱下莫妮卡的外套，抓起自己的外套，匆匆离开。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗斯不愿说清苏珊身份的结巴",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            89
+          ],
+          "old": "Susan:是伴侣。",
+          "new": "Ross:苏珊是卡萝的，卡萝的，卡萝的……朋友。\nSusan:是伴侣。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补卡萝坦然说明同居关系",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            95
+          ],
+          "old": "Ross:你知道女人们能多亲密。",
+          "new": "Ross:你知道女人们能多亲密。\nCarol:苏珊和我住在一起。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补妮娜接完缩写定义前钱德勒说的半句",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            116
+          ],
+          "old": "Nina:哦净产值使用统计，知道了！知道了。不会再发生这样的事了，我不会再做任何事伤害你的……维纳斯(谐音)。",
+          "new": "Chandler:WENUS。每周估算净……\nNina:哦净产值使用统计，知道了！知道了。不会再发生这样的事了，我不会再做任何事伤害你的……维纳斯(谐音)。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补妮娜调情、钱德勒心动的动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            118
+          ],
+          "old": "Nina:哦净产值使用统计，知道了！知道了。不会再发生这样的事了，我不会再做任何事伤害你的……维纳斯(谐音)。",
+          "new": "Nina:哦净产值使用统计，知道了！知道了。不会再发生这样的事了，我不会再做任何事伤害你的……维纳斯(谐音)。\n(妮娜冲钱德勒暧昧地笑；他一时接不上话，她点头示意，他理解的暗示没错。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补整段遥控器切换 SAP、后续全集电视西班牙语的剧情前因",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            125,
+            126,
+            127,
+            128
+          ],
+          "old": "Monica:这下好了。",
+          "new": "Monica:罗斯，你那个小家伙又拿着遥控器了。\nRoss:马修，把遥控器给罗斯。马修，马上把遥控器还给罗斯……\n(马修对着电视按了一串键，屏幕出现 SAP 标志，节目突然变成西班牙语配音。)\nMonica:这下好了。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯迟到时踩扁娃娃的动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            156,
+            157
+          ],
+          "old": "Ross:抱歉。抱歉。我迟到了。Carol在哪儿？",
+          "new": "(这次课程刚教完换尿布。罗斯匆忙进来，一脚踩扁旁边夫妻的练习娃娃头；他赶紧把娃娃头修好，交还给对方。)\nRoss:抱歉。抱歉。我迟到了。Carol在哪儿？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯输掷硬币后扮产妇的姿势",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            172
+          ],
+          "old": "Susan:躺下吧，妈妈。",
+          "new": "Susan:躺下吧，妈妈。\n(罗斯躺在地上，头枕在苏珊腿上；其他产妇也由各自的教练这样支撑着。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补苏珊不自觉参与的动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            174
+          ],
+          "old": "Teacher:好了，各位妈妈们，请深呼吸。做的很好。现在请想像你的阴道像花一样绽放着。",
+          "new": "Teacher:好了，各位妈妈们，请深呼吸。做的很好。现在请想像你的阴道像花一样绽放着。\n(苏珊一时忘了自己的教练身份，也跟着做了“妈妈”的呼吸动作。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补开除谈话变成约会邀请的原因",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            193,
+            194,
+            195
+          ],
+          "old": "Nina:你没事吧？",
+          "new": "(妮娜伸手抚摸钱德勒左腿内侧；钱德勒低头看着她的手。)\nNina:你没事吧？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补针织圈动作，为后面钱德勒催织毛衣提供上下文",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            232,
+            233
+          ],
+          "old": "(莫妮卡和瑞秋的公寓)\n()\nMonica:我真不敢相信，你还没告诉她她已经被开除了？",
+          "new": "(莫妮卡和瑞秋的公寓)\n()\n(莫妮卡在织毛衣，瑞秋绕毛线球，钱德勒用双手撑着线绞供她们取线；菲比关掉仍在播西班牙语节目的电视。)\nMonica:我真不敢相信，你还没告诉她她已经被开除了？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补三人被毛线串在一起的动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            245
+          ],
+          "old": "Monica:我来开。哦，你好Heckles先生。",
+          "new": "Monica:我来开。哦，你好Heckles先生。\n(莫妮卡起身时，毛线把钱德勒也拖了过去，瑞秋只好跨过椅子跟上他们。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补乔伊回应菲比突然敌意的对白",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            266
+          ],
+          "old": "Phoebe:好吧，也许我现在不同意了。",
+          "new": "Joey:嘿，菲比，我问过你，你说过没问题的。\nPhoebe:好吧，也许我现在不同意了。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补老板撞见二人及妮娜脱身的对白",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            275,
+            276,
+            277
+          ],
+          "old": "Chandler:Chrysler大楼就在那儿。",
+          "new": "Chandler:Chrysler大楼就在那儿。\nMr. Douglas:妮娜。\nNina:道格拉斯先生……领带真酷。\n(妮娜趁机离开。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补卡萝向罗斯发作前的安慰对白",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            299
+          ],
+          "old": "Carol:那个女人做的一切。我不会这么做的。他得留在我体内。就这样，一切和原来一样。他就留在我体内。",
+          "new": "Carol:那个女人做的一切。我不会这么做的。他得留在我体内。就这样，一切和原来一样。他就留在我体内。\nRoss:卡萝，亲爱的，嘘，嘘，一切都会没事的。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯从把娃娃当球到意识到父亲责任的动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            302,
+            303,
+            304
+          ],
+          "old": "Susan:Carol，Carol，亲爱的，深呼吸。我知道你很惶恐，但是往长远想想，生产过程只是一天。结束之后我们这辈子都是他的父母了。我是说，怀胎生子为的不就是这些吗？",
+          "new": "Susan:Carol，Carol，亲爱的，深呼吸。我知道你很惶恐，但是往长远想想，生产过程只是一天。结束之后我们这辈子都是他的父母了。我是说，怀胎生子为的不就是这些吗？\n(罗斯看了看倒拿着的娃娃，重新把娃娃的头和四肢摆好，让它恢复婴儿的模样。)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "只拆出误并在 Ross 行里的 Rachel 安慰句，译文文字不变",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            309,
+            310,
+            311
+          ],
+          "old": "Ross:我一直都知道我有孩子了，只是没意识到孩子也有我做爸爸了。哦，你会很棒的！你怎么知道？我连阻止马修吃浴室垫都办不到。我怎么会养孩子呢？",
+          "new": "Ross:我一直都知道我有孩子了，只是没意识到孩子也有我做爸爸了。\nRachel:哦，你会很棒的！\nRoss:你怎么知道？我连阻止马修吃浴室垫都办不到。我怎么会养孩子呢？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补妮娜加薪手续的请求",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            335
+          ],
+          "old": "Chandler:哦你不知道我有多好。",
+          "new": "Chandler:哦你不知道我有多好。\n(钱德勒按下对讲器按钮。)\nChandler:海伦，能不能确保布克宾德小姐加薪的文件办好了？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补钱德勒掩饰秘书揭穿谎话的说辞",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            338
+          ],
+          "old": "Chandler:你愿意嫁给我吗？",
+          "new": "Chandler:海伦喝酒的。\nChandler:你愿意嫁给我吗？"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补求婚荒唐事件后的 DVD 对话",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            341,
+            342,
+            343
+          ],
+          "old": "Chandler:最后我把一切都告诉她了。",
+          "new": "(DVD加长片段开始)\nChandler:求婚之后，我就开始有点撑不住了。\nRoss:对，在那之前你一直都很有掌控力。\n(DVD加长片段结束)\nChandler:最后我把一切都告诉她了。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补引出菲比解释乌苏拉旧事的问句",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            354
+          ],
+          "old": "Phoebe:就是，我是说，就是Ursula的事。",
+          "new": "Phoebe:就是，我是说，就是Ursula的事。\nRachel:菲比，我能问一下吗？他只是跟她约会，这真的有那么糟吗？"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补莫妮卡劝阻和瑞秋掉下去前的动作",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            375,
+            376
+          ],
+          "old": "Rachel:不不不。你要我把灯拿下来，我正在做，行了吧？啊！",
+          "new": "Monica:瑞秋，你在干什么？外面冻死了，快回屋里来吧。\n(瑞秋爬上阳台栏杆去够杆子顶端的灯。)\nRachel:不不不。你要我把灯拿下来，我正在做，行了吧？啊！"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补瑞秋并未掉到地面，而是倒挂窗外的关键剧情",
+          "source_file": "references/en/S01/FriendsS01E16.html",
+          "source_html_lines": [
+            377,
+            379
+          ],
+          "old": "Rachel:我没事！我没事！Heckles先生？Heckles先生，能不能，能不能帮我一下？",
+          "new": "(瑞秋脚踝被圣诞灯缠住，倒挂在楼下赫克尔斯先生的窗外。)\nRachel:我没事！我没事！Heckles先生？Heckles先生，能不能，能不能帮我一下？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补紧急联系人所引发的亲密动作",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            46
+          ],
+          "old": "Monica:真窝心。哦，天哪！我爱你。保险？",
+          "new": "Monica:真窝心。哦，天哪！我爱你。保险？\n(莫妮卡被感动，伸手搂住瑞秋，并亲了她一下。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补医生叫 Monica 时本人差点露馅的动作；原中文这部分合在医生行，保留待后续标签核实",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            97
+          ],
+          "old": "Rachel:她是我朋友Rachel。",
+          "new": "(莫妮卡本能地应声，瑞秋在她手臂上打了一下，提醒她正在交换身份。)\nRachel:她是我朋友Rachel。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补 Peehe 怪昵称由摔坏蛋糕产生的原因",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            123,
+            127,
+            129
+          ],
+          "old": "Chandler:生日快乐，皮菲。",
+          "new": "Chandler:生日快乐，皮菲。\n(钱德勒念的是被摔坏的蛋糕上已经缺字的生日祝词。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补生日派对气氛变冷和转移话题",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            137,
+            139
+          ],
+          "old": "Chandler:你看见贝蒂没？",
+          "new": "Chandler:你看见贝蒂没？\n(大家听到乔伊没来时一下安静了，贝蒂朝菲比摆手打招呼，钱德勒试图用她转移话题。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补像这样指的具体动作",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            183
+          ],
+          "old": "Dr. Mitchell:别紧张好不？看看四周，没有异教徒的神坛。角落没有成堆的骨头，她们没事的，像这样。",
+          "new": "Dr. Mitchell:别紧张好不？看看四周，没有异教徒的神坛。角落没有成堆的骨头，她们没事的，像这样。\n(他张开嘴，用手指清理牙齿；罗森也照做。)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补拼字作弊争论中缺失的虚构单词",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            261,
+            262
+          ],
+          "old": "Ross:航海术语。",
+          "new": "(DVD加长片段开始)\nChandler:Garge？\n(DVD加长片段结束)\nRoss:航海术语。"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补乌苏拉不记得乔伊后菲比提醒名字和感情",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            317
+          ],
+          "old": "Ursula:他是吗？为什么？",
+          "new": "Phoebe:乔伊啊。你知道吗，他真的迷上你了。\nUrsula:他是吗？为什么？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补偷顾客午餐和转送乔伊礼物的动作",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            294,
+            299,
+            304,
+            309,
+            310
+          ],
+          "old": "Phoebe:你怎知道我会来？",
+          "new": "Phoebe:你怎知道我会来？\n(乌苏拉刚把某位顾客的鸡肉端到自己面前吃，又拿出乔伊送她的开衫，把它当作送给菲比的生日礼物。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补乔伊误把伪装的菲比当作乌苏拉时的问话",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            390,
+            392
+          ],
+          "old": "Phoebe:听着，嗯",
+          "new": "Joey:乌苏拉……你怎么来了？我一直想给你打电话。\nPhoebe:听着，嗯"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "英文难忘的对象是 Joey，原译颠倒主客体，影响两人友情转折",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            409
+          ],
+          "old": "Phoebe:你知道，忘了我是很难的一件事。",
+          "new": "Phoebe:你知道，我会很难很难忘掉你的。"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补菲比听到乔伊不愿牺牲友谊后的动作",
+          "source_file": "references/en/S01/FriendsS01E17.html",
+          "source_html_lines": [
+            408,
+            409,
+            411
+          ],
+          "old": "Joey:那么我只能说抱歉了。",
+          "new": "Joey:那么我只能说抱歉了。\n(乔伊伤心地坐回沙发；菲比跟着坐下，被他选择友谊的心意打动，不自觉把手放在他膝上。)"
+        }
+      ],
+      "unresolved": [
+        "英文 E16 的 47 行前没有中文“到处都是酸豆”一句，但中文原样保留，不根据单一爱好者稿删除。",
+        "中文“Susan:是伴侣”对应英文 90 行 Carol；已有角色标签保留，待更强依据复核。",
+        "英文 E16 369 行为 Ursula 穿 Joey 的衬衫，中文写睡袍；未凭单一参考更改服装细节。",
+        "部分医院对白已有“as Rachel/as Monica”标签，其他行没有；未全面统一格式，不据扮演名字改变实际发言人。"
+      ],
+      "counts": {
+        "change_groups": 38,
+        "added_lines": 48,
+        "original_broadcast_dialogue_groups": 16,
+        "dvd_groups": 2,
+        "action_groups": 17,
+        "minimal_corrections": 2
+      }
+    },
+    {
+      "chinese_file": "S01/FriendsS01E17.txt",
+      "english_files": [
+        "references/en/S01/FriendsS01E18.html"
+      ],
+      "complete_comparison": true,
+      "comparison_scope": "逐行全文对照爱好者英文稿；未核对视频或官方制作剧本。蓝色依参考稿页首定义为 DVD 加长内容；原播及版本归属不作独立视频确认。",
+      "changes": [
+        {
+          "kind": "原播动作",
+          "summary": "补开场集体口哨和寄简历的动作",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            28
+          ],
+          "old": "(瑞秋想找新工作)",
+          "new": "(瑞秋想找新工作)\n(大家一边帮瑞秋把简历装进信封，一边吹《桂河大桥》的主题曲口哨。)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补发现错字后反向拆信封的 DVD 笑点",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            46
+          ],
+          "old": "Joey:不，我确定是复印机自己改了一些。",
+          "new": "Joey:不，我确定是复印机自己改了一些。\n(DVD加长片段开始)\n(大家继续吹口哨，却把刚装好的信封拆开，拿出印错的简历；罗斯揉皱了其中一份。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补情侣座玩笑后挨打的 DVD 动作",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            51
+          ],
+          "old": "Chandler:他们把这里叫做情侣座。可是跟你坐一起怎么你对面一点感觉都没有",
+          "new": "Chandler:他们把这里叫做情侣座。可是跟你坐一起怎么你对面一点感觉都没有\n(DVD加长片段开始)\n(罗斯卷起报纸，打了钱德勒的头。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补罗斯仍恋恋不舍和钱德勒的反应",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            79
+          ],
+          "old": "Rachel:好吧。",
+          "new": "Rachel:好吧。\n(瑞秋走开后，罗斯仍趴在桌上望着她；钱德勒又用报纸打了他一下。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补钱德勒羞辱乔伊看错牌时的反应",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            129
+          ],
+          "old": "Chandler:八点，三点，好的，现在可以开始了",
+          "new": "Chandler:八点，三点，好的，现在可以开始了\n(乔伊一点都不觉得好笑。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补罗斯承认从朋友那里赢钱让他得意的原播回答",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            158
+          ],
+          "old": "Rachel:所以说你们买组合家具的钱都是从朋友那儿搜刮来的吧。",
+          "new": "Rachel:所以说你们买组合家具的钱都是从朋友那儿搜刮来的吧。\n(罗斯停了一下。)\nRoss:是的。"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补猴子又放同一张 CD 后三个男人跳舞的 DVD 动作",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            175
+          ],
+          "old": "(开始播放音乐)",
+          "new": "(开始播放音乐)\n(DVD加长片段开始)\n(《狮子今晚睡了》响起；三个男人端着披萨和啤酒站了一会儿，随后不由自主地跟着音乐跳舞。)\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "DVD新增",
+          "summary": "补姑妈发牌规则及内森的 DVD 对话",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            206,
+            207,
+            208,
+            209,
+            210,
+            211,
+            212,
+            213
+          ],
+          "old": "Aunt Iris:听好！我停车是计时收费的，咱们赶紧开始吧，成吗？",
+          "new": "Aunt Iris:听好！我停车是计时收费的，咱们赶紧开始吧，成吗？\n(DVD加长片段开始)\nAunt Iris:先从五张牌换牌玩法开始，然后学明牌扑克和德州扑克。昨天我跟你表兄内森聊了——啊！\n(她突然冲瑞秋喊。)\nAunt Iris:有人发牌的时候，千万别动你的牌。\n(菲比和瑞秋慢慢把手放到桌下，看着她发完剩下的牌。)\nMonica:内森怎么样？\nAunt Iris:他哪次不一样？现在他觉得自己是个被困在女人身体里的男人。\nRachel:你是不是想说，他觉得自己是个被困在男人身体里的女人？\nAunt Iris:要是这么简单就好了。\n(DVD加长片段结束)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "原文设备并未损坏，猴子摔门生气才是下一句会付出代价的缘由",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            217
+          ],
+          "old": "(罗斯过去，摁了关闭键，录音机坏了)",
+          "new": "(罗斯关掉 CD 机；马修跑进卧室，砰地关上门。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补提及先前你画我猜事件的动作笑点",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            230
+          ],
+          "old": "Chandler:是的我们可以玩一些别的游戏，比如\"你画我猜\"。",
+          "new": "Chandler:是的我们可以玩一些别的游戏，比如\"你画我猜\"。\n(几个男生立刻躲到桌子底下，怕莫妮卡又失控扔东西。)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "姑妈假意自己返还输掉的钱，女孩们问真的吗，不是女孩们说当然假的；恢复 bluff 揭底的顺序",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            258,
+            259,
+            260,
+            261
+          ],
+          "old": "Aunt Iris:你们知道我要做什么吗，我要把那钱给你们要回来的。真的吗？\nGirls:当然假的！",
+          "new": "Aunt Iris:你们知道我要做什么吗，我要把那钱还给你们。\nGirls:真的吗？"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补防止莫妮卡输急后扔盘子的动作",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            305,
+            306
+          ],
+          "old": "Monica:我讨厌玩牌。",
+          "new": "Monica:我讨厌玩牌。\n(乔伊把盘子从莫妮卡面前推给钱德勒；钱德勒把它藏到桌下。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补瑞秋接电话前罗斯嘴硬的插话；原句在电话响后，本轮补在连续场景附近",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            328
+          ],
+          "old": "Ross:第一，我没输。",
+          "new": "Ross:第一，我没输。\nRoss:别再说输了，赶紧发……"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补电话前后嘲讽与失落的态度转折；保持既有合并台词不重排",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            330,
+            331,
+            332,
+            333,
+            334
+          ],
+          "old": "Rachel:你输定了。你好我是瑞秋格林稍等。这是有关工作的电话。芭芭拉，你好吗？嗯哼？没事，我理解。拜托，我没事，快别这么说。是的。你好? 哦，你应该知道，如果有其他职位空缺，请……喂？",
+          "new": "Rachel:你输定了。你好我是瑞秋格林稍等。这是有关工作的电话。芭芭拉，你好吗？嗯哼？没事，我理解。拜托，我没事，快别这么说。是的。你好? 哦，你应该知道，如果有其他职位空缺，请……喂？\n(罗斯在她刚接起电话时尖声模仿她：“咪，咪，咪咪咪。”瑞秋告诉他这是工作电话，随即走进厨房。挂断后，她低落地回到桌前，大家都不知道该说什么。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补其余四人退出较量的动作",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            348,
+            350
+          ],
+          "old": "Others:当然没有，没有。",
+          "new": "Others:当然没有，没有。\n(除了罗斯还在犹豫，其他人都弃了牌。钱德勒、莫妮卡、乔伊和菲比把椅子向后挪，留下两人对决。)"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补 seventeen 接词和帮瑞秋加注的动作",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            369
+          ],
+          "old": "Phoebe:17美元！",
+          "new": "Phoebe:17美元！\n(菲比加上一张十美元纸币，把瑞秋的七美元加到十七美元。)"
+        },
+        {
+          "kind": "最小纠错",
+          "summary": "calling 是跟注而非再加注，明确最终赌局金额",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            380
+          ],
+          "old": "Ross:好了，再加十七块。你拿什么牌？\t",
+          "new": "Ross:好了，跟你的十七块。你拿什么牌？\t"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补结局隐藏罗斯真实牌型的关键动作，不能声称视频确认他假输",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            383,
+            384
+          ],
+          "old": "Ross:败给你了。",
+          "new": "Ross:败给你了。\n(罗斯看着瑞秋，想了想，把自己的牌面朝下放在桌上，没有亮牌。)"
+        },
+        {
+          "kind": "原播对白",
+          "summary": "补猜对画作时瑞秋的回答",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            408
+          ],
+          "old": "Joey:生命中无法承受的轻！",
+          "new": "Joey:生命中无法承受的轻！\nRachel:对！"
+        },
+        {
+          "kind": "原播动作",
+          "summary": "补片尾呼应你画我猜事件的最终笑点",
+          "source_file": "references/en/S01/FriendsS01E18.html",
+          "source_html_lines": [
+            410
+          ],
+          "old": "Monica:这样也行？这样也行？！！",
+          "new": "Monica:这样也行？这样也行？！！\n(莫妮卡拿起玻璃杯准备喝水，大家又全躲了起来，以为她要扔杯子。)"
+        }
+      ],
+      "unresolved": [
+        "中文已有 Unknown 回应“是啊我们就是这么想的”，英文 232 行是 Phoebe and Rachel；本轮未仅为并行扩写变更角色标签。",
+        "现中文开头和末尾摘要称罗斯“假装认输”，参考稿只给藏牌及追看牌的动作，不能独立确认罗斯有更强牌或实际假输；摘要原样保留，不增强断言。",
+        "236 行只说明瑞秋娴熟洗牌；中文“为了反转，误导观众女生会赢”是原有分析，不属可核实动作，本轮不扩写。"
+      ],
+      "counts": {
+        "change_groups": 20,
+        "added_lines": 33,
+        "original_broadcast_dialogue_groups": 3,
+        "dvd_groups": 4,
+        "action_groups": 10,
+        "minimal_corrections": 3
+      }
+    }
+  ]
+}

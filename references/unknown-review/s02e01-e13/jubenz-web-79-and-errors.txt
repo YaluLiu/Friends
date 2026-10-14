@@ -1,0 +1,216 @@
+Internal Error ()
+citeturn29view0 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/78/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/78/: (502) Bad Gateway
+--------------------------------------------------------------------------------
+老友记-Friends 第二季 第三集 S02E03英文台词、剧本翻译、中英文对照、剧本下载-中英文剧本站 (https://www.jubenz.com/friends/79/)
+citeturn29view1 [wordlim: 200] Crawled: 8 months ago; Content type: text/html; Source: open({"ref_id":"https://www.jubenz.com/friends/79/","lineno":null}); Total lines: 264
+L0:  cite0†中英文剧本站 L1: 
+L2:   * cite1†电影剧本 (current) L3:   * cite2†剧集剧本 (current) L4: 
+L5: cite3† 搜索  L6: ##### Friends.老友记美剧原声
+L7: 
+L8: cite4†老友记 第一季 L9: 
+L10: cite5†老友记 第二季 L11: 
+L12:   * cite5†罗斯的新女友 L13:   * cite6†母乳 L14:   * cite7†海先生之死 L15: cite7† Part 1 cite8† Part 2 cite9† Part 3 L16:   * cite10†菲比的丈夫 L17:   * cite11†五块牛排和一根茄子 L18:   * cite12†宝宝落在巴士上了 L19:   * cite13†突如其来的表白 L20:   * cite14†优缺点清单 L21:   * cite15†菲比的爸爸 L22:   * cite16†罗斯的翻版 L23:   * cite17†同志婚礼 L24:   * cite18†超级碗之后（上） L25:   * cite19†超级碗之后（下） L26:   * cite20†高中舞会录影带 L27:   * cite21†罗斯和瑞秋。。。你知道的 L28:   * cite22†乔伊搬走了 L29:   * cite23†艾迪搬入 L30:   * cite24†拉莫瑞医生之死 L31:   * cite25†艾迪赖着不走 L32:   * cite26†猎狗之死 L33:   * cite27† 两个小流氓 L34:   * cite28†两个聚会 L35:   * cite29†出水痘 L36:   * cite30†巴利和明蒂的婚礼 L37: 
+L38: cite31†老友记 第三季 L39: cite32†老友记 第四季 L40: 
+L41: cite33†老友记 第五季 L42: 
+L43: cite34†老友记 第六季 L44: 
+L45: cite35†老友记 第七季 L46: 
+L47: cite36†老友记 第八季 L48: 
+L49: cite37†老友记 第九季 L50: 
+L51: cite38†老友记 第十季 L52: # 老友记 第二季 第三集
+L53: 
+L54: ## FriendsS02E03
+L55: 
+L56: ##### Part1
+L57: 
+L58: ##### July 9, 2019, 1:49 p.m.
+L59: 
+L60: 欢迎光临
+L61: 
+L62: # Friends Season 2 Episode 3: The one Where Mr Heckles Dies.
+L63: # 老友记第2季第3集: 海先生之死。
+L64: Chandler: Hey. - All: Hey!
+L65: 嗨。-嗨。
+L66: Monica: So how was Joan?
+L67: 琼安怎么样？
+L68: Chandler: I broke up with her.
+L69: 跟她分手了。
+L70: All: Oh, Why?
+L71: 哦，为什么啊？
+L72: Ross: Don't tell me, 'cause of the big nostril thing?
+L73: 别告诉我是因为鼻孔太大？
+L74: Chandler: They were huge. When she sneezed, bats flew out of them.
+L75: 真的超大！她打喷嚏时，会有蝙蝠飞出来。
+L76: Rachel: Oh come on, they were not that huge.
+L77: 拜托，没那么大。
+L78: Chandler: I'm telling you, she leaned back; I could see her brain.
+L79: 我给你们说啊，当她仰起头时，我都可以看到她的脑子了。
+L80: Monica: How many perfectly fine women are you gonna reject over the most superficial insignificant things?
+L81: 你到底要拒绝多少好女孩…只是因为非常肤浅的事情？
+L82: Joey: Hold it, hold it. I gotta side with Chandler on this one.
+L83: 慢着慢着，我这次必须帮钱德说话。
+L84: Joey: When I first moved to the city, I went out a couple of times with this girl, really hot, great kisser, but she had the biggest Adam's apple. Drove me nuts.
+L85: 我刚搬到这里时，与一个女孩交往非常性感，很会接吻…但是她的喉结非常大粒！真是让我受不了。
+L86: Chandler: You or me?
+L87: 你说还是我说？
+L88: Ross: I got it. Uh, Joey, women don't have Adam's apples.
+L89: 我明白了。呃，乔伊，女人没有喉结。
+L90: Joey: You guys are messing with me, right?
+L91: 你们是在骗我玩，对不对？
+L92: All: Yeah.
+L93: 对，我们在骗你！
+L94: Joey: That was a good one. For a second there, I was like, "whoa."
+L95: 这招不错。我差点要上当了。
+L96: Phoebe: So, you name one woman that you broke up with for a actual real reason.
+L97: 你与哪个女友分手，是因为正当的理由？
+L98: Chandler: Maureen Rosilla.
+L99: 莫琳罗西洛。
+L100: Ross:"'Cause she doesn't hate Yanni," is not a real reason.
+L101: 因为她不讨厌音乐家雅尼，这不是个正当的理由。
+L102: Monica: Hello, Mr. Heckles.
+L103: 嗨，哈克先生。
+L104: Mr. Heckles: You're doing it again.
+L105: 你们又来了。
+L106: Monica: We're not doing anything.
+L107: 我们什么都没做。
+L108: Mr. Heckles: You're stomping. It's disturbing my birds.
+L109: 你们脚步声太响，吓到了我的鸟儿。
+L110: Rachel: You don't have birds.
+L111: 你没有养鸟。
+L112: Mr. Heckles: I could have birds.
+L113: 我本可以养鸟的。
+L114: Monica: OK, Mr. Heckles, we'll try to keep it down.
+L115: 我们会小声一点。
+L116: Mr. Heckles: Thank you. I'm going to rejoin my dinner party.
+L117: 谢谢，我要回去继续我的晚宴了。
+L118: Rachel: All right, bye-bye.
+L119: 好，再见。
+L120: Chandler: OK, Janice. Janice. You gotta give me Janice. That wasn't about being picky.
+L121: 对了，珍妮丝珍妮丝可以证明，我并没有乱挑剔。
+L122: Ross: We'll give you Janice.
+L123: 我们同意你与珍妮丝分手。
+L124: Phoebe: I miss Janice though. "Hello, Chandler Bing."
+L125: 但我蛮想珍妮丝的嗨，钱德宾！
+L126: Rachel: "Oh, my, God."
+L127: 喔，我的天！
+L128: Joey: "Oh, Chandler, now, yeah, that's it. There, faster!"
+L129: 喔，钱德！现在就要！对了对了！快一点！
+L130: Monica: Stop with the broom, we're not making noise.
+L131: 别用扫把了！我们没有制造噪音！
+L132: Rachel: We won. We won!
+L133: 我们赢了！我们胜利了！
+L134: Monica: Mr. Heckles.
+L135: 哈克先生！
+L136: Rachel: How did this happen?
+L137: 怎么发生的？
+L138: Mr. Treeger: He musta been sweeping. They found a broom in his hand.
+L139: 他大概在扫地，他们发现他抓着一把扫把。
+L140: All: Oh, dear God.
+L141: 天哪。
+L142: Monica: That's terrible.
+L143: 真糟糕。
+L144: Mr. Treeger: I know. I was sweeping yesterday. It could've been me.
+L145: 我知道昨天我也在扫地，本可能是我中枪的。
+L146: All: Sure. Sure.
+L147: 是啊。
+L148: Ross: Sweeping. You never know.
+L149: 扫地，真是没想到。
+L150: Mr. Treeger: You never know.
+L151: 世事难料。
+L152: Phoebe: OK, it's very faint, but I can still sense him in the building. Go into the light, Mr. Heckles!
+L153: 很微弱，但我还可以感觉他在大楼里。进入光芒中，哈克先生！
+L154: Chandler: OK, Phoebe.
+L155: 好了，菲比。
+L156: Phoebe: I'm sorry, but sometimes they need help. That's fine. Go ahead and scoff. You know there're a lot of things outa there that I don't believe in, but that doesn't mean they're not true.
+L157: 对不起，有时候他们需要帮助。又来了很好，嘲笑我吧。我不相信很多事情…但这不表示就不是真的。
+L158: Joey: Such as?
+L159: 譬如什么事？
+L160: Phoebe: Like crop circles, or the Bermuda triangle, or evolution?
+L161: 像是麦田怪圈或百慕大三角或进化论？
+L162: Ross: Whoa, whoa, whoa. What, you don't, uh, you don't believe in evolution?
+L163: 你不相信进化论？
+L164: Phoebe: Nah. Not really.
+L165: 不怎么相信。
+L166: Ross: You don't believe in evolution?
+L167: 你不相信进化论？
+L168: Phoebe: I don't know, it's just, you know...monkeys, Darwin, you know, it's a, it's a nice story, I just think it's a little too easy.
+L169: 我不知道，只是…猴子，达尔文，很好的故事，我只是觉得有点太简单。
+L170: Ross: Too easy? Too...The process of every living thing on this planet evolving over millions of years from single-celled organisms, is-is too easy?
+L171: 太简单？太…这个星球上的一切生物，经过数千万年…从单细胞微生物进化而成，而你说太简单？
+L172: Phoebe: Yeah, I just don't buy it.
+L173: 对，我不买账。
+L174: Ross: Uh, excuse me. Evolution is not for you to buy, Phoebe. Evolution is scientific fact, like, like, like the air we breathe, like gravity.
+L175: 对不起。进化论不是信不信由你，菲比进化论是科学事实，就像我们呼吸的空气…就像地心引力。
+L176: Phoebe: OK, don't get me started on gravity.
+L177: 别跟我提起地心引力。
+L178: Ross: You uh, you don't believe in gravity?
+L179: 你不相信地心引力？
+L180: Phoebe: Well, it's not so much that you know, like I don't believe in it, you know, it's just...I don't know, lately I get the feeling that I'm not so much being pulled down as I am being pushed.
+L181: 倒不是相不相信的问题。最近我感觉到…我不是被吸住，而是被压着被压着…
+L182: Chandler: Uh-oh. It's Isaac Newton, and he's pissed.
+L183: 那一定是伊萨克·牛顿生气了。
+L184: Mr. Treeger: There she is. And over there, that's the other one. This is Mr. Buddy Boyle, Heckles' attorney. He'd like to talk to you.
+L185: 她在这，那里还有另一个。这是伯弟杜尔，哈克的律师他想跟你们谈谈。
+L186: Monica: What can we do for you?
+L187: 有何贵干？
+L188: Mr. Boyle: All right, kids. Here's the deal. According to my client's will, he wants to leave all his earthly possessions to "The noisy girls in the apartment above mine."
+L189: 好了，孩子们。事情是这样的，根据我客户的遗嘱…他要把他所有财产…都留给楼上吵闹的女孩们。
+L190: Monica: Well, what about his family?
+L191: 他的家人呢？
+L192: Mr. Boyle: He didn't have any.
+L193: 他没有家人。
+L194: Rachel: OK, so let's talk money.
+L195: 好，让我们看看有多少钱。
+L196: Mr. Boyle: All right, there was none. Now, let's talk signing. You be noisy girl number one, you be noisy girl number two.
+L197: 好，没有半毛钱。现在，我们来签字，你是一号吵闹女孩，你是二号吵闹女孩。
+L198: Monica: I can't believe that this whole time we thought he hated us. I mean, isn't it amazing how much you can touch someone's life, without even knowing it?
+L199: 我真不相信，我们一直以为他讨厌我们。真是不可思议，我们能如此感动其他人…而自己却不知道？
+L200: Monica: Would you look at this dump? He hated us. This is his final revenge!
+L201: 看看这个猪窝？！他痛恨我们！这是他最终的报复！
+L202: Rachel: Have you ever seen so much crap?
+L203: 我从来没看过这么多废物！
+L204: Chandler: Actually, I think this apartment sullies the good name of crap.
+L205: 我觉得这间公寓，侮辱了废物的美名。
+L206: Joey: Check this out. Can I have this?
+L207: 看看这个，这个能给我吗？
+L208: Ross: How can you not believe in evolution?
+L209: 你怎么能不相信进化论？
+L210: Phoebe: I don't know, just don't. Look at this funky shirt!
+L211: 注释：funky：时髦的，俗气的。
+L212: 我不知道，就是不相信。看看这条俗气的衬衫！
+L213: Ross: Pheebs, I have studied evolution my entire adult life.
+L214: 菲比，我整个成年都在研究进化论。
+L215: Ross: Ok, and I can tell you, we have collected fossils from all over the world that actually show the evolution of different species, OK? You can-can literally see them evolving through time.
+L216: 我们从世界各地搜集化石，能够证明不同物种的进化论。我是说，你可以真正看到它们…透过时间进化。
+L217: Phoebe: Really? You can actually see it?
+L218: 真的？可以看得到？
+L219: Ross: You bet. In the U.S. , China, Africa, all over.
+L220: 千真万确！在美国，中国，非洲，全世界！
+L221: Phoebe: See, I didn't know that.
+L222: 这我不知道。
+L223: Ross: Well, there you go.
+L224: 这就是吧。
+L225: Phoebe: Huh. So now, the real question is, who put those fossils there, and why?
+L226: 问题是，谁把化石放在那里？为什么？
+L227: # 老友记.本章节注释
+L228: 
+L229: 注释：funky：时髦的，俗气的。
+L230: 
+L231:   * cite39†上一页 L232:   * cite8†下一页 L233: 
+L234: cite40† 点击下载《老友记》DOCX  cite41† 点击下载《老友记》PDF  L235: 
+L236: ##### 剧集剧本热词
+L237: 
+L238: cite4†老友记 Friends L239: cite42†斯科塞斯先生（2025） Mr. Scorsese L240: cite43†野性生灵（2025） The Wild Ones L241: cite44†失序边缘（2025） The Last Frontier L242: cite45†小丑回魂：欢迎来到德里镇（2025） IT: Welcome to Derry L243: cite46†生而狂野（2025） Born To Be Wild L244: cite47†黑兔（2025） Black Rabbit L245: cite48†健力士王朝（2025） House of Guinness L246: cite49†星球大战：黑市传说（2025） Star Wars: Tales of the Underworld L247: cite50†斯巴达克斯：亚述家族（2025） Spartacus: House Of Ashur L248: ##### 电影剧本热词
+L249: 
+L250: cite51†猎杀游戏（2025） The Running Man L251: cite52†惊天魔盗团3（2025） Now You See Me: Now You Don't L252: cite53†利刃出鞘3（2025） Wake Up Dead Man: A Knives Out Mystery L253: cite54†纽伦堡（2025） Nuremberg L254: cite55†屋顶人（2025） Roofman L255: cite56†限时营救（2025） Wildcat L256: cite57†异星迷航（2025） The Astronaut L257: cite58†影星杰·凯利（2025） Jay Kelly L258: cite59†家庭计划2（2025） The Family Plan 2 L259: cite60†周年纪念日（2025） Anniversary L260: 
+L261: * * *
+L262: 
+L263: © 2019, 中英文剧本站  联系我们
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn29view2 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/80/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/80/: (502) Bad Gateway
+--------------------------------------------------------------------------------
+Internal Error ()
+citeturn29view3 [wordlim: 200] Source: open({"ref_id":"https://www.jubenz.com/friends/81/","lineno":null}); Total lines: 1
+L0: Failed to fetch https://www.jubenz.com/friends/81/: (502) Bad Gateway

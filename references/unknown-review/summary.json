@@ -1,0 +1,320 @@
+{
+  "reviewed_unknown": 165,
+  "resolved": 42,
+  "remaining_unknown": 123,
+  "changed_transcripts": 30,
+  "baseline": "a9f3273",
+  "body_integrity": "逐行字节比较：仅 Unknown 前缀改变，冒号后正文与换行字节完全不变；全部227台词文件核查。",
+  "seasons": {
+    "S01": {
+      "resolved": 0,
+      "remaining_unknown": 5,
+      "files": []
+    },
+    "S02": {
+      "resolved": 18,
+      "remaining_unknown": 67,
+      "files": [
+        "S02/FriendsS02E01.txt",
+        "S02/FriendsS02E02.txt",
+        "S02/FriendsS02E03.txt",
+        "S02/FriendsS02E05.txt",
+        "S02/FriendsS02E06.txt",
+        "S02/FriendsS02E07.txt",
+        "S02/FriendsS02E08.txt",
+        "S02/FriendsS02E11.txt",
+        "S02/FriendsS02E13.txt",
+        "S02/FriendsS02E20.txt",
+        "S02/FriendsS02E24.txt"
+      ]
+    },
+    "S03": {
+      "resolved": 3,
+      "remaining_unknown": 13,
+      "files": [
+        "S03/FriendsS03E17.txt",
+        "S03/FriendsS03E18.txt",
+        "S03/FriendsS03E22.txt"
+      ]
+    },
+    "S04": {
+      "resolved": 0,
+      "remaining_unknown": 6,
+      "files": []
+    },
+    "S05": {
+      "resolved": 9,
+      "remaining_unknown": 11,
+      "files": [
+        "S05/FriendsS05E02.txt",
+        "S05/FriendsS05E03.txt",
+        "S05/FriendsS05E09.txt",
+        "S05/FriendsS05E19.txt",
+        "S05/FriendsS05E22.txt"
+      ]
+    },
+    "S06": {
+      "resolved": 4,
+      "remaining_unknown": 4,
+      "files": [
+        "S06/FriendsS06E09.txt",
+        "S06/FriendsS06E18.txt",
+        "S06/FriendsS06E21.txt",
+        "S06/FriendsS06E24.txt"
+      ]
+    },
+    "S07": {
+      "resolved": 0,
+      "remaining_unknown": 1,
+      "files": []
+    },
+    "S08": {
+      "resolved": 4,
+      "remaining_unknown": 11,
+      "files": [
+        "S08/FriendsS08E06.txt",
+        "S08/FriendsS08E08.txt",
+        "S08/FriendsS08E15.txt"
+      ]
+    },
+    "S09": {
+      "resolved": 3,
+      "remaining_unknown": 2,
+      "files": [
+        "S09/FriendsS09E05.txt",
+        "S09/FriendsS09E08.txt",
+        "S09/FriendsS09E11.txt"
+      ]
+    },
+    "S10": {
+      "resolved": 1,
+      "remaining_unknown": 3,
+      "files": [
+        "S10/FriendsS10E11.txt"
+      ]
+    }
+  },
+  "changes": [
+    {
+      "file": "S02/FriendsS02E01.txt",
+      "line": 36,
+      "role": "All"
+    },
+    {
+      "file": "S02/FriendsS02E01.txt",
+      "line": 42,
+      "role": "Chandler"
+    },
+    {
+      "file": "S02/FriendsS02E01.txt",
+      "line": 69,
+      "role": "Ross"
+    },
+    {
+      "file": "S02/FriendsS02E02.txt",
+      "line": 29,
+      "role": "Rachel"
+    },
+    {
+      "file": "S02/FriendsS02E03.txt",
+      "line": 9,
+      "role": "All"
+    },
+    {
+      "file": "S02/FriendsS02E03.txt",
+      "line": 49,
+      "role": "All"
+    },
+    {
+      "file": "S02/FriendsS02E05.txt",
+      "line": 65,
+      "role": "All"
+    },
+    {
+      "file": "S02/FriendsS02E05.txt",
+      "line": 66,
+      "role": "Rachel"
+    },
+    {
+      "file": "S02/FriendsS02E05.txt",
+      "line": 148,
+      "role": "All"
+    },
+    {
+      "file": "S02/FriendsS02E06.txt",
+      "line": 166,
+      "role": "Monica"
+    },
+    {
+      "file": "S02/FriendsS02E07.txt",
+      "line": 21,
+      "role": "Monica"
+    },
+    {
+      "file": "S02/FriendsS02E08.txt",
+      "line": 198,
+      "role": "Monica"
+    },
+    {
+      "file": "S02/FriendsS02E08.txt",
+      "line": 255,
+      "role": "Monica"
+    },
+    {
+      "file": "S02/FriendsS02E11.txt",
+      "line": 50,
+      "role": "Joey"
+    },
+    {
+      "file": "S02/FriendsS02E11.txt",
+      "line": 153,
+      "role": "Phoebe"
+    },
+    {
+      "file": "S02/FriendsS02E13.txt",
+      "line": 106,
+      "role": "All"
+    },
+    {
+      "file": "S02/FriendsS02E20.txt",
+      "line": 339,
+      "role": "Ben"
+    },
+    {
+      "file": "S02/FriendsS02E24.txt",
+      "line": 178,
+      "role": "Ross"
+    },
+    {
+      "file": "S03/FriendsS03E17.txt",
+      "line": 149,
+      "role": "Monica"
+    },
+    {
+      "file": "S03/FriendsS03E18.txt",
+      "line": 117,
+      "role": "Monica"
+    },
+    {
+      "file": "S03/FriendsS03E22.txt",
+      "line": 210,
+      "role": "Monica"
+    },
+    {
+      "file": "S05/FriendsS05E02.txt",
+      "line": 115,
+      "role": "Chandler/Joey"
+    },
+    {
+      "file": "S05/FriendsS05E03.txt",
+      "line": 53,
+      "role": "Frank/All"
+    },
+    {
+      "file": "S05/FriendsS05E03.txt",
+      "line": 135,
+      "role": "Chandler"
+    },
+    {
+      "file": "S05/FriendsS05E03.txt",
+      "line": 233,
+      "role": "All"
+    },
+    {
+      "file": "S05/FriendsS05E09.txt",
+      "line": 18,
+      "role": "Chandler"
+    },
+    {
+      "file": "S05/FriendsS05E19.txt",
+      "line": 10,
+      "role": "Ross"
+    },
+    {
+      "file": "S05/FriendsS05E19.txt",
+      "line": 141,
+      "role": "Phoebe"
+    },
+    {
+      "file": "S05/FriendsS05E22.txt",
+      "line": 45,
+      "role": "Chandler"
+    },
+    {
+      "file": "S05/FriendsS05E22.txt",
+      "line": 139,
+      "role": "Rachel"
+    },
+    {
+      "file": "S06/FriendsS06E09.txt",
+      "line": 72,
+      "role": "Rachel"
+    },
+    {
+      "file": "S06/FriendsS06E18.txt",
+      "line": 26,
+      "role": "Chandler"
+    },
+    {
+      "file": "S06/FriendsS06E21.txt",
+      "line": 201,
+      "role": "Rachel"
+    },
+    {
+      "file": "S06/FriendsS06E24.txt",
+      "line": 243,
+      "role": "Chandler"
+    },
+    {
+      "file": "S08/FriendsS08E06.txt",
+      "line": 172,
+      "role": "Mona"
+    },
+    {
+      "file": "S08/FriendsS08E08.txt",
+      "line": 164,
+      "role": "Ross"
+    },
+    {
+      "file": "S08/FriendsS08E15.txt",
+      "line": 227,
+      "role": "Monica"
+    },
+    {
+      "file": "S08/FriendsS08E15.txt",
+      "line": 283,
+      "role": "Joey"
+    },
+    {
+      "file": "S09/FriendsS09E05.txt",
+      "line": 56,
+      "role": "Monica"
+    },
+    {
+      "file": "S09/FriendsS09E08.txt",
+      "line": 42,
+      "role": "Rachel"
+    },
+    {
+      "file": "S09/FriendsS09E11.txt",
+      "line": 249,
+      "role": "Ross"
+    },
+    {
+      "file": "S10/FriendsS10E11.txt",
+      "line": 137,
+      "role": "Joey"
+    }
+  ],
+  "commits": [
+    "38a986c 核实 S06 Unknown 并补全 4 条角色名",
+    "e89485d 补充核实 S09 两条短应答角色名",
+    "0d849c4 核实 S08 Unknown 并补全 4 条角色名",
+    "b21d717 核实 S05 Unknown 并补全 9 条角色名",
+    "d5d5156 核实 S03 Unknown 并补全 3 条角色名",
+    "78d91ba 继续核实 S02 Unknown 并补全 18 条角色名",
+    "e8c6593 核实 S10 剩余 Unknown 角色名",
+    "b6c4468 核实 S09 剩余 Unknown 角色名"
+  ],
+  "note": "各季校对记录与新增参考保留本地未提交，README既有修改未处理；无足够新依据的S01/S04/S07未生成空提交。"
+}
